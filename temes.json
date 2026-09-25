@@ -1,8 +1,3519 @@
 {
  "titol": "Opo A2-02-09",
- "versio": "b39b598fb3",
+ "versio": "90cc4a1076",
  "veu": "edge|ca-ES-JoanaNeural|+0%",
  "temes": [
+  {
+   "id": "tema-01-l-academia-valenciana-de-la-llengua-legisl",
+   "titol": "Presentació i orientació del tema",
+   "fitxer": "Tema 01 - L'Acadèmia Valenciana de la Llengua. Legislació i acords normatius_bo.docx",
+   "seccions": [
+    {
+     "titol": "Introducció",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-01-9d693f6e302b6582.mp3",
+     "durada": 543.1,
+     "text": [
+      {
+       "n": 3,
+       "t": "TEMARI D’OPOSICIÓ · CONVOCATÒRIA 35/26"
+      },
+      {
+       "n": 0,
+       "t": "Cos tècnic facultatiu A2-02 · Escala tècnica facultativa de promoció lingüística (A2-02-09)"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 1"
+      },
+      {
+       "n": 3,
+       "t": "L’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "Legislació i acords normatius"
+      },
+      {
+       "n": 0,
+       "t": "FONTS PRIMÀRIES DEL TEMA Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua Dictamen del Consell Valencià de Cultura sobre la llengua, de 13 de juliol de 1998 Llei orgànica 1/2006, de 10 d’abril, de reforma de l’Estatut d’autonomia de la Comunitat Valenciana (arts. 6.8, 20.3, 41 i 44.5) Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’AVL Llei 12/2017, de 2 de novembre, de la Generalitat, de modificació de les lleis reguladores de les institucions de la Generalitat per a garantir la igualtat entre dones i homes en els seus òrgans Acords normatius de l’AVL: 25.03.2002, 20.05.2002, 1/2005 (09.02.2005), 31/2018 (01.06.2018) i 22/2021 (04.06.2021) www.avl.gva.es — apartats «Legislació», «Acords» i «Documents normatius»"
+      },
+      {
+       "n": 3,
+       "t": "ÍNDEX"
+      },
+      {
+       "n": 3,
+       "t": "1.  Presentació i orientació del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.1.  Què cal saber d’aquest tema"
+      },
+      {
+       "n": 0,
+       "t": "1.2.  Mapa conceptual"
+      },
+      {
+       "n": 3,
+       "t": "2.  Antecedents: del conflicte lingüístic a l’ens de referència normativa"
+      },
+      {
+       "n": 0,
+       "t": "2.1.  Les Normes de Castelló (1932) com a punt de partida"
+      },
+      {
+       "n": 0,
+       "t": "2.2.  L’Estatut d’autonomia de 1982 i la Llei d’ús i ensenyament del valencià de 1983: dues llacunes"
+      },
+      {
+       "n": 0,
+       "t": "2.3.  El Dictamen del Consell Valencià de Cultura de 13 de juliol de 1998"
+      },
+      {
+       "n": 0,
+       "t": "2.4.  L’ens de referència normativa proposat pel CVC"
+      },
+      {
+       "n": 3,
+       "t": "3.  La Llei 7/1998, de creació de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "3.1.  Tramitació, aprovació i estructura"
+      },
+      {
+       "n": 0,
+       "t": "3.2.  Naturalesa jurídica, funció i principis inspiradors (arts. 1-6)"
+      },
+      {
+       "n": 0,
+       "t": "3.3.  L’eficàcia vinculant de les decisions (art. 5)"
+      },
+      {
+       "n": 0,
+       "t": "3.4.  Les competències de l’AVL (art. 7)"
+      },
+      {
+       "n": 0,
+       "t": "3.5.  La consulta preceptiva del Consell (art. 8)"
+      },
+      {
+       "n": 0,
+       "t": "3.6.  Seccions, comissions i relacions externes (art. 9)"
+      },
+      {
+       "n": 0,
+       "t": "3.7.  Els acadèmics: requisits, incompatibilitats i cessament (arts. 10, 12, 13 i 14)"
+      },
+      {
+       "n": 0,
+       "t": "3.8.  Elecció i renovació dels acadèmics (art. 11)"
+      },
+      {
+       "n": 0,
+       "t": "3.9.  Els òrgans de govern (arts. 15-23)"
+      },
+      {
+       "n": 0,
+       "t": "3.10.  Funcionament: convocatòries, quòrums i majories (arts. 24-31)"
+      },
+      {
+       "n": 0,
+       "t": "3.11.  Publicitat dels acords (art. 26)"
+      },
+      {
+       "n": 0,
+       "t": "3.12.  Personal, règim patrimonial i econòmic (arts. 32-35)"
+      },
+      {
+       "n": 0,
+       "t": "3.13.  Disposicions transitòries i finals"
+      },
+      {
+       "n": 3,
+       "t": "4.  La consagració estatutària de l’AVL: la Llei orgànica 1/2006"
+      },
+      {
+       "n": 0,
+       "t": "4.1.  Article 6.8: la institució normativa de l’idioma valencià"
+      },
+      {
+       "n": 0,
+       "t": "4.2.  Article 20.3: l’AVL com a institució de la Generalitat"
+      },
+      {
+       "n": 0,
+       "t": "4.3.  Article 41: funció i obligatorietat de la normativa"
+      },
+      {
+       "n": 0,
+       "t": "4.4.  Article 44.5: la reserva de majoria de tres cinquenes parts"
+      },
+      {
+       "n": 0,
+       "t": "4.5.  Conseqüències jurídiques de l’estatutarització"
+      },
+      {
+       "n": 3,
+       "t": "5.  El Reglament de l’AVL: Decret 158/2002"
+      },
+      {
+       "n": 0,
+       "t": "5.1.  Fonament, tramitació i estructura"
+      },
+      {
+       "n": 0,
+       "t": "5.2.  Novetats i concrecions respecte de la Llei"
+      },
+      {
+       "n": 0,
+       "t": "5.3.  El procediment de renovació i de cobertura de vacants (arts. 11-17)"
+      },
+      {
+       "n": 0,
+       "t": "5.4.  Drets, deures i règim econòmic dels acadèmics (arts. 18-24)"
+      },
+      {
+       "n": 0,
+       "t": "5.5.  Els òrgans de treball: seccions i comissions (arts. 45-52)"
+      },
+      {
+       "n": 0,
+       "t": "5.6.  Organització administrativa i personal (arts. 73-80)"
+      },
+      {
+       "n": 0,
+       "t": "5.7.  Reforma del Reglament i normes internes de procediment"
+      },
+      {
+       "n": 3,
+       "t": "6.  Altres normes que afecten el règim jurídic de l’AVL"
+      },
+      {
+       "n": 3,
+       "t": "7.  Els acords de l’AVL: tipologia, procediment i publicitat"
+      },
+      {
+       "n": 3,
+       "t": "8.  Els acords normatius de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "8.1.  Acord de 25 de març del 2002: el referent normatiu oficial del valencià"
+      },
+      {
+       "n": 0,
+       "t": "8.2.  Acord de 20 de maig del 2002: refosa i ampliació del referent normatiu"
+      },
+      {
+       "n": 0,
+       "t": "8.3.  Acord 1/2005: Dictamen sobre la denominació i l’entitat del valencià"
+      },
+      {
+       "n": 0,
+       "t": "8.4.  Acord 31/2018: convencions ortogràfiques"
+      },
+      {
+       "n": 0,
+       "t": "8.5.  Acord 22/2021: resolució de les qüestions pendents"
+      },
+      {
+       "n": 0,
+       "t": "8.6.  Quadre comparatiu dels cinc acords normatius"
+      },
+      {
+       "n": 3,
+       "t": "9.  Les obres normatives derivades dels acords"
+      },
+      {
+       "n": 3,
+       "t": "10.  Acords no normatius, declaracions institucionals i informes"
+      },
+      {
+       "n": 3,
+       "t": "11.  L’AVL en l’actualitat (2016-2026)"
+      },
+      {
+       "n": 0,
+       "t": "11.1.  Les renovacions per terços de 2016, 2021 i 2026"
+      },
+      {
+       "n": 0,
+       "t": "11.2.  La Junta de Govern elegida el 2026"
+      },
+      {
+       "n": 0,
+       "t": "11.3.  El conflicte pressupostari del 2025"
+      },
+      {
+       "n": 0,
+       "t": "11.4.  L’informe sobre la denominació oficial del municipi de València (Acord 10/2026)"
+      },
+      {
+       "n": 3,
+       "t": "12.  Síntesi: dades, dates i preceptes de memorització obligatòria"
+      },
+      {
+       "n": 3,
+       "t": "13.  Per a ampliar"
+      },
+      {
+       "n": 3,
+       "t": "14.  Bibliografia i fonts"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 1"
+      }
+     ]
+    },
+    {
+     "titol": "Presentació i orientació del tema",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-02-031433f1effcde2b.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Presentació i orientació del tema"
+      }
+     ]
+    },
+    {
+     "titol": "1.1. Què cal saber d’aquest tema",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-03-6e43a6606a80c8a3.mp3",
+     "durada": 202.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.1. Què cal saber d’aquest tema"
+      },
+      {
+       "n": 0,
+       "t": "L’enunciat oficial del tema —L’Acadèmia Valenciana de la Llengua. Legislació i acords normatius— delimita dos blocs de contingut estretament lligats, però conceptualment distints, que convé no confondre."
+      },
+      {
+       "n": 0,
+       "t": "El primer bloc, la legislació, comprèn el conjunt de normes jurídiques que creen la institució, en fixen la naturalesa, les competències, la composició i el funcionament, i n’asseguren la posició dins l’arquitectura institucional valenciana. Es tracta, fonamentalment, de la Llei 7/1998, de 16 de setembre, de creació de l’AVL; del Decret 158/2002, de 17 de setembre, pel qual s’aprova el Reglament de la institució, i dels preceptes de l’Estatut d’autonomia de la Comunitat Valenciana en la redacció que li va donar la Llei orgànica 1/2006, de 10 d’abril. A aquest nucli cal afegir-hi el Dictamen del Consell Valencià de Cultura de 13 de juliol de 1998, que no és pròpiament una norma però que la Llei 7/1998 incorpora al preàmbul i converteix, per remissió expressa de l’article 4, en el marc de principis que ha d’inspirar l’actuació de l’Acadèmia."
+      },
+      {
+       "n": 0,
+       "t": "El segon bloc, els acords normatius, comprèn els pronunciaments del Ple de l’AVL que, en exercici de la competència de l’article 7.a de la Llei de creació, determinen la normativa oficial del valencià. En són cinc: els dos acords del 2002 sobre el referent normatiu, el Dictamen del 2005 sobre la denominació i l’entitat del valencià, l’Acord 31/2018 sobre convencions ortogràfiques i l’Acord 22/2021 que en resol les qüestions pendents. D’aquests acords deriven, al seu torn, les obres normatives de la institució: la Gramàtica normativa valenciana, el Diccionari normatiu valencià, la Gramàtica valenciana bàsica i la resta de textos de referència."
+      },
+      {
+       "n": 0,
+       "t": "Un tercer element, que l’enunciat no menciona però que els tribunals solen valorar, és el règim d’eficàcia dels pronunciaments de l’AVL: qui està obligat a observar-los, amb quin fonament i amb quines conseqüències. Aquesta qüestió es tracta en els apartats 3.3 i 4."
+      },
+      {
+       "n": 0,
+       "t": "ADVERTIMENT METODOLÒGIC Els textos legals i els acords de l’AVL es reprodueixen ací en la seua redacció original. Això explica que en les citacions literals apareguen formes com este, servici, orde, establix o hui, pròpies del model de llengua de l’AVL, mentre que la redacció d’aquest tema segueix el model de les universitats valencianes (aquest, servei, ordre, estableix, avui). La distinció és rellevant: en un examen, la citació literal d’una norma s’ha de respectar; la redacció pròpia, no."
+      }
+     ]
+    },
+    {
+     "titol": "1.2. Mapa conceptual del tema",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-04-af0e3b887c5c910d.mp3",
+     "durada": 214.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.2. Mapa conceptual del tema"
+      },
+      {
+       "n": 0,
+       "t": "L’esquema següent ordena la matèria en cinc nivells de concreció descendent, des de la norma de rang superior fins als productes normatius concrets. Retindre’l facilita situar qualsevol pregunta de test en el lloc que li correspon."
+      },
+      {
+       "n": 0,
+       "t": "Nivell. Instrument. Contingut essencial"
+      },
+      {
+       "n": 0,
+       "t": "1. Estatutari. LO 1/2006 (arts. 6.8, 20.3, 41 i 44.5). L’AVL és la institució normativa de l’idioma valencià i una institució de la Generalitat; la seua normativa és d’aplicació obligatòria a totes les administracions públiques valencianes."
+      },
+      {
+       "n": 0,
+       "t": "2. Legal. Llei 7/1998, de 16 de setembre. Creació, naturalesa, competències, composició, òrgans, funcionament i règim econòmic."
+      },
+      {
+       "n": 0,
+       "t": "2 bis. Legal modificatiu. Llei 12/2017, de 2 de novembre. Introdueix el mandat de composició equilibrada de dones i homes en les renovacions."
+      },
+      {
+       "n": 0,
+       "t": "3. Reglamentari. Decret 158/2002, de 17 de setembre. Desplegament orgànic i procedimental: renovacions, drets i deures, seccions, sessions, votacions, unitats administratives."
+      },
+      {
+       "n": 0,
+       "t": "4. Acords normatius. Ple de l’AVL (2002, 2002, 2005, 2018, 2021). Determinació del referent normatiu, fixació de la denominació i l’entitat de la llengua i modificació de convencions ortogràfiques."
+      },
+      {
+       "n": 0,
+       "t": "5. Obres normatives. DOPV, GNV, DNV, GVB, NTV. Concreció codificada de la doctrina normativa: ortografia, gramàtica, lèxic i toponímia."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LES CINC DATES QUE NO ES PODEN FALLAR 1932 — Normes de Castelló: base de la normativització consolidada a què remeten la Llei i tots els acords. 13 de juliol de 1998 — Dictamen del Consell Valencià de Cultura, incorporat al preàmbul de la Llei 7/1998. 16 de setembre de 1998 — Llei 7/1998, de creació de l’AVL. 23 de juliol de 2001 — constitució efectiva de l’Acadèmia, després de l’elecció dels vint-i-un acadèmics per les Corts Valencianes. 10 d’abril de 2006 — Llei orgànica 1/2006, que incorpora l’AVL a l’Estatut d’autonomia."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 2"
+      }
+     ]
+    },
+    {
+     "titol": "Antecedents: del conflicte lingüístic a l’ens de referència normativa",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-05-89fe3cae8c7fdbe4.mp3",
+     "durada": 37.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Antecedents: del conflicte lingüístic a l’ens de referència normativa"
+      },
+      {
+       "n": 0,
+       "t": "L’Acadèmia Valenciana de la Llengua no naix d’un impuls acadèmic espontani, sinó com a resposta institucional a un conflicte sociolingüístic prolongat. Comprendre’n els antecedents és imprescindible perquè la mateixa Llei de creació els converteix en dret positiu: el preàmbul reprodueix íntegrament la part dispositiva del Dictamen del Consell Valencià de Cultura i l’article 4 hi remet com a font dels principis d’actuació de la institució."
+      }
+     ]
+    },
+    {
+     "titol": "2.1. Les Normes de Castelló (1932) com a punt de partida",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-06-d0a2dc1377aa410a.mp3",
+     "durada": 112.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.1. Les Normes de Castelló (1932) com a punt de partida"
+      },
+      {
+       "n": 0,
+       "t": "El 21 de desembre de 1932 se signaren a Castelló de la Plana les Bases per a la unificació de l’ortografia valenciana, conegudes com a Normes de Castelló. Van ser subscrites per entitats culturals, editorials i escriptors de tendències diverses i van constituir el primer acord ortogràfic àmpliament acceptat per als usos escrits del valencià."
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen del Consell Valencià de Cultura de 1998 en fa una valoració que després passa literalment a la Llei 7/1998: les Normes de Castelló són «un fet històric que constituïren i constitueixen un consens necessari», han estat «el punt de partida, compartit pels valencians, per a la normativització consolidada de la nostra llengua pròpia» i són «un patrimoni lingüístic a preservar i a enriquir». Aquesta caracterització no és retòrica: l’article 3 de la Llei ordena que l’AVL partisca de «la normativització consolidada, a partir de les denominades Normes de Castelló», de manera que el text de 1932 esdevé un límit i una directriu per a l’actuació normativa de l’Acadèmia."
+      },
+      {
+       "n": 0,
+       "t": "Convé recordar, a més, que les mateixes Normes en preveien la mateixa revisió: els signants les concebien com un punt de partida susceptible de ser «rectificat i millorat» a base d’«amples acords». L’AVL invoca expressament aquest esperit en el preàmbul del Dictamen del 2005 i, indirectament, en els acords ortogràfics de 2018 i 2021."
+      }
+     ]
+    },
+    {
+     "titol": "2.2. L’Estatut d’autonomia de 1982 i la Llei d’ús i ensenyament del valencià de 1983: dues llacunes",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-07-191cbee75efee7bb.mp3",
+     "durada": 138.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.2. L’Estatut d’autonomia de 1982 i la Llei d’ús i ensenyament del valencià de 1983: dues llacunes"
+      },
+      {
+       "n": 0,
+       "t": "La Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana, va establir en l’article 7 que els dos idiomes oficials de la Comunitat són el valencià i el castellà, que la Generalitat en garantirà l’ús normal i oficial i que la llei fixarà els criteris d’aplicació de la llengua pròpia en l’Administració i l’ensenyament. La Llei 4/1983, de 23 de novembre, d’ús i ensenyament del valencià (LUEV), va desplegar aquest mandat i va definir el valencià com a «llengua històrica i pròpia del nostre poble» i «part substancial del patrimoni cultural de tota la nostra societat»."
+      },
+      {
+       "n": 0,
+       "t": "Ara bé, cap de les dues normes va resoldre dues qüestions decisives, tal com reconeix expressament el Dictamen de l’AVL del 2005:"
+      },
+      {
+       "n": 0,
+       "t": "no van determinar l’entitat filològica del que es designava amb la denominació valencià, i"
+      },
+      {
+       "n": 0,
+       "t": "no van especificar la institució normativa de la llengua, és a dir, l’autoritat competent per a fixar-ne la norma."
+      },
+      {
+       "n": 0,
+       "t": "Aquest doble buit va permetre interpretacions contraposades i va alimentar l’anomenada «batalla de València». El preàmbul de la Llei 7/1998 ho formula amb precisió jurídica: la garantia de l’ús «normal i oficial» del valencià i la seguretat jurídica dels administrats exigeixen «que tota l’Administració pública es regisca per una mateixa normativa ortogràfica i gramatical del valencià», aspecte que «no fou previst específicament» ni en l’Estatut ni en la LUEV. L’única referència aprofitable era l’article 34 de la LUEV, que atribuïa al Govern Valencià la direcció tècnica i la coordinació del procés d’ús i ensenyament del valencià."
+      }
+     ]
+    },
+    {
+     "titol": "2.3. El Dictamen del Consell Valencià de Cultura de 13 de juliol de 1998",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-08-09a5e348683ef559.mp3",
+     "durada": 194.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.3. El Dictamen del Consell Valencià de Cultura de 13 de juliol de 1998"
+      },
+      {
+       "n": 0,
+       "t": "El 17 de setembre de 1997, arran d’una iniciativa presentada en el debat de política general, les Corts Valencianes van acordar sol·licitar al Consell Valencià de Cultura (CVC) que dictaminara, «en base a fonaments científics i històrics», sobre les qüestions lingüístiques. El Ple del CVC va aprovar el Dictamen el 13 de juliol de 1998."
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen s’ordena en tres blocs:"
+      },
+      {
+       "n": 4,
+       "t": "a) Sobre la situació social del valencià i el seu ús"
+      },
+      {
+       "n": 0,
+       "t": "Descriu una situació «certament paradoxal»: millora en l’ús culte i oficial —la millor dels darrers segles, si més no des del Decret de Nova Planta— i, alhora, retrocés en l’ús popular, amb una «desafecció lingüística» i un empobriment i castellanització de la parla quotidiana qualificats d’alarmants. Adverteix que aquesta situació no pot romandre estable: o el valencià recupera el nivell d’ús popular o «fins i tot la seua mera preservació deixarà de ser possible»."
+      },
+      {
+       "n": 0,
+       "t": "El text conclou aquest bloc amb un catàleg de mesures públiques que caldria adoptar: reforçament de l’ensenyament del valencià i en valencià en tots els nivells educatius; programació essencialment en valencià en la ràdio i la televisió públiques valencianes; actitud exemplar de l’Administració valenciana en l’ús de la llengua; política sistemàtica de promoció de l’ús en el comerç, la publicitat, la vida econòmica i la indústria cultural, i una crida al món eclesiàstic perquè s’hi sume."
+      },
+      {
+       "n": 4,
+       "t": "b) Sobre el nom, la naturalesa i la codificació del valencià"
+      },
+      {
+       "n": 0,
+       "t": "És el bloc de major transcendència jurídica, perquè els tres paràgrafs que el componen es reprodueixen després en el Dictamen de l’AVL del 2005 com a punt de partida obligat:"
+      },
+      {
+       "n": 0,
+       "t": "L’Estatut denomina valencià la llengua pròpia dels valencians i, per tant, aquest terme «ha de ser utilitzat en el marc institucional, sense que tinga caràcter excloent»."
+      },
+      {
+       "n": 0,
+       "t": "Les denominacions valencià, llengua pròpia dels valencians, idioma valencià o altres avalades per la tradició històrica, l’ús popular o la legalitat vigent «no són ni han de ser objecte de qüestionament o polèmica»; totes serveixen per a designar la llengua pròpia."
+      },
+      {
+       "n": 0,
+       "t": "El valencià «forma part del sistema lingüístic que els corresponents Estatuts d’autonomia dels territoris hispànics de l’antiga Corona d’Aragó reconeixen com a llengua pròpia»."
+      },
+      {
+       "n": 0,
+       "t": "Aquest tercer enunciat és la fórmula de compromís que permet afirmar la unitat de la llengua sense usar el terme català, i és la que la Llei 7/1998 incorpora al preàmbul."
+      }
+     ]
+    },
+    {
+     "titol": "2.4. L’ens de referència normativa proposat pel CVC",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-09-231bd2770246b4e1.mp3",
+     "durada": 227.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.4. L’ens de referència normativa proposat pel CVC"
+      },
+      {
+       "n": 0,
+       "t": "El tercer bloc del Dictamen proposa la creació d’un ens de referència normativa del valencià i en fixa cinc característiques. La comparació amb la Llei 7/1998 mostra fins a quin punt el legislador va seguir la proposta del CVC —i on se’n va apartar."
+      },
+      {
+       "n": 0,
+       "t": "Característica proposada pel CVC (1998). Plasmació en la Llei 7/1998"
+      },
+      {
+       "n": 0,
+       "t": "I. Personalitat jurídica pròpia, amb independència funcional i pressupostària.. Art. 2: institució de caràcter públic, personalitat jurídica pròpia i autonomia orgànica, funcional i pressupostària per a garantir l’objectivitat i la independència."
+      },
+      {
+       "n": 0,
+       "t": "II. Capacitat per a determinar la normativa, reconeguda per llei, amb decisions vinculants per a les administracions públiques, el sistema educatiu, els mitjans públics i les entitats amb finançament públic.. Arts. 3, 5 i 7.a: funció de determinar i elaborar la normativa lingüística; decisions que han de ser observades per totes les institucions de la Generalitat, els poders públics, la resta d’administracions, el sistema educatiu, els mitjans de comunicació i les entitats de titularitat pública o amb finançament públic."
+      },
+      {
+       "n": 0,
+       "t": "III. Vint-i-un membres, nomenats per períodes de deu anys, amb cobertura de vacants per cooptació interna.. Arts. 10 i 11: vint-i-un acadèmics, però amb un mandat de quinze anys (no de deu) i renovació posterior per terços mitjançant cooptació."
+      },
+      {
+       "n": 0,
+       "t": "IV. Membres inicials elegits per les Corts per majoria de dos terços; almenys dos terços han de ser experts en valencià amb competència científica i acadèmica acreditada i la resta, personalitats destacades de les lletres i l’ensenyament.. Art. 11.1 i disposició transitòria primera: recollit literalment."
+      },
+      {
+       "n": 0,
+       "t": "V. Possibilitat de relacions horitzontals amb les entitats normatives de les altres llengües de l’Estat.. Art. 9.2 i 9.3: relacions horitzontals i acords de col·laboració amb organismes acadèmics, científics i culturals."
+      },
+      {
+       "n": 0,
+       "t": "El CVC va suggerir, a més, que la llei fora tramitada per via d’urgència. Les Corts Valencianes van aprovar la Llei de creació el 16 de setembre de 1998, poc més de dos mesos després del Dictamen."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA La única diferència numèrica rellevant entre la proposta del CVC i la Llei és la durada del mandat: el CVC proposava 10 anys i la Llei en va fixar 15. El Dictamen del CVC no té valor de norma per si mateix, però té valor normatiu indirecte: figura en el preàmbul de la Llei 7/1998 i l’article 4 hi remet com a font dels principis i criteris d’actuació de l’AVL. La fórmula «sistema lingüístic» prové del Dictamen del CVC i és la que l’AVL reprèn i desplega en el Dictamen del 2005."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 3"
+      }
+     ]
+    },
+    {
+     "titol": "La Llei 7/1998, de creació de l’Acadèmia Valenciana de la Llengua",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-10-d6c2080c94dfa4bf.mp3",
+     "durada": 8.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "La Llei 7/1998, de creació de l’Acadèmia Valenciana de la Llengua"
+      }
+     ]
+    },
+    {
+     "titol": "3.1. Tramitació, aprovació i estructura",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-11-ce141b3233883ed6.mp3",
+     "durada": 178.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.1. Tramitació, aprovació i estructura"
+      },
+      {
+       "n": 0,
+       "t": "La Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua (codi de publicació [1998/7973]) fou aprovada per les Corts Valencianes i promulgada pel president de la Generalitat, Eduardo Zaplana Hernández-Soro. Va entrar en vigor l’endemà de la publicació en el Diari Oficial de la Generalitat Valenciana (disposició final tercera)."
+      },
+      {
+       "n": 0,
+       "t": "El text s’articula en un preàmbul molt extens —que incorpora íntegrament la part dispositiva del Dictamen del Consell Valencià de Cultura— i trenta-cinc articles distribuïts en cinc títols, amb quatre disposicions transitòries i tres disposicions finals."
+      },
+      {
+       "n": 0,
+       "t": "Títol. Rúbrica. Articles. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "I. Disposicions generals. 1-6. Creació, naturalesa, funció, principis inspiradors, eficàcia de les decisions i seu."
+      },
+      {
+       "n": 0,
+       "t": "II. De les competències de l’AVL. 7-9. Catàleg de competències, consulta preceptiva del Consell, seccions i comissions, relacions externes."
+      },
+      {
+       "n": 0,
+       "t": "III. De la composició de l’AVL. 10-23. Cap. I: acadèmics (requisits, elecció, incompatibilitats, cessament, drets econòmics). Cap. II: òrgans de govern."
+      },
+      {
+       "n": 0,
+       "t": "IV. Del funcionament de l’AVL. 24-31. Cap. I: Ple. Cap. II: Junta de Govern. Cap. III: seccions i comissions d’estudi."
+      },
+      {
+       "n": 0,
+       "t": "V. De l’organització i els recursos de l’AVL. 32-35. Cap. I: personal. Cap. II: règim patrimonial i econòmic."
+      },
+      {
+       "n": 0,
+       "t": "—. Disposicions transitòries. 1a-4a. Elecció dels primers acadèmics, nomenament, elevació del projecte de Reglament i assignació de locals."
+      },
+      {
+       "n": 0,
+       "t": "—. Disposicions finals. 1a-3a. Constitució legal, habilitació reglamentària i entrada en vigor."
+      }
+     ]
+    },
+    {
+     "titol": "3.2. Naturalesa jurídica, funció i principis inspiradors (arts. 1-6)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-12-dd3cdc7566acadcc.mp3",
+     "durada": 201.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.2. Naturalesa jurídica, funció i principis inspiradors (arts. 1-6)"
+      },
+      {
+       "n": 0,
+       "t": "Els sis primers articles fixen l’estatut bàsic de la institució i són, probablement, els més preguntats."
+      },
+      {
+       "n": 4,
+       "t": "Article 1 — Creació"
+      },
+      {
+       "n": 0,
+       "t": "Es crea l’AVL «com a institució de la Generalitat Valenciana», amb les competències, composició, règim de funcionament i organització que la mateixa Llei determina."
+      },
+      {
+       "n": 4,
+       "t": "Article 2 — Naturalesa"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL és una institució de caràcter públic, adscrita a la Presidència de la Generalitat, que gaudeix de personalitat jurídica pròpia i exerceix les seues funcions amb autonomia orgànica, funcional i pressupostària per a garantir-ne l’objectivitat i la independència. Aquesta trilogia —orgànica, funcional i pressupostària— és la fórmula que l’AVL invoca sistemàticament quan considera amenaçada la seua autonomia (vegeu l’apartat 11.3)."
+      },
+      {
+       "n": 4,
+       "t": "Article 3 — Funció"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL «és la institució que té per funció determinar i elaborar, en el seu cas, la normativa lingüística de l’idioma valencià», així com vetlar pel valencià partint de:"
+      },
+      {
+       "n": 0,
+       "t": "la tradició lexicogràfica i literària;"
+      },
+      {
+       "n": 0,
+       "t": "la realitat lingüística genuïna valenciana, i"
+      },
+      {
+       "n": 0,
+       "t": "la normativització consolidada a partir de les denominades Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "Aquests tres fonaments es repeteixen literalment en el Reglament (art. 1.2), en els acords normatius del 2002 i en el punt 1 del Dictamen del 2005. Constitueixen el criteri material que ha de guiar tota decisió normativa de l’Acadèmia."
+      },
+      {
+       "n": 4,
+       "t": "Article 4 — Principis i criteris"
+      },
+      {
+       "n": 0,
+       "t": "Els principis i criteris que han d’inspirar l’actuació de l’Acadèmia són «els que es desprenen del dictamen aprovat pel Consell Valencià de Cultura el 13 de juliol de 1998 i que figura en el preàmbul d’esta Llei». Es tracta d’una remissió normativa expressa que dona al Dictamen del CVC una eficàcia jurídica de la qual, per si mateix, mancava."
+      },
+      {
+       "n": 4,
+       "t": "Article 5 — Eficàcia de les decisions"
+      },
+      {
+       "n": 0,
+       "t": "Vegeu l’apartat 3.3."
+      },
+      {
+       "n": 4,
+       "t": "Article 6 — Seu"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL té la seu a la ciutat de València, sense perjudici que puga tenir altres seus territorials o celebrar sessions en qualsevol municipi de la Comunitat Valenciana. La disposició transitòria segona del Reglament de 2002 va fixar el domicili provisional al monestir de Sant Miquel dels Reis, avinguda de la Constitució, 284, de València, on continua havent-hi la seu."
+      }
+     ]
+    },
+    {
+     "titol": "3.3. L’eficàcia vinculant de les decisions (art. 5)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-13-b988fd01b576f5f7.mp3",
+     "durada": 118.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.3. L’eficàcia vinculant de les decisions (art. 5)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 5 és el precepte que converteix l’AVL en autoritat normativa i no en simple òrgan consultiu. Estableix que les decisions de l’AVL, en l’exercici de les funcions que li corresponen, han de ser observades per:"
+      },
+      {
+       "n": 0,
+       "t": "Subjectes obligats per l’article 5 de la Llei 7/1998"
+      },
+      {
+       "n": 0,
+       "t": "Totes les institucions de la Generalitat"
+      },
+      {
+       "n": 0,
+       "t": "Els poders públics"
+      },
+      {
+       "n": 0,
+       "t": "La resta d’administracions públiques"
+      },
+      {
+       "n": 0,
+       "t": "El sistema educatiu"
+      },
+      {
+       "n": 0,
+       "t": "Els mitjans de comunicació, les entitats, els organismes i les empreses de titularitat pública o que compten amb finançament públic"
+      },
+      {
+       "n": 0,
+       "t": "Cal parar atenció a dos matisos. El primer és que la Llei parla de «les decisions», mentre que l’article 3 del Reglament de 2002 en restringeix l’abast a «les decisions de caràcter normatiu». El segon és l’amplitud del cinquè grup: no s’hi inclouen només els ens públics, sinó també qualsevol entitat privada que compte amb finançament públic. Aquest darrer incís ha estat determinant en controvèrsies recents, com la relativa a les subvencions previstes en la Secció 17 dels pressupostos del 2025 (apartat 11.3)."
+      },
+      {
+       "n": 0,
+       "t": "Des del 2006, aquest règim d’eficàcia té a més cobertura estatutària: l’article 41 de l’Estatut disposa que la normativa lingüística de l’AVL «és d’aplicació obligatòria a totes les administracions públiques de la Comunitat Valenciana»."
+      }
+     ]
+    },
+    {
+     "titol": "3.4. Les competències de l’AVL (art. 7)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-14-9cfd2c7d10acde15.mp3",
+     "durada": 202.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.4. Les competències de l’AVL (art. 7)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 7 conté un catàleg tancat de set competències, identificades amb les lletres a a g. És un dels preceptes que més convé memoritzar de manera literal, perquè els acords i informes de l’Acadèmia s’hi remeten constantment."
+      },
+      {
+       "n": 0,
+       "t": "Lletra. Competència. Observacions"
+      },
+      {
+       "n": 0,
+       "t": "a. Determinar la normativa oficial del valencià en tots els seus aspectes.. És la competència normativa en sentit estricte. Fonamenta els acords normatius de 2002, 2018 i 2021 i les obres normatives."
+      },
+      {
+       "n": 0,
+       "t": "b. Fixar, a sol·licitud de la Generalitat, les formes lingüísticament correctes de la toponímia i l’onomàstica oficial de la Comunitat Valenciana, per a la seua aprovació oficial.. Actuació sol·licitada: exigeix sol·licitud prèvia. Fonamenta els informes de canvi de denominació de municipis."
+      },
+      {
+       "n": 0,
+       "t": "c. Emetre i difondre informes o dictàmens i fer estudis sobre la normativa i l’onomàstica oficial valenciana, a iniciativa pròpia o a requeriment de les institucions públiques de la Comunitat Valenciana.. Fonamenta, entre d’altres, l’Acord de 20 de maig del 2002 i el Dictamen del 2005."
+      },
+      {
+       "n": 0,
+       "t": "d. Vetlar per l’ús normal del valencià i defendre la seua denominació i entitat.. Base competencial expressa del Dictamen del 2005."
+      },
+      {
+       "n": 0,
+       "t": "e. Informar sobre l’adequació a la normativa lingüística de l’AVL dels textos produïts per les institucions públiques o que requerisquen l’aprovació oficial, així com de la producció audiovisual de la Comunitat Valenciana.. Funció de control de qualitat lingüística."
+      },
+      {
+       "n": 0,
+       "t": "f. Elaborar i elevar al Consell de la Generalitat i a les Corts Valencianes una memòria anual.. La memòria ha de recollir, a més de les activitats, «les observacions i consells pertinents per a l’ús normal del valencià»."
+      },
+      {
+       "n": 0,
+       "t": "g. Aquelles que, dins l’àmbit de les seues competències, li encarreguen el president de la Generalitat, les Corts Valencianes o el Govern Valencià.. Clàusula d’obertura, limitada per l’àmbit competencial propi."
+      },
+      {
+       "n": 0,
+       "t": "L’article 2 del Reglament de 2002 reprodueix aquest catàleg amb una novetat significativa: hi afegeix, com a lletra d, la competència d’«estudiar el patrimoni literari i documental valencià», de manera que el llistat reglamentari té vuit lletres i les del text legal es desplacen una posició a partir de la d. És un detall que convé retenir per a evitar confusions en les preguntes que citen «l’article 7.d de la Llei» o «l’article 2.d del Reglament»."
+      }
+     ]
+    },
+    {
+     "titol": "3.5. La consulta preceptiva del Consell (art. 8)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-15-47bafb82fb587e58.mp3",
+     "durada": 88.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.5. La consulta preceptiva del Consell (art. 8)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 8 estableix un mecanisme de consulta obligatòria: el Consell ha de sol·licitar a l’AVL informe o dictamen sobre els seus avantprojectes legislatius o normatius relacionats amb la normativa, la toponímia i l’onomàstica del valencià."
+      },
+      {
+       "n": 0,
+       "t": "Termini ordinari: seixanta dies. Transcorregut sense pronunciament exprés, «s’entendrà que tenen el vistiplau de la Institució, i que no hi ha objecció a formular» (silenci positiu)."
+      },
+      {
+       "n": 0,
+       "t": "Termini d’urgència: trenta dies, quan la petició del Consell n’indique la urgència."
+      },
+      {
+       "n": 0,
+       "t": "Aquest article és el fonament de nombrosos informes de l’AVL sobre projectes de decret i d’ordre en matèria educativa, de toponímia, d’usos lingüístics o de certificació. També fou el fonament de l’Acord de 20 de maig del 2002, adoptat a instància del conseller de Cultura i Educació."
+      },
+      {
+       "n": 0,
+       "t": "El Reglament hi afegeix una facultat instrumental important: segons l’article 5, l’AVL pot demanar a les administracions públiques les dades, els informes o els documents relacionats amb les matèries objecte de la seua atenció."
+      }
+     ]
+    },
+    {
+     "titol": "3.6. Seccions, comissions i relacions externes (art. 9)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-16-0a3e173784099f5f.mp3",
+     "durada": 70.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.6. Seccions, comissions i relacions externes (art. 9)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 9 habilita l’AVL per a estructurar-se en seccions i constituir comissions d’estudi; per a mantenir relacions horitzontals amb les entitats normatives de les altres llengües de l’Estat, i per a subscriure acords de col·laboració amb altres organismes acadèmics, científics i culturals."
+      },
+      {
+       "n": 0,
+       "t": "La previsió de relacions horitzontals té una manifestació pràctica de primer ordre: la comissió mixta AVL – Institut d’Estudis Catalans, la coordinació amb la qual és invocada expressament en l’Acord 22/2021 com a pas previ a la ratificació de les solucions ortogràfiques."
+      },
+      {
+       "n": 0,
+       "t": "Actualment l’Acadèmia s’organitza en sis seccions —Foment de l’Ús del Valencià, Documentació i Literatura, Onomàstica, Terminologia, Lexicografia i Gramàtica, i Publicacions i Comunicació— i en les comissions que el Ple acorde crear amb una finalitat concreta."
+      }
+     ]
+    },
+    {
+     "titol": "3.7. Els acadèmics: requisits, incompatibilitats i cessament",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-17-92caa06941cfd17e.mp3",
+     "durada": 209.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.7. Els acadèmics: requisits, incompatibilitats i cessament"
+      },
+      {
+       "n": 3,
+       "t": "a) Nombre i requisits (art. 10)"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL està formada per vint-i-un acadèmics que han de reunir dos requisits acumulatius:"
+      },
+      {
+       "n": 0,
+       "t": "Tenir la condició política de valencià."
+      },
+      {
+       "n": 0,
+       "t": "Ser experts en valencià amb una acreditada competència científica i acadèmica o bé personalitats destacades de les lletres o de l’ensenyament en matèria lingüística, o comptar amb una producció reconeguda en el camp del valencià o de la cultura valenciana."
+      },
+      {
+       "n": 3,
+       "t": "b) Incompatibilitats (art. 12)"
+      },
+      {
+       "n": 0,
+       "t": "La condició d’acadèmic és incompatible amb la de:"
+      },
+      {
+       "n": 0,
+       "t": "diputat de les Corts Valencianes;"
+      },
+      {
+       "n": 0,
+       "t": "diputat o senador de les Corts Generals, o membre d’un parlament autonòmic o del Parlament Europeu;"
+      },
+      {
+       "n": 0,
+       "t": "membre del Govern d’Espanya o de qualsevol comunitat autònoma, i alts càrrecs de l’Administració autonòmica i de l’Estat;"
+      },
+      {
+       "n": 0,
+       "t": "membre de les corporacions locals;"
+      },
+      {
+       "n": 0,
+       "t": "personal al servei de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "L’examen, la declaració i el control de les incompatibilitats corresponen a la mateixa AVL. El Reglament (art. 10) desplega el procediment: declaració signada abans del nomenament, termini de cinc dies i, si escau, requeriment d’esmena de deu dies; comunicació de les incompatibilitats sobrevingudes en el termini màxim de quinze dies, i procediment d’ofici amb audiència a l’interessat que pot acabar amb la pèrdua de la condició d’acadèmic."
+      },
+      {
+       "n": 3,
+       "t": "c) Inamovibilitat i causes de cessament (art. 13)"
+      },
+      {
+       "n": 0,
+       "t": "Els acadèmics són inamovibles durant el període per al qual foren elegits. Cessen únicament per:"
+      },
+      {
+       "n": 0,
+       "t": "defunció;"
+      },
+      {
+       "n": 0,
+       "t": "renúncia expressa;"
+      },
+      {
+       "n": 0,
+       "t": "extinció del període per al qual foren elegits —bé que continuen exercint plenament les funcions fins a la presa de possessió dels nous membres—;"
+      },
+      {
+       "n": 0,
+       "t": "incapacitat manifesta o inhabilitació declarada per resolució judicial ferma;"
+      },
+      {
+       "n": 0,
+       "t": "pèrdua de la condició política de valencià;"
+      },
+      {
+       "n": 0,
+       "t": "incompatibilitat no resolta en el termini fixat."
+      },
+      {
+       "n": 0,
+       "t": "La clàusula de continuïtat en les funcions fins a la presa de possessió dels substituts és rellevant en la pràctica: explica que els acadèmics elegits el 2001, el mandat dels quals va vèncer el 15 de juny de 2026, continuaren en l’exercici del càrrec fins a la presa de possessió dels nous membres."
+      },
+      {
+       "n": 3,
+       "t": "d) Drets econòmics (art. 14)"
+      },
+      {
+       "n": 0,
+       "t": "Els acadèmics tenen dret a percebre dietes i indemnitzacions per l’exercici de les seues funcions. El Reglament ho desplega en els articles 20 a 23."
+      }
+     ]
+    },
+    {
+     "titol": "3.8. Elecció i renovació dels acadèmics (art. 11)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-18-bed81615d623d5e6.mp3",
+     "durada": 159.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.8. Elecció i renovació dels acadèmics (art. 11)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 11 conté un dels mecanismes més característics —i més preguntats— de la Llei."
+      },
+      {
+       "n": 0,
+       "t": "Els vint-i-un acadèmics inicials són elegits per les Corts Valencianes, per majoria de dos terços dels membres de dret, per un període de quinze anys, i poden ser reelegits."
+      },
+      {
+       "n": 0,
+       "t": "Als quinze anys de la primera elecció, l’AVL procedeix, per cooptació dels vint-i-un membres, a la renovació d’un terç dels acadèmics. Els set acadèmics que cal substituir es determinen pel sistema d’insaculació (sorteig)."
+      },
+      {
+       "n": 0,
+       "t": "Als cinc anys de la renovació anterior es renova un altre terç pel mateix procediment, i el terç restant, cinc anys després de la segona renovació. A partir d’ací, cada cinc anys es renova un terç dels acadèmics que hagen complit el període de quinze anys."
+      },
+      {
+       "n": 0,
+       "t": "Una vegada elegits, els acadèmics són nomenats per decret del president de la Generalitat i prenen possessió del càrrec en acte públic."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: EL RELLOTGE INSTITUCIONAL DE L’AVL Elecció inicial per les Corts: juny del 2001 (mandat de 15 anys). Primera renovació d’un terç: 2016, amb sorteig per insaculació. Segona renovació: 2021, amb sorteig per insaculació. Tercera renovació: 2026. No va caldre sorteig, perquè només restaven per renovar els set acadèmics elegits el 2001 que continuaven en el càrrec. A partir d’ací, el cicle és quinquennal i afecta sempre un terç del Ple."
+      },
+      {
+       "n": 0,
+       "t": "Cal subratllar la naturalesa del sistema: la intervenció parlamentària és excepcional i inicial. Un cop transcorreguts els primers quinze anys, la renovació és per cooptació, és a dir, la mateixa Acadèmia elegeix els seus membres, cosa que reforça l’autonomia orgànica proclamada en l’article 2. L’única excepció és la cobertura de vacants durant els quinze primers anys, que corresponia a les Corts Valencianes per majoria de dos terços (art. 13.2)."
+      }
+     ]
+    },
+    {
+     "titol": "3.9. Els òrgans de govern (arts. 15-23)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-19-0afe69c927bdd689.mp3",
+     "durada": 190.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.9. Els òrgans de govern (arts. 15-23)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 15 distingeix òrgans col·legiats i òrgans unipersonals."
+      },
+      {
+       "n": 0,
+       "t": "Òrgan. Composició. Atribucions principals"
+      },
+      {
+       "n": 0,
+       "t": "Ple (arts. 16, 24-27). Els vint-i-un acadèmics.. Òrgan màxim de decisió. Aprova el projecte de Reglament i les modificacions; la memòria anual; l’avantprojecte de pressupost i la liquidació; els plans i programes d’actuació; constitueix seccions i comissions; elegeix els càrrecs; designa i separa representants; proposa la plantilla al Consell, i aprova els informes o dictàmens de l’article 7."
+      },
+      {
+       "n": 0,
+       "t": "Junta de Govern (arts. 17, 28-29). President, vicepresident, secretari i dos vocals (cinc membres).. Elabora el projecte de memòria anual i l’avantprojecte de pressupost; dirigeix i controla l’execució pressupostària; determina la tramitació d’escrits i peticions; exerceix les facultats ordinàries de contractació administrativa; disposa les despeses; resol les qüestions que li sotmeta el president, i elabora els informes i dictàmens de l’article 7."
+      },
+      {
+       "n": 0,
+       "t": "President (arts. 18-20). Elegit pel Ple d’entre els membres per majoria absoluta, per cinc anys, reelegible cinc anys més.. Representa la institució; presideix, convoca i fixa l’ordre del dia; eleva anualment la memòria a les Corts i al president de la Generalitat; autoritza despeses i proposa pagaments; nomena els funcionaris i el personal eventual i laboral. És nomenat per decret del president de la Generalitat i pren possessió en acte públic i solemne."
+      },
+      {
+       "n": 0,
+       "t": "Vicepresident (art. 20). —. Substitueix el president en casos d’absència, vacant o malaltia."
+      },
+      {
+       "n": 0,
+       "t": "Secretari (arts. 21-22). —. Prepara i cursa l’ordre del dia; lliura certificacions d’actes, acords, informes i assistències amb el vistiplau del president; du el llibre d’actes foliat i visat; dirigeix i coordina l’elaboració de la memòria, i dirigeix el personal al servei de l’Acadèmia. En cas de vacant, absència o malaltia, el substitueix l’acadèmic de menor edat."
+      },
+      {
+       "n": 0,
+       "t": "L’article 23 estableix que els acadèmics tenen el tractament d’il·lustríssim; el Reglament hi afig (art. 38.4) que el president té, a més, el tractament d’honorable."
+      }
+     ]
+    },
+    {
+     "titol": "3.10. Funcionament: convocatòries, quòrums i majories (arts. 24-31)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-20-c6d29eae763c4126.mp3",
+     "durada": 139.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.10. Funcionament: convocatòries, quòrums i majories (arts. 24-31)"
+      },
+      {
+       "n": 0,
+       "t": "El règim de funcionament del Ple i de la Junta de Govern és de memorització quasi aritmètica."
+      },
+      {
+       "n": 0,
+       "t": "Element. Ple. Junta de Govern"
+      },
+      {
+       "n": 0,
+       "t": "Periodicitat mínima. Una vegada al trimestre. Una vegada al mes"
+      },
+      {
+       "n": 0,
+       "t": "Qui convoca. El president, per iniciativa pròpia o a sol·licitud d’almenys un terç dels membres. El president, per iniciativa pròpia o a sol·licitud d’almenys la meitat més un dels membres"
+      },
+      {
+       "n": 0,
+       "t": "Antelació de la convocatòria. Set dies com a mínim; per urgència, reduïble a quaranta-vuit hores. El Reglament (art. 59.2) fixa un mínim de quaranta-vuit hores"
+      },
+      {
+       "n": 0,
+       "t": "Quòrum de constitució. La meitat més un dels membres i, en tot cas, el president i el secretari o qui els substituïsca. Mateix criteri"
+      },
+      {
+       "n": 0,
+       "t": "Majoria per a adoptar acords. Majoria absoluta dels membres de dret. Majoria absoluta dels membres de dret (art. 67 del Reglament)"
+      },
+      {
+       "n": 0,
+       "t": "Vot particular. Els discrepants poden formular-lo per escrit dins dels deu dies següents a l’adopció de l’acord. —"
+      },
+      {
+       "n": 0,
+       "t": "L’article 27 permet que el president de la Generalitat, o el conseller en qui delegue, assistisca amb veu al Ple de l’AVL per a informar o requerir informació. No té vot ni presideix la sessió: és una previsió de comunicació institucional, no de tutela."
+      },
+      {
+       "n": 0,
+       "t": "Els articles 30 i 31 remeten al reglament la creació, la composició i el funcionament de les seccions i les comissions d’estudi."
+      }
+     ]
+    },
+    {
+     "titol": "3.11. Publicitat dels acords (art. 26)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-21-d5a2e0dbe5368f77.mp3",
+     "durada": 78.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.11. Publicitat dels acords (art. 26)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 26 és la clau de volta del règim de publicitat i, per tant, de l’eficàcia externa dels acords:"
+      },
+      {
+       "n": 0,
+       "t": "«El Ple de la AVL determinarà, en l’àmbit de les seues competències, les resolucions que han de ser publicades al Diari Oficial de la Generalitat Valenciana. En tot cas, es publicaran al DOGV les que afecten el Diccionari, la Normativa i les Entrades que l’Acadèmia aprove.» Llei 7/1998, article 26"
+      },
+      {
+       "n": 0,
+       "t": "D’ací deriven les resolucions de la Presidència de l’AVL que ordenen la publicació dels acords normatius: la Resolució 10/2002, de 4 d’abril, i la Resolució 12/2002, de 31 de maig, invoquen expressament aquest article, igual que ho fa el punt 2 de l’Acord 1/2005. L’article 72 del Reglament reprodueix la regla en termes lleugerament distints: en tot cas es publicaran «les que afecten la normativa lingüística»."
+      }
+     ]
+    },
+    {
+     "titol": "3.12. Personal, règim patrimonial i econòmic (arts. 32-35)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-22-054d74da2c6e0043.mp3",
+     "durada": 88.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.12. Personal, règim patrimonial i econòmic (arts. 32-35)"
+      },
+      {
+       "n": 0,
+       "t": "L’article 32 disposa que el personal al servei de l’AVL es regeix pel règim jurídic aplicable al personal al servei de la Generalitat. L’article 33 enumera els mitjans materials i recursos econòmics de la institució: les consignacions previstes en els pressupostos de la Generalitat; els béns adscrits o cedits; els productes i rendes del patrimoni; els ingressos per serveis, activitats o productes; les subvencions, herències, llegats, donacions, patrocinis i altres aportacions voluntàries; els crèdits i préstecs que puga concertar amb autorització prèvia del Consell, i qualssevol altres recursos que li puguen ser atribuïts."
+      },
+      {
+       "n": 0,
+       "t": "L’article 34 conté una previsió d’enorme rellevància pràctica: el pressupost de l’AVL, una vegada aprovat pel Consell, s’integra com a secció en els pressupostos de la Generalitat. Aquesta secció és la Secció 17, amb la rúbrica «Investigació i normalització lingüística de l’idioma valencià». L’article 35 permet a l’AVL adquirir els béns que legalment acorde el Ple."
+      }
+     ]
+    },
+    {
+     "titol": "3.13. Disposicions transitòries i finals",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-23-d7f31f4f3031b751.mp3",
+     "durada": 149.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.13. Disposicions transitòries i finals"
+      },
+      {
+       "n": 0,
+       "t": "Transitòria primera: en el termini màxim d’un mes des de l’entrada en vigor, les Corts havien d’elegir els primers vint-i-un acadèmics, dels quals almenys dos terços havien de ser experts en valencià amb competència científica i acadèmica acreditada. El termini no es va complir: l’elecció no es va produir fins al juny del 2001."
+      },
+      {
+       "n": 0,
+       "t": "Transitòria segona: en els quinze dies següents a l’elecció, el president de la Generalitat havia de fer el nomenament per decret."
+      },
+      {
+       "n": 0,
+       "t": "Transitòria tercera: en el termini de tres mesos des de la constitució legal, el Ple havia d’elevar al Consell el projecte de Reglament. El Reglament s’aprovà el 17 de setembre de 2002."
+      },
+      {
+       "n": 0,
+       "t": "Transitòria quarta: el Govern Valencià havia d’assignar a l’AVL els locals adequats."
+      },
+      {
+       "n": 0,
+       "t": "Final primera: l’AVL es constituiria legalment dins dels quinze dies següents a la publicació en el DOGV del decret de nomenament dels acadèmics."
+      },
+      {
+       "n": 0,
+       "t": "Final segona: habilitació al Consell per a dictar les normes reglamentàries necessàries."
+      },
+      {
+       "n": 0,
+       "t": "Final tercera: entrada en vigor l’endemà de la publicació en el DOGV."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: XIFRES DE LA LLEI 7/1998 21 acadèmics · 15 anys de mandat · renovació per terços de 7 en 7, cada 5 anys. 2/3 dels membres de dret de les Corts per a l’elecció inicial i per a cobrir vacants durant els primers quinze anys. Majoria absoluta del Ple per a elegir el president i per a adoptar acords. 5 + 5 anys: mandat del president i possibilitat d’una única reelecció. 60 / 30 dies: termini ordinari i d’urgència de la consulta de l’article 8. 7 dies / 48 hores: antelació ordinària i urgent de la convocatòria del Ple. 10 dies: termini per a formular vot particular per escrit."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 4"
+      }
+     ]
+    },
+    {
+     "titol": "La consagració estatutària de l’AVL: la Llei orgànica 1/2006",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-24-8042a396014d0e1f.mp3",
+     "durada": 37.2,
+     "text": [
+      {
+       "n": 1,
+       "t": "La consagració estatutària de l’AVL: la Llei orgànica 1/2006"
+      },
+      {
+       "n": 0,
+       "t": "La Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana, va elevar l’AVL de la condició d’institució creada per llei autonòmica ordinària a la d’institució estatutària. Aquest canvi de rang és decisiu i explica bona part de la doctrina que la mateixa Acadèmia ha desplegat després."
+      }
+     ]
+    },
+    {
+     "titol": "4.1. Article 6.8: la institució normativa de l’idioma valencià",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-25-b14868679f05484a.mp3",
+     "durada": 92.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.1. Article 6.8: la institució normativa de l’idioma valencià"
+      },
+      {
+       "n": 0,
+       "t": "«L’Acadèmia Valenciana de la Llengua és la institució normativa de l’idioma valencià.» Estatut d’autonomia de la Comunitat Valenciana, article 6.8"
+      },
+      {
+       "n": 0,
+       "t": "L’article 6 de l’Estatut regula el règim lingüístic. Els apartats precedents estableixen l’oficialitat del valencià i del castellà (6.2), la garantia de l’ús normal i oficial (6.3), la prohibició de discriminació per raó de llengua (6.4), l’especial protecció i respecte a la recuperació del valencià (6.5), la remissió a la llei dels criteris d’aplicació de la llengua pròpia (6.6) i la delimitació legal dels territoris de predomini lingüístic (6.7). L’apartat 8 tanca l’article designant l’AVL com a autoritat normativa única."
+      },
+      {
+       "n": 0,
+       "t": "La formulació és taxativa i sense adjectius: no diu que l’AVL siga una institució normativa, sinó la institució normativa. D’ací que l’Acadèmia sostinga que qualsevol intent d’apartar-se’n comporta una vulneració de la norma institucional bàsica dels valencians."
+      }
+     ]
+    },
+    {
+     "titol": "4.2. Article 20.3: l’AVL com a institució de la Generalitat",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-26-4df20cfe36981b89.mp3",
+     "durada": 63.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.2. Article 20.3: l’AVL com a institució de la Generalitat"
+      },
+      {
+       "n": 0,
+       "t": "L’article 20.3 enumera les institucions de la Generalitat més enllà de les de govern:"
+      },
+      {
+       "n": 0,
+       "t": "Institucions de la Generalitat (art. 20.3 EACV)"
+      },
+      {
+       "n": 0,
+       "t": "Sindicatura de Comptes"
+      },
+      {
+       "n": 0,
+       "t": "Síndic de Greuges"
+      },
+      {
+       "n": 0,
+       "t": "Consell Valencià de Cultura"
+      },
+      {
+       "n": 0,
+       "t": "Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "Consell Jurídic Consultiu"
+      },
+      {
+       "n": 0,
+       "t": "Comité Econòmic i Social"
+      },
+      {
+       "n": 0,
+       "t": "La inclusió en aquesta llista situa l’AVL en el mateix pla institucional que la Sindicatura de Comptes o el Síndic de Greuges i li atribueix la condició d’institució d’autogovern, amb les garanties que això comporta."
+      }
+     ]
+    },
+    {
+     "titol": "4.3. Article 41: funció i obligatorietat de la normativa",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-27-6fc970c5e969acc8.mp3",
+     "durada": 57.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.3. Article 41: funció i obligatorietat de la normativa"
+      },
+      {
+       "n": 0,
+       "t": "L’article 41, situat en la secció dedicada a les institucions consultives i normatives de la Generalitat, en desplega el règim:"
+      },
+      {
+       "n": 0,
+       "t": "l’AVL és una institució de la Generalitat de caràcter públic que té per funció «determinar i elaborar, si escau, la normativa lingüística de l’idioma valencià»;"
+      },
+      {
+       "n": 0,
+       "t": "aquesta normativa és d’aplicació obligatòria a totes les administracions públiques de la Comunitat Valenciana;"
+      },
+      {
+       "n": 0,
+       "t": "quant al procediment de nomenament dels membres, funcions, facultats, estatut i durada del mandat, cal ajustar-se al que dispose la llei de les Corts que la regule —és a dir, la Llei 7/1998."
+      }
+     ]
+    },
+    {
+     "titol": "4.4. Article 44.5: la reserva de majoria de tres cinquenes parts",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-28-b01a8f219b2eb305.mp3",
+     "durada": 65.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.4. Article 44.5: la reserva de majoria de tres cinquenes parts"
+      },
+      {
+       "n": 0,
+       "t": "L’article 44.5 estableix que «el desplegament legislatiu de les institucions de la Generalitat previstes en l’article 20.3 d’aquest Estatut requerirà per a la seua aprovació una majoria de tres cinquenes parts de la cambra». Es tracta d’una garantia reforçada: la Llei 7/1998, com a llei reguladora d’una institució estatutària, no es pot modificar per majoria simple."
+      },
+      {
+       "n": 0,
+       "t": "Aquest precepte és el fonament tècnic de l’argument que l’AVL va desplegar el 2025 davant la reducció pressupostària: allò que no es pot aconseguir per la via de la reforma estatutària ni per la de la modificació de la Llei de creació —perquè exigeixen majories qualificades— no es pot obtenir indirectament mitjançant una llei de pressupostos, que és una llei ordinària."
+      }
+     ]
+    },
+    {
+     "titol": "4.5. Conseqüències jurídiques de l’estatutarització",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-29-148ff6a2bc1ef839.mp3",
+     "durada": 117.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.5. Conseqüències jurídiques de l’estatutarització"
+      },
+      {
+       "n": 0,
+       "t": "Rang reforçat: els estatuts d’autonomia són lleis orgàniques que requereixen la convergència de dues instàncies parlamentàries —les Corts Valencianes, per majoria de dos terços i amb referèndum, i les Corts Generals, per majoria absoluta— i formen part del bloc de la constitucionalitat."
+      },
+      {
+       "n": 0,
+       "t": "Indisponibilitat per al legislador ordinari: la supressió o el buidament de la institució exigiria una reforma estatutària; el desplegament legislatiu, una majoria de tres cinquenes parts."
+      },
+      {
+       "n": 0,
+       "t": "Doble fonament de l’obligatorietat: des del 2006, l’observança de la normativa de l’AVL descansa alhora en l’article 5 de la Llei 7/1998 i en l’article 41 de l’Estatut."
+      },
+      {
+       "n": 0,
+       "t": "Garantia de l’autonomia pressupostària: l’autonomia proclamada en l’article 2 de la Llei de creació adquireix cobertura estatutària indirecta, en la mesura que és instrumental per a l’exercici d’una funció que l’Estatut atribueix."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: ELS QUATRE ARTICLES ESTATUTARIS 6.8 — L’AVL és la institució normativa de l’idioma valencià. 20.3 — L’AVL és una de les sis institucions de la Generalitat. 41 — Funció normativa i aplicació obligatòria a totes les administracions públiques valencianes. 44.5 — El desplegament legislatiu de les institucions de l’article 20.3 exigeix una majoria de tres cinquenes parts de les Corts."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 5"
+      }
+     ]
+    },
+    {
+     "titol": "El Reglament de l’AVL: Decret 158/2002",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-30-057a4af7d19056d5.mp3",
+     "durada": 8.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "El Reglament de l’AVL: Decret 158/2002"
+      }
+     ]
+    },
+    {
+     "titol": "5.1. Fonament, tramitació i estructura",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-31-2f18d87eb80db5b2.mp3",
+     "durada": 205.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.1. Fonament, tramitació i estructura"
+      },
+      {
+       "n": 0,
+       "t": "El Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’Acadèmia Valenciana de la Llengua (codi de publicació [2002/9996]) desplega la Llei 7/1998 en compliment de la disposició transitòria tercera, en relació amb l’article 16 de la Llei. Va ser signat pel president de la Generalitat José Luis Olivas Martínez i va entrar en vigor l’endemà de la publicació en el DOGV."
+      },
+      {
+       "n": 0,
+       "t": "El procediment d’aprovació és peculiar i cal retenir-lo: el projecte de Reglament l’elabora i l’aprova el Ple de l’AVL, que l’eleva al Consell; l’aprovació definitiva correspon al Govern Valencià, amb l’informe previ del Consell Jurídic Consultiu. El decret consta d’un article únic i una disposició final; el Reglament pròpiament dit figura com a annex."
+      },
+      {
+       "n": 0,
+       "t": "Títol. Rúbrica. Articles"
+      },
+      {
+       "n": 0,
+       "t": "I. De les disposicions generals. 1-7"
+      },
+      {
+       "n": 0,
+       "t": "II. Dels acadèmics (cap. I: nombre, requisits i incompatibilitats; cap. II: elecció i cessament; cap. III: deures i drets). 8-24"
+      },
+      {
+       "n": 0,
+       "t": "III. Dels òrgans de govern (cap. I: Ple; cap. II: Junta de Govern, amb seccions de Presidència i Vicepresidència, Secretaria i vocals). 25-44"
+      },
+      {
+       "n": 0,
+       "t": "IV. Dels òrgans de treball (cap. I: seccions; cap. II: comissions). 45-52"
+      },
+      {
+       "n": 0,
+       "t": "V. De les relacions externes de l’Acadèmia. 53"
+      },
+      {
+       "n": 0,
+       "t": "VI. De les normes generals de funcionament (sessions, convocatòries, ordre del dia, constitució, deliberacions, votacions, acords, actes i comunicació dels acords). 54-72"
+      },
+      {
+       "n": 0,
+       "t": "VII. De l’organització i els recursos de l’AVL (cap. I: personal; cap. II: règim patrimonial i econòmic). 73-83"
+      },
+      {
+       "n": 0,
+       "t": "VIII. De la reforma del Reglament. 84"
+      },
+      {
+       "n": 0,
+       "t": "Tanquen el text una disposició addicional —que permet desplegar el Reglament mitjançant normes internes aprovades pel Ple a proposta de la Junta de Govern— i dues disposicions transitòries."
+      }
+     ]
+    },
+    {
+     "titol": "5.2. Novetats i concrecions respecte de la Llei",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-32-a485d580c9da724f.mp3",
+     "durada": 172.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.2. Novetats i concrecions respecte de la Llei"
+      },
+      {
+       "n": 0,
+       "t": "El Reglament no es limita a reproduir la Llei: hi introdueix precisions rellevants. Les més importants són les següents."
+      },
+      {
+       "n": 0,
+       "t": "Article. Contingut nou o precisat"
+      },
+      {
+       "n": 0,
+       "t": "Art. 2.d. Afegeix la competència d’estudiar el patrimoni literari i documental valencià, que no figura en l’article 7 de la Llei."
+      },
+      {
+       "n": 0,
+       "t": "Art. 3. Restringeix l’eficàcia vinculant a les decisions de caràcter normatiu de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "Art. 5. Faculta l’AVL per a demanar a les administracions públiques les dades, els informes o els documents relacionats amb les matèries de la seua atenció."
+      },
+      {
+       "n": 0,
+       "t": "Art. 6. Declara el valencià llengua pròpia de l’Acadèmia: tota la documentació generada pels òrgans de l’AVL s’ha de redactar en valencià, sense menyscapte dels drets lingüístics reconeguts en l’article 7 de l’Estatut i en l’article 11 de la LUEV."
+      },
+      {
+       "n": 0,
+       "t": "Art. 10. Procediment detallat de declaració i control de les incompatibilitats."
+      },
+      {
+       "n": 0,
+       "t": "Art. 24. Obligació de formalitzar declaració d’activitats i declaració de béns patrimonials, en el termini de dos mesos des del nomenament, inscrites en el Registre d’Interessos custodiat pel secretari. El contingut del registre és públic, excepte pel que fa als béns patrimonials."
+      },
+      {
+       "n": 0,
+       "t": "Art. 33. Procediment d’elecció de la Junta de Govern en dues fases: primer la Presidència i després la resta de càrrecs; mandat de cinc anys, reelegible en conjunt per un segon període consecutiu."
+      },
+      {
+       "n": 0,
+       "t": "Art. 66. Règim de votacions: vot personal i indelegable; votació ordinària, nominal o secreta; la votació secreta és preceptiva per a l’elecció d’acadèmics o de càrrecs i per a les valoracions d’actuacions dels acadèmics."
+      },
+      {
+       "n": 0,
+       "t": "Art. 72. Publicitat: en tot cas es publicaran en el DOGV les resolucions que afecten la normativa lingüística."
+      },
+      {
+       "n": 0,
+       "t": "Art. 80. Tot el personal de l’AVL ha d’acreditar els coneixements de valencià que acorde el Ple per a cada lloc de treball."
+      }
+     ]
+    },
+    {
+     "titol": "5.3. El procediment de renovació i de cobertura de vacants (arts. 11-17)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-33-20f79ac162f68469.mp3",
+     "durada": 144.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.3. El procediment de renovació i de cobertura de vacants (arts. 11-17)"
+      },
+      {
+       "n": 0,
+       "t": "El Reglament converteix el mandat sintètic de l’article 11 de la Llei en un procediment detallat:"
+      },
+      {
+       "n": 0,
+       "t": "En l’última sessió ordinària del Ple celebrada com a mínim sis mesos abans del venciment del període de quinze anys, se sortegen per insaculació els noms dels set acadèmics que cal renovar."
+      },
+      {
+       "n": 0,
+       "t": "Els acadèmics presenten les seues propostes de candidats en el termini que acorde el Ple. Els candidats han de reunir els requisits de l’article 10 de la Llei i comptar amb l’aval d’un terç dels membres de dret del Ple."
+      },
+      {
+       "n": 0,
+       "t": "Es convoca una reunió extraordinària del Ple amb una antelació mínima de dos mesos al venciment del termini de renovació."
+      },
+      {
+       "n": 0,
+       "t": "Resulten elegits els set candidats que, havent obtingut majoria absoluta, aconseguisquen el major nombre de vots. En cas d’empat es fa una nova votació entre els empatats; si l’empat persisteix després de tres votacions, resulta elegit el candidat de major edat."
+      },
+      {
+       "n": 0,
+       "t": "Cada cinc anys es repeteix el procediment per al terç següent."
+      },
+      {
+       "n": 0,
+       "t": "Per a les vacants sobrevingudes el Reglament distingeix dos règims. Durant els primers quinze anys (art. 12), la Presidència ho comunica en un termini no superior a deu dies al president de les Corts i al president de la Generalitat, i la vacant la cobreixen les Corts per majoria de dos terços, pel temps que reste del mandat. Passats els quinze anys (art. 15), la vacant la cobreix el mateix Ple pel procediment de candidatures avalades per un terç dels acadèmics i elecció per majoria absoluta."
+      },
+      {
+       "n": 0,
+       "t": "L’article 16 imposa a la Presidència l’obligació de comunicar al president de la Generalitat les persones elegides, per al seu nomenament, en el termini màxim de cinc dies des de l’acord d’elecció. L’article 17 recorda que la condició d’acadèmic s’adquireix definitivament amb l’acceptació i la presa de possessió en acte públic."
+      }
+     ]
+    },
+    {
+     "titol": "5.4. Drets, deures i règim econòmic dels acadèmics (arts. 18-24)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-34-95b0754fe44a5c71.mp3",
+     "durada": 186.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.4. Drets, deures i règim econòmic dels acadèmics (arts. 18-24)"
+      },
+      {
+       "n": 4,
+       "t": "Deures (art. 18)"
+      },
+      {
+       "n": 0,
+       "t": "assistir a totes les reunions dels òrgans de què formen part;"
+      },
+      {
+       "n": 0,
+       "t": "complir les obligacions inherents als càrrecs i funcions;"
+      },
+      {
+       "n": 0,
+       "t": "formalitzar les declaracions d’activitats i de béns;"
+      },
+      {
+       "n": 0,
+       "t": "mantenir el secret de les reunions que s’acorde que siguen reservades;"
+      },
+      {
+       "n": 0,
+       "t": "guardar confidencialitat sobre els informes i dictàmens en tramitació i, sempre, sobre les deliberacions i els vots emesos;"
+      },
+      {
+       "n": 0,
+       "t": "no invocar ni fer ús de la seua condició per a l’exercici d’activitats mercantils, industrials o professionals."
+      },
+      {
+       "n": 4,
+       "t": "Drets (art. 19)"
+      },
+      {
+       "n": 0,
+       "t": "assistir amb veu i vot a les reunions del Ple i de la resta d’òrgans de què formen part;"
+      },
+      {
+       "n": 0,
+       "t": "accedir a la informació sobre els temes que s’hi han de tractar i als acords i resolucions de qualsevol òrgan;"
+      },
+      {
+       "n": 0,
+       "t": "poder ser elegits membres dels òrgans de govern;"
+      },
+      {
+       "n": 0,
+       "t": "presentar propostes i iniciatives i difondre-les;"
+      },
+      {
+       "n": 0,
+       "t": "rebre les percepcions econòmiques que aprove el Ple;"
+      },
+      {
+       "n": 0,
+       "t": "rebre el tractament d’il·lustríssim o il·lustríssima."
+      },
+      {
+       "n": 4,
+       "t": "Règim econòmic i dedicació (arts. 20-23)"
+      },
+      {
+       "n": 0,
+       "t": "Correspon al Ple aprovar anualment, a proposta de la Junta de Govern, les modalitats i quanties de les percepcions econòmiques. Els acadèmics tenen dret a indemnitzacions per assistència i participació en les reunions dels òrgans col·legiats, a dietes d’hostalatge i restauració i al reemborsament de les despeses de desplaçament. El Ple pot acordar que la Presidència i la Secretaria perceben una assignació fixa i periòdica per dedicació a temps complet i, amb l’acceptació prèvia de la persona afectada, estendre aquest règim a qualsevol altre acadèmic; en aquests casos els acadèmics són donats d’alta en la Seguretat Social i no perceben les indemnitzacions per assistència."
+      },
+      {
+       "n": 0,
+       "t": "La dedicació a temps complet és incompatible amb qualsevol altre lloc de treball, professió o activitat, pública o privada, amb les excepcions de l’administració del patrimoni personal o familiar, la investigació i la docència —sempre que no s’exercisca a temps complet— i la producció i creació literària, artística, científica i tècnica. Els acadèmics funcionaris amb dedicació a temps complet poden acollir-se a la situació de serveis especials."
+      }
+     ]
+    },
+    {
+     "titol": "5.5. Els òrgans de treball: seccions i comissions (arts. 45-52)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-35-e426f90765a08a0a.mp3",
+     "durada": 151.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.5. Els òrgans de treball: seccions i comissions (arts. 45-52)"
+      },
+      {
+       "n": 0,
+       "t": "Les seccions i les comissions són els òrgans d’estudi, d’informació i d’assessorament de l’AVL; les seues conclusions se sotmeten a la consideració del Ple o de la Junta de Govern."
+      },
+      {
+       "n": 0,
+       "t": "Seccions (arts. 48-50). Comissions (arts. 51-52)"
+      },
+      {
+       "n": 0,
+       "t": "Naturalesa. Òrgans col·legiats estables. Òrgans de caràcter eventual"
+      },
+      {
+       "n": 0,
+       "t": "Finalitat. Atenen amb caràcter general les competències bàsiques de l’AVL. Es creen amb una finalitat concreta; acomplida, s’extingeixen"
+      },
+      {
+       "n": 0,
+       "t": "Creació. Per acord del Ple, que en fixa les funcions i especifica les competències. Per acord del Ple, que en determina funcions, règim de sessions, composició i criteris d’adscripció"
+      },
+      {
+       "n": 0,
+       "t": "Composició. Els acadèmics que decidisca el Ple segons criteris de competència, especialització, preferències personals i equilibri. La que determine el Ple"
+      },
+      {
+       "n": 0,
+       "t": "Càrrecs interns. Elegeixen d’entre els membres un president i un secretari. Els elegeixen en la primera reunió, que s’ha de fer en el termini de quinze dies des de la constitució"
+      },
+      {
+       "n": 0,
+       "t": "Periodicitat. Reunió mínima mensual (art. 55.c). La que determine el Ple; no poden reunir-se coincidint amb una sessió del Ple"
+      },
+      {
+       "n": 0,
+       "t": "L’article 46 permet a la Junta de Govern encomanar informes o propostes de dictàmens, per escrit, a persones o institucions de provada competència. L’article 47 disposa que els resultats de les seccions i comissions es registren en l’AVL, poden ser consultats pels acadèmics i són d’accés públic en els termes que aprove el Ple, i que la memòria anual ha d’incloure la llista d’activitats."
+      }
+     ]
+    },
+    {
+     "titol": "5.6. Organització administrativa i personal (arts. 73-80)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-36-d87e32a249957a85.mp3",
+     "durada": 79.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.6. Organització administrativa i personal (arts. 73-80)"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL disposa de plantilla pròpia i s’estructura en tres unitats: el Gabinet de la Presidència, la Secretaria General Administrativa i la Unitat de Recursos Lingüisticotècnics. La Secretaria General Administrativa du el registre de disposicions legislatives que afecten l’AVL, prepara el projecte de memòria anual, coordina els serveis, dirigeix i custodia l’arxiu, du la comptabilitat i la gestió econòmica i prepara l’avantprojecte de pressupostos."
+      },
+      {
+       "n": 0,
+       "t": "El lletrat secretari general, nomenat per la Presidència a proposta de la Junta de Govern, dirigeix l’execució de les funcions de la Secretaria General Administrativa, presta l’assessorament jurídic, exerceix la direcció del personal, té cura dels registres d’entrada i d’eixida i dels registres d’activitats i de béns patrimonials, i actua com a instructor dels expedients per faltes del personal. Exerceix amb dedicació exclusiva i el càrrec és incompatible amb qualsevol altre lloc, professió o activitat, amb les excepcions habituals."
+      }
+     ]
+    },
+    {
+     "titol": "5.7. Reforma del Reglament i normes internes de procediment",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-37-194a2da735047279.mp3",
+     "durada": 137.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.7. Reforma del Reglament i normes internes de procediment"
+      },
+      {
+       "n": 0,
+       "t": "L’article 84 preveu que la modificació del Reglament es pot plantejar a iniciativa de la Presidència o a petició d’un terç dels acadèmics; ha de ser aprovada per majoria absoluta dels membres de l’AVL i, tot seguit, elevada al Consell de la Generalitat per a l’aprovació definitiva. És, per tant, un procediment paral·lel al d’aprovació inicial."
+      },
+      {
+       "n": 0,
+       "t": "La disposició addicional habilita el desplegament del Reglament mitjançant normes internes aprovades pel Ple a proposta de la Junta de Govern. En virtut d’aquesta habilitació es van aprovar les Normes internes de procediment de l’AVL, els articles 3 i següents de les quals regulen la tramitació de les propostes d’acord normatiu; l’Acord 31/2018 hi remet expressament en descriure el seu iter d’aprovació."
+      },
+      {
+       "n": 0,
+       "t": "La disposició transitòria primera va condicionar l’exercici ple de les funcions a la disponibilitat de mitjans personals i materials adequats, i la segona va fixar el domicili provisional al monestir de Sant Miquel dels Reis."
+      },
+      {
+       "n": 0,
+       "t": "ATENCIÓ: CONFUSIONS FREQÜENTS ENTRE LA LLEI I EL REGLAMENT Les competències de la Llei són set (a-g); les del Reglament, vuit (a-h), perquè s’hi afegeix l’estudi del patrimoni literari i documental. La Llei parla de «les decisions»; el Reglament, de «les decisions de caràcter normatiu». La Llei ordena publicar en el DOGV el que afecte «el Diccionari, la Normativa i les Entrades»; el Reglament, el que afecte «la normativa lingüística». El Reglament (art. 29) precisa qui substitueix el president i el secretari en el Ple: en absència del president i del vicepresident, l’acadèmic de més edat; en absència del secretari, l’acadèmic més jove."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 6"
+      }
+     ]
+    },
+    {
+     "titol": "Altres normes que afecten el règim jurídic de l’AVL",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-38-46013b622a239b2d.mp3",
+     "durada": 24.7,
+     "text": [
+      {
+       "n": 1,
+       "t": "Altres normes que afecten el règim jurídic de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "El règim jurídic de l’Acadèmia no s’esgota en la Llei de creació, el Reglament i l’Estatut. Hi ha un conjunt de normes sectorials que hi incideixen directament i que apareixen citades tant en els acords de la institució com en la pràctica administrativa."
+      }
+     ]
+    },
+    {
+     "titol": "6.1. La Llei 12/2017, de composició equilibrada",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-39-b9745caa2619c1c9.mp3",
+     "durada": 70.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.1. La Llei 12/2017, de composició equilibrada"
+      },
+      {
+       "n": 0,
+       "t": "La Llei 12/2017, de 2 de novembre, de la Generalitat, de modificació de les lleis reguladores de les institucions de la Generalitat per a garantir la igualtat entre dones i homes en els seus òrgans —aprovada pel Ple de les Corts el 25 d’octubre de 2017— modifica, entre altres, la Llei 7/1998. La seua finalitat és fer efectiu el principi d’actuació de l’article 10 de la Llei 9/2003, de 2 d’abril, de la Generalitat, per a la igualtat entre dones i homes, segons el qual les Corts i el Consell han de procurar una presència paritària en els òrgans i institucions."
+      },
+      {
+       "n": 0,
+       "t": "L’efecte pràctic sobre l’AVL és directe: la renovació del 2021 va comportar l’elecció de set dones i la del 2026, de cinc homes i dues dones, amb la qual cosa la composició de l’Acadèmia va passar d’onze homes i deu dones a onze dones i deu homes."
+      }
+     ]
+    },
+    {
+     "titol": "6.2. Normes pressupostàries i de funció pública",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-40-d6ba29a3f0a46569.mp3",
+     "durada": 75.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.2. Normes pressupostàries i de funció pública"
+      },
+      {
+       "n": 0,
+       "t": "Llei 1/2015, de 6 de febrer, de la Generalitat, d’hisenda pública, del sector públic instrumental i de subvencions (art. 33): regula el procediment d’elaboració del pressupost. L’AVL quantifica els seus recursos d’acord amb les directrius de la conselleria competent en matèria d’hisenda; el Ple aprova l’avantprojecte (art. 16.2.c de la Llei 7/1998) i el remet al Consell, que l’integra en els pressupostos de la Generalitat amb secció pròpia."
+      },
+      {
+       "n": 0,
+       "t": "Llei 4/2021, de 16 d’abril, de la Generalitat, de la funció pública valenciana (art. 47.2): els pressupostos han de reflectir els crèdits corresponents a les relacions de llocs de treball, «sense que puga haver-hi cap lloc que no estiga dotat pressupostàriament»."
+      },
+      {
+       "n": 0,
+       "t": "Ordres anuals de la conselleria competent en matèria d’hisenda per les quals es dicten les normes d’elaboració del pressupost de la Generalitat."
+      }
+     ]
+    },
+    {
+     "titol": "6.3. Normes en matèria de toponímia",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-41-02058709cc02f26b.mp3",
+     "durada": 84.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.3. Normes en matèria de toponímia"
+      },
+      {
+       "n": 0,
+       "t": "Llei 8/2010, de 23 de juny, de la Generalitat, de règim local de la Comunitat Valenciana (art. 21): regula el canvi de denominació dels municipis."
+      },
+      {
+       "n": 0,
+       "t": "Decret 69/2017, de 2 de juny, del Consell, de regulació dels criteris i procediment per al canvi de denominació dels municipis i altres entitats locals de la Comunitat Valenciana: l’article 4 preveu la intervenció de l’AVL; l’article 2.2 exigeix que la nova denominació s’adeqüe a la tradició històrica i lingüística; l’article 7.1.a obliga a incloure en l’expedient un estudi tècnic amb els fonaments històrics i lingüístics del canvi, i l’article 13.2 atribueix al Consell la resolució del procediment. El preàmbul del decret indica que «es procurarà evitar la forma bilingüe» i que es prioritzarà la forma endònima del topònim."
+      },
+      {
+       "n": 0,
+       "t": "Llei 25/1999, de 6 de juliol, per la qual es declaren cooficials les denominacions Alacant, Castelló i València per a les províncies de la Comunitat Valenciana."
+      }
+     ]
+    },
+    {
+     "titol": "6.4. Normes en matèria lingüística general",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-42-4070908a9273200c.mp3",
+     "durada": 109.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.4. Normes en matèria lingüística general"
+      },
+      {
+       "n": 0,
+       "t": "Llei 4/1983, de 23 de novembre, d’ús i ensenyament del valencià: marc general de l’ús i l’ensenyament de la llengua; l’article 35 delimita les zones de predomini lingüístic, criteri invocat per l’AVL en matèria toponímica."
+      },
+      {
+       "n": 0,
+       "t": "Llei 1/2024, de 27 de juny, de la Generalitat, per la qual es regula la llibertat educativa: sobre la proposició de llei corresponent, l’AVL va emetre observacions el 26 d’abril de 2024."
+      },
+      {
+       "n": 0,
+       "t": "Acord del Consell de 29 d’abril de 2024 pel qual s’aproven els criteris lingüístics de l’Administració de la Generalitat: sobre el projecte corresponent, l’AVL havia emés l’informe recollit en l’Acord 48/2023 del Ple, de 22 de desembre de 2023."
+      },
+      {
+       "n": 0,
+       "t": "PER A AMPLIAR Els informes de l’AVL sobre projectes normatius són una font excel·lent per a preparar altres temes del temari: l’informe sobre el projecte d’ordre de la Junta Qualificadora de Coneixements de Valencià (Acord 2/2017 del Ple, de 27 de gener) és directament aprofitable per al tema 26; l’informe sobre els criteris lingüístics de l’Administració de la Generalitat (Acord 48/2023) ho és per al tema 21, i les al·legacions al projecte de decret de serveis lingüístics (Acord 28/2018) ho són per als temes de promoció lingüística."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 7"
+      }
+     ]
+    },
+    {
+     "titol": "Els acords de l’AVL: tipologia, procediment i publicitat",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-43-24bef51c4c2a621d.mp3",
+     "durada": 7.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els acords de l’AVL: tipologia, procediment i publicitat"
+      }
+     ]
+    },
+    {
+     "titol": "7.1. Classificació",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-44-0df4e78bf4634dc8.mp3",
+     "durada": 117.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.1. Classificació"
+      },
+      {
+       "n": 0,
+       "t": "La mateixa Acadèmia ordena els seus pronunciaments en tres categories, que es corresponen amb els tres blocs de l’apartat «Acords» del seu web institucional."
+      },
+      {
+       "n": 0,
+       "t": "Categoria. Definició. Base competencial. Efectes"
+      },
+      {
+       "n": 0,
+       "t": "Acords normatius. Pronunciaments que determinen o modifiquen la normativa oficial del valencià.. Art. 7.a de la Llei 7/1998 (i art. 7.c i 7.d en el cas del Dictamen del 2005).. Vinculants ex art. 5 de la Llei i art. 41 de l’Estatut. Publicació preceptiva en el DOGV (art. 26)."
+      },
+      {
+       "n": 0,
+       "t": "Acords no normatius. Declaracions institucionals, consideracions i posicionaments de la institució sobre qüestions de política lingüística o de commemoració.. Art. 7.d (vetlar per l’ús normal del valencià) i art. 7.g.. No tenen eficàcia normativa; valor institucional i orientador."
+      },
+      {
+       "n": 0,
+       "t": "Informes i dictàmens. Pronunciaments emesos a requeriment de les institucions públiques o a iniciativa pròpia sobre projectes normatius, toponímia i onomàstica.. Arts. 7.b, 7.c i 8 de la Llei 7/1998.. Preceptius quan els sol·licita el Consell sobre avantprojectes relacionats amb la normativa o l’onomàstica; no necessàriament vinculants quant al contingut."
+      }
+     ]
+    },
+    {
+     "titol": "7.2. Procediment d’aprovació d’un acord normatiu",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-45-4046346657fc4a17.mp3",
+     "durada": 96.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.2. Procediment d’aprovació d’un acord normatiu"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord 31/2018 documenta amb detall l’itinerari que segueixen les propostes normatives, d’acord amb les Normes internes de procediment de l’AVL:"
+      },
+      {
+       "n": 0,
+       "t": "La Secció de Lexicografia i Gramàtica elabora i aprova una proposta d’acord normatiu i la remet a la Junta de Govern."
+      },
+      {
+       "n": 0,
+       "t": "La Junta de Govern adopta l’acord d’inici del procediment i el notifica a tots els acadèmics."
+      },
+      {
+       "n": 0,
+       "t": "S’obri un termini d’esmenes per als acadèmics."
+      },
+      {
+       "n": 0,
+       "t": "La Secció, constituïda en ponència, informa les esmenes presentades i emet dictamen."
+      },
+      {
+       "n": 0,
+       "t": "Notificat el dictamen, els acadèmics que presenten les esmenes poden acceptar les propostes transaccionals de la ponència o mantenir les esmenes."
+      },
+      {
+       "n": 0,
+       "t": "El Ple debat la defensa del dictamen i de les esmenes mantingudes i adopta l’acord per majoria absoluta dels membres de dret."
+      },
+      {
+       "n": 0,
+       "t": "La Presidència ordena la publicació en el DOGV quan escau (art. 26 de la Llei i art. 72 del Reglament)."
+      },
+      {
+       "n": 0,
+       "t": "En l’Acord 22/2021 el procediment fou el mateix, però simplificat: dins del termini d’esmenes no se’n va registrar cap, de manera que el Ple va aprovar directament la proposta de la Secció."
+      }
+     ]
+    },
+    {
+     "titol": "7.3. Numeració, identificació i publicitat",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-46-bfa0afa9199bd8c9.mp3",
+     "durada": 74.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.3. Numeració, identificació i publicitat"
+      },
+      {
+       "n": 0,
+       "t": "Els acords de l’AVL s’identifiquen amb un número d’ordre i any i amb l’òrgan que els adopta: així, l’Acord 31/2018 és un acord del Ple i l’Acord 124/2016 és un acord de la Junta de Govern. Els acords normatius es publiquen en el DOGV mitjançant resolucions de la Presidència que en són el vehicle formal. Convé, doncs, distingir tres denominacions que sovint es confonen:"
+      },
+      {
+       "n": 0,
+       "t": "la data de la reunió plenària en què s’adopta l’acord (per exemple, 25 de març del 2002);"
+      },
+      {
+       "n": 0,
+       "t": "el número i la data de la resolució de la Presidència que n’ordena la publicació (Resolució 10/2002, de 4 d’abril);"
+      },
+      {
+       "n": 0,
+       "t": "la data i el número del DOGV en què apareix (DOGV núm. 4.229, de 16 d’abril del 2002)."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 8"
+      }
+     ]
+    },
+    {
+     "titol": "Els acords normatius de l’Acadèmia Valenciana de la Llengua",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-47-3a275c20ccf4f84f.mp3",
+     "durada": 36.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els acords normatius de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha adoptat cinc acords de caràcter normatiu. Els dos primers, del 2002, resolen la qüestió urgent del referent normatiu mentre s’elaboraven la gramàtica i el diccionari; el tercer, del 2005, fixa amb caràcter prescriptiu la doctrina sobre la denominació i l’entitat de la llengua; els dos darrers, del 2018 i del 2021, modifiquen convencions ortogràfiques concretes."
+      }
+     ]
+    },
+    {
+     "titol": "8.1. Acord de 25 de març del 2002: el referent normatiu oficial del valencià",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-48-0b88d7d605d0430c.mp3",
+     "durada": 315.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.1. Acord de 25 de març del 2002: el referent normatiu oficial del valencià"
+      },
+      {
+       "n": 0,
+       "t": "Publicació: Resolució 10/2002, de 4 d’abril, de la Presidència de l’AVL (DOGV núm. 4.229, de 16 d’abril del 2002), signada per la presidenta Ascensió Figueres Górriz."
+      },
+      {
+       "n": 0,
+       "t": "L’Acadèmia, constituïda el juliol del 2001, es trobava davant d’un problema pràctic immediat: l’article 5 de la Llei imposava a tota l’Administració l’observança de les seues decisions, però la institució encara no disposava d’obres normatives pròpies. L’acord resol aquesta situació amb una tècnica de recepció."
+      },
+      {
+       "n": 4,
+       "t": "a) Anunci de les obres normatives"
+      },
+      {
+       "n": 0,
+       "t": "L’Acadèmia declara que ha començat a elaborar una gramàtica valenciana i un diccionari valencià que, una vegada acabats i aprovats pel Ple, seran «els principals referents normatius oficials de l’idioma»."
+      },
+      {
+       "n": 4,
+       "t": "b) Els dos criteris bàsics"
+      },
+      {
+       "n": 0,
+       "t": "El respecte als principis consagrats en el Dictamen del CVC de 13 de juliol de 1998 i en la Llei 7/1998: l’actuació de l’AVL ha de partir de les aportacions dels gramàtics i lexicògrafs valencians, la tradició literària valenciana, la realitat lingüística genuïna i la normativització consolidada a partir de les Normes de Castelló, «que és un patrimoni lingüístic a preservar i enriquir»."
+      },
+      {
+       "n": 0,
+       "t": "La voluntat d’integració de les diverses sensibilitats lingüístiques existents en la Comunitat Valenciana i el compromís de tenir en compte les seues aportacions respectives."
+      },
+      {
+       "n": 4,
+       "t": "c) Els tres àmbits de reconeixement oficial"
+      },
+      {
+       "n": 0,
+       "t": "L’acord reconeix com a oficials, «a fi de prioritzar i recuperar solucions lingüístiques genuïnes», tres conjunts de solucions:"
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Contingut. Exemples de l’acord"
+      },
+      {
+       "n": 0,
+       "t": "a) Grafies. Les grafies genuïnes de nombroses paraules usades pels escriptors clàssics i pels lexicògrafs valencians més prestigiosos.. Manteniment de la a: arrancar, avançar, llançar, traure. Manteniment de la e: redó, bàlsem, cànter. Formes sense r adventícia: orde, murta, cartó."
+      },
+      {
+       "n": 0,
+       "t": "b) Morfologia i sintaxi. Les característiques morfològiques i sintàctiques valencianes genuïnes.. Plurals en -s (foscs, trists, texts); plurals en -ns (hòmens, jóvens); demostratius simples (este, eixe); possessius meua, teua, seua; numerals huit, dèsset, huitanta; incoatius en -isc--ix; imperfets de subjuntiu en -ara, -era, -ira; infinitius tindre, vindre, valdre; participis en -it; distinció per / per a davant d’infinitiu; distinció al + infinitiu i en + infinitiu; concordança del participi passat."
+      },
+      {
+       "n": 0,
+       "t": "c) Lèxic i fraseologia. El ric repertori lèxic i fraseològic valencià, procurant incorporar les aportacions específiques de les comarques.. defendre, faena, trellat, calfar, torcar, servici, espenta, verdader, juí, a soles, a tothora; aportacions comarcals com bonegar, encanar-se, rua, bellugar-se, moixó."
+      },
+      {
+       "n": 4,
+       "t": "d) El referent normatiu transitori"
+      },
+      {
+       "n": 0,
+       "t": "La decisió central de l’acord és la següent: mentre es fan els treballs indicats, s’aprova com a referent normatiu oficial del valencià, a tots els efectes, «el conjunt de criteris ortogràfics, gramaticals i lèxics usats en els texts i documents oficials de la Conselleria de la Generalitat Valenciana responsable de l’aplicació i desplegament de la Llei d’Ús i Ensenyament del Valencià des de l’aprovació d’esta llei (1983) fins a la data d’adopció d’este acord»."
+      },
+      {
+       "n": 0,
+       "t": "Es tracta, doncs, d’una recepció per remissió: l’AVL no redacta una norma nova, sinó que oficialitza la praxi normativa consolidada de l’Administració educativa valenciana entre 1983 i 2002."
+      }
+     ]
+    },
+    {
+     "titol": "8.2. Acord de 20 de maig del 2002: refosa i ampliació del referent normatiu",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-49-d42c1ef058e9df8b.mp3",
+     "durada": 571.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.2. Acord de 20 de maig del 2002: refosa i ampliació del referent normatiu"
+      },
+      {
+       "n": 0,
+       "t": "Publicació: Resolució 12/2002, de 31 de maig, de la Presidència de l’AVL (codi [2002/A6019]), signada per Ascensió Figueres Górriz."
+      },
+      {
+       "n": 4,
+       "t": "a) Origen: una consulta de l’article 8"
+      },
+      {
+       "n": 0,
+       "t": "El 23 d’abril del 2002, el conseller de Cultura i Educació va sol·licitar a l’AVL, a l’empara de l’article 8 de la Llei 7/1998, un dictamen lingüístic en què es demanava ampliar l’exemplificació de l’acord de 25 de març, «per a poder determinar el model de referència en l’ús del valencià per les institucions públiques». L’acord de 20 de maig respon a aquesta consulta, alhora que refon i complementa l’acord anterior."
+      },
+      {
+       "n": 4,
+       "t": "b) Els quatre criteris interpretatius"
+      },
+      {
+       "n": 0,
+       "t": "Abans de la part dispositiva, el Ple fixa un conjunt de precisions doctrinals de gran valor conceptual, que convé conéixer perquè constitueixen la teoria de la norma que l’AVL aplica:"
+      },
+      {
+       "n": 0,
+       "t": "El concepte de normativa, complementari del de varietat, no anul·la les distincions d’ús institucional i personal, ni col·loquial i estàndard: admetre un mot no vol dir considerar-lo l’únic vàlid per a qualsevol ús i situació comunicativa."
+      },
+      {
+       "n": 0,
+       "t": "La noció de genuí (propi o particular), complementària de la de general, no ha de fer predominar els elements geogràfics sobre els socials, els estilístics, els històrics, els pragmàtics o els idiolectals: admetre que una paraula o un fet gramatical és valencià genuí no vol dir que ho haja estat sempre, ni que ho siga de totes les comarques, ni que no ho siga en altres territoris del sistema lingüístic."
+      },
+      {
+       "n": 0,
+       "t": "La noció de paraula o de fet gramatical no és separable del context ni de l’ús: admetre una paraula no explica res sobre les seues accepcions, la seua vitalitat i les seues restriccions."
+      },
+      {
+       "n": 0,
+       "t": "La noció de valencià aplicada a les paraules o fets gramaticals no nega la diversitat social i territorial valenciana: tota dualitat o multiplicitat de paraules i usos no és normativa sinó pragmàtica, i està destinada a evolucionar o simplificar-se diacrònicament."
+      },
+      {
+       "n": 0,
+       "t": "El Ple hi afig una consideració de prudència institucional: considera suficient, «ara com ara», el referent normatiu aprovat el 25 de març, i no estima necessari endinsar-se reiteradament en una anàlisi casuística, per no perdre la coherència dels textos normatius que aleshores elaborava."
+      },
+      {
+       "n": 4,
+       "t": "c) Part dispositiva I: ratificació i el programa SALT 2.0"
+      },
+      {
+       "n": 0,
+       "t": "El Ple ratifica que, mentre no s’aproven la gramàtica i el diccionari o altres textos prescriptius, el referent normatiu oficial és el conjunt de criteris usats en els textos i documents oficials de la conselleria competent entre 1983 i el 25 de març del 2002. I hi afig una precisió operativa de gran transcendència pràctica:"
+      },
+      {
+       "n": 0,
+       "t": "«En este sentit, es declaren oficials els continguts del programa informàtic SALT 2.0 Traductor i Corrector de Valencià, de la Generalitat Valenciana, a excepció de tots els elements lingüístics marcats explícitament com a vulgarismes, estrangerismes i col·loquialismes, els quals seran en el futur objecte d’estudi.» Acord del Ple de l’AVL de 20 de maig del 2002, punt I"
+      },
+      {
+       "n": 4,
+       "t": "d) Part dispositiva II: el repertori de formes oficials"
+      },
+      {
+       "n": 0,
+       "t": "El punt II reconeix com a oficials tres grans blocs de solucions, amb dos advertiments que en governen la lectura:"
+      },
+      {
+       "n": 0,
+       "t": "quan es dona una solució doble, la forma que figura en primer lloc és, en general, la més estesa i habitual en l’idioma valencià;"
+      },
+      {
+       "n": 0,
+       "t": "les formes precedides d’un asterisc no són recomanables en els registres formals."
+      },
+      {
+       "n": 0,
+       "t": "Bloc. Apartats. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "1. Grafies. 1.1 · 1.2 · 1.3. Variants amb a preferibles a les variants amb e o o (baina, febra, sagí, arrancar, nàixer, traure); variants amb e preferibles a les variants amb a, i o o (amerar, bàlsem, cànter, cementeri, redó, sépia); grafia sense ròtica adventícia (alfàbega, cartó, desorde, murta, orde), però orquestra —amb r etimològica— i tresor —amb r patrimonial."
+      },
+      {
+       "n": 0,
+       "t": "2. Morfologia i sintaxi. 2.1 a 2.16. Setze apartats: plurals en -s i en -ns; demostratius simples i reforçats; possessius; numerals; incoatius; imperfets de subjuntiu; infinitius tindre, vindre, valdre; participis en -it; adverbis de temps i de lloc; conjunció mentres-mentre; distinció per-per a; al + infinitiu i en + infinitiu; ús de com a; concordança del participi passat amb el pronom acusatiu de tercera persona com a construcció preferent."
+      },
+      {
+       "n": 0,
+       "t": "3. Lèxic i fraseologia. 3.1 a 3.8. Vuit apartats ordenats segons la documentació històrica i la vitalitat: mots vius documentats en els clàssics dels segles XIII-XVI; parelles de variants o sinònims clàssics; parelles amb predomini del primer terme en valencià general; parelles amb el primer terme documentat en el període clàssic; mots vius no documentats en els clàssics; innovacions del valencià modern; mots clàssics que conviuen amb neologismes o manlleus naturalitzats, i unitats fraseològiques."
+      },
+      {
+       "n": 0,
+       "t": "Alguns exemples il·lustratius de cada tipus de parella lèxica, útils per a reconéixer el criteri de classificació:"
+      },
+      {
+       "n": 0,
+       "t": "Apartat. Criteri. Exemples"
+      },
+      {
+       "n": 0,
+       "t": "3.2. Variants o sinònims vius i documentats en la llengua clàssica. afonar / esfondrar; arrel / raïl; calfar / escalfar; dacsa / panís; defendre / defensar; oroneta / oronella; roig / vermell"
+      },
+      {
+       "n": 0,
+       "t": "3.3. Documentats en textos medievals; el primer predomina en valencià general i el segon alterna en registres formals. alacrà / escorpí; arena / sorra; juí / judici; llanda / llauna; mitat / meitat; perjuí / perjudici; servici / servei"
+      },
+      {
+       "n": 0,
+       "t": "3.5. Mots vius no documentats en textos dels segles XIII-XVI. coentor / coïssor; corfa / escorça; gasto / despesa; *iaio / avi; quadro / quadre; xicotet / petit"
+      },
+      {
+       "n": 0,
+       "t": "3.6. Innovacions del valencià modern. amollar, bigot, botella, calcetí, catxerulo, milotxa, rogle, roín, tomaca; amb asterisc: *boçar, *botijós, *desficaci, *tararot"
+      },
+      {
+       "n": 0,
+       "t": "3.8. Unitats fraseològiques, generalment pròpies de la comunicació oral espontània. a estall, a soles, a tothora, al remat, bona cosa, fer ois, fer rogle, ser oli en un cresol, traure trellat"
+      },
+      {
+       "n": 0,
+       "t": "RECORDA L’acord de 25 de març estableix el referent normatiu; el de 20 de maig el ratifica, el refon i l’amplia i respon a una consulta de la Conselleria de Cultura i Educació. El de 20 de maig incorpora la declaració d’oficialitat dels continguts del SALT 2.0, amb l’excepció dels elements marcats com a vulgarismes, estrangerismes i col·loquialismes. Els dos criteris de lectura del repertori —ordre de preferència i asterisc— són preguntables literalment."
+      }
+     ]
+    },
+    {
+     "titol": "8.3. Acord 1/2005: Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-50-5f2fdcb54b064246.mp3",
+     "durada": 578.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.3. Acord 1/2005: Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià"
+      },
+      {
+       "n": 0,
+       "t": "Adopció: reunió plenària de 9 de febrer del 2005, al monestir de Sant Miquel dels Reis. Publicació: DOGV núm. 4.983, de 12 d’abril del 2005, amb una correcció d’errades publicada el 6 de maig del 2005. Es va editar també com a volum 4 de la col·lecció Documents de les Publicacions de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "És, sens dubte, l’acord de major projecció pública de la institució i el que amb més probabilitat apareixerà en l’examen."
+      },
+      {
+       "n": 4,
+       "t": "a) Base competencial i antecedents"
+      },
+      {
+       "n": 0,
+       "t": "L’acord invoca els articles 4, 7.c i 7.d de la Llei 7/1998 i, quant als efectes, l’article 5 i l’article 26. Com a antecedent immediat cita la Declaració institucional sobre el nom i entitat del valencià i sobre la normativa oficial vigent, aprovada pel Ple el 19 de desembre del 2003, que ja establia quatre postulats: la denominació valencià és tradicional, històrica, legal, estatutària i la més adequada al marc institucional; no és incompatible amb altres denominacions també tradicionals, històriques i legals; el nom i la naturalesa de la llengua no han de ser objecte de polèmiques ni d’instrumentalització cultural, social ni política, i la diversitat onomàstica no pot servir de base a iniciatives que projecten una imatge fragmentada del sistema lingüístic."
+      },
+      {
+       "n": 4,
+       "t": "b) Part resolutiva de l’acord"
+      },
+      {
+       "n": 0,
+       "t": "Aprovar, amb caràcter prescriptiu, el Dictamen."
+      },
+      {
+       "n": 0,
+       "t": "Publicar-lo en el DOGV, atés l’article 26, als efectes previstos en l’article 5 de la mateixa llei."
+      },
+      {
+       "n": 0,
+       "t": "Comunicar-lo al Govern Valencià i a les Corts Valencianes."
+      },
+      {
+       "n": 0,
+       "t": "Transmetre’l al Govern d’Espanya, al Congrés dels Diputats i al Senat, així com a les altres entitats normatives de les llengües de l’Estat."
+      },
+      {
+       "n": 0,
+       "t": "Difondre’l entre la societat valenciana i, molt especialment, entre les universitats i les entitats que s’ocupen de la promoció del valencià."
+      },
+      {
+       "n": 4,
+       "t": "c) Els nou punts del Dictamen"
+      },
+      {
+       "n": 0,
+       "t": "Punt. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "1. D’acord amb les aportacions més solvents de la romanística acumulades des del segle XIX, la llengua pròpia i històrica dels valencians és també la que comparteixen Catalunya, les Illes Balears i el Principat d’Andorra, i és així mateix la llengua històrica i pròpia de la franja oriental aragonesa, l’Alguer i el departament francés dels Pirineus Orientals. Tots aquests parlars constitueixen un mateix sistema lingüístic. Dins d’aquest conjunt, el valencià té la mateixa jerarquia i dignitat que qualsevol altra modalitat territorial."
+      },
+      {
+       "n": 0,
+       "t": "2. Que una llengua es parle en diferents demarcacions polítiques no és exclusiu del valencià, sinó la situació més habitual en les llengües del món (portugués, anglés, castellà)."
+      },
+      {
+       "n": 0,
+       "t": "3. Compartir una llengua equival a compartir el llegat cultural transmés en aquesta llengua, però no implica que els valencians no tinguen senyes d’identitat i característiques culturals pròpies i clarament diferenciades."
+      },
+      {
+       "n": 0,
+       "t": "4. En l’àmbit valencià la llengua ha rebut majoritàriament el nom de valencià o llengua valenciana, que es generalitzà sobretot a partir de la segona meitat del segle XV. La denominació històrica de valencià ha coexistit amb la de català, documentada en fonts valencianes i generalitzada en la romanística; també hi ha testimonis de fórmules compostes o sincrètiques."
+      },
+      {
+       "n": 0,
+       "t": "5. La denominació valencià és l’establida en l’Estatut i, per tant, és el terme més adequat per a designar la llengua pròpia a la Comunitat Valenciana. Aquest nom pot designar tant la globalitat de la llengua com, amb un abast semàntic més restringit, la modalitat idiomàtica pròpia. També és plenament vàlida la denominació llengua valenciana, sense que implique que es tracte d’un idioma diferent."
+      },
+      {
+       "n": 0,
+       "t": "6. A Espanya hi ha dues denominacions igualment legals: valencià, per l’Estatut valencià, i català, pels estatuts de Catalunya i les Illes Balears, avalada per l’ordenament jurídic i la jurisprudència. L’AVL considera necessari que els governs implicats adopten mesures —fórmules sincrètiques o similars— perquè, especialment fora de l’àmbit lingüístic, s’harmonitze la dualitat onomàstica amb la projecció de l’idioma com a entitat cohesionada i no fragmentada."
+      },
+      {
+       "n": 0,
+       "t": "7. Sobre el model de codificació: hi ha models centralistes (italià), models de varietat composicional (èuscar batua) i models que respecten les modalitats dins la unitat (portugués de Portugal i del Brasil). L’AVL considera aquest darrer el més adequat i proposa, per al conjunt de la llengua, una codificació policèntrica alhora que convergent."
+      },
+      {
+       "n": 0,
+       "t": "8. En l’àmbit valencià, la codificació incorpora les característiques pròpies dels parlars valencians, la qual cosa permet disposar de versions valencianes pròpies (mitjans, productes audiovisuals, aplicacions informàtiques, mercat editorial, textos litúrgics) i no s’ha d’interpretar com a signe de fragmentació, sinó com una via de promoure l’ús acostant el model als usuaris."
+      },
+      {
+       "n": 0,
+       "t": "9. En els usos oficials i institucionals d’abast general fora de tot l’àmbit territorial de la llengua s’hauria d’utilitzar un model de llengua convergent, basat en formes clàssiques integradores, la determinació i aprovació del qual correspondria a les diferents institucions amb competències normatives sobre la llengua compartida."
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen es tanca amb una crida a les institucions valencianes, les administracions, els poders públics, el sistema educatiu i els mitjans i entitats amb finançament públic perquè ajusten les seues iniciatives als principis del document, i amb una crida als parlants perquè cooperen en la solució del conflicte lingüístic valencià, allunyant-se «tant de qualsevol temptació fragmentarista com de qualsevol esperit uniformitzador monocèntric»."
+      },
+      {
+       "n": 4,
+       "t": "d) Els nou annexos"
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen incorpora nou annexos documentals que constitueixen el seu aparat probatori. Convé conéixer-ne l’ordre i el contingut:"
+      },
+      {
+       "n": 0,
+       "t": "Annex. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "1. Testimonis que documenten la identificació del concepte llengua amb el de sistema lingüístic (diccionaris i manuals de lingüística)."
+      },
+      {
+       "n": 0,
+       "t": "2. Testimonis de l’ús de la denominació valencià o llengua valenciana (des d’Antoni Canals, 1395, fins a Sanchis Guarner, 1950)."
+      },
+      {
+       "n": 0,
+       "t": "3. Testimonis de la consciència del particularisme lingüístic i onomàstic valencià."
+      },
+      {
+       "n": 0,
+       "t": "4. Testimonis valencians de la consciència de compartir una mateixa llengua amb catalans i balears."
+      },
+      {
+       "n": 0,
+       "t": "5. Textos valencians que documenten l’ús de la denominació català o llengua catalana per a la llengua pròpia dels valencians."
+      },
+      {
+       "n": 0,
+       "t": "6. Testimonis valencians de l’ús de denominacions compostes (vulgari catalanico sive valentino, català-valencià-balear…)."
+      },
+      {
+       "n": 0,
+       "t": "7. Testimonis de l’ús de termes distints de valencià i català (llemosí, bacavés…)."
+      },
+      {
+       "n": 0,
+       "t": "8. Normes de l’ordenament jurídic espanyol que homologuen l’idioma propi dels valencians i el català (RD 1888/1984, RD 2360/1984, RD 1435/1990 i l’Ordre del MEC de 29 de novembre de 1995)."
+      },
+      {
+       "n": 0,
+       "t": "9. Sentències judicials que avalen la denominació català o la consideren sinònima o homologable a valencià: STC 75/1997, de 21 d’abril, i les sentències del TSJCV 330/2004, 393/2004 i 518/2004."
+      }
+     ]
+    },
+    {
+     "titol": "8.4. Acord 31/2018, d’1 de juny: convencions ortogràfiques",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-51-6ee0206e5e261fc6.mp3",
+     "durada": 293.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.4. Acord 31/2018, d’1 de juny: convencions ortogràfiques"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord núm. 31/2018 del Ple constitueix la primera modificació ortogràfica de calat adoptada per l’AVL. La motivació que hi consta és doble: la dificultat d’aprenentatge i assimilació de determinades convencions gràfiques, i el principi de convergència amb les solucions ja adoptades en la resta de l’àmbit lingüístic, «un dels principis bàsics de la Gramàtica normativa valenciana, inspirat en la idea del policentrisme convergent propugnada per Manuel Sanchis Guarner i en la doctrina gramatical dels mestres Josep Giner, Carles Salvador i Enric Valor»."
+      },
+      {
+       "n": 0,
+       "t": "L’acord invoca, com a precedent doctrinal, la proposta de reducció substancial dels diacrítics que ja havia fet el gramàtic valencià Josep Giner, similar a la propugnada posteriorment per Joan Solà."
+      },
+      {
+       "n": 4,
+       "t": "a) Els cinc blocs de novetats"
+      },
+      {
+       "n": 0,
+       "t": "Reducció de l’accent diacrític a quinze casos."
+      },
+      {
+       "n": 0,
+       "t": "Ús sense dièresi dels derivats cultes acabats en -al: laical, helicoidal, ovoidal, romboidal, trapezoidal, xifoidal."
+      },
+      {
+       "n": 0,
+       "t": "Supressió del guionet en casos com correcuita, cuitacorrents, a matadegolla, corimori, ratbuf, sucamulla."
+      },
+      {
+       "n": 0,
+       "t": "Ús del guionet en els derivats dels compostos amb punt cardinal (nord-estejar, sud-americanització); quan el prefix precedeix una locució, un sintagma lexicalitzat o una paraula que ja porta guionet (pro-drets humans, ex-director general, anti-nord-americà); de manera discrecional quan la combinació puga generar homònims (ex-pres, pre-ocupació), i quan els termes d’un compost no responen a un concepte unitari (tractat hispano-portugués)."
+      },
+      {
+       "n": 0,
+       "t": "Duplicació de la r (rr) per a representar el so vibrant [r] entre vocals precedit d’un prefix o d’un radical: arrítmia, correferent, erradicar, cefalorraquidi, otorrinolaringòleg, neurorràfia."
+      },
+      {
+       "n": 4,
+       "t": "b) Els quinze accents diacrítics"
+      },
+      {
+       "n": 0,
+       "t": "La llista és tancada i memoritzable. Cada parell oposa la forma amb accent diacrític a la forma sense accent."
+      },
+      {
+       "n": 0,
+       "t": "Amb diacrític. Sense diacrític. Amb diacrític. Sense diacrític"
+      },
+      {
+       "n": 0,
+       "t": "bé, béns. be. què. que"
+      },
+      {
+       "n": 0,
+       "t": "déu, déus. deu, deus. sé. se"
+      },
+      {
+       "n": 0,
+       "t": "és. es. sí, sís. si, sis"
+      },
+      {
+       "n": 0,
+       "t": "mà. ma. sòl, sòls. sol, sols"
+      },
+      {
+       "n": 0,
+       "t": "més. mes. són. son"
+      },
+      {
+       "n": 0,
+       "t": "món. mon. té. te"
+      },
+      {
+       "n": 0,
+       "t": "pèl, pèls. pel, pels. ús. us"
+      },
+      {
+       "n": 0,
+       "t": "vós. vos"
+      },
+      {
+       "n": 4,
+       "t": "c) El règim transitori"
+      },
+      {
+       "n": 0,
+       "t": "El punt segon de l’acord estableix un doble règim temporal:"
+      },
+      {
+       "n": 0,
+       "t": "per als diacrítics, un període de tres anys durant el qual serien vigents tant la norma tradicional com la nova; acabat el termini, s’adoptaria com a solució única la norma nova. L’AVL es comprometia a aplicar la reducció de manera prioritària des de l’aprovació de l’acord;"
+      },
+      {
+       "n": 0,
+       "t": "per a la resta de punts —dièresi, guionet i duplicació de la r—, l’AVL revisaria i consensuaria les decisions, en un període de tres anys, amb la resta d’institucions de la llengua que actuen com a referents normatius, «amb la finalitat d’aconseguir unes regles comprensibles i aplicables»."
+      },
+      {
+       "n": 0,
+       "t": "Aquest compromís de revisió és el que dona lloc, exactament tres anys després, a l’Acord 22/2021."
+      }
+     ]
+    },
+    {
+     "titol": "8.5. Acord 22/2021, de 4 de juny: resolució de les qüestions pendents",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-52-000edf96e7c22dbf.mp3",
+     "durada": 307.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.5. Acord 22/2021, de 4 de juny: resolució de les qüestions pendents"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord núm. 22/2021, de caràcter normatiu, resol «les qüestions ortogràfiques que quedaven pendents en l’Acord del Ple núm. 31/2018, d’1 de juny, així com altres observacions complementàries». La Secció de Lexicografia i Gramàtica va elaborar la proposta després de reflexionar sobre la incidència i el grau d’acceptabilitat de les propostes normatives i de coordinar-se amb la comissió mixta AVL – Institut d’Estudis Catalans."
+      },
+      {
+       "n": 4,
+       "t": "a) Solucions ratificades"
+      },
+      {
+       "n": 0,
+       "t": "l’ús sense dièresi dels derivats cultes acabats en -al;"
+      },
+      {
+       "n": 0,
+       "t": "la supressió del guionet en correcuita, cuitacorrents, a matadegolla, sucamulla;"
+      },
+      {
+       "n": 0,
+       "t": "l’ús del guionet en els compostos amb guionet per raons fonètiques (nord-estejar, sud-americanització) i, de manera discrecional, quan els termes d’un compost no responen sempre a un concepte unitari;"
+      },
+      {
+       "n": 0,
+       "t": "la duplicació de la r en les paraules formades amb els prefixos a- privatiu, co- (variant de con-) i e- (< ex-), i en els compostos formats amb els radicals raqui(o), reo, rin(o), riz(o) i rodo, i amb les terminacions -rafia, -ragia, -rea, -rexi, -rinc i -oide."
+      },
+      {
+       "n": 4,
+       "t": "b) Solucions modificades: el tractament dels prefixos"
+      },
+      {
+       "n": 0,
+       "t": "La modificació més important afecta la regla del guionet amb prefixos. La solució vigent des del 2018 —posar guionet quan el prefix precedia una locució, un sintagma lexicalitzat o una paraula que ja duia guionet— se substitueix per una regla de separació amb espai:"
+      },
+      {
+       "n": 0,
+       "t": "Regla general. Excepcions: el prefix va separat"
+      },
+      {
+       "n": 0,
+       "t": "En general, quan es formen nous mots per prefixació, el prefix va aglutinat a la paraula: asocial, exalcalde, sotssecretari, vicerector, proafroamericà, pluridisciplinari. També van aglutinats els casos, generalment associats a càrrecs, en què la unió del prefix i la primera paraula ja representa una unitat lèxica preexistent: exvicepresident primer, subdirector general.. Quan el prefix precedeix una locució lexicalitzada: N + Adj (pseudo casc blau, pro drets humans); Adj + N (vice primer ministre, ex alt càrrec); N + prep. + SN (anti pena de mort, pro llei de l’avortament); expressions llatines (pro pater familias, anti in vitro) i manlleus no adaptats (anti kale borroka). · Quan el prefix s’uneix a una paraula amb un element gràfic específic: guionet (pseudo ciència-ficció, anti nord-americà, pro ping-pong), majúscula (ex Unió Soviètica), sigles (ex URSS), símbol (anti e-mail), xifra (sub 21), cometes (ex “hippy”) o cursiva (anti rock-and-roll)."
+      },
+      {
+       "n": 0,
+       "t": "La segona modificació afecta els casos d’homonímia: quan la prefixació puga donar lloc a formes homònimes o detonants, el prefix no anirà aglutinat —però tampoc amb guionet—: ex pres, pre ocupació, co rector, ex exiliat."
+      },
+      {
+       "n": 4,
+       "t": "c) Observacions complementàries"
+      },
+      {
+       "n": 0,
+       "t": "Tot i que l’accentuació diacrítica ha quedat reduïda a uns pocs casos, de manera discrecional es podrà mantenir l’accent diacrític quan el mot que l’ha perdut puga crear malentesos en contextos aïllats, com ara en la retolació, els cartells o els indicadors. L’acord posa l’exemple del títol teatral Els ossos del tossal («part de l’esquelet») enfront de Els óssos del tossal («animal»)."
+      },
+      {
+       "n": 0,
+       "t": "Per regla general, la negació no s’usa sense guionet davant de substantius i adjectius (la no confessionalitat, no militant). Discrecionalment, si interessa destacar un ús lexicalitzat com a prefix, es pot marcar amb guionet; alguns d’aquests usos ja estan consolidats i figuren en els diccionaris: no-jo, no-res, no-violència, no-metall."
+      }
+     ]
+    },
+    {
+     "titol": "8.6. Quadre comparatiu dels cinc acords normatius",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-53-e9f541950562e2ac.mp3",
+     "durada": 145.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.6. Quadre comparatiu dels cinc acords normatius"
+      },
+      {
+       "n": 0,
+       "t": "Acord. Data del Ple. Publicació / identificació. Objecte"
+      },
+      {
+       "n": 0,
+       "t": "Acord sobre el referent normatiu. 25.03.2002. Resolució 10/2002, de 4 d’abril (DOGV núm. 4.229, 16.04.2002). Aprova el referent normatiu oficial del valencià i reconeix com a oficials grafies, trets morfosintàctics i lèxic genuïns."
+      },
+      {
+       "n": 0,
+       "t": "Acord de refosa i ampliació. 20.05.2002. Resolució 12/2002, de 31 de maig. Ratifica, refon i complementa l’anterior; declara oficials els continguts del SALT 2.0; desplega el repertori de formes."
+      },
+      {
+       "n": 0,
+       "t": "Acord 1/2005 (Dictamen). 09.02.2005. DOGV núm. 4.983, 12.04.2005 (correcció 06.05.2005). Aprova amb caràcter prescriptiu la doctrina sobre la denominació i l’entitat del valencià."
+      },
+      {
+       "n": 0,
+       "t": "Acord 31/2018. 01.06.2018. Acord del Ple núm. 31/2018. Modifica convencions ortogràfiques: diacrítics, dièresi, guionet i duplicació de la r. Règim transitori de tres anys."
+      },
+      {
+       "n": 0,
+       "t": "Acord 22/2021. 04.06.2021. Acord del Ple núm. 22/2021. Ratifica, modifica i completa l’acord anterior; nova regla de prefixació; observacions sobre diacrítics discrecionals i sobre no."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 9"
+      }
+     ]
+    },
+    {
+     "titol": "Les obres normatives derivades dels acords",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-54-4f709905bf5ffe7f.mp3",
+     "durada": 287.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Les obres normatives derivades dels acords"
+      },
+      {
+       "n": 0,
+       "t": "Els acords normatius del 2002 anunciaven una gramàtica i un diccionari com a «principals referents normatius oficials de l’idioma». El compliment d’aquesta previsió ha donat lloc a un corpus d’obres que constitueixen, avui, la concreció efectiva de la normativa de l’AVL. L’article 26 de la Llei ordena publicar en el DOGV les resolucions que afecten «el Diccionari, la Normativa i les Entrades», de manera que aquestes obres arriben al DOGV per la via de resolucions o d’informacions públiques de la Presidència."
+      },
+      {
+       "n": 0,
+       "t": "Obra. Acord / resolució. Any. Caràcter"
+      },
+      {
+       "n": 0,
+       "t": "Diccionari ortogràfic i de pronunciació del valencià (DOPV). Acord 7/2005, de 27 de maig. 2006 (DOGV 24.07.2006). Text normatiu. Concreta els principis ortogràfics i fixa límits i abast de la normativa quant al lèxic, amb un sistema de marques que jerarquitza variants."
+      },
+      {
+       "n": 0,
+       "t": "Gramàtica normativa valenciana (GNV). Acord 19/2005, de 2 de desembre. 2006 (DOGV 30.11.2006, núm. 5398). Text normatiu i obra gramatical de referència. Col·lecció Textos Normatius, 1."
+      },
+      {
+       "n": 0,
+       "t": "Corpus toponímic valencià. —. 2009. Obra de referència en matèria toponímica."
+      },
+      {
+       "n": 0,
+       "t": "Diccionari normatiu valencià (DNV). Acord 2/2014, de 31 de gener; Resolució de 13 de novembre de 2017 (DOGV núm. 8184, 05.12.2017). 2014 (1a ed. electrònica). Obra lexicogràfica de referència. La Resolució del 2017 fa públic que el DNV constitueix normativa lingüística de l’idioma valencià i que la versió vigent en cada moment és la de la consulta electrònica. Actualment supera les noranta-quatre mil entrades."
+      },
+      {
+       "n": 0,
+       "t": "Criteris per a la fixació de la toponímia valenciana. —. 2015. Manual metodològic; distingeix el tractament de la toponímia major i la menor."
+      },
+      {
+       "n": 0,
+       "t": "Gramàtica valenciana bàsica (GVB). —. 2016. Versió divulgativa de la normativa gramatical, d’estructura més senzilla i terminologia menys tècnica. Col·lecció Textos Normatius, 3."
+      },
+      {
+       "n": 0,
+       "t": "Vocabulari de noms de persona. —. 2017. Obra de referència antroponímica."
+      },
+      {
+       "n": 0,
+       "t": "Nomenclàtor Toponímic Valencià (NTV). AVL i Institut Cartogràfic Valencià. 2026. Repertori toponímic oficial elaborat conjuntament amb l’ICV."
+      },
+      {
+       "n": 0,
+       "t": "L’aplicació web Gramàtic-ON («Gramàtiques Normatives Valencianes») facilita l’accés conjunt a la GNV i a la GVB i hi afig recursos i utilitats de consulta. El Portal Terminològic Valencià i el Corpus Informatitzat del Valencià (CIVAL), objecte dels temes 4 i 5 del temari, completen la infraestructura de recursos de la institució."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA L’ordre cronològic de les obres normatives és: . Les obres es van aprovar per acord del Ple identificat amb número i any; la publicació en el DOGV pot ser posterior en mesos o anys. La Resolució de 13 de novembre de 2017 és clau: declara que el DNV constitueix normativa lingüística i que la versió vigent és l’electrònica."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 10"
+      }
+     ]
+    },
+    {
+     "titol": "Acords no normatius, declaracions institucionals i informes",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-55-500a732376e73118.mp3",
+     "durada": 34.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Acords no normatius, declaracions institucionals i informes"
+      },
+      {
+       "n": 0,
+       "t": "Al costat dels cinc acords normatius, l’AVL ha adoptat un nombre elevat d’acords no normatius —declaracions institucionals i consideracions— i d’informes. Encara que no fixen normativa, són rellevants per a comprendre la funció de vetlar per l’ús normal del valencià (art. 7.d) i sovint proporcionen material aprofitable per a altres temes del temari."
+      }
+     ]
+    },
+    {
+     "titol": "10.1. Declaracions institucionals i consideracions més significatives",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-56-4feed3af9191f503.mp3",
+     "durada": 196.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.1. Declaracions institucionals i consideracions més significatives"
+      },
+      {
+       "n": 0,
+       "t": "Data. Document"
+      },
+      {
+       "n": 0,
+       "t": "18.12.2002. 70é aniversari de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "23.07.2003. Declaració sobre les eleccions del 2003."
+      },
+      {
+       "n": 0,
+       "t": "20.11.2003. 20é aniversari de la Llei d’ús i ensenyament del valencià."
+      },
+      {
+       "n": 0,
+       "t": "19.12.2003. Declaració institucional Nom i entitat del valencià (antecedent directe del Dictamen del 2005)."
+      },
+      {
+       "n": 0,
+       "t": "26.03.2004. Marc de referència per a l’elaboració de materials curriculars en valencià."
+      },
+      {
+       "n": 0,
+       "t": "20.04.2007. Declaració sobre la commemoració del 300é aniversari de la batalla d’Almansa."
+      },
+      {
+       "n": 0,
+       "t": "29.06.2007. Declaració institucional amb motiu de la constitució dels òrgans de representació i govern dels valencians."
+      },
+      {
+       "n": 0,
+       "t": "21.12.2007. 75é aniversari de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "26.06.2009. Actuacions sobre la presentació del Llibre blanc de l’ús del valencià II."
+      },
+      {
+       "n": 0,
+       "t": "28.01.2011. Declaració sobre el valencià en el sistema educatiu."
+      },
+      {
+       "n": 0,
+       "t": "25.11.2011. Consideracions sobre l’establiment d’un pla general plurilingüe en el sistema educatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "03.07.2015 i 17.07.2020. Declaracions institucionals amb motiu de la constitució dels òrgans de representació i govern dels valencians."
+      },
+      {
+       "n": 0,
+       "t": "13.01.2017. Declaració sobre la competència lingüística del personal de les administracions valencianes com a garantia dels drets lingüístics dels valencians."
+      },
+      {
+       "n": 0,
+       "t": "26.04.2024. Observacions al voltant de la proposició de llei per la qual es regula la llibertat educativa."
+      },
+      {
+       "n": 0,
+       "t": "06.09.2024. Declaració institucional amb motiu del centenari del naixement de Vicent Andrés Estellés."
+      },
+      {
+       "n": 0,
+       "t": "2024. Declaració institucional sobre el projecte de pressupost per al 2025 aprovat pel Govern valencià."
+      }
+     ]
+    },
+    {
+     "titol": "10.2. Informes",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-57-8c2b0879d6168bf1.mp3",
+     "durada": 214.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.2. Informes"
+      },
+      {
+       "n": 0,
+       "t": "Els informes s’emeten a requeriment de les institucions públiques (art. 7.c) o en el marc de la consulta preceptiva de l’article 8, i s’identifiquen amb el número d’acord de l’òrgan que els aprova —el Ple o la Junta de Govern."
+      },
+      {
+       "n": 0,
+       "t": "Acord. Objecte"
+      },
+      {
+       "n": 0,
+       "t": "Acord 1/2013 del Ple, d’11 de gener. Informes a l’avantprojecte de llei de l’Acadèmia Valenciana de la Llengua."
+      },
+      {
+       "n": 0,
+       "t": "Acords 116, 117 i 118/2012 de la Junta de Govern. Projecte de decret pel qual es regula el plurilingüisme en l’ensenyament no universitari."
+      },
+      {
+       "n": 0,
+       "t": "Acords 123 i 181/2014 i 75 i 143/2015. Projectes de decret de currículum d’educació primària, secundària i batxillerat, i ordre del projecte lingüístic de centre."
+      },
+      {
+       "n": 0,
+       "t": "Informe de 13.09.2016. Criteris lingüístics de la Generalitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Acord 124/2016 de la Junta de Govern, de 19 d’octubre. Projecte de decret de canvi de denominació dels municipis i altres entitats locals."
+      },
+      {
+       "n": 0,
+       "t": "Acord 133/2016 de la Junta de Govern, de 27 d’octubre. Projecte de decret d’usos institucionals i administratius de les llengües oficials en l’Administració de la Generalitat."
+      },
+      {
+       "n": 0,
+       "t": "Acord 140/2016 de la Junta de Govern, de 8 de novembre. Projecte de decret del model lingüístic educatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "Acord 2/2017 del Ple, de 27 de gener. Projecte d’ordre reguladora dels certificats de la Junta Qualificadora de Coneixements de Valencià, el personal examinador i l’homologació i validació d’altres títols."
+      },
+      {
+       "n": 0,
+       "t": "Acord 28/2018, de 25 de maig. Al·legacions al projecte de decret de serveis lingüístics valencians i de creació de la Xarxa Pública dels Serveis Lingüístics Valencians."
+      },
+      {
+       "n": 0,
+       "t": "Acord 26/2019 del Ple, de 6 de setembre. Avantprojecte de llei de la funció pública valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Acord 48/2023 del Ple, de 22 de desembre. Criteris lingüístics de l’Administració de la Generalitat."
+      },
+      {
+       "n": 0,
+       "t": "Informe de 26.06.2025. Vulneracions jurídiques que justifiquen la interposició d’un recurs d’inconstitucionalitat contra la Secció 17 de la Llei 6/2025, de pressupostos de la Generalitat per al 2025."
+      },
+      {
+       "n": 0,
+       "t": "Acord 10/2026 del Ple, de 27 de febrer. Informe sobre la forma proposada per l’Ajuntament de València com a nova denominació oficial del municipi."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 11"
+      }
+     ]
+    },
+    {
+     "titol": "L’AVL en l’actualitat (2016-2026)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-58-d24c635208b77402.mp3",
+     "durada": 27.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "L’AVL en l’actualitat (2016-2026)"
+      },
+      {
+       "n": 0,
+       "t": "Un tribunal d’oposició valora especialment que l’opositor conega l’estat actual de la institució. Aquest apartat recull els fets rellevants dels últims anys, amb la precaució que la situació pot haver evolucionat: convé verificar-ne l’actualització en el web institucional abans de l’examen."
+      }
+     ]
+    },
+    {
+     "titol": "11.1. Les renovacions per terços de 2016, 2021 i 2026",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-59-600190ca09bb07a6.mp3",
+     "durada": 139.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.1. Les renovacions per terços de 2016, 2021 i 2026"
+      },
+      {
+       "n": 0,
+       "t": "Les Corts Valencianes van elegir els vint-i-un acadèmics inicials el juny del 2001 i l’Acadèmia es va constituir el 23 de juliol del 2001, en un acte celebrat al Saló de Corts del Palau de la Generalitat. En aplicació de l’article 11.2 de la Llei, el mandat inicial de quinze anys va vèncer el 2016 i des d’aleshores la renovació és quinquennal i per terços."
+      },
+      {
+       "n": 0,
+       "t": "Renovació. Any. Característiques"
+      },
+      {
+       "n": 0,
+       "t": "Primera. 2016. Primera renovació sense intervenció de les Corts Valencianes: elecció per cooptació del Ple, amb sorteig previ per insaculació per a determinar els acadèmics substituïts."
+      },
+      {
+       "n": 0,
+       "t": "Segona. 2021. Sorteig per insaculació i elecció de set dones, en aplicació de la Llei 12/2017. Presa de possessió el 16 de juny del 2021."
+      },
+      {
+       "n": 0,
+       "t": "Tercera. 2026. No va caldre sorteig, perquè només restaven per renovar els set acadèmics elegits el 2001 que continuaven en el càrrec. El Ple va elegir el 6 de març del 2026 Vicent Beltran, M. Isabel Guardiola, Enric Guinot, Susanna Lliberós, Miquel Àngel Pradilla, Toni Sabater i Carles Segura, en substitució d’Artur Ahuir, Àngel Calpe, Verònica Cantó, Jordi Colomina, Ramon Ferrer, Josep Palomero i Alfons Vila, el mandat dels quals finalitzava el 15 de juny del 2026. La presa de possessió es va celebrar el 17 de juny del 2026."
+      },
+      {
+       "n": 0,
+       "t": "Amb aquesta darrera renovació, la composició de gènere de l’Acadèmia va passar d’onze homes i deu dones a onze dones i deu homes."
+      }
+     ]
+    },
+    {
+     "titol": "11.2. La Junta de Govern elegida el 2026",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-60-be1b0daf933aa850.mp3",
+     "durada": 105.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.2. La Junta de Govern elegida el 2026"
+      },
+      {
+       "n": 0,
+       "t": "Les persones que han presidit l’AVL des de la seua constitució són Ascensió Figueres Górriz, Ramon Ferrer Navarro, Verònica Cantó Doménech —elegida el març del 2021— i, des del 2026, M. Àngels Francés Díez."
+      },
+      {
+       "n": 0,
+       "t": "El Ple celebrat el 17 de juliol del 2026 va elegir per unanimitat, amb el suport dels dèsset acadèmics presents, la nova Junta de Govern:"
+      },
+      {
+       "n": 0,
+       "t": "Càrrec. Titular"
+      },
+      {
+       "n": 0,
+       "t": "Presidenta. M. Àngels Francés Díez (Alcoi, 1976), catedràtica de Literatura Catalana Contemporània de la Universitat d’Alacant, acadèmica des del 2021"
+      },
+      {
+       "n": 0,
+       "t": "Vicepresidenta. Rosa Agost"
+      },
+      {
+       "n": 0,
+       "t": "Secretària. Immaculada Cerdà"
+      },
+      {
+       "n": 0,
+       "t": "Vocals. Vicenta Tasa i Carles Segura"
+      },
+      {
+       "n": 0,
+       "t": "D’acord amb l’article 18 de la Llei i l’article 38 del Reglament, la presidenta electa va ser nomenada per decret del president de la Generalitat i va prendre possessió en acte públic i solemne, celebrat al Palau de la Generalitat el 3 de setembre del 2026. Inicia així un mandat de cinc anys. És la tercera dona i la quarta persona que ocupa el càrrec."
+      }
+     ]
+    },
+    {
+     "titol": "11.3. El conflicte pressupostari del 2025",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-61-404d9e0b888812c8.mp3",
+     "durada": 229.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.3. El conflicte pressupostari del 2025"
+      },
+      {
+       "n": 0,
+       "t": "El 2025 es va produir el conflicte institucional més greu de la història de l’AVL. La Llei 6/2025, de 30 de maig, de pressupostos de la Generalitat per a l’exercici 2025 (DOGV núm. 10120, de 31 de maig del 2025) va alterar substancialment l’avantprojecte de pressupost aprovat pel Ple de l’Acadèmia i remés al Consell."
+      },
+      {
+       "n": 0,
+       "t": "L’informe del lletrat secretari general de l’AVL, de 26 de juny del 2025, sistematitza els arguments jurídics. Els punts essencials són els següents:"
+      },
+      {
+       "n": 0,
+       "t": "Vulneració de l’autonomia orgànica, funcional i pressupostària."
+      },
+      {
+       "n": 0,
+       "t": "Vulneració del principi de seguretat jurídica i de jerarquia normativa. L’informe invoca la doctrina del Tribunal Constitucional —STC 238/2007, de 21 de novembre, i STC 248/2007, de 13 de desembre— segons la qual la llei de pressupostos no pot desconéixer el règim substantiu establit per altres normes sense modificar-les prèviament."
+      },
+      {
+       "n": 0,
+       "t": "Vulneració de drets lingüístics. La reducció afecta l’actualització permanent de les obres normatives d’accés gratuït —DNV, GNV i Nomenclàtor Toponímic Valencià—, i col·loca els usuaris del valencià en situació de discriminació respecte dels usuaris del castellà (art. 6.4 de l’Estatut)."
+      },
+      {
+       "n": 0,
+       "t": "Vulneració de la Llei de funció pública valenciana. La dotació del capítol 1 va passar de 2.764.865 € a 2.164.880 €, insuficient per a proveir totes les places de la plantilla, contra l’article 47.2 de la Llei 4/2021."
+      },
+      {
+       "n": 0,
+       "t": "Desviació de poder. El pressupost destinava 763.000 € —més d’un 25 % del total— a subvencionar activitats alienes a les competències de l’AVL, incloent-hi la rehabilitació de la seu d’una entitat cultural. L’informe hi aplica la definició de l’article 70.2 de la Llei reguladora de la jurisdicció contenciosa administrativa."
+      },
+      {
+       "n": 0,
+       "t": "Vulneració de l’article 5 de la Llei de creació. L’AVL no pot concedir ajudes econòmiques a entitats amb finançament públic que no observen la normativa lingüística oficial."
+      },
+      {
+       "n": 0,
+       "t": "L’informe conclou que aquestes vulneracions justifiquen la interposició d’un recurs d’inconstitucionalitat contra la Secció 17 de la Llei 6/2025 i que cal restaurar l’autonomia orgànica, funcional i pressupostària de la institució."
+      },
+      {
+       "n": 0,
+       "t": "CLAU CONCEPTUAL L’argument central del conflicte és de tècnica jurídica: l’AVL és una institució estatutària protegida per la reserva de majoria de tres cinquenes parts de l’article 44.5 de l’Estatut. Allò que no es pot obtenir modificant l’Estatut o la Llei 7/1998 —perquè exigeixen majories qualificades— tampoc es pot obtenir indirectament per mitjà d’una llei ordinària de pressupostos."
+      }
+     ]
+    },
+    {
+     "titol": "11.4. L’informe sobre la denominació oficial del municipi de València (Acord 10/2026)",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-62-0558581b3b026578.mp3",
+     "durada": 252.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.4. L’informe sobre la denominació oficial del municipi de València (Acord 10/2026)"
+      },
+      {
+       "n": 0,
+       "t": "El 27 de febrer del 2026, el Ple de l’AVL va aprovar l’Acord 10/2026, pel qual s’emet informe sobre la forma que l’Ajuntament de València proposava com a nova denominació oficial del municipi: la forma bilingüe Valéncia / Valencia, amb accent agut en la forma valenciana."
+      },
+      {
+       "n": 0,
+       "t": "L’expedient s’inscriu en el procediment del Decret 69/2017 i té com a precedent l’informe del Ple de 16 de desembre del 2016, que va donar lloc al Decret 16/2017, de 10 de febrer, del Consell, pel qual s’aprovà el canvi de denominació del municipi de Valencia per la forma exclusiva en valencià València (DOGV núm. 7979, de 14 de febrer del 2017)."
+      },
+      {
+       "n": 0,
+       "t": "Les conclusions de l’informe del 2026 són set, i il·lustren molt bé la metodologia toponímica de la institució:"
+      },
+      {
+       "n": 0,
+       "t": "en la determinació de la forma gràfica d’un topònim major s’han d’integrar, sense jerarquies rígides, els pilars clàssics de l’onomàstica —etimologia, pronunciació i documentació històrica—, complementats pel criteri d’integració en el corpus normatiu;"
+      },
+      {
+       "n": 0,
+       "t": "l’etimologia és clara: Valentia «fortalesa», amb e breu llatina; el principi de coherència interna amb el lèxic comú (paciència, consciència), els antropònims (Clemència, Prudència) i els exònims adaptats (Florència, Palència) exigeix -ència i, per tant, València;"
+      },
+      {
+       "n": 0,
+       "t": "la distribució actual del timbre de la e tònica no es correlaciona amb la divisió dialectal occidental/oriental, de manera que aquest argument no és vàlid;"
+      },
+      {
+       "n": 0,
+       "t": "l’accentuació greu és la fixada per la tradició ortogràfica des de les Normes de Castelló (1932) —que ja recollien València com a exemple en les bases 22, 23 i 32— fins a la GNV (2006), el DNV (2014) i el NTV (2026);"
+      },
+      {
+       "n": 0,
+       "t": "l’ONU, a través del Grup d’Experts en Noms Geogràfics (GENUNG), considera el principi d’univocitat l’ideal de la normalització toponímica, i el valencià, com a llengua minoritzada, requereix una protecció específica (art. 6.5 de l’Estatut i art. 3.3 de la Constitució);"
+      },
+      {
+       "n": 0,
+       "t": "en el tràmit d’informació pública es van presentar 922 al·legacions en contra i 61 a favor de la forma Valéncia, davant de només quatre al·legacions en el precedent del 2016;"
+      },
+      {
+       "n": 0,
+       "t": "l’estudi tècnic aportat no ofereix un corpus argumental sòlid que justifique l’abandonament de la forma normativa i oficial."
+      },
+      {
+       "n": 0,
+       "t": "En conseqüència, l’AVL ratifica íntegrament la posició del 2016 i conclou que la denominació correcta i adequada des del punt de vista històric i lingüístic és la forma tradicional i única València; subsidiàriament, si l’Ajuntament optara per la forma doble, la solució bilingüe adequada seria València / Valencia."
+      },
+      {
+       "n": 0,
+       "t": "Aquest informe és, a més, una peça excel·lent per a preparar la part del temari relativa a la fixació de la toponímia, perquè exposa amb detall els criteris de l’AVL i les fonts que hi aplica: el manual Criteris per a la fixació de la toponímia valenciana (2015), el Corpus toponímic valencià (2009) i el Nomenclàtor Toponímic Valencià (2026)."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 12"
+      }
+     ]
+    },
+    {
+     "titol": "Síntesi: dades, dates i preceptes de memorització obligatòria",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-63-ef0a701f64c9e5a6.mp3",
+     "durada": 7.2,
+     "text": [
+      {
+       "n": 1,
+       "t": "Síntesi: dades, dates i preceptes de memorització obligatòria"
+      }
+     ]
+    },
+    {
+     "titol": "12.1. Cronologia",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-64-0da54c0551fab115.mp3",
+     "durada": 309.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.1. Cronologia"
+      },
+      {
+       "n": 0,
+       "t": "Data. Fet"
+      },
+      {
+       "n": 0,
+       "t": "21.12.1932. Signatura de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "01.07.1982. Llei orgànica 5/1982, d’Estatut d’autonomia de la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "23.11.1983. Llei 4/1983, d’ús i ensenyament del valencià."
+      },
+      {
+       "n": 0,
+       "t": "17.09.1997. Les Corts Valencianes encarreguen un dictamen al Consell Valencià de Cultura."
+      },
+      {
+       "n": 0,
+       "t": "13.07.1998. El Ple del CVC aprova el Dictamen sobre la llengua."
+      },
+      {
+       "n": 0,
+       "t": "16.09.1998. Llei 7/1998, de creació de l’Acadèmia Valenciana de la Llengua."
+      },
+      {
+       "n": 0,
+       "t": "Juny 2001. Les Corts Valencianes elegeixen els vint-i-un acadèmics."
+      },
+      {
+       "n": 0,
+       "t": "23.07.2001. Constitució de l’AVL al Palau de la Generalitat."
+      },
+      {
+       "n": 0,
+       "t": "25.03.2002. Acord sobre el referent normatiu oficial del valencià (Resolució 10/2002)."
+      },
+      {
+       "n": 0,
+       "t": "20.05.2002. Acord de refosa i ampliació del referent normatiu (Resolució 12/2002)."
+      },
+      {
+       "n": 0,
+       "t": "17.09.2002. Decret 158/2002, pel qual s’aprova el Reglament de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "19.12.2003. Declaració institucional sobre el nom i entitat del valencià."
+      },
+      {
+       "n": 0,
+       "t": "09.02.2005. Acord 1/2005: Dictamen sobre la denominació i l’entitat del valencià."
+      },
+      {
+       "n": 0,
+       "t": "27.05.2005 / 02.12.2005. Acords 7/2005 i 19/2005: DOPV i GNV (publicades el 2006)."
+      },
+      {
+       "n": 0,
+       "t": "10.04.2006. Llei orgànica 1/2006: l’AVL entra en l’Estatut d’autonomia."
+      },
+      {
+       "n": 0,
+       "t": "31.01.2014. Acord 2/2014: aprovació del Diccionari normatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "2016. Primera renovació d’un terç dels acadèmics; publicació de la Gramàtica valenciana bàsica."
+      },
+      {
+       "n": 0,
+       "t": "02.11.2017. Llei 12/2017, de composició equilibrada de dones i homes."
+      },
+      {
+       "n": 0,
+       "t": "13.11.2017. Resolució que declara que el DNV constitueix normativa lingüística."
+      },
+      {
+       "n": 0,
+       "t": "01.06.2018. Acord 31/2018 sobre convencions ortogràfiques."
+      },
+      {
+       "n": 0,
+       "t": "04.06.2021. Acord 22/2021, que resol les qüestions pendents. Segona renovació per terços."
+      },
+      {
+       "n": 0,
+       "t": "22.12.2023. Acord 48/2023: informe sobre els criteris lingüístics de l’Administració de la Generalitat."
+      },
+      {
+       "n": 0,
+       "t": "30.05.2025. Llei 6/2025 de pressupostos: reducció de la Secció 17. Informe de l’AVL de 26 de juny."
+      },
+      {
+       "n": 0,
+       "t": "27.02.2026. Acord 10/2026: informe sobre la denominació oficial del municipi de València."
+      },
+      {
+       "n": 0,
+       "t": "17.06.2026. Presa de possessió dels set nous acadèmics: tercera renovació completada."
+      },
+      {
+       "n": 0,
+       "t": "17.07.2026 / 03.09.2026. Elecció i presa de possessió de M. Àngels Francés com a presidenta."
+      }
+     ]
+    },
+    {
+     "titol": "12.2. Preceptes clau",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-65-934d1154a5d96cff.mp3",
+     "durada": 270.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.2. Preceptes clau"
+      },
+      {
+       "n": 0,
+       "t": "Norma. Article. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "Estatut. 6.8. L’AVL és la institució normativa de l’idioma valencià."
+      },
+      {
+       "n": 0,
+       "t": "Estatut. 20.3. L’AVL és una de les sis institucions de la Generalitat."
+      },
+      {
+       "n": 0,
+       "t": "Estatut. 41. Funció normativa; aplicació obligatòria a totes les administracions públiques valencianes."
+      },
+      {
+       "n": 0,
+       "t": "Estatut. 44.5. Majoria de tres cinquenes parts per al desplegament legislatiu de les institucions de l’article 20.3."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 2. Institució pública adscrita a la Presidència, amb personalitat jurídica pròpia i autonomia orgànica, funcional i pressupostària."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 3. Funció: determinar i elaborar la normativa lingüística, partint de la tradició lexicogràfica i literària, la realitat genuïna i les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 4. Principis inspiradors: els del Dictamen del CVC de 13.07.1998."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 5. Eficàcia vinculant de les decisions."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 7. Set competències (a-g)."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 8. Consulta preceptiva del Consell: 60 dies, 30 en cas d’urgència; silenci positiu."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 10-11. Vint-i-un acadèmics; elecció inicial per les Corts per majoria de dos terços; mandat de quinze anys; renovació per terços cada cinc anys, per cooptació i insaculació."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 12-13. Incompatibilitats i causes de cessament."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 16-17. Atribucions del Ple i de la Junta de Govern."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 18-19. Elecció i atribucions del president: majoria absoluta, cinc anys, reelegible cinc anys més."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 26. Publicació en el DOGV de les resolucions que afecten el diccionari, la normativa i les entrades."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998. 34. El pressupost s’integra com a secció en els pressupostos de la Generalitat (Secció 17)."
+      },
+      {
+       "n": 0,
+       "t": "Decret 158/2002. 2. Vuit competències (s’hi afegeix l’estudi del patrimoni literari i documental)."
+      },
+      {
+       "n": 0,
+       "t": "Decret 158/2002. 6. El valencià és la llengua de la institució."
+      },
+      {
+       "n": 0,
+       "t": "Decret 158/2002. 13-15. Procediment de renovació i de cobertura de vacants."
+      },
+      {
+       "n": 0,
+       "t": "Decret 158/2002. 66. Vot personal i indelegable; votació secreta preceptiva per a elegir acadèmics i càrrecs."
+      },
+      {
+       "n": 0,
+       "t": "Decret 158/2002. 84. Reforma del Reglament: majoria absoluta i aprovació definitiva pel Consell."
+      }
+     ]
+    },
+    {
+     "titol": "12.3. Quinze idees-força",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-66-2b1b482b5efbb4fb.mp3",
+     "durada": 234.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.3. Quinze idees-força"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL naix per a resoldre dues llacunes que ni l’Estatut de 1982 ni la LUEV de 1983 van cobrir: l’entitat filològica de la llengua i la institució normativa competent."
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen del CVC de 13 de juliol de 1998 no és una norma, però té eficàcia jurídica indirecta: figura en el preàmbul de la Llei 7/1998 i l’article 4 hi remet."
+      },
+      {
+       "n": 0,
+       "t": "La Llei 7/1998 va seguir gairebé literalment la proposta del CVC, llevat de la durada del mandat: quinze anys en lloc de deu."
+      },
+      {
+       "n": 0,
+       "t": "L’AVL és una institució pública de la Generalitat, adscrita a la Presidència, amb personalitat jurídica pròpia i autonomia orgànica, funcional i pressupostària."
+      },
+      {
+       "n": 0,
+       "t": "Les seues decisions vinculen les institucions de la Generalitat, els poders públics, la resta d’administracions, el sistema educatiu i les entitats de titularitat pública o amb finançament públic."
+      },
+      {
+       "n": 0,
+       "t": "Des del 2006, l’Estatut qualifica l’AVL de la institució normativa de l’idioma valencià i imposa l’aplicació obligatòria de la seua normativa a totes les administracions públiques valencianes."
+      },
+      {
+       "n": 0,
+       "t": "La renovació dels acadèmics és per cooptació després dels primers quinze anys: la intervenció parlamentària és excepcional i inicial."
+      },
+      {
+       "n": 0,
+       "t": "Els acords normatius són cinc: 25.03.2002, 20.05.2002, 09.02.2005, 01.06.2018 i 04.06.2021."
+      },
+      {
+       "n": 0,
+       "t": "Els dos acords del 2002 resolen el problema del referent normatiu per recepció dels criteris de l’Administració educativa valenciana entre 1983 i 2002, amb declaració d’oficialitat dels continguts del SALT 2.0."
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen del 2005 té caràcter prescriptiu i afirma alhora la unitat del sistema lingüístic, la plena validesa de la denominació valencià i la codificació policèntrica i convergent."
+      },
+      {
+       "n": 0,
+       "t": "L’Acord 31/2018 redueix els accents diacrítics a quinze casos i simplifica dièresi, guionet i duplicació de la r, amb un règim transitori de tres anys."
+      },
+      {
+       "n": 0,
+       "t": "L’Acord 22/2021 ratifica, modifica i completa l’anterior, en coordinació amb la comissió mixta AVL – IEC, i substitueix el guionet per la separació amb espai en els casos de prefixació sobre locucions i elements gràfics especials."
+      },
+      {
+       "n": 0,
+       "t": "Les obres normatives —DOPV, GNV, DNV, GVB i NTV— són la concreció dels acords; la Resolució de 13.11.2017 declara que el DNV constitueix normativa lingüística."
+      },
+      {
+       "n": 0,
+       "t": "La Llei 12/2017 imposa la composició equilibrada de dones i homes en les renovacions de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "El conflicte pressupostari del 2025 i l’informe sobre el topònim València del 2026 són els dos episodis d’actualitat que millor il·lustren, respectivament, l’autonomia institucional i la competència toponímica de l’Acadèmia."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 13"
+      }
+     ]
+    },
+    {
+     "titol": "Per a ampliar",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-67-dcb6b887cc0c0cbd.mp3",
+     "durada": 16.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Per a ampliar"
+      },
+      {
+       "n": 0,
+       "t": "Les línies següents no formen part del contingut mínim exigible, però permeten respondre amb solvència les preguntes de matís i, sobretot, les de la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "13.1. La naturalesa jurídica de la normativa lingüística",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-68-aa77f4bfea3ff3f7.mp3",
+     "durada": 62.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.1. La naturalesa jurídica de la normativa lingüística"
+      },
+      {
+       "n": 0,
+       "t": "Una qüestió doctrinalment interessant és determinar quina classe de norma són els acords normatius de l’AVL. No són reglaments en sentit estricte —no els dicta l’Administració en exercici de la potestat reglamentària— ni disposicions legals. La construcció més coherent és considerar-los actes d’una institució estatutària amb potestat normativa sectorial atribuïda per llei, l’eficàcia dels quals deriva de l’article 5 de la Llei 7/1998 i de l’article 41 de l’Estatut, i la publicitat dels quals es garanteix mitjançant la publicació en el DOGV (art. 26). Aquesta qualificació explica que puguen ser invocats davant l’Administració i que el seu incompliment per un ens amb finançament públic siga jurídicament rellevant."
+      }
+     ]
+    },
+    {
+     "titol": "13.2. La distinció entre norma i model de llengua",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-69-721ac05f56f29624.mp3",
+     "durada": 69.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.2. La distinció entre norma i model de llengua"
+      },
+      {
+       "n": 0,
+       "t": "Els criteris interpretatius de l’acord de 20 de maig del 2002 anticipen una distinció fonamental per a l’exercici professional del tècnic lingüístic: norma i model de llengua no són el mateix. La norma delimita què és correcte; el model de llengua selecciona, dins del que és correcte, allò que és adequat per a un àmbit d’ús determinat. Els criteris lingüístics de les universitats valencianes i els criteris lingüístics de l’Administració de la Generalitat són models de llengua, no normes: poden preferir servei a servici o ordre a orde sense contradir l’AVL, perquè totes dues formes són normatives."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta distinció és la que permet entendre el punt 9 del Dictamen del 2005, quan reclama un model de llengua convergent per als usos oficials d’abast general fora de l’àmbit territorial de la llengua, compatible amb l’ús dels models propis de cada territori."
+      }
+     ]
+    },
+    {
+     "titol": "13.3. Relacions amb l’Institut d’Estudis Catalans",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-70-606db01551c4b39f.mp3",
+     "durada": 45.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.3. Relacions amb l’Institut d’Estudis Catalans"
+      },
+      {
+       "n": 0,
+       "t": "L’article 9.2 de la Llei i l’article 53.3 del Reglament habiliten les relacions horitzontals amb les entitats normatives de les altres llengües de l’Estat. La manifestació més visible d’aquesta habilitació és la comissió mixta AVL – IEC, la coordinació de la qual és invocada expressament en l’Acord 22/2021. Aquesta col·laboració és la traducció institucional del principi de policentrisme convergent formulat en el punt 7 del Dictamen del 2005."
+      }
+     ]
+    },
+    {
+     "titol": "13.4. Lectures recomanades",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-71-61fba932ead1cf2c.mp3",
+     "durada": 68.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.4. Lectures recomanades"
+      },
+      {
+       "n": 0,
+       "t": "El preàmbul complet de la Llei 7/1998: conté el Dictamen del CVC i és la millor síntesi disponible de la gènesi de la institució."
+      },
+      {
+       "n": 0,
+       "t": "El Dictamen del 2005 amb els nou annexos: l’annex 8 (normes que homologuen el valencià i el català) i l’annex 9 (jurisprudència) són especialment aprofitables."
+      },
+      {
+       "n": 0,
+       "t": "L’informe de 26 de juny del 2025 sobre el recurs d’inconstitucionalitat: és un manual pràctic sobre la naturalesa jurídica de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "L’Acord 10/2026 sobre el topònim València: exposa de manera ordenada la metodologia toponímica de la institució."
+      },
+      {
+       "n": 0,
+       "t": "La memòria anual de l’AVL, prevista en l’article 7.f de la Llei: permet actualitzar dades sobre activitats, publicacions i acords."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 14"
+      }
+     ]
+    },
+    {
+     "titol": "Bibliografia i fonts",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-72-4b62e909fa3f9e55.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Bibliografia i fonts"
+      }
+     ]
+    },
+    {
+     "titol": "14.1. Fonts normatives",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-73-221b6ac7519b2677.mp3",
+     "durada": 221.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.1. Fonts normatives"
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana. BOE, núm. 86, d’11 d’abril del 2006."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 4/1983, de 23 de novembre, d’ús i ensenyament del valencià."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua [1998/7973]."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’Acadèmia Valenciana de la Llengua [2002/9996]."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 25/1999, de 6 de juliol, per la qual es declaren cooficials les denominacions Alacant, Castelló i València."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 8/2010, de 23 de juny, de règim local de la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 1/2015, de 6 de febrer, d’hisenda pública, del sector públic instrumental i de subvencions."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 12/2017, de 2 de novembre, de modificació de les lleis reguladores de les institucions de la Generalitat per a garantir la igualtat entre dones i homes en els seus òrgans."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 69/2017, de 2 de juny, del Consell, de regulació dels criteris i procediment per al canvi de denominació dels municipis i altres entitats locals de la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 16/2017, de 10 de febrer, del Consell, pel qual s’aprova el canvi de denominació del municipi de Valencia per la forma en valencià de València. DOGV, núm. 7979, de 14 de febrer del 2017."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 4/2021, de 16 d’abril, de la funció pública valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 1/2024, de 27 de juny, per la qual es regula la llibertat educativa."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 6/2025, de 30 de maig, de pressupostos de la Generalitat per a l’exercici 2025. DOGV, núm. 10120, de 31 de maig del 2025."
+      }
+     ]
+    },
+    {
+     "titol": "14.2. Acords i documents de l’Acadèmia Valenciana de la Llengua",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-74-08d22a68ce04b170.mp3",
+     "durada": 180.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.2. Acords i documents de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 25 de març del 2002, pel qual s’aprova el referent normatiu oficial del valencià. Resolució 10/2002, de 4 d’abril, de la Presidència de l’AVL. DOGV, núm. 4.229, de 16 d’abril del 2002."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 20 de maig del 2002, en què es refon i es complementa l’acord de 25 de març del 2002. Resolució 12/2002, de 31 de maig, de la Presidència de l’AVL [2002/A6019]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià (Acord 1/2005, de 9 de febrer). València: Publicacions de l’AVL, 2005. Col·lecció Documents, 4. DOGV, núm. 4.983, de 12 d’abril del 2005."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord núm. 31/2018 pel qual s’aprova l’acord normatiu sobre algunes convencions ortogràfiques, d’1 de juny del 2018."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord núm. 22/2021, de caràcter normatiu, pel qual es resolen les qüestions ortogràfiques que quedaven pendents en l’Acord del Ple núm. 31/2018, de 4 de juny del 2021."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Informe sobre les vulneracions jurídiques que justifiquen la interposició d’un recurs d’inconstitucionalitat contra la Secció 17 (Acadèmia Valenciana de la Llengua) de l’estat de despeses de la Llei 6/2025, de 26 de juny del 2025."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Informe sobre la forma que proposa l’Ajuntament de València com a nova denominació oficial del municipi (Acord 10/2026 del Ple, de 27 de febrer del 2026)."
+      },
+      {
+       "n": 0,
+       "t": "CONSELL VALENCIÀ DE CULTURA. Dictamen sobre la llengua, aprovat pel Ple el 13 de juliol de 1998 [reproduït en el preàmbul de la Llei 7/1998]."
+      }
+     ]
+    },
+    {
+     "titol": "14.3. Obres normatives i de referència de l’AVL",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-75-6f7bffd4562d9011.mp3",
+     "durada": 132.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.3. Obres normatives i de referència de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari ortogràfic i de pronunciació del valencià. València: Publicacions de l’AVL, 2006."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica normativa valenciana. València: Publicacions de l’AVL, 2006. Col·lecció Textos Normatius, 1."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Corpus toponímic valencià. València: Publicacions de l’AVL, 2009."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari normatiu valencià. València: Publicacions de l’AVL, 2014 [1a ed. electrònica]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Criteris per a la fixació de la toponímia valenciana. València: Publicacions de l’AVL, 2015."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica valenciana bàsica. València: Publicacions de l’AVL, 2016. Col·lecció Textos Normatius, 3."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Vocabulari de noms de persona. València: Publicacions de l’AVL, 2017."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA i INSTITUT CARTOGRÀFIC VALENCIÀ. Nomenclàtor Toponímic Valencià, 2026."
+      }
+     ]
+    },
+    {
+     "titol": "14.4. Recursos en línia",
+     "audio": "audio/tema-01-l-academia-valenciana-de-la-llengua-legisl-76-47e27564ce7989fe.mp3",
+     "durada": 91.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.4. Recursos en línia"
+      },
+      {
+       "n": 0,
+       "t": "Acadèmia Valenciana de la Llengua: www.avl.gva.es (apartats «Legislació», «Acords», «Documents normatius» i «Publicacions»)."
+      },
+      {
+       "n": 0,
+       "t": "Diari Oficial de la Generalitat Valenciana: dogv.gva.es."
+      },
+      {
+       "n": 0,
+       "t": "Corts Valencianes: www.cortsvalencianes.es (butlletins oficials i diaris de sessions)."
+      },
+      {
+       "n": 0,
+       "t": "Aplicació Gramàtic-ON (GNV i GVB) i Diccionari normatiu valencià en línia, en el web de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "NOTA DE VERIFICACIÓ Tot el contingut d’aquest tema procedeix de fonts primàries: els textos íntegres de la Llei 7/1998, del Decret 158/2002, dels cinc acords normatius i dels informes de l’AVL de 2025 i 2026, consultats en el web institucional de l’Acadèmia i en el Diari Oficial de la Generalitat Valenciana, i els preceptes de l’Estatut d’autonomia en la redacció de la Llei orgànica 1/2006. Les dades sobre la composició i els òrgans de govern de la institució corresponen a la situació posterior a la presa de possessió de la Junta de Govern el 3 de setembre del 2026 i convé contrastar-les amb el web de l’AVL abans de l’examen."
+      }
+     ]
+    }
+   ]
+  },
   {
    "id": "tema-05-els-corpus-linguistics-i-el-cival-bo",
    "titol": "Tema 5. Els corpus lingüístics com a font de coneixement de l’evolució diacrònica d’una llengua: el CIVAL",
