@@ -1,0 +1,410 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#123A33">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icona-192.png">
+<link rel="apple-touch-icon" href="icona-192.png">
+<title>Temes de l'oposició</title>
+<style>
+:root{
+  --tinta:#123A33; --paper:#F3F6F4; --full:#FFFFFF; --grafit:#22302C; --suau:#5B6D67;
+  --boira:#D9E2DE; --retolador:#E8B83A; --retolador-fluix:rgba(232,184,58,.38);
+  --serif:"Iowan Old Style","Charter","Noto Serif","Source Serif Pro",Georgia,serif;
+  --sans:system-ui,-apple-system,Roboto,"Segoe UI",sans-serif;
+  color-scheme:light dark;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --tinta:#9FD6C6; --paper:#0F1D1A; --full:#16302A; --grafit:#E6EEEA; --suau:#9DB1AA;
+    --boira:#27433C; --retolador:#E8B83A; --retolador-fluix:rgba(232,184,58,.28);
+  }
+}
+*,*::before,*::after{box-sizing:inherit}
+html,body{margin:0;height:100%}
+body{background:var(--paper);color:var(--grafit);font:16px/1.5 var(--sans);-webkit-tap-highlight-color:transparent}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer;padding:0}
+button:focus-visible,input:focus-visible{outline:3px solid var(--retolador);outline-offset:2px;border-radius:6px}
+.amaga{display:none!important}
+
+/* ─── capçalera ─── */
+header{padding:22px 20px 10px;max-width:720px;margin:0 auto}
+header h1{font:600 1.9rem/1.15 var(--serif);margin:0 0 4px;letter-spacing:-.01em}
+header p{margin:0;color:var(--suau);font-size:.92rem}
+.cerca{margin:14px 0 4px;width:100%;padding:11px 14px;border-radius:12px;border:1px solid var(--boira);
+  background:var(--full);color:var(--grafit);font:inherit}
+
+main{max-width:720px;margin:0 auto;padding:0 12px 170px}
+
+/* ─── índex de temes ─── */
+.tema{display:grid;grid-template-columns:3.2rem 1fr auto;gap:4px 12px;align-items:start;
+  width:100%;text-align:left;padding:14px 8px;border-bottom:1px solid var(--boira)}
+.tema .num{font:500 1.9rem/1 var(--serif);color:var(--tinta);text-align:right;padding-top:2px}
+.tema .tit{font:600 1.04rem/1.3 var(--serif)}
+.tema .meta{grid-column:2;color:var(--suau);font-size:.83rem;display:flex;gap:12px;flex-wrap:wrap}
+.tema .baixa{grid-row:1/3;grid-column:3;align-self:center;font-size:.8rem;color:var(--suau);
+  border:1px solid var(--boira);border-radius:999px;padding:5px 10px;white-space:nowrap}
+.tema .baixa.fet{border-color:transparent;background:var(--retolador-fluix);color:var(--grafit)}
+.traç{grid-column:2;height:5px;border-radius:3px;background:var(--boira);overflow:hidden;margin-top:6px}
+.traç i{display:block;height:100%;background:var(--retolador);border-radius:3px}
+
+/* ─── vista de tema ─── */
+.torna{display:inline-flex;gap:6px;align-items:center;color:var(--suau);padding:8px 4px;font-size:.95rem}
+.cap-tema{padding:4px 8px 12px}
+.cap-tema h2{font:600 1.55rem/1.2 var(--serif);margin:4px 0 6px}
+.cap-tema .accions{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
+.boto{padding:9px 16px;border-radius:999px;border:1px solid var(--boira);background:var(--full);font-size:.92rem}
+.boto.fort{background:var(--tinta);color:var(--paper);border-color:var(--tinta);font-weight:600}
+.apartat{display:grid;grid-template-columns:1fr auto;gap:2px 10px;width:100%;text-align:left;
+  padding:13px 10px;border-top:1px solid var(--boira)}
+.apartat .t{font:500 1.02rem/1.35 var(--serif)}
+.apartat .d{color:var(--suau);font-size:.82rem;white-space:nowrap;padding-top:3px}
+.apartat.fet .t{color:var(--suau)}
+.apartat.fet .d::before{content:"✓ ";color:var(--tinta)}
+/* l'element memorable: el títol de l'apartat es va subratllant amb retolador mentre sona */
+.apartat.actiu .t{background:linear-gradient(transparent 58%,var(--retolador-fluix) 58%) no-repeat;
+  background-size:var(--p,0%) 100%;transition:background-size .5s linear}
+.apartat.actiu{background:color-mix(in srgb,var(--full) 70%,transparent)}
+.lectura{padding:6px 12px 24px;font:1.06rem/1.7 var(--serif);max-width:66ch}
+.lectura h3{font:600 1.15rem/1.35 var(--serif);margin:1.4em 0 .4em}
+.lectura p{margin:0 0 .8em}
+
+/* ─── reproductor ─── */
+.repro{position:fixed;left:0;right:0;bottom:0;background:var(--full);border-top:1px solid var(--boira);
+  padding:10px 16px calc(12px + env(safe-area-inset-bottom,0px));box-shadow:0 -6px 24px rgba(18,58,51,.08)}
+.repro .dins{max-width:720px;margin:0 auto}
+.repro .qui{font:600 .98rem/1.25 var(--serif);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.repro .on{font-size:.8rem;color:var(--suau);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.barra{display:flex;align-items:center;gap:10px;margin:8px 0 4px;font-size:.78rem;color:var(--suau);font-variant-numeric:tabular-nums}
+input[type=range]{flex:1;accent-color:var(--tinta);height:28px}
+.ctrl{display:flex;align-items:center;justify-content:space-between;gap:6px}
+.ctrl .r{width:44px;height:44px;border-radius:50%;display:grid;place-items:center;font-size:.8rem;font-weight:600}
+.ctrl .play{width:60px;height:60px;border-radius:50%;background:var(--tinta);color:var(--paper);display:grid;place-items:center}
+.ctrl svg{width:24px;height:24px;fill:currentColor}
+.ctrl .play svg{width:28px;height:28px}
+.xip{font-size:.8rem;border:1px solid var(--boira);border-radius:999px;padding:6px 10px;min-width:54px}
+.xip.on{background:var(--retolador-fluix);border-color:transparent}
+.buit{padding:40px 16px;color:var(--suau);text-align:center}
+.avis{position:fixed;left:50%;bottom:190px;transform:translateX(-50%);background:var(--grafit);color:var(--paper);
+  padding:9px 16px;border-radius:10px;font-size:.9rem;opacity:0;transition:opacity .25s;pointer-events:none;max-width:90vw}
+.avis.vist{opacity:1}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header id="cap">
+  <h1 id="titol-app">Temes de l'oposició</h1>
+  <p id="resum">Carregant…</p>
+  <input class="cerca" id="cerca" type="search" placeholder="Busca un tema" aria-label="Busca un tema">
+</header>
+
+<main>
+  <section id="vista-index"></section>
+  <section id="vista-tema" class="amaga"></section>
+</main>
+
+<div class="repro amaga" id="repro">
+  <div class="dins">
+    <button id="obri-actual" style="width:100%;text-align:left">
+      <div class="qui" id="r-apartat"></div>
+      <div class="on" id="r-tema"></div>
+    </button>
+    <div class="barra">
+      <span id="r-ara">0:00</span>
+      <input type="range" id="r-pos" min="0" max="1000" value="0" aria-label="Posició">
+      <span id="r-total">0:00</span>
+    </div>
+    <div class="ctrl">
+      <button class="xip" id="r-vel" aria-label="Velocitat">1×</button>
+      <button class="r" id="r-ant" aria-label="Apartat anterior"><svg viewBox="0 0 24 24"><path d="M6 5h2v14H6zM20 5v14L9 12z"/></svg></button>
+      <button class="r" id="r-rere" aria-label="Arrere 15 segons">−15</button>
+      <button class="play" id="r-play" aria-label="Reprodueix"><svg viewBox="0 0 24 24" id="r-ico"><path d="M8 5v14l11-7z"/></svg></button>
+      <button class="r" id="r-avant" aria-label="Avant 30 segons">+30</button>
+      <button class="r" id="r-seg" aria-label="Apartat següent"><svg viewBox="0 0 24 24"><path d="M16 5h2v14h-2zM4 5v14l11-7z"/></svg></button>
+      <button class="xip" id="r-son" aria-label="Temporitzador">⏾</button>
+    </div>
+  </div>
+</div>
+<div class="avis" id="avis" role="status"></div>
+<audio id="audio" preload="metadata"></audio>
+
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const au = $("#audio");
+const CAU = "audio-v1";
+const VELS = [0.9, 1, 1.15, 1.25, 1.5, 1.75, 2];
+const SONS = [0, 15, 30, 45, -1]; // minuts; -1 = en acabar l'apartat
+let dades = null, vistaTema = null, actual = null; // actual = {ti, si}
+let prog = llig("opo-progres", {});
+let darrer = llig("opo-darrer", null);
+let vel = llig("opo-vel", 1);
+let son = 0, sonFi = 0, sonTimer = null;
+
+function llig(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } }
+function guarda(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+function hm(s){ s = Math.max(0, Math.round(s||0)); const h = Math.floor(s/3600), m = Math.floor(s%3600/60), x = s%60;
+  return h ? `${h}:${String(m).padStart(2,"0")}:${String(x).padStart(2,"0")}` : `${m}:${String(x).padStart(2,"0")}`; }
+function durTxt(s){ const m = Math.round(s/60); return m >= 60 ? `${Math.floor(m/60)} h ${m%60} min` : `${m} min`; }
+function avis(t){ const a = $("#avis"); a.textContent = t; a.classList.add("vist"); clearTimeout(a._t); a._t = setTimeout(()=>a.classList.remove("vist"), 2200); }
+function esc(s){ return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+const RE_TEMA = /^\s*tema\s*(\d+)\s*[.:\-–]?\s*/i;
+function numTema(t, ti){ const m = RE_TEMA.exec(t.titol); return m ? +m[1] : ti + 1; }
+function titolNet(t){ return t.titol.replace(RE_TEMA, "") || t.titol; }
+function nomTema(t, ti){ return `Tema ${numTema(t, ti)}. ${titolNet(t)}`; }
+function progTema(t){ let fet = 0, tot = 0;
+  for (const s of t.seccions){ tot += s.durada; const p = prog[s.audio]; if (p) fet += p.fet ? s.durada : Math.min(p.t, s.durada); }
+  return tot ? fet/tot : 0; }
+
+// ─── dades ───
+async function carrega(){
+  try{
+    const r = await fetch("temes.json", {cache:"no-store"});
+    dades = await r.json();
+  }catch(e){
+    $("#resum").textContent = "No s'han pogut carregar els temes. Comprova la connexió.";
+    return;
+  }
+  document.title = dades.titol; $("#titol-app").textContent = dades.titol;
+  const hores = dades.temes.reduce((a,t)=>a+t.seccions.reduce((b,s)=>b+s.durada,0),0);
+  $("#resum").textContent = `${dades.temes.length} ${dades.temes.length === 1 ? "tema" : "temes"}, ${durTxt(hores)} d'àudio`;
+  netejaCau();
+  await pintaIndex();
+  if (darrer){
+    const ti = dades.temes.findIndex(t=>t.id===darrer.tema);
+    if (ti >= 0 && darrer.si < dades.temes[ti].seccions.length) prepara(ti, darrer.si, darrer.t, false);
+  }
+}
+
+async function descarregats(){
+  if (!("caches" in window)) return new Set();
+  const c = await caches.open(CAU);
+  return new Set((await c.keys()).map(r => new URL(r.url).pathname));
+}
+function camiAbs(a){ return new URL(a, location.href).pathname; }
+
+async function netejaCau(){
+  if (!("caches" in window)) return;
+  const valids = new Set(dades.temes.flatMap(t=>t.seccions.map(s=>camiAbs(s.audio))));
+  const c = await caches.open(CAU);
+  for (const r of await c.keys()) if (!valids.has(new URL(r.url).pathname)) c.delete(r);
+}
+
+// ─── índex ───
+async function pintaIndex(){
+  const baix = await descarregats();
+  const q = $("#cerca").value.trim().toLowerCase();
+  const v = $("#vista-index"); v.innerHTML = "";
+  dades.temes.forEach((t, ti) => {
+    if (q && !nomTema(t, ti).toLowerCase().includes(q)) return;
+    const dur = t.seccions.reduce((a,s)=>a+s.durada,0);
+    const p = progTema(t);
+    const totBaix = t.seccions.every(s=>baix.has(camiAbs(s.audio)));
+    const b = document.createElement("div");
+    b.className = "tema";
+    b.innerHTML = `
+      <div class="num">${numTema(t, ti)}</div>
+      <button class="tit" style="text-align:left">${esc(titolNet(t))}</button>
+      <button class="baixa ${totBaix?"fet":""}">${totBaix ? "Al mòbil" : "Guarda"}</button>
+      <div class="meta"><span>${t.seccions.length} apartats</span><span>${durTxt(dur)}</span>${p>0?`<span>${Math.round(p*100)} % escoltat</span>`:""}</div>
+      <div class="traç"><i style="width:${Math.round(p*100)}%"></i></div>`;
+    b.querySelector(".tit").onclick = () => obriTema(ti);
+    b.querySelector(".num").onclick = () => obriTema(ti);
+    b.querySelector(".baixa").onclick = e => guardaTema(ti, e.currentTarget);
+    v.appendChild(b);
+  });
+  if (!v.children.length) v.innerHTML = `<p class="buit">Cap tema coincideix amb la cerca.</p>`;
+}
+$("#cerca").addEventListener("input", pintaIndex);
+
+async function guardaTema(ti, boto){
+  if (!("caches" in window)){ avis("Aquest navegador no permet guardar àudio."); return; }
+  const t = dades.temes[ti], c = await caches.open(CAU);
+  const baix = await descarregats();
+  if (t.seccions.every(s=>baix.has(camiAbs(s.audio)))){
+    for (const s of t.seccions) await c.delete(camiAbs(s.audio));
+    avis("Tema esborrat del mòbil"); return refresca();
+  }
+  let n = 0;
+  for (const s of t.seccions){
+    boto.textContent = `${Math.round(n/t.seccions.length*100)} %`;
+    if (!baix.has(camiAbs(s.audio))){
+      try{ const r = await fetch(s.audio, {cache:"no-store"}); if (!r.ok) throw 0; await c.put(camiAbs(s.audio), r); }
+      catch(e){ avis("S'ha interromput la descàrrega. Torna-ho a provar amb connexió."); return refresca(); }
+    }
+    n++;
+  }
+  if (navigator.storage && navigator.storage.persist) navigator.storage.persist();
+  avis("Tema guardat: es pot escoltar sense connexió");
+  refresca();
+}
+function refresca(){ vistaTema === null ? pintaIndex() : obriTema(vistaTema, true); }
+
+// ─── vista de tema ───
+async function obriTema(ti, mantenScroll){
+  vistaTema = ti;
+  const t = dades.temes[ti], baix = await descarregats();
+  const totBaix = t.seccions.every(s=>baix.has(camiAbs(s.audio)));
+  const dur = t.seccions.reduce((a,s)=>a+s.durada,0);
+  const v = $("#vista-tema");
+  const primerPendent = Math.max(0, t.seccions.findIndex(s=>!(prog[s.audio]||{}).fet));
+  v.innerHTML = `
+    <button class="torna" id="torna">‹ Tots els temes</button>
+    <div class="cap-tema">
+      <div style="color:var(--suau);font-size:.9rem">Tema ${numTema(t, ti)}, ${durTxt(dur)}</div>
+      <h2>${esc(titolNet(t))}</h2>
+      <div class="accions">
+        <button class="boto fort" id="escolta">${progTema(t)>0 && progTema(t)<1 ? "Continua escoltant" : "Escolta el tema"}</button>
+        <button class="boto" id="guarda">${totBaix ? "Esborra del mòbil" : "Guarda per a escoltar sense connexió"}</button>
+      </div>
+    </div>
+    <div id="apartats"></div>
+    <div class="lectura" id="lectura"></div>`;
+  $("#torna").onclick = () => (history.state && history.state.v === "tema") ? history.back() : tornaIndex();
+  $("#escolta").onclick = () => { const si = primerPendent; const p = prog[t.seccions[si].audio]; prepara(ti, si, p && !p.fet ? p.t : 0, true); };
+  $("#guarda").onclick = e => guardaTema(ti, e.currentTarget);
+  const ap = $("#apartats");
+  t.seccions.forEach((s, si) => {
+    const b = document.createElement("button");
+    const p = prog[s.audio];
+    b.className = "apartat" + (p && p.fet ? " fet" : "");
+    b.dataset.si = si;
+    b.innerHTML = `<span class="t">${esc(s.titol)}</span><span class="d">${hm(s.durada)}</span>`;
+    b.onclick = () => { const pp = prog[s.audio]; prepara(ti, si, pp && !pp.fet ? pp.t : 0, true); };
+    ap.appendChild(b);
+  });
+  $("#vista-index").classList.add("amaga"); $("#cap").classList.add("amaga");
+  v.classList.remove("amaga");
+  pintaActiu();
+  if (!mantenScroll){ window.scrollTo(0,0); if (!(history.state && history.state.v === "tema")) history.pushState({v:"tema"}, ""); }
+}
+function tornaIndex(){
+  vistaTema = null;
+  $("#vista-tema").classList.add("amaga");
+  $("#vista-index").classList.remove("amaga"); $("#cap").classList.remove("amaga");
+  pintaIndex();
+}
+function pintaLectura(){
+  const l = $("#lectura"); if (!l || !actual || actual.ti !== vistaTema) { if (l) l.innerHTML = ""; return; }
+  const s = dades.temes[actual.ti].seccions[actual.si];
+  l.innerHTML = s.text.map(b => b.n ? `<h3>${esc(b.t)}</h3>` : `<p>${esc(b.t)}</p>`).join("");
+}
+function pintaActiu(){
+  document.querySelectorAll(".apartat").forEach(el => {
+    const on = actual && actual.ti === vistaTema && +el.dataset.si === actual.si;
+    el.classList.toggle("actiu", on);
+  });
+  pintaLectura();
+}
+
+// ─── reproducció ───
+function prepara(ti, si, t, juga){
+  actual = {ti, si};
+  const tema = dades.temes[ti], s = tema.seccions[si];
+  au.src = s.audio;
+  au.playbackRate = vel;
+  au.defaultPlaybackRate = vel;
+  const posa = () => { if (t > 0 && t < (au.duration || s.durada) - 2) au.currentTime = t; au.removeEventListener("loadedmetadata", posa); };
+  au.addEventListener("loadedmetadata", posa);
+  $("#r-apartat").textContent = s.titol;
+  $("#r-tema").textContent = nomTema(tema, ti);
+  $("#r-total").textContent = hm(s.durada);
+  $("#repro").classList.remove("amaga");
+  guarda("opo-darrer", {tema: tema.id, si, t: t||0});
+  if ("mediaSession" in navigator){
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: s.titol, artist: nomTema(tema, ti), album: dades.titol,
+      artwork: [{src:"icona-512.png", sizes:"512x512", type:"image/png"}]});
+  }
+  pintaActiu();
+  if (juga) au.play().catch(()=>{});
+}
+function jugaPausa(){ if (!actual) return; au.paused ? au.play().catch(()=>{}) : au.pause(); }
+function salta(d){ if (!actual) return; au.currentTime = Math.max(0, Math.min((au.duration||0)-0.5, au.currentTime + d)); }
+function canvia(d){
+  if (!actual) return;
+  if (d < 0 && au.currentTime > 5){ au.currentTime = 0; return; }
+  const tema = dades.temes[actual.ti], si = actual.si + d;
+  if (si >= 0 && si < tema.seccions.length) prepara(actual.ti, si, 0, true);
+}
+function desa(){
+  if (!actual) return;
+  const s = dades.temes[actual.ti].seccions[actual.si];
+  const p = prog[s.audio] || {t:0, fet:false};
+  p.t = au.currentTime;
+  if (au.duration && au.currentTime > au.duration - 3) p.fet = true;
+  prog[s.audio] = p; guarda("opo-progres", prog);
+  guarda("opo-darrer", {tema: dades.temes[actual.ti].id, si: actual.si, t: au.currentTime});
+}
+
+$("#r-play").onclick = jugaPausa;
+$("#r-rere").onclick = () => salta(-15);
+$("#r-avant").onclick = () => salta(30);
+$("#r-ant").onclick = () => canvia(-1);
+$("#r-seg").onclick = () => canvia(1);
+$("#obri-actual").onclick = () => { if (actual) obriTema(actual.ti); };
+$("#r-vel").onclick = () => {
+  vel = VELS[(VELS.indexOf(vel) + 1) % VELS.length] || 1;
+  au.playbackRate = vel; au.defaultPlaybackRate = vel; guarda("opo-vel", vel); pintaVel();
+};
+function pintaVel(){ $("#r-vel").textContent = `${String(vel).replace(".", ",")}×`; $("#r-vel").classList.toggle("on", vel !== 1); }
+$("#r-son").onclick = () => {
+  son = SONS[(SONS.indexOf(son) + 1) % SONS.length];
+  clearInterval(sonTimer);
+  if (son > 0){ sonFi = Date.now() + son*60000; sonTimer = setInterval(()=>{ if (Date.now() >= sonFi){ au.pause(); son = 0; clearInterval(sonTimer); pintaSon(); } else pintaSon(); }, 15000); }
+  avis(son === 0 ? "Temporitzador desactivat" : son < 0 ? "Pararé en acabar l'apartat" : `Pararé d'ací a ${son} minuts`);
+  pintaSon();
+};
+function pintaSon(){
+  const b = $("#r-son");
+  b.classList.toggle("on", son !== 0);
+  b.textContent = son === 0 ? "⏾" : son < 0 ? "⏾ fi" : `⏾ ${Math.max(1, Math.ceil((sonFi-Date.now())/60000))}′`;
+}
+
+const pos = $("#r-pos"); let arrossega = false;
+pos.addEventListener("input", () => { arrossega = true; $("#r-ara").textContent = hm(pos.value/1000*(au.duration||0)); });
+pos.addEventListener("change", () => { au.currentTime = pos.value/1000*(au.duration||0); arrossega = false; });
+
+let ultimDesa = 0;
+au.addEventListener("timeupdate", () => {
+  if (!au.duration) return;
+  const f = au.currentTime / au.duration;
+  if (!arrossega){ pos.value = Math.round(f*1000); $("#r-ara").textContent = hm(au.currentTime); }
+  const el = document.querySelector(".apartat.actiu"); if (el) el.style.setProperty("--p", (f*100).toFixed(1)+"%");
+  if (Date.now() - ultimDesa > 5000){ desa(); ultimDesa = Date.now(); }
+  if ("mediaSession" in navigator && navigator.mediaSession.setPositionState){
+    try{ navigator.mediaSession.setPositionState({duration: au.duration, playbackRate: au.playbackRate, position: au.currentTime}); }catch(e){}
+  }
+});
+au.addEventListener("play", () => { $("#r-ico").innerHTML = '<path d="M6 5h4v14H6zM14 5h4v14h-4z"/>'; $("#r-play").setAttribute("aria-label","Pausa"); });
+au.addEventListener("pause", () => { $("#r-ico").innerHTML = '<path d="M8 5v14l11-7z"/>'; $("#r-play").setAttribute("aria-label","Reprodueix"); desa(); });
+au.addEventListener("ended", () => {
+  desa();
+  if (vistaTema === actual.ti) document.querySelector(`.apartat[data-si="${actual.si}"]`)?.classList.add("fet");
+  if (son < 0){ son = 0; pintaSon(); return; }
+  const tema = dades.temes[actual.ti];
+  if (actual.si + 1 < tema.seccions.length) prepara(actual.ti, actual.si + 1, 0, true);
+  else avis("Tema acabat");
+});
+au.addEventListener("error", () => avis("No es pot reproduir aquest apartat. Si estàs sense connexió, guarda el tema abans."));
+
+if ("mediaSession" in navigator){
+  const ms = navigator.mediaSession, set = (a,f) => { try{ ms.setActionHandler(a,f); }catch(e){} };
+  set("play", () => au.play()); set("pause", () => au.pause());
+  set("previoustrack", () => canvia(-1)); set("nexttrack", () => canvia(1));
+  set("seekbackward", d => salta(-(d.seekOffset||15))); set("seekforward", d => salta(d.seekOffset||30));
+  set("seekto", d => { au.currentTime = d.seekTime; });
+}
+document.addEventListener("visibilitychange", () => { if (document.hidden) desa(); });
+window.addEventListener("popstate", () => { if (vistaTema !== null) tornaIndex(); });
+
+pintaVel();
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js");
+carrega();
+</script>
+</body>
+</html>

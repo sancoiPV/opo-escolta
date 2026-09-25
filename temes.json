@@ -1,0 +1,2670 @@
+{
+ "titol": "Opo A2-02-09",
+ "versio": "b39b598fb3",
+ "veu": "edge|ca-ES-JoanaNeural|+0%",
+ "temes": [
+  {
+   "id": "tema-05-els-corpus-linguistics-i-el-cival-bo",
+   "titol": "Tema 5. Els corpus lingüístics com a font de coneixement de l’evolució diacrònica d’una llengua: el CIVAL",
+   "fitxer": "Tema 05 - Els corpus lingüístics i el CIVAL_bo.docx",
+   "seccions": [
+    {
+     "titol": "Introducció",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-01-31820f46cfaf0819.mp3",
+     "durada": 505.9,
+     "text": [
+      {
+       "n": 3,
+       "t": "TEMARI D’OPOSICIÓ · CONVOCATÒRIA 35/26"
+      },
+      {
+       "n": 0,
+       "t": "Cos tècnic facultatiu A2-02 · Escala tècnica facultativa de promoció lingüística (A2-02-09)"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 5"
+      },
+      {
+       "n": 3,
+       "t": "Els corpus lingüístics com a font de coneixement"
+      },
+      {
+       "n": 0,
+       "t": "de l’evolució diacrònica d’una llengua:"
+      },
+      {
+       "n": 3,
+       "t": "el Corpus Informatitzat del Valencià (CIVAL)"
+      },
+      {
+       "n": 0,
+       "t": "Fonaments, tipologia, criteris de disseny i explotació"
+      },
+      {
+       "n": 0,
+       "t": "FONTS PRIMÀRIES DEL TEMA «Presentació» del Corpus Informatitzat del Valencià: text oficial de l’AVL sobre la naturalesa, els criteris de representativitat, l’organització en subcorpus i el tractament de les fonts «Ajuda» del CIVAL: modalitats de consulta, filtres, caràcters comodí, consideracions tècniques i opcions d’explotació dels resultats Nota de premsa de l’AVL de 29 de juny del 2015, de presentació del CIVAL Butlletí electrònic de l’AVL sobre el finançament dels projectes de millora de les aplicacions del DNV, el CIVAL i les Gramàtiques Normatives Valencianes Llei 7/1998, de creació de l’AVL (arts. 3, 7.a i 7.c), i Decret 158/2002, Reglament de l’AVL (arts. 45-50) Documentació institucional del Corpus Textual Informatitzat de la Llengua Catalana (IEC) i del Corpus Informatitzat del Català Antic"
+      },
+      {
+       "n": 3,
+       "t": "ÍNDEX"
+      },
+      {
+       "n": 3,
+       "t": "1.  Presentació i orientació del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.1.  Delimitació conceptual: què és un corpus lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "1.2.  Els dos membres de l’enunciat"
+      },
+      {
+       "n": 0,
+       "t": "1.3.  L’arquitectura del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.4.  Advertiment metodològic"
+      },
+      {
+       "n": 3,
+       "t": "2.  La lingüística de corpus: fonaments"
+      },
+      {
+       "n": 0,
+       "t": "2.1.  De la col·lecció de textos al corpus informatitzat"
+      },
+      {
+       "n": 0,
+       "t": "2.2.  Corpus, arxiu digital i biblioteca digital"
+      },
+      {
+       "n": 0,
+       "t": "2.3.  El debat metodològic: introspecció i dades d’ús"
+      },
+      {
+       "n": 0,
+       "t": "2.4.  Què aporta un corpus que no aporta cap altra font"
+      },
+      {
+       "n": 3,
+       "t": "3.  Tipologia dels corpus lingüístics"
+      },
+      {
+       "n": 0,
+       "t": "3.1.  Segons la dimensió temporal: sincrònics i diacrònics"
+      },
+      {
+       "n": 0,
+       "t": "3.2.  Segons la finalitat: de referència i especialitzats"
+      },
+      {
+       "n": 0,
+       "t": "3.3.  Segons el tractament: plans, etiquetats, lematitzats i analitzats"
+      },
+      {
+       "n": 0,
+       "t": "3.4.  Segons la composició: equilibrats i exhaustius"
+      },
+      {
+       "n": 0,
+       "t": "3.5.  Segons l’obertura: tancats i de seguiment"
+      },
+      {
+       "n": 0,
+       "t": "3.6.  Segons el nombre de llengües"
+      },
+      {
+       "n": 3,
+       "t": "4.  El disseny d’un corpus: els criteris de constitució"
+      },
+      {
+       "n": 0,
+       "t": "4.1.  La representativitat"
+      },
+      {
+       "n": 0,
+       "t": "4.2.  L’equilibri i la ponderació"
+      },
+      {
+       "n": 0,
+       "t": "4.3.  La dimensió"
+      },
+      {
+       "n": 0,
+       "t": "4.4.  La fiabilitat de les fonts i el problema ecdòtic"
+      },
+      {
+       "n": 0,
+       "t": "4.5.  La documentació de les fonts i les metadades"
+      },
+      {
+       "n": 0,
+       "t": "4.6.  L’anotació"
+      },
+      {
+       "n": 3,
+       "t": "5.  Els corpus com a font de coneixement de l’evolució diacrònica"
+      },
+      {
+       "n": 0,
+       "t": "5.1.  Què permet observar un corpus diacrònic"
+      },
+      {
+       "n": 0,
+       "t": "5.2.  Els problemes específics de la diacronia"
+      },
+      {
+       "n": 0,
+       "t": "5.3.  Les aplicacions: lexicografia, gramàtica i onomàstica històriques"
+      },
+      {
+       "n": 0,
+       "t": "5.4.  Límits i cauteles en la interpretació de les dades"
+      },
+      {
+       "n": 3,
+       "t": "6.  El CIVAL: naturalesa, gènesi i finalitat"
+      },
+      {
+       "n": 0,
+       "t": "6.1.  L’elaboració i la presentació pública"
+      },
+      {
+       "n": 0,
+       "t": "6.2.  La finalitat institucional declarada"
+      },
+      {
+       "n": 0,
+       "t": "6.3.  Dimensions i abast cronològic"
+      },
+      {
+       "n": 0,
+       "t": "6.4.  Òrgans responsables i col·laboracions"
+      },
+      {
+       "n": 3,
+       "t": "7.  El disseny del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "7.1.  Els criteris de representativitat"
+      },
+      {
+       "n": 0,
+       "t": "7.2.  L’opció per l’exhaustivitat"
+      },
+      {
+       "n": 0,
+       "t": "7.3.  Els dos subcorpus i la data simbòlica de 1932"
+      },
+      {
+       "n": 0,
+       "t": "7.4.  La tipologia textual"
+      },
+      {
+       "n": 0,
+       "t": "7.5.  El tractament de les fonts i la referència bibliogràfica"
+      },
+      {
+       "n": 0,
+       "t": "7.6.  L’anotació categorial"
+      },
+      {
+       "n": 3,
+       "t": "8.  La consulta i l’explotació del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "8.1.  La consulta simple: forma exacta i variants formals"
+      },
+      {
+       "n": 0,
+       "t": "8.2.  La consulta avançada: els filtres"
+      },
+      {
+       "n": 0,
+       "t": "8.3.  Caràcters comodí i consideracions tècniques"
+      },
+      {
+       "n": 0,
+       "t": "8.4.  Les opcions de context i l’explotació dels resultats"
+      },
+      {
+       "n": 3,
+       "t": "9.  El CIVAL en el sistema de recursos de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "9.1.  El corpus com a fonament del treball lexicogràfic"
+      },
+      {
+       "n": 0,
+       "t": "9.2.  El corpus com a fonament del treball gramatical"
+      },
+      {
+       "n": 0,
+       "t": "9.3.  El corpus com a fonament del treball onomàstic"
+      },
+      {
+       "n": 0,
+       "t": "9.4.  El corpus com a observatori de la neologia"
+      },
+      {
+       "n": 3,
+       "t": "10.  El CIVAL en el panorama dels corpus de la llengua"
+      },
+      {
+       "n": 0,
+       "t": "10.1.  El Corpus Textual Informatitzat de la Llengua Catalana"
+      },
+      {
+       "n": 0,
+       "t": "10.2.  El Corpus Informatitzat del Català Antic i els corpus de l’IVITRA"
+      },
+      {
+       "n": 0,
+       "t": "10.3.  Els corpus de referència del castellà"
+      },
+      {
+       "n": 0,
+       "t": "10.4.  Quadre comparatiu"
+      },
+      {
+       "n": 3,
+       "t": "11.  Estat actual, projectes de millora i qüestions obertes"
+      },
+      {
+       "n": 0,
+       "t": "11.1.  Ús, finançament i desenvolupament"
+      },
+      {
+       "n": 0,
+       "t": "11.2.  Línies de millora"
+      },
+      {
+       "n": 0,
+       "t": "11.3.  El debat sobre el tractament de les fonts"
+      },
+      {
+       "n": 3,
+       "t": "12.  Síntesi: dades, conceptes i criteris de memorització obligatòria"
+      },
+      {
+       "n": 3,
+       "t": "13.  Per a ampliar"
+      },
+      {
+       "n": 3,
+       "t": "14.  Bibliografia i fonts"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 5"
+      }
+     ]
+    },
+    {
+     "titol": "Presentació i orientació del tema",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-02-031433f1effcde2b.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Presentació i orientació del tema"
+      }
+     ]
+    },
+    {
+     "titol": "1.1. Delimitació conceptual: què és un corpus lingüístic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-03-4e40bb94e1b5da69.mp3",
+     "durada": 81.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.1. Delimitació conceptual: què és un corpus lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "Un corpus lingüístic és un conjunt de textos reals, seleccionats segons criteris explícits, emmagatzemats en format electrònic i organitzats de manera que se’n puga extraure informació sistemàtica sobre l’ús de la llengua. Els tres elements de la definició són igualment necessaris: textos reals —no exemples construïts—, criteris explícits de selecció —sense els quals el conjunt és un arxiu i no un corpus— i explotabilitat informàtica —sense la qual la consulta sistemàtica és materialment impossible."
+      },
+      {
+       "n": 0,
+       "t": "D’aquesta definició se’n deriva la funció que l’enunciat del tema atribueix als corpus: ser font de coneixement. Un corpus no és un producte normatiu ni una obra de referència per a l’usuari final; és una infraestructura de recerca que subministra les dades sobre les quals després s’elaboren els diccionaris, les gramàtiques i els estudis. La mateixa AVL ho formula així quan diu que el CIVAL «representa un punt de partida fonamental per al treball lexicogràfic, gramatical i onomàstic» de la institució."
+      }
+     ]
+    },
+    {
+     "titol": "1.2. Els dos membres de l’enunciat",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-04-c40e8df6012315e6.mp3",
+     "durada": 121.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.2. Els dos membres de l’enunciat"
+      },
+      {
+       "n": 0,
+       "t": "L’enunciat oficial —Els corpus lingüístics com a font de coneixement de l’evolució diacrònica d’una llengua: el Corpus Informatitzat del Valencià (CIVAL)— és, com en els temes anteriors, de estructura bimembre, i l’orde marca la jerarquia. El primer membre demana una exposició de la lingüística de corpus: què és un corpus, quins tipus n’hi ha, com es dissenya i què permet conéixer, amb èmfasi en la dimensió diacrònica. El segon demana l’estudi del CIVAL com a realització concreta d’aquests principis en l’àmbit valencià."
+      },
+      {
+       "n": 0,
+       "t": "Un opositor que descrivira només les funcionalitats de consulta del CIVAL hauria contestat la part menys valorada de la pregunta. La part substantiva és la que explica per què un corpus permet conéixer l’evolució d’una llengua i quines cauteles metodològiques exigeix aquest coneixement."
+      },
+      {
+       "n": 0,
+       "t": "Pla. Contingut. Apartats"
+      },
+      {
+       "n": 0,
+       "t": "Teoria. Concepte de corpus, tipologia i criteris de disseny.. 2, 3 i 4"
+      },
+      {
+       "n": 0,
+       "t": "Metodologia diacrònica. Què permet observar un corpus diacrònic, amb quins problemes i amb quines cauteles.. 5"
+      },
+      {
+       "n": 0,
+       "t": "Instrument. El CIVAL: gènesi, disseny, consulta i explotació.. 6, 7 i 8"
+      },
+      {
+       "n": 0,
+       "t": "Sistema. La funció del corpus dins de l’ecosistema de recursos de l’AVL i en el panorama dels corpus de la llengua.. 9 i 10"
+      }
+     ]
+    },
+    {
+     "titol": "1.3. L’arquitectura del tema",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-05-f3c1c6102056620a.mp3",
+     "durada": 132.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.3. L’arquitectura del tema"
+      },
+      {
+       "n": 0,
+       "t": "L’esquema següent ordena la matèria en cinc estrats de concreció descendent."
+      },
+      {
+       "n": 0,
+       "t": "Estrat. Element. Aportació"
+      },
+      {
+       "n": 0,
+       "t": "1. Disciplina. Lingüística de corpus. Estableix què és un corpus, quins tipus n’hi ha i quins criteris n’han de governar la constitució."
+      },
+      {
+       "n": 0,
+       "t": "2. Metodologia. Lingüística històrica de corpus. Determina com s’obtenen conclusions fiables sobre l’evolució d’una llengua a partir de dades textuals."
+      },
+      {
+       "n": 0,
+       "t": "3. Competència. Llei 7/1998, arts. 3, 7.a i 7.c. Fonamenta que la institució normativa dispose d’una base documental pròpia per a exercir la seua funció."
+      },
+      {
+       "n": 0,
+       "t": "4. Instrument. Corpus Informatitzat del Valencià. Materialitza la infraestructura documental del valencià, des del segle xiii fins a l’actualitat."
+      },
+      {
+       "n": 0,
+       "t": "5. Aplicació. DNV, GNV i GVB, obres onomàstiques. Els productes normatius que s’alimenten de les dades del corpus."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA IDEA-FORÇA DEL TEMA El corpus és el que permet que una decisió normativa siga verificable. Sense corpus, l’afirmació que una forma «està documentada en els clàssics» o que «és viva en els parlars actuals» és una asserció d’autoritat; amb corpus, és una afirmació contrastable per qualsevol usuari. El CIVAL és, en aquest sentit, la infraestructura que dona base empírica als tres fonaments materials de l’article 3 de la Llei de creació de l’AVL."
+      }
+     ]
+    },
+    {
+     "titol": "1.4. Advertiment metodològic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-06-af852831ec5516eb.mp3",
+     "durada": 54.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.4. Advertiment metodològic"
+      },
+      {
+       "n": 0,
+       "t": "ADVERTIMENT METODOLÒGIC Els documents de l’AVL es reprodueixen ací en la seua redacció original, cosa que explica que en les citacions literals apareguen formes com este, oferix, comprén o perseguix, pròpies del model de llengua de l’Acadèmia, mentre que la redacció d’aquest tema segueix el model de les universitats valencianes. Les dades quantitatives sobre el CIVAL corresponen al moment de la consulta o de la comunicació institucional que les difon. Com que es tracta d’un corpus en creixement continu —la mateixa AVL declara que «no és una obra acabada; ni ho ha d’estar mai»—, convé citar-les sempre amb la referència temporal corresponent."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 2"
+      }
+     ]
+    },
+    {
+     "titol": "La lingüística de corpus: fonaments",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-07-ef9aadb0312333bf.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "La lingüística de corpus: fonaments"
+      }
+     ]
+    },
+    {
+     "titol": "2.1. De la col·lecció de textos al corpus informatitzat",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-08-a24a524ef529da1c.mp3",
+     "durada": 99.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.1. De la col·lecció de textos al corpus informatitzat"
+      },
+      {
+       "n": 0,
+       "t": "La idea de fonamentar l’estudi de la llengua en repertoris de testimonis reals és antiga: els diccionaris d’autoritats dels segles xviii i xix, els fitxers lexicogràfics manuscrits i les concordances d’autors clàssics són, funcionalment, corpus avant la lettre. El que canvia amb la informatització no és la idea sinó l’escala i la naturalesa de les preguntes que es poden formular."
+      },
+      {
+       "n": 0,
+       "t": "Un fitxer manual permet respondre «existeix aquesta paraula?» i «on apareix?». Un corpus informatitzat permet respondre, a més, «amb quina freqüència?», «en quins contextos sintàctics?», «en quina tipologia de textos?», «en quins períodes?», «en quina proporció respecte de les seues variants?». El salt no és quantitatiu sinó qualitatiu: la informatització converteix el testimoni aïllat en dada estadística i, per tant, permet substituir la impressió per la mesura."
+      },
+      {
+       "n": 0,
+       "t": "La mateixa AVL ho formula amb precisió en la presentació del CIVAL: «L’evolució de la lexicografia moderna fa que siga indispensable recórrer a una gran base de dades textual que permeta resseguir l’evolució de qualsevol paraula i determinar, consegüentment, la conveniència d’incorporar-la o no als diccionaris, a partir de l’ús que se n’ha fet al llarg del temps»."
+      }
+     ]
+    },
+    {
+     "titol": "2.2. Corpus, arxiu digital i biblioteca digital",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-09-1bdddb2d7afc12c4.mp3",
+     "durada": 131.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.2. Corpus, arxiu digital i biblioteca digital"
+      },
+      {
+       "n": 0,
+       "t": "És una distinció que convé saber formular, perquè permet delimitar l’objecte del tema i evitar la confusió, freqüent, entre un corpus i una col·lecció de textos digitalitzats."
+      },
+      {
+       "n": 0,
+       "t": "Biblioteca o arxiu digital. Corpus lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "Finalitat. Conservar i difondre documents; l’usuari busca un text.. Permetre l’estudi de la llengua; l’usuari busca un fenomen lingüístic en tots els textos alhora."
+      },
+      {
+       "n": 0,
+       "t": "Criteri de composició. Disponibilitat, interés patrimonial o drets d’explotació.. Criteris lingüístics explícits: representativitat, equilibri, cobertura cronològica i tipològica."
+      },
+      {
+       "n": 0,
+       "t": "Unitat de consulta. El document.. L’ocurrència en context (la concordança)."
+      },
+      {
+       "n": 0,
+       "t": "Tractament del text. Reproducció facsímil o transcripció; sovint sense anàlisi.. Text processable, sovint lematitzat i etiquetat categorialment."
+      },
+      {
+       "n": 0,
+       "t": "Resultat d’una consulta. Un document o una llista de documents.. Un conjunt de contextos ordenables i quantificables."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL se situa clarament en la segona columna: no és una biblioteca digital de literatura valenciana, encara que en continga els textos, sinó una base de dades textual dissenyada per a retornar contextos d’ús ordenats cronològicament. La mateixa presentació hi insisteix: «la utilitat d’un corpus ve determinada per la capacitat de ser consultat i retornar informació»."
+      }
+     ]
+    },
+    {
+     "titol": "2.3. El debat metodològic: introspecció i dades d’ús",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-10-bddd98a8fa70115d.mp3",
+     "durada": 99.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.3. El debat metodològic: introspecció i dades d’ús"
+      },
+      {
+       "n": 0,
+       "t": "La lingüística de corpus no és només una tècnica: comporta una posició epistemològica sobre quina és la base empírica legítima de l’estudi del llenguatge. Simplificant, hi ha dos grans opcions."
+      },
+      {
+       "n": 0,
+       "t": "La introspecció: el lingüista, com a parlant competent, jutja la gramaticalitat i l’acceptabilitat de les seqüències. És un mètode potent per a la sintaxi de la llengua pròpia i contemporània, però inaplicable a estats de llengua passats —no hi ha parlants natius del valencià del segle xiv a qui consultar."
+      },
+      {
+       "n": 0,
+       "t": "L’observació de dades d’ús: el lingüista descriu el que efectivament es documenta. És l’única via possible per a la diacronia, i aporta a més informació que la introspecció no pot donar: freqüències, distribucions, coocurrències i tendències."
+      },
+      {
+       "n": 0,
+       "t": "En la pràctica normativa contemporània les dos vies són complementàries, però la segona ha guanyat pes de manera decisiva. Per a una institució normativa, la raó és pràctica abans que teòrica: una decisió fonamentada en dades és defensable davant de la discrepància, i una decisió fonamentada només en el criteri de qui la pren no ho és. El corpus és, doncs, un instrument de qualitat tècnica i alhora de legitimació."
+      }
+     ]
+    },
+    {
+     "titol": "2.4. Què aporta un corpus que no aporta cap altra font",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-11-724989b93d417273.mp3",
+     "durada": 144.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.4. Què aporta un corpus que no aporta cap altra font"
+      },
+      {
+       "n": 0,
+       "t": "Tipus d’informació. Descripció. Exemple d’aplicació"
+      },
+      {
+       "n": 0,
+       "t": "Documentació. Prova que una forma existeix i on apareix, amb referència precisa.. Datar la primera aparició documentada d’una paraula o d’una accepció."
+      },
+      {
+       "n": 0,
+       "t": "Freqüència. Nombre d’ocurrències absolut i relatiu.. Determinar si una variant és majoritària o marginal en un període."
+      },
+      {
+       "n": 0,
+       "t": "Distribució cronològica. Evolució de les ocurrències al llarg del temps.. Observar la substitució progressiva d’una forma per una altra."
+      },
+      {
+       "n": 0,
+       "t": "Distribució tipològica. Repartiment de les ocurrències segons la classe de text.. Comprovar si una construcció és pròpia de la llengua administrativa o de la literària."
+      },
+      {
+       "n": 0,
+       "t": "Context sintàctic. Entorn immediat de la unitat, amb categories gramaticals.. Estudiar el règim preposicional d’un verb o les combinacions pronominals."
+      },
+      {
+       "n": 0,
+       "t": "Variació formal. Conjunt de grafies i de formes flexives amb què s’ha representat una unitat.. Resseguir la fixació ortogràfica d’una paraula al llarg dels segles."
+      },
+      {
+       "n": 0,
+       "t": "Coocurrència. Unitats que apareixen sistemàticament juntes.. Detectar unitats fraseològiques i col·locacions."
+      },
+      {
+       "n": 0,
+       "t": "Les tres darreres files són les que millor justifiquen l’existència d’un corpus davant d’un diccionari històric: la informació sobre context sintàctic, variació formal i coocurrència no es pot obtenir d’un repertori lexicogràfic, per complet que siga, perquè el diccionari dona el resultat de l’anàlisi i no les dades sobre les quals s’ha fet."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 3"
+      }
+     ]
+    },
+    {
+     "titol": "Tipologia dels corpus lingüístics",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-12-b765e37a00bd179a.mp3",
+     "durada": 33.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "Tipologia dels corpus lingüístics"
+      },
+      {
+       "n": 0,
+       "t": "La classificació dels corpus es fa segons paràmetres creuats: un mateix corpus és alhora diacrònic o sincrònic, general o especialitzat, etiquetat o pla, equilibrat o exhaustiu, i tancat o de seguiment. Dominar aquests paràmetres permet caracteritzar amb precisió qualsevol corpus —i molt especialment el CIVAL, que en l’apartat 7 es descriurà amb aquesta mateixa graella."
+      }
+     ]
+    },
+    {
+     "titol": "3.1. Segons la dimensió temporal: sincrònics i diacrònics",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-13-0735d08c5d212853.mp3",
+     "durada": 96.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.1. Segons la dimensió temporal: sincrònics i diacrònics"
+      },
+      {
+       "n": 0,
+       "t": "Tipus. Definició. Finalitat"
+      },
+      {
+       "n": 0,
+       "t": "Sincrònic. Reuneix textos d’un mateix estat de llengua, d’un període acotat i relativament breu.. Descriure la llengua d’un moment determinat: usos vigents, freqüències actuals, neologia."
+      },
+      {
+       "n": 0,
+       "t": "Diacrònic. Reuneix textos de períodes successius, amb datació precisa, per a permetre la comparació entre estats de llengua.. Estudiar l’evolució: aparició, expansió, retrocés i desaparició de formes, significats i construccions."
+      },
+      {
+       "n": 0,
+       "t": "Mixt. Combina els dos anteriors en subcorpus diferenciats dins d’una mateixa aplicació.. Permetre tant l’estudi evolutiu com la descripció de l’estat actual, amb una sola eina i una sola interfície."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL és un corpus mixt: s’organitza expressament «en un subcorpus diacrònic, que comprèn des dels orígens fins a l’aprovació de les Normes de Castelló, en 1932, com a data simbòlica de la modernització ortogràfica, i en un subcorpus del valencià actual, que ofereix una visió sincrònica dels usos contemporanis del valencià»."
+      }
+     ]
+    },
+    {
+     "titol": "3.2. Segons la finalitat: de referència i especialitzats",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-14-f4aeb05e151795cb.mp3",
+     "durada": 68.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.2. Segons la finalitat: de referència i especialitzats"
+      },
+      {
+       "n": 0,
+       "t": "Un corpus de referència aspira a representar la llengua en el seu conjunt, o un estat de llengua en el seu conjunt, i serveix de base per a obres normatives i descriptives generals. Ha de cobrir la major diversitat possible de gèneres, registres i àmbits."
+      },
+      {
+       "n": 0,
+       "t": "Un corpus especialitzat acota un àmbit: una llengua d’especialitat, un autor, un gènere, una època o una varietat geogràfica. Guanya en profunditat el que perd en generalitat."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL és un corpus de referència del valencià: la seua composició —obres literàries, textos científics i de divulgació, dietaris, escriptures notarials, llibres de família, textos legals, articles de premsa, blogs i cançons de grups actuals— respon a l’objectiu declarat de «poder fer una radiografia dels diversos usos del valencià»."
+      }
+     ]
+    },
+    {
+     "titol": "3.3. Segons el tractament: plans, etiquetats, lematitzats i analitzats",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-15-5e843407ebe4b1f2.mp3",
+     "durada": 131.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.3. Segons el tractament: plans, etiquetats, lematitzats i analitzats"
+      },
+      {
+       "n": 0,
+       "t": "El grau de processament del text determina el tipus de consultes que el corpus admet, i és per tant el paràmetre de major conseqüència pràctica."
+      },
+      {
+       "n": 0,
+       "t": "Grau. Tractament. Consultes que permet"
+      },
+      {
+       "n": 0,
+       "t": "Corpus pla. Text sense cap anàlisi afegida.. Busca de cadenes de caràcters. No distingeix homògrafs ni agrupa formes flexives."
+      },
+      {
+       "n": 0,
+       "t": "Corpus lematitzat. Cada forma s’associa al seu lema, és a dir, a l’entrada que agrupa tota la sèrie flexiva i les variants gràfiques.. Busca per lema: recuperar totes les formes d’un verb o d’un substantiu amb una sola consulta."
+      },
+      {
+       "n": 0,
+       "t": "Corpus etiquetat categorialment. Cada ocurrència rep una etiqueta de categoria gramatical (i sovint de subcategoria i trets flexius).. Busca per categoria i per combinacions de categories: «substantiu seguit d’adjectiu», «verb precedit de pronom feble»."
+      },
+      {
+       "n": 0,
+       "t": "Corpus analitzat sintàcticament. S’hi anota l’estructura sintàctica de les oracions.. Busca per funcions i relacions sintàctiques. És el grau més costós i el menys freqüent."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL és un corpus lematitzat i etiquetat categorialment: l’AVL declara que «s’ha fet un gran esforç per a facilitar les busques complexes amb categories semàntiques, anotades amb etiquetes categorials», i l’aplicació permet efectivament buscar per variants formals —incloent-hi tot el paradigma verbal— i filtrar per categoria gramatical de la paraula anterior i posterior."
+      }
+     ]
+    },
+    {
+     "titol": "3.4. Segons la composició: equilibrats i exhaustius",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-16-f96fb5307cd4731f.mp3",
+     "durada": 129.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.4. Segons la composició: equilibrats i exhaustius"
+      },
+      {
+       "n": 0,
+       "t": "És el paràmetre en què el CIVAL adopta l’opció menys habitual, i per això mereix una atenció especial."
+      },
+      {
+       "n": 0,
+       "t": "Un corpus equilibrat o ponderat selecciona fragments d’extensió regular de fonts diverses, en proporcions fixades prèviament segons la importància relativa de cada gènere o període. L’objectiu és que les freqüències observades siguen estadísticament projectables al conjunt de la llengua."
+      },
+      {
+       "n": 0,
+       "t": "Un corpus exhaustiu aspira a incloure la totalitat dels textos significatius d’un àmbit o d’un període, en la seua integritat. L’objectiu no és la projectabilitat estadística sinó la completesa documental."
+      },
+      {
+       "n": 0,
+       "t": "La presentació del CIVAL formula l’opció de manera explícita i contrastiva: «Contràriament a l’orientació d’uns altres corpus que es forneixen de fragments d’extensió regular de diverses fonts amb la intenció d’oferir uns resultats equilibrats, el CIVAL persegueix un ideal d’exhaustivitat on estiguen totes les obres i documents significatius escrits en valencià, sobretot pel que fa al Corpus diacrònic. Això ens obliga a estar en constant renovació incorporant-hi contínuament nova documentació»."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: EXHAUSTIVITAT I EQUILIBRI NO SÓN EL MATEIX OBJECTIU Un corpus equilibrat permet dir «aquesta forma representa el 3% dels usos de la llengua en aquest període». Un corpus exhaustiu permet dir «aquesta forma es documenta en aquestes obres i no en aquestes altres». La primera afirmació és estadística; la segona, documental. El CIVAL opta per la segona, i això té conseqüències directes sobre com se n’han d’interpretar les xifres (v. l’apartat 5.4)."
+      }
+     ]
+    },
+    {
+     "titol": "3.5. Segons l’obertura: tancats i de seguiment",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-17-280309a492b2c1da.mp3",
+     "durada": 86.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.5. Segons l’obertura: tancats i de seguiment"
+      },
+      {
+       "n": 0,
+       "t": "Un corpus tancat té una composició fixada que no es modifica una vegada constituïda, cosa que garanteix que dos consultes fetes en moments distints donen el mateix resultat i, per tant, que els estudis siguen replicables. Un corpus de seguiment —o monitor corpus— s’actualitza contínuament amb textos nous, cosa que permet observar la llengua en temps real però fa que els resultats varien amb el temps."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL és clarament un corpus obert i en creixement continu. La presentació ho declara amb una formulació que convé retenir: «El CIVAL, per tant, no és una obra acabada; ni ho ha d’estar mai: això serà precisament un bon senyal de la salut de la nostra cultura. Ha de discórrer paral·lelament a l’evolució de la nostra llengua i del desenrotllament de la nostra filologia, de manera que constantment s’hi introduïsquen nous textos, tant antics com moderns, que enriquiran el seu valor»."
+      },
+      {
+       "n": 0,
+       "t": "L’observació és important per a l’ús acadèmic: qualsevol citació de dades del CIVAL ha d’anar acompanyada de la data de consulta, com és pràctica habitual en la bibliografia especialitzada."
+      }
+     ]
+    },
+    {
+     "titol": "3.6. Segons el nombre de llengües",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-18-052fc6cdd6f54fc8.mp3",
+     "durada": 50.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.6. Segons el nombre de llengües"
+      },
+      {
+       "n": 0,
+       "t": "Monolingües: contenen textos d’una sola llengua. És el cas del CIVAL i de la major part dels corpus de referència."
+      },
+      {
+       "n": 0,
+       "t": "Paral·lels: contenen textos originals i les seues traduccions alineades segment a segment. Són la base de les memòries de traducció i de l’entrenament de sistemes de traducció automàtica."
+      },
+      {
+       "n": 0,
+       "t": "Comparables: contenen textos de llengües distintes sobre els mateixos temes i gèneres, sense relació de traducció entre ells. Serveixen per a l’extracció terminològica contrastiva."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 4"
+      }
+     ]
+    },
+    {
+     "titol": "El disseny d’un corpus: els criteris de constitució",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-19-b4b97a8e8b8b5c19.mp3",
+     "durada": 33.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "El disseny d’un corpus: els criteris de constitució"
+      },
+      {
+       "n": 0,
+       "t": "La qualitat d’un corpus no depén de la seua grandària sinó del seu disseny. Un corpus mal dissenyat però immens produeix dades abundants i enganyoses; un corpus modest però ben dissenyat produeix dades escasses i fiables. Aquest apartat exposa els criteris que governen la constitució d’un corpus i que, en l’apartat 7, s’aplicaran al CIVAL."
+      }
+     ]
+    },
+    {
+     "titol": "4.1. La representativitat",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-20-349f99ed097b46ec.mp3",
+     "durada": 153.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.1. La representativitat"
+      },
+      {
+       "n": 0,
+       "t": "La representativitat és la propietat per la qual les dades obtingudes del corpus es poden considerar vàlides per a la població textual que el corpus vol representar. És el criteri fonamental i, alhora, el més difícil d’assolir, perquè la població de referència —«tots els textos escrits en una llengua»— no és mai plenament coneguda."
+      },
+      {
+       "n": 0,
+       "t": "La representativitat es descompon en diverses dimensions que s’han de considerar simultàniament:"
+      },
+      {
+       "n": 0,
+       "t": "Dimensió. Pregunta que resol. Risc si no es controla"
+      },
+      {
+       "n": 0,
+       "t": "Cronològica. Estan representats tots els períodes rellevants, i en una proporció raonable?. Un buit cronològic pot fer atribuir a la desaparició d’una forma el que només és absència de fonts."
+      },
+      {
+       "n": 0,
+       "t": "Geogràfica o dialectal. Estan representades les distintes varietats territorials?. Una forma d’abast general pot semblar local, o a l’inrevés, segons l’origen dels textos."
+      },
+      {
+       "n": 0,
+       "t": "Discursiva o tipològica. Estan representats els gèneres i les classes de text?. Un corpus format només per literatura no permet dir res sobre la llengua administrativa o científica."
+      },
+      {
+       "n": 0,
+       "t": "Estilística i de registre. Estan representats els graus de formalitat?. Els usos col·loquials i espontanis queden invisibles, cosa especialment greu en diacronia."
+      },
+      {
+       "n": 0,
+       "t": "Autorial. Hi ha diversitat d’autors, o unes poques obres extenses dominen el conjunt?. Els idiolectes d’uns pocs autors es projecten indegudament sobre tota la llengua."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL declara expressament aquest criteri i les seues dimensions: «Els criteris de representativitat per a la inclusió en el corpus atenen la variació lingüística, territorial, discursiva i estilística». La formulació és precisa i cobreix quatre de les cinc dimensions de la taula."
+      }
+     ]
+    },
+    {
+     "titol": "4.2. L’equilibri i la ponderació",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-21-17fb4b1b1d8e6e6a.mp3",
+     "durada": 56.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.2. L’equilibri i la ponderació"
+      },
+      {
+       "n": 0,
+       "t": "L’equilibri és la proporció relativa que cada component té dins del conjunt. Un corpus equilibrat fixa a priori quin percentatge correspon a cada gènere, període o varietat, i s’hi ajusta. La ponderació pot ser proporcional a la producció real —si la premsa és el 60% del text publicat, ha de ser el 60% del corpus— o correctiva —sobrerepresentar deliberadament els gèneres poc abundants però lingüísticament rellevants."
+      },
+      {
+       "n": 0,
+       "t": "Com s’ha vist en l’apartat 3.4, el CIVAL renuncia expressament a aquest model i opta per l’exhaustivitat. La conseqüència metodològica s’examina en l’apartat 5.4."
+      }
+     ]
+    },
+    {
+     "titol": "4.3. La dimensió",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-22-68708a6b31f9736a.mp3",
+     "durada": 65.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.3. La dimensió"
+      },
+      {
+       "n": 0,
+       "t": "La grandària d’un corpus es mesura habitualment en ocurrències —o mots, entesos com a formes gràfiques computades— i, secundàriament, en nombre de documents. La relació entre grandària i utilitat no és lineal: hi ha un llindar per davall del qual les dades no són fiables, i un punt a partir del qual augmentar el volum aporta poc si no augmenta la diversitat."
+      },
+      {
+       "n": 0,
+       "t": "La regla pràctica que se’n deriva és important per a l’exercici professional: la grandària necessària depén de la freqüència del fenomen estudiat. Per a estudiar el comportament d’una preposició, un corpus mitjà és sobrat; per a documentar un hàpax o una construcció rara, cap corpus no és mai prou gran. D’ací que els corpus diacrònics tendisquen a l’exhaustivitat: en diacronia els fenòmens rellevants solen ser poc freqüents."
+      }
+     ]
+    },
+    {
+     "titol": "4.4. La fiabilitat de les fonts i el problema ecdòtic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-23-3d1db2a61c60bca3.mp3",
+     "durada": 121.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.4. La fiabilitat de les fonts i el problema ecdòtic"
+      },
+      {
+       "n": 0,
+       "t": "En un corpus contemporani, el text de partida és el text publicat i no planteja problemes. En un corpus diacrònic, en canvi, el text és sempre el resultat d’una transmissió i d’una edició, i això introdueix una qüestió metodològica de primer ordre: la crítica textual o ecdòtica."
+      },
+      {
+       "n": 0,
+       "t": "Els riscos són tres i convé enunciar-los amb precisió:"
+      },
+      {
+       "n": 0,
+       "t": "Edicions modernitzades. Moltes edicions de textos antics regularitzen l’ortografia, resolen les abreviatures i normalitzen la puntuació per a facilitar-ne la lectura. Un corpus que incorpore aquestes edicions sense advertir-ho atribuirà al text original grafies que no hi eren."
+      },
+      {
+       "n": 0,
+       "t": "Edicions defectuoses. Transcripcions antigues o poc rigoroses poden contenir errors de lectura que, incorporats al corpus, es converteixen en falsos testimonis."
+      },
+      {
+       "n": 0,
+       "t": "Atribucions i datacions dubtoses. Un text mal datat o mal atribuït distorsiona la sèrie cronològica, que és precisament el que un corpus diacrònic ha de garantir."
+      },
+      {
+       "n": 0,
+       "t": "La resposta metodològica estàndard consisteix a partir d’edicions crítiques fiables, a documentar en cada cas quina edició s’ha emprat i a fer explícit el criteri de transcripció. El CIVAL declara aquesta opció: «Les obres més antigues s’han integrat generalment en la base de dades a partir d’edicions i transcripcions fidels a l’original i rigoroses des del punt de vista ecdòtic; en tots els casos es dona la referència bibliogràfica completa que permet identificar la font»."
+      }
+     ]
+    },
+    {
+     "titol": "4.5. La documentació de les fonts i les metadades",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-24-7b828ce444610e5a.mp3",
+     "durada": 56.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.5. La documentació de les fonts i les metadades"
+      },
+      {
+       "n": 0,
+       "t": "Cada text d’un corpus ha d’anar acompanyat d’un conjunt de metadades que en permeten la identificació i el filtratge. Les mínimes són l’autor, el títol, la data, l’edició emprada i la classificació tipològica; les desitjables inclouen la localització geogràfica, el gènere i el suport."
+      },
+      {
+       "n": 0,
+       "t": "Les metadades no són un afegit documental: són el que fa possible la consulta filtrada i, per tant, el que converteix el corpus en un instrument analític. Sense datació no hi ha estudi diacrònic; sense tipologia textual no es pot distingir el que és propi d’un gènere del que és propi de la llengua; sense referència d’edició no hi ha verificabilitat."
+      }
+     ]
+    },
+    {
+     "titol": "4.6. L’anotació",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-25-6289fff577a048b2.mp3",
+     "durada": 106.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.6. L’anotació"
+      },
+      {
+       "n": 0,
+       "t": "L’anotació és la informació lingüística que s’afegeix al text pla. En els corpus de referència comprèn habitualment dos nivells:"
+      },
+      {
+       "n": 0,
+       "t": "La lematització: associació de cada forma al seu lema. Permet recuperar amb una sola consulta totes les formes flexives d’una paraula i, en un corpus diacrònic, totes les variants gràfiques amb què s’ha representat al llarg del temps."
+      },
+      {
+       "n": 0,
+       "t": "L’etiquetatge categorial: assignació a cada ocurrència de la seua categoria gramatical. Permet resoldre l’ambigüitat entre homògrafs de categoria distinta i, sobretot, formular consultes per patrons sintàctics."
+      },
+      {
+       "n": 0,
+       "t": "L’anotació té un cost elevat i introdueix un marge d’error inevitable, especialment en textos antics amb grafies no fixades. Per això la major part dels corpus diacrònics combinen l’anotació automàtica amb la revisió humana i adverteixen del grau de fiabilitat assolit."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: ELS SIS CRITERIS DE DISSENY Representativitat (cronològica, geogràfica, discursiva, estilística i autorial) · Equilibri o, alternativament, exhaustivitat · Dimensió adequada al fenomen estudiat · Fiabilitat ecdòtica de les fonts · Documentació completa i metadades · Anotació (lematització i etiquetatge categorial)."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 5"
+      }
+     ]
+    },
+    {
+     "titol": "Els corpus com a font de coneixement de l’evolució diacrònica",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-26-29d3297aef1daee6.mp3",
+     "durada": 23.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els corpus com a font de coneixement de l’evolució diacrònica"
+      },
+      {
+       "n": 0,
+       "t": "Aquest apartat és el nucli conceptual del primer membre de l’enunciat. Exposa què permet conéixer un corpus diacrònic, quins problemes específics planteja i quines cauteles exigeix la interpretació de les seues dades."
+      }
+     ]
+    },
+    {
+     "titol": "5.1. Què permet observar un corpus diacrònic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-27-d1a3fb76a4fd2255.mp3",
+     "durada": 163.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.1. Què permet observar un corpus diacrònic"
+      },
+      {
+       "n": 0,
+       "t": "Els fenòmens evolutius que un corpus diacrònic permet documentar es poden ordenar en cinc categories, que corresponen als cinc nivells d’anàlisi de la llengua."
+      },
+      {
+       "n": 0,
+       "t": "Nivell. Fenòmens observables. Tipus de consulta"
+      },
+      {
+       "n": 0,
+       "t": "Gràfic. Fixació i canvi de les grafies; convivència de variants gràfiques d’una mateixa paraula; efectes de les propostes normatives sobre l’ús real.. Busca per variants formals, amb informe de percentatges relatius de cada forma i distribució per períodes."
+      },
+      {
+       "n": 0,
+       "t": "Fonètic. Indicis indirectes de canvis fonètics, deduïts de vacil·lacions gràfiques, rimes i errors d’escriptura.. Busca de grafies alternatives i observació de la seua distribució cronològica i geogràfica."
+      },
+      {
+       "n": 0,
+       "t": "Morfològic. Aparició, expansió i retrocés de formes flexives i de procediments de derivació; regularització de paradigmes.. Busca per lema amb desplegament de totes les formes del paradigma, filtrada per anys."
+      },
+      {
+       "n": 0,
+       "t": "Sintàctic. Aparició i desaparició de construccions; canvis de règim verbal; gramaticalització de peces lèxiques en elements funcionals.. Busca de seqüències combinades amb categories gramaticals de la paraula anterior i posterior."
+      },
+      {
+       "n": 0,
+       "t": "Lèxic i semàntic. Datació de primeres aparicions; ampliació, restricció i desplaçament de significats; entrada i naturalització de manlleus; mortalitat lèxica.. Busca de forma exacta amb visualització de contextos amplis i de dades bibliogràfiques."
+      },
+      {
+       "n": 0,
+       "t": "A aquests cinc nivells cal afegir-hi dos dimensions transversals de gran valor per a una institució normativa. La primera és la datació: establir des de quan una forma està documentada és sovint l’argument decisiu per a admetre-la o no en un diccionari normatiu. La segona és la vitalitat: comprovar si una forma documentada en els clàssics ha tingut continuïtat o s’ha interromput permet distingir el que és patrimoni viu del que és arcaisme recuperable."
+      }
+     ]
+    },
+    {
+     "titol": "5.2. Els problemes específics de la diacronia",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-28-2e76f6b567c4f750.mp3",
+     "durada": 132.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.2. Els problemes específics de la diacronia"
+      },
+      {
+       "n": 0,
+       "t": "L’estudi diacrònic per corpus té dificultats que no afecten els corpus sincrònics i que convé conéixer, perquè condicionen la manera de formular les consultes."
+      },
+      {
+       "n": 0,
+       "t": "La variació gràfica. Abans de la fixació ortogràfica, una mateixa paraula pot aparèixer amb desenes de grafies. Buscar-ne una sola és garantia d’obtenir resultats parcials. La resposta tècnica és la lematització i la busca per variants formals; la resposta pràctica, l’ús de caràcters comodí."
+      },
+      {
+       "n": 0,
+       "t": "La desigualtat de la documentació. La quantitat de text conservat varia enormement segons els períodes: hi ha segles molt ben documentats i d’altres amb poques fonts. Comparar freqüències brutes entre períodes desigualment documentats és un error metodològic greu."
+      },
+      {
+       "n": 0,
+       "t": "El biaix de gènere textual. La composició del corpus canvia necessàriament al llarg del temps: en el segle xiii predomina la documentació notarial i administrativa; en el xv, la literària; en el xx, la premsa. Una diferència que sembla evolutiva pot ser només un canvi en la classe de textos disponibles."
+      },
+      {
+       "n": 0,
+       "t": "El biaix de l’escrit. Tot corpus històric és, per força, un corpus de llengua escrita. Els usos orals només s’hi documenten indirectament, a través de gèneres que els reflecteixen —teatre, diàlegs, declaracions judicials, cartes familiars—, i sempre filtrats per la convenció escrita."
+      },
+      {
+       "n": 0,
+       "t": "L’ambigüitat categorial. L’etiquetatge automàtic de textos antics és molt més fal·lible que el de textos moderns, perquè les eines d’anàlisi estan entrenades sobre llengua contemporània."
+      }
+     ]
+    },
+    {
+     "titol": "5.3. Les aplicacions: lexicografia, gramàtica i onomàstica històriques",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-29-d969f3daf34f0ab9.mp3",
+     "durada": 114.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.3. Les aplicacions: lexicografia, gramàtica i onomàstica històriques"
+      },
+      {
+       "n": 0,
+       "t": "Disciplina. Ús del corpus. Resultat"
+      },
+      {
+       "n": 0,
+       "t": "Lexicografia històrica i normativa. Documentar l’existència, la datació, la vitalitat i les accepcions de cada unitat, i determinar quina variant ha estat majoritària en cada període.. Fonamentació empírica de les entrades i de les prioritzacions del diccionari normatiu; base per a un diccionari d’autoritats."
+      },
+      {
+       "n": 0,
+       "t": "Gramàtica històrica i normativa. Documentar l’evolució de les formes flexives i de les construccions, i comprovar quines solucions tenen tradició i extensió.. Fonamentació de la priorització de formes i de la descripció dels usos sintàctics."
+      },
+      {
+       "n": 0,
+       "t": "Onomàstica. Documentar les formes històriques de topònims i antropònims, amb datació i localització.. Base per a la fixació de la toponímia i de l’antroponímia oficials."
+      },
+      {
+       "n": 0,
+       "t": "Història de la llengua i sociolingüística històrica. Observar l’extensió dels usos escrits per àmbits i per períodes.. Documentació dels processos de substitució, d’interposició i de recuperació."
+      },
+      {
+       "n": 0,
+       "t": "Estudis literaris i filològics. Estudiar l’idiolecte d’un autor, les concordances d’una obra o la difusió d’un motiu.. Suport a l’edició crítica i a la crítica literària."
+      }
+     ]
+    },
+    {
+     "titol": "5.4. Límits i cauteles en la interpretació de les dades",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-30-418192b36b1a1640.mp3",
+     "durada": 163.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.4. Límits i cauteles en la interpretació de les dades"
+      },
+      {
+       "n": 0,
+       "t": "Un corpus dona dades, no conclusions. Entre les unes i les altres hi ha una operació d’interpretació que exigeix cauteles precises, i saber enunciar-les és el que distingeix una resposta d’oposició solvent d’una resposta merament descriptiva."
+      },
+      {
+       "n": 0,
+       "t": "L’absència no és prova de inexistència. Que una forma no es documente en el corpus no demostra que no existira: pot no haver-se conservat, pot ser pròpia d’un gènere no representat o pot ser d’ús exclusivament oral. La formulació correcta és «no es documenta en el corpus», no «no existia»."
+      },
+      {
+       "n": 0,
+       "t": "Les freqüències brutes no són comparables entre períodes desigualment documentats. Cal treballar amb freqüències relatives i, encara així, tenir present la composició del subcorpus de cada període."
+      },
+      {
+       "n": 0,
+       "t": "La primera ocurrència documentada no és la data d’aparició d’una forma, sinó la data del testimoni conservat més antic que el corpus conté. Tota datació per corpus és, per definició, un terminus ante quem."
+      },
+      {
+       "n": 0,
+       "t": "Un corpus exhaustiu no és un corpus estadísticament projectable. Si la composició no està ponderada, els percentatges descriuen el corpus, no la llengua. En un corpus exhaustiu les dades s’han d’interpretar en clau documental —qui usa una forma, on i quan— més que en clau estadística."
+      },
+      {
+       "n": 0,
+       "t": "El corpus no substitueix el criteri filològic. Documentar una forma no equival a recomanar-la: la decisió normativa incorpora, a més de la documentació, els criteris de sistema, d’extensió i de convergència exposats en els temes anteriors."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA FRASE QUE RESUMEIX L’APARTAT Un corpus documenta; no prescriu. La seua funció és subministrar la base empírica sobre la qual una institució normativa pren decisions, i la seua virtut principal és que fa aquestes decisions verificables per qualsevol usuari. Confondre la dada del corpus amb la norma és el principal error conceptual que es pot cometre en aquest tema."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 6"
+      }
+     ]
+    },
+    {
+     "titol": "El CIVAL: naturalesa, gènesi i finalitat",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-31-2bd14a35807eda79.mp3",
+     "durada": 5.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "El CIVAL: naturalesa, gènesi i finalitat"
+      }
+     ]
+    },
+    {
+     "titol": "6.1. L’elaboració i la presentació pública",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-32-2da12e368b259b94.mp3",
+     "durada": 163.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.1. L’elaboració i la presentació pública"
+      },
+      {
+       "n": 0,
+       "t": "El Corpus Informatitzat del Valencià (CIVAL) es va presentar públicament el 29 de juny del 2015, en la sala d’actes del monestir de Sant Miquel dels Reis, seu de l’Acadèmia Valenciana de la Llengua. La institució va destacar que la presentació es produïa 308 anys després del Decret de Nova Planta —la disposició que va comportar la postergació del valencià escrit dels àmbits públics—, i va emmarcar expressament el projecte en «la voluntat de recuperar el nostre patrimoni cultural i literari per a restaurar la dignitat del valencià»."
+      },
+      {
+       "n": 0,
+       "t": "L’AVL va qualificar el CIVAL com «un dels projectes més importants i ambiciosos de la institució normativa» i va precisar que era el resultat del «treball dut a terme per la Secció de Documentació durant els últims huit anys», la qual cosa situa l’inici efectiu dels treballs cap al 2007."
+      },
+      {
+       "n": 0,
+       "t": "Data. Fita"
+      },
+      {
+       "n": 0,
+       "t": "Cap al 2007. Inici dels treballs de constitució del corpus per la Secció de Documentació."
+      },
+      {
+       "n": 0,
+       "t": "29.06.2015. Presentació pública del CIVAL al monestir de Sant Miquel dels Reis. Composició inicial: més de quatre mil documents, dividits en 1.600 del subcorpus diacrònic i 2.500 del valencià actual."
+      },
+      {
+       "n": 0,
+       "t": "Des del 2015. Creixement continu per incorporació de nous textos, antics i moderns, amb la col·laboració d’editorials, institucions, autors i estudiosos."
+      },
+      {
+       "n": 0,
+       "t": "Actualment. Més de dotze mil documents, «en un procés en continu creixement», segons la presentació oficial del corpus."
+      },
+      {
+       "n": 0,
+       "t": "En la presentació, el president de l’AVL, Ramon Ferrer, va afirmar que «des de hui hi haurà un abans i un després en el coneixement del valencià» i va definir el corpus com «una obra global per a estudiar la llengua que s’ha utilitzat al llarg dels segles». El president de la Secció de Documentació, el professor Albert Hauf, va assenyalar que el fons documental «pot convertir-se en un verdader i completíssim Diccionari d’autoritats», expressió que resumeix amb precisió la funció del corpus dins del sistema de recursos de la institució."
+      }
+     ]
+    },
+    {
+     "titol": "6.2. La finalitat institucional declarada",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-33-416ed75f778dad13.mp3",
+     "durada": 167.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.2. La finalitat institucional declarada"
+      },
+      {
+       "n": 0,
+       "t": "La presentació oficial del corpus enuncia la finalitat en termes que convé conéixer literalment, perquè articulen tot el tema:"
+      },
+      {
+       "n": 0,
+       "t": "«El Corpus Informatitzat del Valencià (CIVAL) és un projecte de l’Acadèmia Valenciana de la Llengua (AVL) que pretén oferir als usuaris documentació fidedigna de l’ús del valencià al llarg del temps. El CIVAL representa un punt de partida fonamental per al treball lexicogràfic, gramatical i onomàstic de la nostra institució.» AVL, «Presentació» del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "D’aquesta declaració se’n desprenen tres finalitats distintes i complementàries:"
+      },
+      {
+       "n": 0,
+       "t": "Finalitat normativa interna. El corpus és l’instrument que permet «resseguir l’evolució de qualsevol paraula i determinar, consegüentment, la conveniència d’incorporar-la o no als diccionaris, a partir de l’ús que se n’ha fet al llarg del temps». És, per tant, la base empírica de les decisions lèxiques i gramaticals de l’Acadèmia."
+      },
+      {
+       "n": 0,
+       "t": "Finalitat d’observatori. El corpus «també servirà com a observatori per a detectar les innovacions lèxiques que es vagen produint en els textos més actuals, així com per a fer estudis de sintaxi basats en l’ús real de la llengua». Aquesta funció connecta directament amb la neologia i amb la terminologia, objecte dels temes anteriors."
+      },
+      {
+       "n": 0,
+       "t": "Finalitat pública i acadèmica. L’AVL declara haver pres «la determinació de posar a l’abast de tots els ciutadans esta aplicació informàtica: perquè qualsevol persona interessada puga aprofitar-la per a aprofundir en el coneixement de la llengua pròpia i, alhora, facilitar la realització d’estudis filològics o literaris que difonguen la nostra cultura». Els estudiosos «podran consultar les fonts documentals i extraure’n conclusions contrastades i fiables»."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA TRIPLE FINALITAT Normativa (fonamentar les decisions del diccionari i de les gramàtiques) · D’observatori (detectar innovacions lèxiques i estudiar la sintaxi d’ús real) · Pública i acadèmica (posar la documentació a l’abast de la ciutadania i de la investigació). La tercera és la que justifica que un instrument de treball intern es publique en obert."
+      }
+     ]
+    },
+    {
+     "titol": "6.3. Dimensions i abast cronològic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-34-16a5387faed5ae29.mp3",
+     "durada": 93.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.3. Dimensions i abast cronològic"
+      },
+      {
+       "n": 0,
+       "t": "Dada. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "Nombre de documents. Més de dotze mil, en creixement continu (dada de la presentació oficial vigent)."
+      },
+      {
+       "n": 0,
+       "t": "Data del document més antic. 1257, amb el Llibre del repartiment de Jaume I com a obra primigènia."
+      },
+      {
+       "n": 0,
+       "t": "Límit final. El moment actual: el corpus s’actualitza amb textos contemporanis."
+      },
+      {
+       "n": 0,
+       "t": "Abast. Al voltant de huit segles de producció escrita en valencià."
+      },
+      {
+       "n": 0,
+       "t": "Consultes rebudes. Més d’un milió des de la posada en funcionament, l’any 2015."
+      },
+      {
+       "n": 0,
+       "t": "Accés. Lliure i gratuït, a través del web institucional de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "Convé precisar el concepte de document que el corpus empra, perquè no equival a «llibre». L’AVL ho aclareix expressament: «Cal entendre com a documents obres complexes i textos breus de la més variada tipologia textual». Un document pot ser, doncs, tant una novel·la completa com una escriptura notarial d’un foli."
+      }
+     ]
+    },
+    {
+     "titol": "6.4. Òrgans responsables i col·laboracions",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-35-30c03431af29ff9b.mp3",
+     "durada": 121.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.4. Òrgans responsables i col·laboracions"
+      },
+      {
+       "n": 0,
+       "t": "L’òrgan de l’AVL responsable del corpus és la Secció de Documentació i Literatura, una de les sis seccions estables de la institució. D’acord amb el Reglament de l’AVL, les seccions són òrgans col·legiats estables d’estudi, d’informació i d’assessorament, les conclusions dels quals se sotmeten a la consideració del Ple o de la Junta de Govern. En la presentació del 2015, la secció estava presidida pel professor Albert Hauf; després de la renovació per terços del 2026, la presideix M. Àngels Francés Díez, amb Àngels Gregori Parra com a secretària."
+      },
+      {
+       "n": 0,
+       "t": "La gestió tècnica de l’aplicació correspon a la Unitat de Recursos Lingüisticotècnics de l’Acadèmia, una de les unitats administratives previstes en el Reglament, que en la presentació pública del corpus va ser la que en va explicar detalladament el funcionament."
+      },
+      {
+       "n": 0,
+       "t": "Un tret que convé subratllar és la naturalesa cooperativa del projecte. La presentació oficial del corpus es tanca amb un reconeixement explícit: «este projecte ha sigut possible gràcies a la generosa col·laboració de moltes editorials i institucions valencianes, autors i estudiosos que ens han cedit les seues obres». Aquesta cessió de drets per part dels titulars és, de fet, la condició de possibilitat de qualsevol corpus contemporani, i explica que la institució done tanta importància al reconeixement dels autors: «Ells són, al cap i a la fi, els artífexs de la nostra cultura literària i la matèria primera del CIVAL»."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 7"
+      }
+     ]
+    },
+    {
+     "titol": "El disseny del CIVAL",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-36-146b554771f3608c.mp3",
+     "durada": 19.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "El disseny del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "Aquest apartat aplica al CIVAL la graella de criteris exposada en els apartats 3 i 4. És el nucli del segon membre de l’enunciat i el que permet caracteritzar el corpus amb precisió tècnica."
+      }
+     ]
+    },
+    {
+     "titol": "7.1. Els criteris de representativitat",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-37-3e0df7ceb2f1d396.mp3",
+     "durada": 155.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.1. Els criteris de representativitat"
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL declara els seus criteris de representativitat de manera explícita: «Els criteris de representativitat per a la inclusió en el corpus atenen la variació lingüística, territorial, discursiva i estilística»."
+      },
+      {
+       "n": 0,
+       "t": "L’objectiu global que se’n deriva també és declarat, i mereix ser citat perquè resumeix el disseny: «L’objectiu global de tot este conjunt de textos és poder fer una radiografia dels diversos usos del valencià». La metàfora és exacta: no es tracta de seleccionar el millor valencià sinó de documentar-ne tots els usos, siga quin siga el seu registre, el seu gènere i la seua qualitat literària."
+      },
+      {
+       "n": 0,
+       "t": "La diversitat efectiva de la composició, tal com l’enumera l’AVL, és notable i abasta des dels gèneres més canònics fins als més recents:"
+      },
+      {
+       "n": 0,
+       "t": "Bloc. Classes de text incloses"
+      },
+      {
+       "n": 0,
+       "t": "Literatura. Obres literàries: novel·les, poemes, relats, teatre."
+      },
+      {
+       "n": 0,
+       "t": "Coneixement. Textos científics i de divulgació; monografies científiques i tècniques."
+      },
+      {
+       "n": 0,
+       "t": "Documentació privada. Dietaris, llibres de família, epistolaris."
+      },
+      {
+       "n": 0,
+       "t": "Documentació pública i jurídica. Escriptures notarials, actes notarials, llibres de cort, textos legals, textos administratius."
+      },
+      {
+       "n": 0,
+       "t": "Comunicació. Articles de premsa i assajos."
+      },
+      {
+       "n": 0,
+       "t": "Producció digital i popular actual. Edicions en línia de revistes, textos de blogs, col·laboracions escrites en xarxes i cançons de grups de música actuals."
+      },
+      {
+       "n": 0,
+       "t": "La inclusió del darrer bloc és especialment significativa des del punt de vista metodològic: la incorporació de blogs, xarxes i lletres de cançons és el reconeixement que la llengua escrita contemporània ja no s’esgota en la publicació editorial, i és el que permet que el subcorpus actual complisca la seua funció d’observatori de la innovació."
+      }
+     ]
+    },
+    {
+     "titol": "7.2. L’opció per l’exhaustivitat",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-38-6d661c5dfea8d172.mp3",
+     "durada": 88.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.2. L’opció per l’exhaustivitat"
+      },
+      {
+       "n": 0,
+       "t": "Com s’ha exposat en l’apartat 3.4, el CIVAL renuncia expressament al model de corpus equilibrat per fragments i opta per l’exhaustivitat documental:"
+      },
+      {
+       "n": 0,
+       "t": "«Contràriament a l’orientació d’uns altres corpus que es fornixen de fragments d’extensió regular de diverses fonts amb la intenció d’oferir uns resultats equilibrats, el CIVAL perseguix un ideal d’exhaustivitat on estiguen totes les obres i documents significatius escrits en valencià, sobretot pel que fa al Corpus diacrònic. Això ens obliga a estar en constant renovació incorporant-hi contínuament nova documentació.» AVL, «Presentació» del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "L’opció és coherent amb la naturalesa del material. En una llengua amb una documentació antiga abundant però dispersa, i amb períodes de producció escrita reduïda, el criteri d’exhaustivitat aporta més valor que el de mostreig: el que interessa el filòleg és que hi siga tot el que es conserva, no que hi haja una mostra estadísticament proporcionada. La contrapartida, ja assenyalada en l’apartat 5.4, és que les xifres del corpus s’han d’interpretar en clau documental i no com a percentatges projectables sobre la llengua."
+      }
+     ]
+    },
+    {
+     "titol": "7.3. Els dos subcorpus i la data simbòlica de 1932",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-39-26f8612edc087e85.mp3",
+     "durada": 172.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.3. Els dos subcorpus i la data simbòlica de 1932"
+      },
+      {
+       "n": 0,
+       "t": "L’organització interna del corpus respon a una divisió binària amb una frontera cronològica precisa i deliberadament simbòlica."
+      },
+      {
+       "n": 0,
+       "t": "Subcorpus. Abast cronològic. Naturalesa. Funció"
+      },
+      {
+       "n": 0,
+       "t": "Corpus diacrònic. Des dels orígens —1257, Llibre del repartiment— fins a l’aprovació de les Normes de Castelló, el 1932.. Diacrònic: textos de períodes successius amb ortografia no fixada o en procés de fixació.. Permet l’estudi de l’evolució de la llengua i és on el corpus persegueix l’ideal d’exhaustivitat."
+      },
+      {
+       "n": 0,
+       "t": "Corpus del valencià actual. Des de 1932 fins al moment present.. Sincrònic: textos de l’estat de llengua contemporani, amb ortografia normativitzada.. Ofereix «una visió sincrònica dels usos contemporanis del valencià» i actua com a observatori de la innovació."
+      },
+      {
+       "n": 0,
+       "t": "La tria de 1932 com a frontera és una decisió de disseny amb una justificació doble, i convé saber-la explicar. La justificació tècnica: les Normes de Castelló marquen l’inici de l’ortografia moderna, de manera que abans i després d’aquesta data el text presenta problemes de tractament radicalment distints —variació gràfica lliure enfront de grafia normativitzada—, i això afecta tant la lematització com la manera de formular les consultes. La justificació institucional: les Normes de Castelló són, segons l’article 3 de la Llei 7/1998 i el Dictamen del Consell Valencià de Cultura de 1998, el punt de partida de la normativització consolidada del valencià, de manera que la data té un valor de referència en tot el sistema normatiu de l’AVL. La mateixa presentació del corpus la qualifica de «data simbòlica de la modernització ortogràfica»."
+      },
+      {
+       "n": 0,
+       "t": "El document d’ajuda del corpus ho formula en termes operatius: el filtre «Corpus» «partint de les Normes de Castelló (1932) com a referència de separació entre l’ortografia antiga i moderna, filtra els documents segons que siguen anteriors (corpus diacrònic) o posteriors (corpus del valencià actual) a esta data simbòlica»."
+      }
+     ]
+    },
+    {
+     "titol": "7.4. La tipologia textual",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-40-493cc9ca1bd36df0.mp3",
+     "durada": 117.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.4. La tipologia textual"
+      },
+      {
+       "n": 0,
+       "t": "A més de la divisió en dos subcorpus, el CIVAL classifica cada document segons la seua tipologia textual, que constitueix un filtre de consulta autònom. La classificació comprèn tretze tipus:"
+      },
+      {
+       "n": 0,
+       "t": "Bloc. Tipus"
+      },
+      {
+       "n": 0,
+       "t": "Gèneres literaris. narrativa · poesia · teatre · assaig"
+      },
+      {
+       "n": 0,
+       "t": "Comunicació i referència. periodisme · lexicografia · onomàstica · paremiologia"
+      },
+      {
+       "n": 0,
+       "t": "Llenguatges d’especialitat. text cientificotècnic · text juridicoadministratiu · text religiós"
+      },
+      {
+       "n": 0,
+       "t": "Documentació personal i històrica. text epistolar o dietarista · text historiogràfic"
+      },
+      {
+       "n": 0,
+       "t": "En la presentació pública del corpus, l’AVL va descriure aquesta arquitectura de filtres com «la possibilitat de buscar en dos grans subcorpus (diacrònic i sincrònic)» combinada amb «l’opció de poder combinar esta busca amb altres 14 subcorpus més atenent la tipologia textual i la temàtica dels textos»."
+      },
+      {
+       "n": 0,
+       "t": "La inclusió de lexicografia, onomàstica i paremiologia com a tipologies textuals pròpies és un tret distintiu del CIVAL i respon directament a les necessitats de la institució: permet aïllar el testimoni dels diccionaris i vocabularis històrics —que documenten el que els lexicògrafs recollien, no necessàriament el que els parlants usaven—, el dels repertoris onomàstics i el dels refranyers, tres classes de font que exigeixen una lectura metodològicament distinta de la dels textos discursius."
+      }
+     ]
+    },
+    {
+     "titol": "7.5. El tractament de les fonts i la referència bibliogràfica",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-41-8eca3cbdf49f3a15.mp3",
+     "durada": 84.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.5. El tractament de les fonts i la referència bibliogràfica"
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL declara dos garanties sobre el tractament de les fonts, que responen als problemes ecdòtics exposats en l’apartat 4.4:"
+      },
+      {
+       "n": 0,
+       "t": "Criteri d’edició: «Les obres més antigues s’han integrat generalment en la base de dades a partir d’edicions i transcripcions fidels a l’original i rigoroses des del punt de vista ecdòtic»."
+      },
+      {
+       "n": 0,
+       "t": "Criteri de traçabilitat: «en tots els casos es dona la referència bibliogràfica completa que permet identificar la font». La nota de premsa de presentació hi afegia que els materials estan «copiats amb la màxima fidelitat possible, i amb puntual referència a la pàgina i l’edició»."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta doble garantia és el que fa el corpus verificable: qualsevol usuari pot anar a la font impresa i comprovar el context. L’aplicació ho facilita amb dos funcionalitats específiques —«Dades bibliogràfiques», que mostra les dades bibliogràfiques del document, i «Visualitzar pàgina», que mostra el text i la imatge de la pàgina del document on es troba el context seleccionat."
+      }
+     ]
+    },
+    {
+     "titol": "7.6. L’anotació categorial",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-42-2b2e173c32200f63.mp3",
+     "durada": 99.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.6. L’anotació categorial"
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL és un corpus lematitzat i etiquetat categorialment. L’AVL ho declara en la presentació: «S’ha fet un gran esforç per a facilitar les busques complexes amb categories semàntiques, anotades amb etiquetes categorials»."
+      },
+      {
+       "n": 0,
+       "t": "Els efectes pràctics d’aquesta anotació són tres i es poden comprovar en el funcionament de l’aplicació:"
+      },
+      {
+       "n": 0,
+       "t": "La busca per variants formals recupera, amb una sola consulta, totes les variants de gènere i de nombre i «les variants purament ortogràfiques amb què s’ha representat la paraula al llarg del temps». En els verbs, «el resultat de la busca mostrarà totes les formes del paradigma verbal»."
+      },
+      {
+       "n": 0,
+       "t": "La resolució de l’ambigüitat categorial és explícita: quan la paraula consultada és categorialment ambigua, «la busca mostrarà les variants formals de totes les categories que pot tenir la paraula». L’exemple del manual és casa, que pot ser substantiu o forma del verb casar, i que recupera contextos dels dos tipus."
+      },
+      {
+       "n": 0,
+       "t": "La consulta per patrons categorials permet especificar la categoria gramatical de la paraula anterior i de la posterior a la seqüència buscada, cosa que converteix el corpus en un instrument d’estudi sintàctic i no només lèxic."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 8"
+      }
+     ]
+    },
+    {
+     "titol": "La consulta i l’explotació del CIVAL",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-43-63d16f82fa88f8f2.mp3",
+     "durada": 24.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "La consulta i l’explotació del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "El domini pràctic de l’eina és contingut exigible: un tècnic de promoció lingüística ha de saber formular una consulta al corpus i interpretar-ne el resultat. Aquest apartat sistematitza el funcionament de l’aplicació a partir del seu document d’ajuda oficial."
+      }
+     ]
+    },
+    {
+     "titol": "8.1. La consulta simple: forma exacta i variants formals",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-44-fde915b71362288d.mp3",
+     "durada": 178.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.1. La consulta simple: forma exacta i variants formals"
+      },
+      {
+       "n": 0,
+       "t": "En la consulta simple, l’usuari introdueix en el camp «Paraula o seqüència a buscar» la paraula o la seqüència —fins a un màxim de sis paraules— sobre la qual vol obtenir informació, i tria entre dos modalitats que produeixen resultats molt distints."
+      },
+      {
+       "n": 0,
+       "t": "Modalitat. Comportament. Exemple del manual del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "Forma exacta. Recupera tots els contextos en què apareix exactament el text buscat, ordenats cronològicament.. La busca de juí retorna, entre altres: «... per açò s’afermà lo juí e la llig e poblà...», Jaume I: Llibre de saviesa, 1385; «... crestià, lo gran misteri del juí divinal...», Bernat Oliver: Excitatori de la pensa a Déu, 1400."
+      },
+      {
+       "n": 0,
+       "t": "Variants formals. Recupera totes les variants de la paraula: de gènere, de nombre i, molt especialment, «les variants purament ortogràfiques amb què s’ha representat la paraula al llarg del temps».. La mateixa busca de juí recupera també: «... cert per carta pública en juhii mostrada lo dit deute ísser...», Berenguer de Ripoll: Pergamins, processos i cartes reials, 1277; «... pública, la qual mostrá en juhii...», Llibre de la Cort del Justícia de Cocentaina, 1277."
+      },
+      {
+       "n": 0,
+       "t": "L’exemple és molt il·lustratiu de per què la lematització és imprescindible en un corpus diacrònic: la busca per forma exacta de juí no hauria recuperat mai els testimonis de 1277, que són més de cent anys anteriors i que documenten la grafia juhii. Un investigador que treballara només amb forma exacta arribaria a la conclusió errònia que la paraula no es documenta fins al final del segle xiv."
+      },
+      {
+       "n": 0,
+       "t": "En el cas dels verbs, la busca per variants formals de tenir recupera contextos amb tingué, tengut, tenia o tenien, és a dir, tot el paradigma i les variants històriques del radical. I quan la paraula és categorialment ambigua —el manual posa l’exemple de casa—, es recuperen els contextos de totes les categories possibles: «la casa de la vall», «les cases del duch», «per fi es casà», «això no casa amb el que diu», «els prínceps es casen al setembre»."
+      }
+     ]
+    },
+    {
+     "titol": "8.2. La consulta avançada: els filtres",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-45-5f1709a9f278475c.mp3",
+     "durada": 157.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.2. La consulta avançada: els filtres"
+      },
+      {
+       "n": 0,
+       "t": "La consulta avançada manté tots els paràmetres de la simple i hi afegeix sis filtres addicionals, que són els que permeten l’explotació pròpiament analítica del corpus."
+      },
+      {
+       "n": 0,
+       "t": "Filtre. Funció. Utilitat metodològica"
+      },
+      {
+       "n": 0,
+       "t": "Paraula anterior. Selecciona la categoria gramatical de la paraula anterior a la seqüència buscada.. Estudi de l’entorn sintàctic esquerre: determinants, pronoms febles, preposicions."
+      },
+      {
+       "n": 0,
+       "t": "Paraula posterior. Selecciona la categoria gramatical de la paraula següent a l’última de la seqüència.. Estudi del règim i de la complementació: preposició regida, tipus de complement."
+      },
+      {
+       "n": 0,
+       "t": "Autor. Restringeix els resultats als documents de l’autor seleccionat.. Estudi de l’idiolecte i de l’ús d’un escriptor concret."
+      },
+      {
+       "n": 0,
+       "t": "Obra. Restringeix la busca a un document determinat.. Concordances d’una obra; suport a l’edició crítica."
+      },
+      {
+       "n": 0,
+       "t": "Corpus. Filtra segons que els documents siguen anteriors o posteriors a 1932.. Separació entre l’estudi diacrònic i el sincrònic."
+      },
+      {
+       "n": 0,
+       "t": "Tipologia. Filtra segons els tretze tipus textuals.. Control del biaix de gènere: comprovar si un fenomen és propi d’una classe de text o de la llengua en general."
+      },
+      {
+       "n": 0,
+       "t": "Any inicial i any final. Acoten la franja cronològica dels documents recuperats.. Delimitació de períodes; construcció de sèries temporals."
+      },
+      {
+       "n": 0,
+       "t": "La combinació d’aquests filtres és el que converteix el CIVAL en un instrument d’investigació i no de simple consulta. Una pregunta com «l’ús d’aquesta construcció era propi de la llengua administrativa o també de la literària, i en quin període es generalitza?» es respon combinant els filtres de tipologia, d’any inicial i d’any final amb la busca per categories gramaticals adjacents."
+      }
+     ]
+    },
+    {
+     "titol": "8.3. Caràcters comodí i consideracions tècniques",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-46-1d54172959735389.mp3",
+     "durada": 121.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.3. Caràcters comodí i consideracions tècniques"
+      },
+      {
+       "n": 0,
+       "t": "El corpus admet quatre caràcters comodí, que són l’instrument bàsic per a afrontar la variació gràfica dels textos antics:"
+      },
+      {
+       "n": 0,
+       "t": "Comodí. Valor"
+      },
+      {
+       "n": 0,
+       "t": "\\*. Qualsevol caràcter o cap."
+      },
+      {
+       "n": 0,
+       "t": "+. Un o més caràcters."
+      },
+      {
+       "n": 0,
+       "t": "?. Qualsevol caràcter."
+      },
+      {
+       "n": 0,
+       "t": "??. Lletres modificades amb accents, dièresis, etc."
+      },
+      {
+       "n": 0,
+       "t": "Les consideracions tècniques que el manual detalla tenen conseqüències pràctiques directes i convé conèixer-les, perquè expliquen resultats que d’altra manera semblarien errors de l’aplicació:"
+      },
+      {
+       "n": 0,
+       "t": "Les busques de seqüències estan limitades a un màxim de sis paraules."
+      },
+      {
+       "n": 0,
+       "t": "Els separadors no afecten el resultat: buscar el palau dona el mateix resultat que el, palau, el: palau o el. palau."
+      },
+      {
+       "n": 0,
+       "t": "El punt volat (·) no es considera separador de paraula, de manera que les paraules amb l·l es tracten com una sola unitat."
+      },
+      {
+       "n": 0,
+       "t": "El guionet i l’apòstrof sí que es consideren separadors. Per tant, buscar dos-cents equival a buscar la paraula dos seguida de la paraula cents. Per a buscar la forma completa cal recórrer al comodí: dos?cents."
+      },
+      {
+       "n": 0,
+       "t": "Es consideren separadors tots els caràcters que no siguen alfanumèrics, vocals accentuades, vocals amb dièresi, les grafies ñ o ç i els mateixos caràcters comodí."
+      },
+      {
+       "n": 0,
+       "t": "Si s’usen comodins en la primera paraula, automàticament s’aplica la modalitat de «Forma exacta», i no la de variants formals."
+      }
+     ]
+    },
+    {
+     "titol": "8.4. Les opcions de context i l’explotació dels resultats",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-47-31b7fd19cd88bfc8.mp3",
+     "durada": 164.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.4. Les opcions de context i l’explotació dels resultats"
+      },
+      {
+       "n": 0,
+       "t": "Una vegada obtinguts els resultats, l’aplicació ofereix cinc operacions que corresponen exactament als tipus d’informació que un corpus ha de subministrar (v. l’apartat 2.4)."
+      },
+      {
+       "n": 0,
+       "t": "Opció. Funció. Tipus d’explotació"
+      },
+      {
+       "n": 0,
+       "t": "Informe. Mostra «un informe amb el recompte de totes les variants i els percentatges relatius de cada forma».. Explotació quantitativa: és la funció que permet estudiar la competència entre variants i el seu desplaçament al llarg del temps."
+      },
+      {
+       "n": 0,
+       "t": "Visualitzar context. Mostra un context més ampli: cinquanta paraules per davant i cinquanta per darrere de la paraula buscada.. Explotació qualitativa: permet interpretar el sentit i la construcció, que una concordança breu no sempre revela."
+      },
+      {
+       "n": 0,
+       "t": "Visualitzar pàgina. Mostra el text i la imatge de la pàgina del document on es troba el context.. Explotació filològica: verificació directa contra la font."
+      },
+      {
+       "n": 0,
+       "t": "Dades bibliogràfiques. Mostra les dades bibliogràfiques completes del document.. Explotació documental: citació acadèmica i comprovació de l’edició emprada."
+      },
+      {
+       "n": 0,
+       "t": "Exportar dades. Exporta els resultats a diversos formats de visualització.. Explotació externa: tractament posterior de les dades amb altres eines."
+      },
+      {
+       "n": 0,
+       "t": "La funció «Informe» mereix una atenció especial, perquè és la que converteix la consulta en dada: el recompte de variants amb percentatges relatius és, exactament, l’instrument que permet documentar la substitució d’una forma per una altra, que és el fenomen diacrònic per excel·lència. La funció «Visualitzar pàgina» és, per la seua banda, la garantia última de verificabilitat: permet contrastar la transcripció amb la imatge de l’original."
+      },
+      {
+       "n": 0,
+       "t": "L’aplicació disposa, finalment, d’una via de comunicació amb els responsables per a la comunicació d’errors i de suggeriments de millora, cosa coherent amb la naturalesa oberta i en revisió permanent del projecte."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 9"
+      }
+     ]
+    },
+    {
+     "titol": "El CIVAL en el sistema de recursos de l’AVL",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-48-f8c61ec584342cde.mp3",
+     "durada": 36.7,
+     "text": [
+      {
+       "n": 1,
+       "t": "El CIVAL en el sistema de recursos de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL no és un projecte aïllat sinó la base documental de tot el sistema normatiu de l’Acadèmia. La presentació oficial ho declara sense ambigüitat: el corpus «representa un punt de partida fonamental per al treball lexicogràfic, gramatical i onomàstic de la nostra institució». Aquest apartat desplega les quatre funcions que se’n deriven i que connecten aquest tema amb els temes 1 a 4 del temari."
+      }
+     ]
+    },
+    {
+     "titol": "9.1. El corpus com a fonament del treball lexicogràfic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-49-9bb23df7250f21c9.mp3",
+     "durada": 176.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.1. El corpus com a fonament del treball lexicogràfic"
+      },
+      {
+       "n": 0,
+       "t": "És la funció més directa i la que la mateixa AVL enuncia amb més detall: «L’evolució de la lexicografia moderna fa que siga indispensable recórrer a una gran base de dades textual que permeta resseguir l’evolució de qualsevol paraula i determinar, consegüentment, la conveniència d’incorporar-la o no als diccionaris, a partir de l’ús que se n’ha fet al llarg del temps»."
+      },
+      {
+       "n": 0,
+       "t": "La connexió amb la normativa lèxica exposada en el Tema 3 és immediata i convé fer-la explícita, perquè és el tipus de relació entre temes que els tribunals valoren. L’acord del Ple de 20 de maig del 2002 classifica el lèxic valencià reconegut com a oficial en vuit subapartats segons dos paràmetres: si la forma està o no documentada en textos dels segles xiii al xvi, i si viu o no en els parlars actuals. Doncs bé:"
+      },
+      {
+       "n": 0,
+       "t": "Criteri de l’acord del 2002. Com el verifica el CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "«Documentades en els nostres escriptors clàssics i en altres textos valencians dels segles xiii al xvi» (subap. 3.1 i 3.2). Busca en el subcorpus diacrònic amb filtre d’any final; el resultat documenta o desmenteix l’asserció, amb referència bibliogràfica."
+      },
+      {
+       "n": 0,
+       "t": "«El primer dels quals ja apareix documentat en el període clàssic» (subap. 3.4). Comparació de la primera ocurrència documentada de cada membre de la parella."
+      },
+      {
+       "n": 0,
+       "t": "«No documentades en textos dels segles xiii al xvi» (subap. 3.5). Absència d’ocurrències en la franja cronològica corresponent, amb les cauteles de l’apartat 5.4."
+      },
+      {
+       "n": 0,
+       "t": "«Innovacions del valencià modern» (subap. 3.6). Datació de la primera ocurrència en el subcorpus posterior."
+      },
+      {
+       "n": 0,
+       "t": "«El primer terme predomina en valencià general» (subap. 3.3). Funció «Informe», amb el recompte de variants i els percentatges relatius de cada forma."
+      },
+      {
+       "n": 0,
+       "t": "El corpus és, doncs, l’instrument que converteix les afirmacions de l’acord del 2002 i les prioritzacions del DNV en assercions verificables. Aquesta és la raó de fons per la qual una institució normativa necessita un corpus propi."
+      }
+     ]
+    },
+    {
+     "titol": "9.2. El corpus com a fonament del treball gramatical",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-50-508bb448ccf9f4da.mp3",
+     "durada": 64.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.2. El corpus com a fonament del treball gramatical"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL declara que el corpus servirà «per a fer estudis de sintaxi basats en l’ús real de la llengua», i les funcionalitats de consulta per categoria gramatical de la paraula anterior i posterior estan dissenyades precisament per a això."
+      },
+      {
+       "n": 0,
+       "t": "La connexió amb el Tema 2 és igualment directa. La Gramàtica normativa valenciana declara que ha prioritzat les formes del valencià general, que ha volgut recuperar formes o usos sintàctics genuïns de gran extensió i tradició històrica que havien rebut poca atenció, i que distingeix entre usos d’àmbit general i d’àmbit restringit. Les tres assercions són, en principi, comprovables en el corpus: l’extensió d’una forma es mesura per freqüència, la tradició històrica per datació i la distribució per gènere textual mitjançant el filtre de tipologia."
+      }
+     ]
+    },
+    {
+     "titol": "9.3. El corpus com a fonament del treball onomàstic",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-51-c55728d37cd14fdd.mp3",
+     "durada": 68.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.3. El corpus com a fonament del treball onomàstic"
+      },
+      {
+       "n": 0,
+       "t": "La tercera funció declarada és l’onomàstica. El corpus inclou onomàstica com una de les tretze tipologies textuals, cosa que permet aïllar els repertoris onomàstics, i la seua composició —amb abundant documentació notarial, llibres de cort i textos administratius antics— és precisament la que subministra els testimonis històrics de topònims i antropònims."
+      },
+      {
+       "n": 0,
+       "t": "La connexió és amb els instruments onomàstics de l’AVL: el Corpus toponímic valencià, els Criteris per a la fixació de la toponímia valenciana, el Nomenclàtor Toponímic Valencià i el Vocabulari de noms de persona. En els informes de canvi de denominació de municipis, la documentació històrica de les formes és un dels tres pilars clàssics de l’argumentació onomàstica —al costat de l’etimologia i la pronunciació—, i és precisament el que un corpus diacrònic subministra."
+      }
+     ]
+    },
+    {
+     "titol": "9.4. El corpus com a observatori de la neologia",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-52-a150e83d0a5a810a.mp3",
+     "durada": 90.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.4. El corpus com a observatori de la neologia"
+      },
+      {
+       "n": 0,
+       "t": "La quarta funció és la que connecta amb els temes 3 i 4: el corpus «servirà com a observatori per a detectar les innovacions lèxiques que es vagen produint en els textos més actuals»."
+      },
+      {
+       "n": 0,
+       "t": "El subcorpus del valencià actual, amb la seua obertura als blogs, a les publicacions en línia i a les lletres de cançons, és l’instrument que permet detectar una unitat nova, mesurar-ne la implantació i decidir si ha assolit prou consolidació per a entrar en el diccionari normatiu o si, per la seua especificitat, correspon al Portal Terminològic Valencià. La cadena completa del sistema de l’AVL queda així dibuixada:"
+      },
+      {
+       "n": 0,
+       "t": "EL CIRCUIT COMPLET DEL SISTEMA DE RECURSOS DE L’AVL CIVAL (observació documentada de l’ús real, en diacronia i en sincronia) → estudi de la Secció competent → acord del Ple → incorporació al DNV (lèxic general), al Portal Terminològic Valencià (terminologia especialitzada), a les gramàtiques (morfosintaxi) o als repertoris onomàstics → difusió. El corpus ocupa, doncs, l’extrem inicial de la cadena: és la font de coneixement sobre la qual descansa tot el que ve després."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 10"
+      }
+     ]
+    },
+    {
+     "titol": "El CIVAL en el panorama dels corpus de la llengua",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-53-b5c5fee720b704d9.mp3",
+     "durada": 23.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "El CIVAL en el panorama dels corpus de la llengua"
+      },
+      {
+       "n": 0,
+       "t": "Situar el CIVAL entre els altres corpus disponibles permet caracteritzar-lo per contrast i, sobretot, saber quin instrument convé emprar per a cada tipus de consulta. És un contingut d’alt valor per a la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "10.1. El Corpus Textual Informatitzat de la Llengua Catalana",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-54-536249bcf919321a.mp3",
+     "durada": 143.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.1. El Corpus Textual Informatitzat de la Llengua Catalana"
+      },
+      {
+       "n": 0,
+       "t": "El Corpus Textual Informatitzat de la Llengua Catalana (CTILC) és el corpus de referència del català contemporani. És un projecte de llarg abast que l’Institut d’Estudis Catalans va iniciar l’any 1985 sota la direcció de Joaquim Rafel i Fontanals, i que va nàixer com la primera fase del projecte del Diccionari del català contemporani."
+      },
+      {
+       "n": 0,
+       "t": "Els seus trets principals, segons la documentació institucional de l’IEC, són els següents:"
+      },
+      {
+       "n": 0,
+       "t": "Dos fases de desenvolupament: entre 1985 i 1997 es va constituir una primera versió de més de 52 milions de mots, amb textos publicats entre 1832 i 1988; a partir de 2015 l’IEC va emprendre’n la continuació amb textos posteriors, amb criteris de classificació i selecció anàlegs."
+      },
+      {
+       "n": 0,
+       "t": "Volum actual: el corpus consultable ha arribat a un volum d’aproximadament 72 milions de mots, amb textos publicats fins al 2008 en una primera ampliació i amb previsió de continuïtat."
+      },
+      {
+       "n": 0,
+       "t": "Anotació: és un corpus completament lematitzat i etiquetat categorialment i morfològicament."
+      },
+      {
+       "n": 0,
+       "t": "Composició ponderada: la selecció distingeix entre llengua literària i no literària en proporcions determinades, amb predomini de la segona."
+      },
+      {
+       "n": 0,
+       "t": "Finalitat: ha servit de base per al Diccionari descriptiu de la llengua catalana i per al Diccionari de freqüències."
+      },
+      {
+       "n": 0,
+       "t": "Consulta: s’organitza en concordances, col·locacions i dades numèriques, amb patrons de selecció per lema, forma, coocurrències i noms propis."
+      },
+      {
+       "n": 0,
+       "t": "El contrast amb el CIVAL és net i instructiu: el CTILC és un corpus contemporani, ponderat i mesurat en mots; el CIVAL és un corpus de tot l’arc històric, exhaustiu i mesurat en documents. No competeixen: cobreixen necessitats distintes."
+      }
+     ]
+    },
+    {
+     "titol": "10.2. El Corpus Informatitzat del Català Antic i els corpus de l’IVITRA",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-55-4061ea337713466c.mp3",
+     "durada": 97.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.2. El Corpus Informatitzat del Català Antic i els corpus de l’IVITRA"
+      },
+      {
+       "n": 0,
+       "t": "El Corpus Informatitzat del Català Antic (CICA) és un corpus de llengua antiga dirigit per Joan Torruella (ICREA-UAB), Manuel Pérez Saldanya (UV) i Josep Martines (UA), amb textos que abasten des del segle xi fins al segle xviii. Els seus contextos apareixen ordenats per cronologia i obra i es poden reordenar segons el dialecte, la tipologia textual i el mot que precedeix o segueix la forma cercada, i permet obtenir freqüències per períodes històrics, per tipologia de text i per dialectes."
+      },
+      {
+       "n": 0,
+       "t": "A l’entorn de l’ISIC-IVITRA de la Universitat d’Alacant, sota la direcció de Josep Martines, s’han desenvolupat a més diversos corpus especialitzats de gramàtica històrica —entre els quals el Corpus Informatitzat de la Gramàtica del Català Antic i el Corpus Informatitzat de la Gramàtica del Català Modern, aquest darrer amb textos del període 1601-1832— integrats en un metacorpus. La seua finalitat és subministrar dades per a l’elaboració de gramàtiques històriques."
+      },
+      {
+       "n": 0,
+       "t": "La relació d’aquests projectes amb el CIVAL no és de competència sinó de complementarietat i de continuïtat personal: alguns dels seus directors són o han estat acadèmics de l’AVL, i la comunitat investigadora és en bona part compartida."
+      }
+     ]
+    },
+    {
+     "titol": "10.3. Els corpus de referència del castellà",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-56-e91a79f140054c18.mp3",
+     "durada": 66.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.3. Els corpus de referència del castellà"
+      },
+      {
+       "n": 0,
+       "t": "Per al castellà, la Real Academia Española manté un sistema de corpus àmpliament emprat com a terme de comparació en la bibliografia especialitzada:"
+      },
+      {
+       "n": 0,
+       "t": "El CORDE (Corpus diacrónico del español), corpus diacrònic de referència."
+      },
+      {
+       "n": 0,
+       "t": "El CREA (Corpus de referencia del español actual), corpus sincrònic contemporani."
+      },
+      {
+       "n": 0,
+       "t": "El CORPES XXI (Corpus del Español del Siglo XXI), corpus del castellà del segle xxi."
+      },
+      {
+       "n": 0,
+       "t": "El model acadèmic castellà separa, doncs, en instruments distints el que el CIVAL integra en una sola aplicació amb dos subcorpus. Cada opció té avantatges: la separació permet dissenys específics i optimitzats per a cada estat de llengua; la integració permet a l’usuari fer amb una sola interfície consultes que travessen tot l’arc històric."
+      }
+     ]
+    },
+    {
+     "titol": "10.4. Quadre comparatiu",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-57-da9121c75c9700d7.mp3",
+     "durada": 189.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.4. Quadre comparatiu"
+      },
+      {
+       "n": 0,
+       "t": "CIVAL. CTILC. CICA"
+      },
+      {
+       "n": 0,
+       "t": "Institució. Acadèmia Valenciana de la Llengua. Institut d’Estudis Catalans. Projecte universitari (UAB, UV, UA)"
+      },
+      {
+       "n": 0,
+       "t": "Inici. Treballs cap al 2007; presentació el 2015. 1985. Projecte universitari, publicat en línia"
+      },
+      {
+       "n": 0,
+       "t": "Abast cronològic. 1257 – actualitat. 1832 – actualitat (per fases). Segle xi – segle xviii"
+      },
+      {
+       "n": 0,
+       "t": "Naturalesa. Mixt: subcorpus diacrònic i subcorpus actual. Contemporani. Antic"
+      },
+      {
+       "n": 0,
+       "t": "Composició. Exhaustiva, mesurada en documents (més de dotze mil). Ponderada, mesurada en mots (uns 72 milions). Selectiva, de llengua antiga"
+      },
+      {
+       "n": 0,
+       "t": "Anotació. Lematitzat i etiquetat categorialment. Lematitzat i etiquetat categorialment i morfològica. Preparat per a lemes i categories"
+      },
+      {
+       "n": 0,
+       "t": "Filtres destacats. Autor, obra, subcorpus, tipologia (13 tipus), any inicial i final, categoria de la paraula anterior i posterior. Lema, forma, coocurrències, noms propis; concordances, col·locacions i dades numèriques. Cronologia, obra, dialecte, tipologia textual, mot precedent i següent"
+      },
+      {
+       "n": 0,
+       "t": "Finalitat principal. Base documental del treball lexicogràfic, gramatical i onomàstic de l’AVL. Base del Diccionari descriptiu de la llengua catalana. Investigació en lingüística històrica"
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: QUIN CORPUS PER A QUINA CONSULTA Documentació d’una forma en el valencià de qualsevol època, amb referència bibliogràfica i imatge de la pàgina → CIVAL. Freqüències estadísticament ponderades del català contemporani → CTILC. Distribució dialectal d’una forma en la llengua antiga → CICA. Comparació amb l’evolució del castellà → CORDE, CREA i CORPES XXI."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 11"
+      }
+     ]
+    },
+    {
+     "titol": "Estat actual, projectes de millora i qüestions obertes",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-58-ad2ed9931af8c666.mp3",
+     "durada": 6.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "Estat actual, projectes de millora i qüestions obertes"
+      }
+     ]
+    },
+    {
+     "titol": "11.1. Ús, finançament i desenvolupament",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-59-ba27cd39f858aebe.mp3",
+     "durada": 105.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.1. Ús, finançament i desenvolupament"
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL ha rebut més d’un milió de consultes des de la seua posada en funcionament l’any 2015, segons les dades difoses per la mateixa Acadèmia. La xifra és modesta si es compara amb la del DNV —que rep una mitjana de més de 60.000 consultes diàries i n’acumula prop de 160 milions des del 2014—, però és coherent amb la naturalesa dels dos instruments: el diccionari és una eina de consulta quotidiana per a qualsevol usuari; el corpus és una eina d’investigació per a un públic especialitzat."
+      },
+      {
+       "n": 0,
+       "t": "Pel que fa al desenvolupament, l’AVL ha obtingut finançament públic específic per a la millora de les seues aplicacions informàtiques. En el marc d’una subvenció del Ministeri de Ciència, Innovació i Universitats de 200.000 euros destinada a tres projectes de renovació de les aplicacions de consulta en línia, la quantia assignada a la millora del CIVAL és de 30.000 euros, i servirà, segons la institució, «per a crear una versió responsiva i incorporar noves funcionalitats per a l’explotació estadística de dades»."
+      },
+      {
+       "n": 0,
+       "t": "Les dos línies són significatives i responen a necessitats reals identificades en aquest tema: la versió responsiva atén l’accessibilitat des de dispositius mòbils, i les funcionalitats d’explotació estadística amplien la funció «Informe» descrita en l’apartat 8.4, que és precisament la que permet l’anàlisi quantitativa de l’evolució de les variants."
+      }
+     ]
+    },
+    {
+     "titol": "11.2. Línies de millora",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-60-ef4c4b500dc08bfa.mp3",
+     "durada": 99.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.2. Línies de millora"
+      },
+      {
+       "n": 0,
+       "t": "Una valoració crítica ponderada, argumentada en termes tècnics, és sempre ben valorada en una prova de desenvolupament. Es poden assenyalar quatre línies:"
+      },
+      {
+       "n": 0,
+       "t": "La publicació de la composició del corpus. Un corpus és tant més útil com més exactament se’n coneix la composició: nombre de documents i d’ocurrències per període, per tipologia i per varietat. La publicació periòdica d’aquestes dades permetria als investigadors calibrar les freqüències observades i és pràctica habitual en els corpus de referència."
+      },
+      {
+       "n": 0,
+       "t": "La mesura en ocurrències. El CIVAL informa del nombre de documents, però la unitat de mesura estàndard en lingüística de corpus és el mot o ocurrència, que és la que permet comparar corpus i calcular freqüències relatives."
+      },
+      {
+       "n": 0,
+       "t": "L’explotació estadística, ja identificada per la mateixa institució com a objecte del projecte de millora en curs: gràfics d’evolució, freqüències normalitzades i distribucions per període i per tipologia."
+      },
+      {
+       "n": 0,
+       "t": "La documentació dels criteris d’anotació. Fer públic el joc d’etiquetes categorials emprat i el grau de fiabilitat de l’anotació —especialment en els textos antics, on l’etiquetatge automàtic és més fal·lible— augmentaria la transparència metodològica del recurs."
+      }
+     ]
+    },
+    {
+     "titol": "11.3. El debat sobre el tractament de les fonts",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-61-8c34516fd676958a.mp3",
+     "durada": 183.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.3. El debat sobre el tractament de les fonts"
+      },
+      {
+       "n": 0,
+       "t": "L’exigència d’objectivitat obliga a deixar constància que el tractament de les fonts del CIVAL ha estat objecte de discussió pública. La Secció de Llengua i Lliteratura Valencianes de la Reial Acadèmia de Cultura Valenciana ha difós un comunicat en què sosté que el corpus incorpora documents que haurien estat prèviament regularitzats i que es presentarien com a transcripcions fidels a l’original."
+      },
+      {
+       "n": 0,
+       "t": "Per a tractar la qüestió amb rigor convé distingir tres plans:"
+      },
+      {
+       "n": 0,
+       "t": "El criteri declarat per l’AVL és inequívoc: les obres més antigues s’integren «a partir d’edicions i transcripcions fidels a l’original i rigoroses des del punt de vista ecdòtic», i «en tots els casos es dóna la referència bibliogràfica completa que permet identificar la font»."
+      },
+      {
+       "n": 0,
+       "t": "La qüestió tècnica de fons és real i afecta tots els corpus diacrònics del món, no només el valencià: qualsevol edició d’un text antic pren decisions de transcripció —regularització de u i v, resolució d’abreviatures, puntuació, separació de mots— i la frontera entre l’edició paleogràfica i l’edició crítica modernitzada és gradual. És el problema exposat en l’apartat 4.4."
+      },
+      {
+       "n": 0,
+       "t": "La resposta metodològica que el mateix corpus incorpora és la traçabilitat: com que cada context porta la referència bibliogràfica completa i com que l’aplicació permet «visualitzar pàgina» amb la imatge del document, l’usuari pot verificar en cada cas quina edició s’ha emprat i contrastar-la. La verificabilitat és, precisament, la garantia que substitueix la confiança cega en qualsevol corpus científic."
+      },
+      {
+       "n": 0,
+       "t": "La conclusió que se’n desprén, i que és la que convé sostenir en un examen, és de mètode: davant de qualsevol corpus diacrònic, la cautela filològica exigeix comprovar l’edició de procedència abans d’extraure conclusions sobre la grafia d’un testimoni. El CIVAL proporciona els instruments per a fer-ho, i aquesta és la seua garantia de qualitat."
+      },
+      {
+       "n": 0,
+       "t": "PER A AMPLIAR Aquesta qüestió és un bon exemple, aprofitable en una prova teoricopràctica, del fet que la fiabilitat d’un corpus no descansa en l’autoritat de qui el publica sinó en la verificabilitat del que conté. Un corpus que dona la referència completa i la imatge de la font permet que qualsevol usuari refute o confirme una dada; un corpus que no ho fa exigeix confiança. La diferència és exactament la que separa una font científica d’una font d’autoritat."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 12"
+      }
+     ]
+    },
+    {
+     "titol": "Síntesi: dades, conceptes i criteris de memorització obligatòria",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-62-23751f33188e7bb3.mp3",
+     "durada": 7.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Síntesi: dades, conceptes i criteris de memorització obligatòria"
+      }
+     ]
+    },
+    {
+     "titol": "12.1. Conceptes clau",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-63-4dd90674ef09e58c.mp3",
+     "durada": 138.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.1. Conceptes clau"
+      },
+      {
+       "n": 0,
+       "t": "Concepte. Definició operativa"
+      },
+      {
+       "n": 0,
+       "t": "Corpus lingüístic. Conjunt de textos reals, seleccionats segons criteris explícits, en format electrònic i explotable informàticament."
+      },
+      {
+       "n": 0,
+       "t": "Corpus diacrònic. Corpus format per textos de períodes successius, amb datació precisa, que permet la comparació entre estats de llengua."
+      },
+      {
+       "n": 0,
+       "t": "Corpus de referència. Corpus que aspira a representar la llengua en el seu conjunt i que serveix de base per a obres normatives i descriptives generals."
+      },
+      {
+       "n": 0,
+       "t": "Representativitat. Propietat per la qual les dades del corpus són vàlides per a la població textual que vol representar. Té dimensions cronològica, geogràfica, discursiva, estilística i autorial."
+      },
+      {
+       "n": 0,
+       "t": "Equilibri o ponderació. Proporció fixada a priori de cada component dins del corpus, que fa les freqüències projectables."
+      },
+      {
+       "n": 0,
+       "t": "Exhaustivitat. Opció alternativa a la ponderació: incloure la totalitat dels textos significatius. És l’opció del CIVAL."
+      },
+      {
+       "n": 0,
+       "t": "Lematització. Associació de cada forma al seu lema, que agrupa la sèrie flexiva i les variants gràfiques."
+      },
+      {
+       "n": 0,
+       "t": "Etiquetatge categorial. Assignació a cada ocurrència de la seua categoria gramatical, que permet consultes per patrons sintàctics."
+      },
+      {
+       "n": 0,
+       "t": "Concordança. Presentació d’una ocurrència amb el seu context immediat, que és la unitat de resultat d’una consulta a un corpus."
+      },
+      {
+       "n": 0,
+       "t": "Corpus de seguiment. Corpus obert, actualitzat contínuament amb textos nous. El CIVAL n’és un."
+      }
+     ]
+    },
+    {
+     "titol": "12.2. Dades del CIVAL",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-64-62c00bedb49cd1bb.mp3",
+     "durada": 160.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.2. Dades del CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "Element. Dada"
+      },
+      {
+       "n": 0,
+       "t": "Denominació. Corpus Informatitzat del Valencià, sigla CIVAL."
+      },
+      {
+       "n": 0,
+       "t": "Titularitat. Acadèmia Valenciana de la Llengua."
+      },
+      {
+       "n": 0,
+       "t": "Òrgan responsable. Secció de Documentació i Literatura; gestió tècnica de la Unitat de Recursos Lingüisticotècnics."
+      },
+      {
+       "n": 0,
+       "t": "Inici dels treballs. Cap al 2007 (huit anys de treball previs a la presentació)."
+      },
+      {
+       "n": 0,
+       "t": "Presentació pública. 29 de juny del 2015, monestir de Sant Miquel dels Reis; 308 anys després del Decret de Nova Planta."
+      },
+      {
+       "n": 0,
+       "t": "Composició inicial. Més de 4.000 documents: 1.600 del subcorpus diacrònic i 2.500 del valencià actual."
+      },
+      {
+       "n": 0,
+       "t": "Composició actual. Més de 12.000 documents, en creixement continu."
+      },
+      {
+       "n": 0,
+       "t": "Abast cronològic. Des de 1257 (Llibre del repartiment de Jaume I) fins a l’actualitat: al voltant de huit segles."
+      },
+      {
+       "n": 0,
+       "t": "Subcorpus. Diacrònic (orígens – 1932) i del valencià actual (1932 – actualitat)."
+      },
+      {
+       "n": 0,
+       "t": "Tipologies textuals. Tretze: narrativa, poesia, teatre, assaig, periodisme, lexicografia, onomàstica, paremiologia, text cientificotècnic, text juridicoadministratiu, text epistolar o dietarista, text historiogràfic i text religiós."
+      },
+      {
+       "n": 0,
+       "t": "Anotació. Lematitzat i etiquetat categorialment."
+      },
+      {
+       "n": 0,
+       "t": "Límit de seqüència. Sis paraules com a màxim per consulta."
+      },
+      {
+       "n": 0,
+       "t": "Consultes rebudes. Més d’un milió des del 2015."
+      },
+      {
+       "n": 0,
+       "t": "Projecte de millora. 30.000 euros per a versió responsiva i explotació estadística de dades."
+      }
+     ]
+    },
+    {
+     "titol": "12.3. Quinze idees-força",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-65-b3be15c533f81b31.mp3",
+     "durada": 264.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.3. Quinze idees-força"
+      },
+      {
+       "n": 0,
+       "t": "Un corpus és un conjunt de textos reals, seleccionats amb criteris explícits, en format electrònic i explotable informàticament. No és una biblioteca digital: la unitat de consulta no és el document sinó l’ocurrència en context."
+      },
+      {
+       "n": 0,
+       "t": "La funció d’un corpus és documentar, no prescriure. És una infraestructura de recerca que subministra la base empírica de les decisions normatives i les fa verificables."
+      },
+      {
+       "n": 0,
+       "t": "Els corpus es classifiquen segons la dimensió temporal (sincrònics, diacrònics, mixtos), la finalitat (de referència, especialitzats), el tractament (plans, lematitzats, etiquetats, analitzats), la composició (equilibrats, exhaustius), l’obertura (tancats, de seguiment) i el nombre de llengües (monolingües, paral·lels, comparables)."
+      },
+      {
+       "n": 0,
+       "t": "Els criteris de disseny són sis: representativitat, equilibri o exhaustivitat, dimensió, fiabilitat ecdòtica, documentació de fonts i anotació."
+      },
+      {
+       "n": 0,
+       "t": "Un corpus diacrònic permet observar l’evolució en els nivells gràfic, fonètic, morfològic, sintàctic i lexicosemàntic, i aporta dos dimensions transversals decisives per a una institució normativa: la datació i la vitalitat."
+      },
+      {
+       "n": 0,
+       "t": "Les cauteles interpretatives essencials són cinc: l’absència no prova la inexistència; les freqüències brutes no són comparables entre períodes desigualment documentats; la primera ocurrència documentada no és la data d’aparició; un corpus exhaustiu no és estadísticament projectable; i el corpus no substitueix el criteri filològic."
+      },
+      {
+       "n": 0,
+       "t": "El CIVAL es va presentar el 29 de juny del 2015, 308 anys després del Decret de Nova Planta, com a resultat de huit anys de treball de la Secció de Documentació."
+      },
+      {
+       "n": 0,
+       "t": "La seua finalitat és triple: normativa (fonamentar el treball lexicogràfic, gramatical i onomàstic), d’observatori (detectar innovacions lèxiques i estudiar la sintaxi d’ús real) i pública i acadèmica."
+      },
+      {
+       "n": 0,
+       "t": "Abasta des de 1257 —Llibre del repartiment de Jaume I— fins a l’actualitat, amb més de dotze mil documents en creixement continu."
+      },
+      {
+       "n": 0,
+       "t": "Els seus criteris de representativitat atenen la variació lingüística, territorial, discursiva i estilística, amb l’objectiu de fer «una radiografia dels diversos usos del valencià»."
+      },
+      {
+       "n": 0,
+       "t": "Opta expressament per l’exhaustivitat enfront del model de corpus equilibrat per fragments d’extensió regular."
+      },
+      {
+       "n": 0,
+       "t": "S’organitza en dos subcorpus separats per la data simbòlica de 1932, l’aprovació de les Normes de Castelló, que marca la frontera entre l’ortografia antiga i la moderna."
+      },
+      {
+       "n": 0,
+       "t": "Classifica els documents en tretze tipologies textuals i és lematitzat i etiquetat categorialment, cosa que permet la busca per variants formals i per patrons de categories adjacents."
+      },
+      {
+       "n": 0,
+       "t": "Garanteix la traçabilitat: referència bibliogràfica completa, dades bibliogràfiques del document i visualització de la imatge de la pàgina. La funció «Informe» dona el recompte de variants amb percentatges relatius."
+      },
+      {
+       "n": 0,
+       "t": "En el panorama de la llengua, el CTILC de l’IEC és el corpus ponderat del català contemporani (uns 72 milions de mots des de 1832) i el CICA cobreix la llengua antiga amb informació dialectal; el CIVAL es distingeix per cobrir tot l’arc històric del valencià en una sola aplicació, amb criteri exhaustiu i mesura en documents."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 13"
+      }
+     ]
+    },
+    {
+     "titol": "Per a ampliar",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-66-dcb6b887cc0c0cbd.mp3",
+     "durada": 16.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Per a ampliar"
+      },
+      {
+       "n": 0,
+       "t": "Les línies següents no formen part del contingut mínim exigible, però permeten respondre amb solvència les preguntes de matís i, sobretot, les de la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "13.1. Un exercici pràctic model: la datació d’una forma",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-67-b999b371c6436f55.mp3",
+     "durada": 107.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.1. Un exercici pràctic model: la datació d’una forma"
+      },
+      {
+       "n": 0,
+       "t": "Una qüestió típica de la prova teoricopràctica és la resolució raonada d’un cas de documentació. L’esquema de resposta que s’espera és el següent:"
+      },
+      {
+       "n": 0,
+       "t": "Formulació de la pregunta en termes verificables: no «és genuïna aquesta forma?» sinó «des de quan es documenta, en quins gèneres i amb quina freqüència relativa respecte de les seues variants?»."
+      },
+      {
+       "n": 0,
+       "t": "Consulta per variants formals, no per forma exacta, per a recuperar totes les grafies històriques. L’exemple del manual del CIVAL és concloent: la busca de juí per forma exacta dona testimonis a partir de 1385, mentre que la busca per variants formals recupera juhii ja el 1277."
+      },
+      {
+       "n": 0,
+       "t": "Filtratge cronològic i tipològic per a comprovar si la forma és pròpia d’un gènere determinat o té distribució general."
+      },
+      {
+       "n": 0,
+       "t": "Ús de la funció «Informe» per a obtenir el recompte de variants i els percentatges relatius, que és el que permet parlar de forma majoritària o minoritària en cada període."
+      },
+      {
+       "n": 0,
+       "t": "Verificació filològica de la font: consultar les dades bibliogràfiques i, si escau, la imatge de la pàgina, abans de fer cap afirmació sobre la grafia del testimoni."
+      },
+      {
+       "n": 0,
+       "t": "Formulació prudent de la conclusió: «es documenta des de…», «en el corpus consultat el dia…», i no «apareix per primera vegada en…»."
+      }
+     ]
+    },
+    {
+     "titol": "13.2. Corpus i tecnologies de la llengua",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-68-d0f766e49880f312.mp3",
+     "durada": 87.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.2. Corpus i tecnologies de la llengua"
+      },
+      {
+       "n": 0,
+       "t": "El tema connecta amb els temes del temari dedicats a la llengua i la tecnologia, a la traducció automàtica i a la traducció assistida, i convé saber traçar-ne el vincle."
+      },
+      {
+       "n": 0,
+       "t": "Els corpus paral·lels —textos originals i les seues traduccions alineats— són la matèria primera de les memòries de traducció i de l’entrenament dels sistemes de traducció automàtica, molt especialment dels basats en xarxes neuronals, que requereixen volums molt grans de text alineat."
+      },
+      {
+       "n": 0,
+       "t": "Els corpus monolingües com el CIVAL són la base per a l’extracció automàtica de neologisme i de terminologia, per a l’elaboració de diccionaris de freqüències i per a l’entrenament de models de llengua."
+      },
+      {
+       "n": 0,
+       "t": "La disponibilitat de corpus és, per a una llengua minoritzada, una condició de possibilitat de la seua presència en les tecnologies lingüístiques: sense text digitalitzat, anotat i accessible, no hi ha correctors, ni traductors automàtics, ni assistents de veu."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta darrera consideració és la que permet enllaçar el tema amb la dimensió de política lingüística: constituir un corpus és, avui, una actuació de normalització lingüística tant com de recerca filològica."
+      }
+     ]
+    },
+    {
+     "titol": "13.3. El corpus i la noció de «diccionari d’autoritats»",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-69-b9a54f11609499be.mp3",
+     "durada": 95.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.3. El corpus i la noció de «diccionari d’autoritats»"
+      },
+      {
+       "n": 0,
+       "t": "La caracterització que el professor Albert Hauf va fer del CIVAL en la seua presentació —que pot convertir-se en «un verdader i completíssim Diccionari d’autoritats»— mereix un comentari, perquè és una idea de fons sobre la relació entre corpus i lexicografia."
+      },
+      {
+       "n": 0,
+       "t": "Un diccionari d’autoritats és aquell que documenta cada accepció amb citacions d’autors, com el de la Real Academia Española de 1726-1739 o, en l’àmbit de la nostra llengua, el Diccionari català-valencià-balear. La seua elaboració exigia tradicionalment un fitxer manual de milers de cèdules recollides al llarg de dècades. Un corpus informatitzat converteix aquest treball en una consulta: qualsevol paraula del diccionari pot, en principi, il·lustrar-se amb els seus testimonis històrics de manera immediata."
+      },
+      {
+       "n": 0,
+       "t": "La idea té una conseqüència de futur que val la pena assenyalar: la integració entre el corpus i el diccionari —de manera que des d’una entrada del DNV es puguen consultar directament els testimonis del CIVAL— és el pas natural del sistema de recursos de l’AVL, i és el model que altres institucions normatives de la nostra llengua ja han desenvolupat amb la integració dels seus portals de dades lingüístiques."
+      }
+     ]
+    },
+    {
+     "titol": "13.4. Lectures recomanades",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-70-bc45effcc48342ca.mp3",
+     "durada": 71.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.4. Lectures recomanades"
+      },
+      {
+       "n": 0,
+       "t": "La «Presentació» del CIVAL: és un text breu però densíssim, on es declaren la finalitat, els criteris de representativitat, l’opció per l’exhaustivitat, l’organització en subcorpus i el tractament ecdòtic de les fonts. És la font primària fonamental del tema."
+      },
+      {
+       "n": 0,
+       "t": "El document d’«Ajuda» del CIVAL: descriu amb detall les modalitats de consulta, els filtres, els comodins i les opcions d’explotació, amb exemples reals extrets del corpus."
+      },
+      {
+       "n": 0,
+       "t": "La documentació institucional del CTILC de l’Institut d’Estudis Catalans: permet comparar dos models de disseny —ponderat i exhaustiu— i entendre’n les conseqüències metodològiques."
+      },
+      {
+       "n": 0,
+       "t": "La consulta directa del CIVAL, formulant consultes reals: és l’única manera d’entendre de veritat què aporta un corpus i quines cauteles exigeix la interpretació de les seues dades."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 14"
+      }
+     ]
+    },
+    {
+     "titol": "Bibliografia i fonts",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-71-4b62e909fa3f9e55.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Bibliografia i fonts"
+      }
+     ]
+    },
+    {
+     "titol": "14.1. Fonts normatives",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-72-69006ffc02b873d1.mp3",
+     "durada": 65.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.1. Fonts normatives"
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana (arts. 6.8 i 41)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua (arts. 3, 7.a i 7.c)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’Acadèmia Valenciana de la Llengua (arts. 45-50, sobre les seccions; arts. 73-80, sobre les unitats administratives)."
+      }
+     ]
+    },
+    {
+     "titol": "14.2. Fonts primàries sobre el CIVAL",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-73-a41a27d246947362.mp3",
+     "durada": 92.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.2. Fonts primàries sobre el CIVAL"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Corpus Informatitzat del Valencià (CIVAL). València: Acadèmia Valenciana de la Llengua, 2015 [en línia]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. «Presentació» del Corpus Informatitzat del Valencià: naturalesa, finalitat, criteris de representativitat, organització en subcorpus i tractament ecdòtic de les fonts."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. «Ajuda» del Corpus Informatitzat del Valencià: consulta simple, consulta avançada, caràcters comodí, consideracions tècniques, opcions de contextos i suggeriments."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. «EL CIVAL suposa un pas decisiu per a l’estudi de la història, la cultura i la llengua dels valencians», nota de premsa, 29 de juny del 2015."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. «El Ministeri de Ciència subvencionarà amb 200.000 euros projectes per a millorar les aplicacions informàtiques del DNV, el CIVAL i les Gramàtiques Normatives Valencianes», butlletí electrònic de la institució."
+      }
+     ]
+    },
+    {
+     "titol": "14.3. Obres normatives i de referència de l’AVL relacionades",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-74-dfbc1e1843500557.mp3",
+     "durada": 95.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.3. Obres normatives i de referència de l’AVL relacionades"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari normatiu valencià. València: Publicacions de l’AVL, 2016. Col·lecció Textos Normatius, 4 [1a ed. electrònica: 2014]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica normativa valenciana. València: Publicacions de l’AVL, 2006. Col·lecció Textos Normatius, 2."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Portal Terminològic Valencià (PorTerVal). València, 2016 [en línia]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Corpus toponímic valencià (2009) i Criteris per a la fixació de la toponímia valenciana (2015)."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 20 de maig del 2002 (Resolució 12/2002), apartat 3, sobre el repertori lèxic i fraseològic valencià classificat segons documentació històrica i vitalitat."
+      }
+     ]
+    },
+    {
+     "titol": "14.4. Altres corpus de referència",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-75-d975b16f8e16f7f6.mp3",
+     "durada": 79.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.4. Altres corpus de referència"
+      },
+      {
+       "n": 0,
+       "t": "INSTITUT D’ESTUDIS CATALANS. Corpus Textual Informatitzat de la Llengua Catalana (CTILC). Direcció: Joaquim Rafel i Fontanals. Projecte iniciat el 1985 [en línia]."
+      },
+      {
+       "n": 0,
+       "t": "TORRUELLA, Joan; PÉREZ SALDANYA, Manuel; MARTINES, Josep (dir.). Corpus Informatitzat del Català Antic (CICA) [en línia]."
+      },
+      {
+       "n": 0,
+       "t": "ISIC-IVITRA, Universitat d’Alacant. Corpus Informatitzat de la Gramàtica del Català Antic (CIGCA) i Corpus Informatitzat de la Gramàtica del Català Modern (CIGCatMod), integrats en el metacorpus CIMTAC."
+      },
+      {
+       "n": 0,
+       "t": "REAL ACADEMIA ESPAÑOLA. Corpus diacrónico del español (CORDE), Corpus de referencia del español actual (CREA) i Corpus del Español del Siglo XXI (CORPES XXI) [en línia]."
+      }
+     ]
+    },
+    {
+     "titol": "14.5. Recursos en línia",
+     "audio": "audio/tema-05-els-corpus-linguistics-i-el-cival-bo-76-b11d25f4361b2275.mp3",
+     "durada": 112.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.5. Recursos en línia"
+      },
+      {
+       "n": 0,
+       "t": "Corpus Informatitzat del Valencià (CIVAL), en el web de l’Acadèmia Valenciana de la Llengua: avl.gva.es."
+      },
+      {
+       "n": 0,
+       "t": "Diccionari normatiu valencià i Portal Terminològic Valencià, en el mateix web institucional."
+      },
+      {
+       "n": 0,
+       "t": "Corpus Textual Informatitzat de la Llengua Catalana: ctilc.iec.cat."
+      },
+      {
+       "n": 0,
+       "t": "Corpus Informatitzat del Català Antic: cica.cat."
+      },
+      {
+       "n": 0,
+       "t": "NOTA DE VERIFICACIÓ El contingut d’aquest tema relatiu al CIVAL procedeix de fonts primàries: el text íntegre de la «Presentació» i del document d’«Ajuda» del corpus, consultats directament en l’aplicació de l’AVL; la nota de premsa institucional de 29 de juny del 2015; i el butlletí electrònic de l’Acadèmia sobre el finançament dels projectes de millora de les seues aplicacions informàtiques. Els exemples de consulta reproduïts en l’apartat 8.1 —juí, juhii, tenir, casa— són els que figuren en el manual d’ajuda oficial del corpus. Les dades sobre el CTILC i el CICA procedeixen de la documentació institucional dels respectius projectes. Atés que el CIVAL és un corpus obert i en creixement continu —la mateixa AVL declara que «no és una obra acabada; ni ho ha d’estar mai»—, les dades quantitatives corresponen al moment de la consulta i s’han de contrastar abans de l’examen. Per la mateixa raó, qualsevol citació acadèmica de dades del corpus ha d’anar acompanyada de la data de consulta."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
