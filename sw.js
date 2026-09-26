@@ -1,5 +1,5 @@
 // OpoÀudio — service worker
-const VERSIO = "cf5b6309bc";
+const VERSIO = "c937146247";
 const SHELL = "shell-" + VERSIO;
 const AUDIO = "audio-v1"; // es manté entre versions: els temes descarregats no es perden
 const FITXERS = ["./", "index.html", "manifest.webmanifest", "icona-192.png", "icona-512.png"];

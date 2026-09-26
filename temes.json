@@ -1,6 +1,6 @@
 {
  "titol": "Opo A2-02-09",
- "versio": "cf5b6309bc",
+ "versio": "c937146247",
  "veu": "edge|ca-ES-JoanaNeural|+0%",
  "temes": [
   {
@@ -9251,6 +9251,2515 @@
       {
        "n": 0,
        "t": "NOTA DE VERIFICACIÓ Tot el contingut d’aquest tema procedeix de fonts primàries: els textos íntegres dels acords normatius de 25 de març i 20 de maig del 2002 publicats en el DOGV; la introducció i els capítols de criteris del Diccionari ortogràfic i de pronunciació del valencià; la «Introducció», els «Criteris d’ús» i les «Abreviatures» del Diccionari normatiu valencià en la versió electrònica oficial de l’AVL; el document «Actualitzacions del DNV» en la versió de juny del 2026; l’informe de l’AVL sobre els «Criteris lingüístics»; les fitxes bibliogràfiques i les notes de premsa institucionals de l’Acadèmia, i els preceptes de la Llei 7/1998 i de l’Estatut d’autonomia. Les xifres de modificacions del període 2017-2026 s’han obtingut per recompte directe sobre el document oficial d’actualitzacions. Atès que el DNV s’actualitza mensualment i que la versió normativa és l’electrònica, convé contrastar les dades quantitatives i els casos concrets amb la consulta en línia abans de l’examen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tema-04-la-fixacio-de-la-terminologia-el-portal-te",
+   "titol": "Tema 4. La fixació de la terminologia: el Portal Terminològic Valencià",
+   "fitxer": "Tema 04 - La fixació de la terminologia. El Portal Terminològic Valencià_bo (2).docx",
+   "seccions": [
+    {
+     "titol": "Introducció",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-01-4cd7bb3820a4810d.mp3",
+     "durada": 479.1,
+     "text": [
+      {
+       "n": 3,
+       "t": "TEMARI D’OPOSICIÓ · CONVOCATÒRIA 35/26"
+      },
+      {
+       "n": 0,
+       "t": "Cos tècnic facultatiu A2-02 · Escala tècnica facultativa de promoció lingüística (A2-02-09)"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 4"
+      },
+      {
+       "n": 0,
+       "t": "La fixació de la terminologia:"
+      },
+      {
+       "n": 3,
+       "t": "el Portal Terminològic Valencià"
+      },
+      {
+       "n": 0,
+       "t": "Fonaments teòrics, criteris de normalització i instruments de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "FONTS PRIMÀRIES DEL TEMA Portal Terminològic Valencià (PorTerVal): consulta directa de fitxes terminològiques, modalitats de consulta simple i avançada, i mecanisme de remissió recíproca amb el Diccionari normatiu valencià «Introducció», «Criteris d’ús», «Abreviatures» i «Ajuda» del portal lexicogràfic de l’AVL, compartits pel DNV i pel PTV Notes de premsa i butlletins electrònics de l’AVL sobre les actualitzacions del PTV i sobre el conveni amb el TERMCAT Catàleg de publicacions de l’AVL: col·leccions Vocabularis, Vocabularis Visuals i Lèxics Llei 7/1998, de creació de l’AVL (arts. 3, 5, 7.a i 7.c), i Estatut d’autonomia (arts. 6.8 i 41) Documentació institucional del TERMCAT sobre la normalització terminològica i el Consell Supervisor M. T. CABRÉ, La terminología: representación y comunicación (1999), i la bibliografia sobre la Teoria General de la Terminologia d’Eugen Wüster"
+      },
+      {
+       "n": 3,
+       "t": "ÍNDEX"
+      },
+      {
+       "n": 3,
+       "t": "1.  Presentació i orientació del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.1.  Delimitació conceptual: què és la fixació de la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "1.2.  Terminologia, lexicologia i lèxic general"
+      },
+      {
+       "n": 0,
+       "t": "1.3.  L’arquitectura de la fixació terminològica en l’àmbit valencià"
+      },
+      {
+       "n": 0,
+       "t": "1.4.  Advertiment metodològic"
+      },
+      {
+       "n": 3,
+       "t": "2.  Els fonaments teòrics de la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "2.1.  L’origen: Eugen Wüster i l’Escola de Viena"
+      },
+      {
+       "n": 0,
+       "t": "2.2.  Els principis de la Teoria General de la Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "2.3.  La revisió crítica: la Teoria Comunicativa de la Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "2.4.  Conseqüències per a la pràctica normalitzadora"
+      },
+      {
+       "n": 3,
+       "t": "3.  Normalització terminològica i normativització lingüística"
+      },
+      {
+       "n": 0,
+       "t": "3.1.  Dos conceptes que no s’han de confondre"
+      },
+      {
+       "n": 0,
+       "t": "3.2.  Què es normalitza i per què"
+      },
+      {
+       "n": 0,
+       "t": "3.3.  Els criteris de fixació d’una denominació"
+      },
+      {
+       "n": 0,
+       "t": "3.4.  Manlleus, calcs i formació de neologismes especialitzats"
+      },
+      {
+       "n": 0,
+       "t": "3.5.  La implantació: el límit de tota normalització"
+      },
+      {
+       "n": 3,
+       "t": "4.  El fonament jurídic i institucional de la competència terminològica"
+      },
+      {
+       "n": 0,
+       "t": "4.1.  Els preceptes habilitadors"
+      },
+      {
+       "n": 0,
+       "t": "4.2.  La Secció de Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "4.3.  El procediment de decisió i la via de propostes"
+      },
+      {
+       "n": 3,
+       "t": "5.  La frontera entre el lèxic general i la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "5.1.  El criteri de delimitació entre el DNV i el PTV"
+      },
+      {
+       "n": 0,
+       "t": "5.2.  El mecanisme de remissió recíproca"
+      },
+      {
+       "n": 0,
+       "t": "5.3.  El trànsit entre repertoris: el cas de dana"
+      },
+      {
+       "n": 3,
+       "t": "6.  El Portal Terminològic Valencià"
+      },
+      {
+       "n": 0,
+       "t": "6.1.  Creació, denominació i presentació pública"
+      },
+      {
+       "n": 0,
+       "t": "6.2.  Naturalesa i finalitat"
+      },
+      {
+       "n": 0,
+       "t": "6.3.  L’estructura de la fitxa terminològica"
+      },
+      {
+       "n": 0,
+       "t": "6.4.  Les modalitats de consulta"
+      },
+      {
+       "n": 0,
+       "t": "6.5.  Les equivalències multilingües"
+      },
+      {
+       "n": 0,
+       "t": "6.6.  La participació dels especialistes i dels usuaris"
+      },
+      {
+       "n": 0,
+       "t": "6.7.  Difusió: web, aplicació mòbil i xarxes"
+      },
+      {
+       "n": 3,
+       "t": "7.  Els criteris de representació aplicats en el portal"
+      },
+      {
+       "n": 0,
+       "t": "7.1.  Un aparell de criteris compartit amb el DNV"
+      },
+      {
+       "n": 0,
+       "t": "7.2.  Les marques temàtiques"
+      },
+      {
+       "n": 0,
+       "t": "7.3.  Categoria gramatical, transcripció fonètica i llengua d’origen"
+      },
+      {
+       "n": 0,
+       "t": "7.4.  La definició terminològica"
+      },
+      {
+       "n": 3,
+       "t": "8.  La cooperació terminològica: l’AVL i el TERMCAT"
+      },
+      {
+       "n": 0,
+       "t": "8.1.  El conveni del 2016 i la renovació del 2024"
+      },
+      {
+       "n": 0,
+       "t": "8.2.  La cessió de fitxes al Cercaterm"
+      },
+      {
+       "n": 0,
+       "t": "8.3.  La coedició del Diccionari de lingüística"
+      },
+      {
+       "n": 0,
+       "t": "8.4.  Dos models institucionals comparats"
+      },
+      {
+       "n": 3,
+       "t": "9.  Els productes terminològics de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "9.1.  La col·lecció Vocabularis"
+      },
+      {
+       "n": 0,
+       "t": "9.2.  La col·lecció Vocabularis Visuals"
+      },
+      {
+       "n": 0,
+       "t": "9.3.  La col·lecció Lèxics"
+      },
+      {
+       "n": 0,
+       "t": "9.4.  La funció de difusió sectorial"
+      },
+      {
+       "n": 3,
+       "t": "10.  L’actualització i la neologia especialitzada"
+      },
+      {
+       "n": 0,
+       "t": "10.1.  El ritme d’incorporació"
+      },
+      {
+       "n": 0,
+       "t": "10.2.  Exemples recents i àmbits d’expansió"
+      },
+      {
+       "n": 0,
+       "t": "10.3.  La terminologia com a indicador social"
+      },
+      {
+       "n": 3,
+       "t": "11.  La terminologia en l’Administració i en el treball del tècnic lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "11.1.  El PTV com a referent obligat per als empleats públics"
+      },
+      {
+       "n": 0,
+       "t": "11.2.  El protocol de consulta terminològica"
+      },
+      {
+       "n": 3,
+       "t": "12.  Síntesi: dades, criteris i conceptes de memorització obligatòria"
+      },
+      {
+       "n": 3,
+       "t": "13.  Per a ampliar"
+      },
+      {
+       "n": 3,
+       "t": "14.  Bibliografia i fonts"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 4"
+      }
+     ]
+    },
+    {
+     "titol": "Presentació i orientació del tema",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-02-031433f1effcde2b.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Presentació i orientació del tema"
+      }
+     ]
+    },
+    {
+     "titol": "1.1. Delimitació conceptual: què és la fixació de la terminologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-03-e858a7d836002e97.mp3",
+     "durada": 204.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.1. Delimitació conceptual: què és la fixació de la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "L’enunciat oficial del tema —La fixació de la terminologia: el Portal Terminològic Valencià— té dos membres, i l’orde no és casual. El primer, la fixació de la terminologia, designa una activitat i una disciplina: el conjunt d’operacions per les quals una comunitat lingüística determina quina denominació correspon a cada concepte especialitzat, la defineix, la relaciona amb les denominacions equivalents d’altres llengües i en promou l’ús. El segon, el Portal Terminològic Valencià, designa l’instrument amb què l’Acadèmia Valenciana de la Llengua dona forma consultable al resultat d’aquesta activitat."
+      },
+      {
+       "n": 0,
+       "t": "Un opositor que redactara el tema descrivint només les funcionalitats del portal hauria contestat la part menys valorada de la pregunta. La fixació terminològica és una activitat amb fonaments teòrics propis —que provenen de l’Escola de Viena i de les seues revisions—, amb criteris de decisió explícits —lingüístics, terminològics i sociolingüístics—, amb una arquitectura institucional —seccions, procediments, convenis— i amb productes diversos, dels quals el portal és el més visible però no l’únic: l’AVL disposa també de tres col·leccions de vocabularis i lèxics sectorials."
+      },
+      {
+       "n": 0,
+       "t": "Convé, doncs, distingir amb claredat quatre plans:"
+      },
+      {
+       "n": 0,
+       "t": "Pla. Contingut. Instruments"
+      },
+      {
+       "n": 0,
+       "t": "Teoria. La concepció mateixa del terme i de la unitat terminològica: què és un terme, com es relaciona amb el concepte i amb la paraula del lèxic general.. Teoria General de la Terminologia (Wüster); Teoria Comunicativa de la Terminologia (Cabré) i altres revisions."
+      },
+      {
+       "n": 0,
+       "t": "Competència. La potestat de fixar la terminologia i el règim d’eficàcia de les decisions.. Llei 7/1998, arts. 3, 5, 7.a i 7.c; Estatut d’autonomia, arts. 6.8 i 41."
+      },
+      {
+       "n": 0,
+       "t": "Criteris. Els principis que guien la tria d’una denominació: adequació al sistema, precisió, analogia amb altres llengües, ús real i viabilitat d’implantació.. Doctrina terminològica internacional; pràctica del Consell Supervisor del TERMCAT; criteris de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "Instruments. La plasmació del resultat en repertoris consultables i difusibles.. Portal Terminològic Valencià; col·leccions Vocabularis, Vocabularis Visuals i Lèxics; Diccionari normatiu valencià per al lèxic ja incorporat a la llengua general."
+      }
+     ]
+    },
+    {
+     "titol": "1.2. Terminologia, lexicologia i lèxic general",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-04-0054e2ac5c2091d0.mp3",
+     "durada": 141.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.2. Terminologia, lexicologia i lèxic general"
+      },
+      {
+       "n": 0,
+       "t": "La primera precisió que cal fer és la que separa la terminologia de la lexicologia i la lexicografia, i que explica per què el Tema 3 i el Tema 4 no es solapen."
+      },
+      {
+       "n": 0,
+       "t": "Lexicografia general. Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "Objecte. El lèxic comú d’una llengua, en tots els seus registres.. Les unitats de designació dels conceptes propis d’un àmbit d’especialitat."
+      },
+      {
+       "n": 0,
+       "t": "Punt de partida. Semasiològic: es parteix de la forma (la paraula) i se n’expliquen els significats.. Onomasiològic: es parteix del concepte i se’n busca la denominació adequada."
+      },
+      {
+       "n": 0,
+       "t": "Estructura de l’article. Entrada amb accepcions numerades i jerarquitzades, subentrades, marques de registre.. Fitxa amb una denominació, un àmbit temàtic, una definició unívoca i equivalents en altres llengües."
+      },
+      {
+       "n": 0,
+       "t": "Tractament de la variació. La variació es recull i es jerarquitza (formes principals, secundàries, marcades).. La variació tendeix a reduir-se: l’ideal terminològic és la biunivocitat entre concepte i denominació."
+      },
+      {
+       "n": 0,
+       "t": "Instrument de l’AVL. Diccionari normatiu valencià. Portal Terminològic Valencià"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta oposició, però, no ha de portar a concebre els dos àmbits com a compartiments estancs. El lèxic d’especialitat que assoleix prou generalitat acaba entrant en el diccionari general —el DNV té un sistema de vora cent trenta marques temàtiques precisament per a acollir-lo—, i alguns termes recorren el camí invers, del portal al diccionari, quan l’ús social els generalitza. L’apartat 5 examina aquesta frontera amb detall."
+      }
+     ]
+    },
+    {
+     "titol": "1.3. L’arquitectura de la fixació terminològica en l’àmbit valencià",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-05-64821284989128c8.mp3",
+     "durada": 152.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.3. L’arquitectura de la fixació terminològica en l’àmbit valencià"
+      },
+      {
+       "n": 0,
+       "t": "L’esquema següent ordena la matèria en cinc estrats. Retenir-lo permet situar qualsevol pregunta en el lloc que li correspon."
+      },
+      {
+       "n": 0,
+       "t": "Estrat. Element. Aportació a la fixació terminològica"
+      },
+      {
+       "n": 0,
+       "t": "1. Fonaments. Doctrina terminològica internacional. Determina què és un terme, com es descriu i quins principis regeixen la seua fixació."
+      },
+      {
+       "n": 0,
+       "t": "2. Competència. Llei 7/1998 i Estatut d’autonomia. Atribueixen a l’AVL determinar la normativa oficial del valencià «en tots els seus aspectes» i fer estudis i informes, amb eficàcia obligatòria per a les administracions."
+      },
+      {
+       "n": 0,
+       "t": "3. Òrgans. Secció de Terminologia i Ple de l’AVL. La Secció prepara i estudia les propostes; el Ple les aprova."
+      },
+      {
+       "n": 0,
+       "t": "4. Instruments. Portal Terminològic Valencià i col·leccions terminològiques impreses. Fan consultable i difusible el resultat, amb definició, marca temàtica i equivalents."
+      },
+      {
+       "n": 0,
+       "t": "5. Cooperació. Conveni AVL – TERMCAT. Intercanvi d’informació sobre projectes terminològics i mecanismes per a difondre, sempre que siga possible, formes comunes per als nous termes."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA IDEA-FORÇA DEL TEMA La fixació terminològica no és una operació d’autoritat sinó de coordinació. Una denominació terminològica només és útil si els especialistes de l’àmbit la reconeixen i la usen; per això el procés combina anàlisi lingüística, consulta d’especialistes i cooperació entre institucions normatives. L’AVL ho formula en el conveni amb el TERMCAT quan es compromet a establir mecanismes que permeten garantir, sempre que siga possible, la difusió de formes comunes per a designar els nous termes."
+      }
+     ]
+    },
+    {
+     "titol": "1.4. Advertiment metodològic",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-06-460450b3ebace671.mp3",
+     "durada": 55.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.4. Advertiment metodològic"
+      },
+      {
+       "n": 0,
+       "t": "ADVERTIMENT METODOLÒGIC Els documents i les notes de premsa de l’AVL es reprodueixen ací en la seua redacció original. Això explica que en les citacions literals apareguen formes com este, servici, establix o unix, pròpies del model de llengua de l’Acadèmia, mentre que la redacció d’aquest tema seguix el model de les universitats valencianes. S’ha d’advertir també que el Portal Terminològic Valencià és un repertori dinàmic i que les dades quantitatives que s’hi donen corresponen al moment de la consulta. Els exemples de fitxes que es reprodueixen en l’apartat 6 s’han verificat per consulta directa del portal."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 2"
+      }
+     ]
+    },
+    {
+     "titol": "Els fonaments teòrics de la terminologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-07-0ad991bf9ab149b4.mp3",
+     "durada": 33.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els fonaments teòrics de la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "Cap decisió terminològica es pren en el buit: darrere de cada fitxa d’un portal terminològic hi ha una concepció determinada del que és un terme i de com s’ha de fixar. Aquest apartat exposa aquesta concepció i la seua evolució, perquè és el que permet argumentar amb solvència en una prova de desenvolupament i, sobretot, entendre per què els portals terminològics tenen l’estructura que tenen."
+      }
+     ]
+    },
+    {
+     "titol": "2.1. L’origen: Eugen Wüster i l’Escola de Viena",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-08-aa2ec761f52655d4.mp3",
+     "durada": 74.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.1. L’origen: Eugen Wüster i l’Escola de Viena"
+      },
+      {
+       "n": 0,
+       "t": "La terminologia com a disciplina naix a Viena de la mà de l’enginyer austríac Eugen Wüster (1898-1977). El seu punt de partida no és teòric sinó pràctic: la terminologia és, per a ell, un instrument de treball per a la desambiguació de la comunicació científica i tècnica. La proliferació de denominacions divergents per a un mateix concepte en els àmbits industrials i científics generava un problema de comunicació internacional que calia resoldre."
+      },
+      {
+       "n": 0,
+       "t": "D’aquesta preocupació naixen dos línies que encara sostenen l’edifici terminològic contemporani: la Teoria General de la Terminologia (TGT), que en formula els principis, i el treball de normalització internacional, que cristal·litza en els comitès tècnics d’estandardització dedicats a la terminologia. L’escola vienesa és, per tant, l’origen tant de la reflexió teòrica com de la pràctica institucional."
+      }
+     ]
+    },
+    {
+     "titol": "2.2. Els principis de la Teoria General de la Terminologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-09-6028018eed20b0db.mp3",
+     "durada": 172.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.2. Els principis de la Teoria General de la Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "La TGT es construeix sobre un conjunt de principis que convé conèixer perquè són els que expliquen la forma de la fitxa terminològica i el disseny mateix del Portal Terminològic Valencià."
+      },
+      {
+       "n": 0,
+       "t": "Principi. Formulació. Reflex en la pràctica terminològica"
+      },
+      {
+       "n": 0,
+       "t": "Primacia del concepte. El punt de partida del treball terminològic és el concepte, no la paraula. Els conceptes s’ordenen en sistemes conceptuals estructurats per relacions genèriques i partitives.. El treball s’organitza per àrees temàtiques, i cada fitxa adscriu el terme a un àmbit. En el PTV, la marca temàtica precedeix la definició."
+      },
+      {
+       "n": 0,
+       "t": "Perspectiva onomasiològica. Es va del concepte a la denominació, i no a l’inrevés com en la lexicografia.. Els repertoris terminològics es construeixen per camps, no per ordre alfabètic de les formes existents."
+      },
+      {
+       "n": 0,
+       "t": "Biunivocitat. L’ideal és que a cada concepte li corresponga una sola denominació i a cada denominació un sol concepte, dins d’un mateix àmbit.. La fitxa terminològica té una definició per terme, no accepcions numerades com l’article lexicogràfic."
+      },
+      {
+       "n": 0,
+       "t": "Sincronia. La terminologia s’ocupa de l’estat actual de la llengua d’especialitat; la dimensió històrica hi és secundària.. Les fitxes no incorporen informació etimològica ni diatòpica, a diferència de l’article del diccionari general."
+      },
+      {
+       "n": 0,
+       "t": "Prescriptivitat. La finalitat última és normalitzar, és a dir, proposar la denominació més adequada i promoure’n l’ús.. L’activitat culmina en propostes de denominació difoses per organismes reconeguts."
+      },
+      {
+       "n": 0,
+       "t": "Observar la fitxa del PTV a la llum d’aquests principis és molt il·lustratiu: una entrada, una transcripció, una categoria gramatical, una marca temàtica, una sola definició i els equivalents en altres llengües. No hi ha accepcions numerades, ni marques de registre, ni subentrades fraseològiques, ni informació històrica. La forma de la fitxa és, literalment, la teoria feta interfície."
+      }
+     ]
+    },
+    {
+     "titol": "2.3. La revisió crítica: la Teoria Comunicativa de la Terminologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-10-f6bdcd610cd3f3af.mp3",
+     "durada": 182.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.3. La revisió crítica: la Teoria Comunicativa de la Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "Des de la dècada de 1990, la TGT ha estat objecte d’una revisió profunda. La formulació més influent en l’àmbit lingüístic català i romànic és la Teoria Comunicativa de la Terminologia (TCT), proposada per Maria Teresa Cabré —primera directora del TERMCAT entre 1982 i 1988 i impulsora de l’Institut Universitari de Lingüística Aplicada de la Universitat Pompeu Fabra— i formulada de manera sistemàtica en La terminología: representación y comunicación (1999)."
+      },
+      {
+       "n": 0,
+       "t": "Les objeccions que la TCT planteja a la teoria clàssica es poden ordenar així:"
+      },
+      {
+       "n": 0,
+       "t": "La TGT és reduccionista i idealista: construeix un model coherent però massa allunyat de la realitat de la comunicació especialitzada, en la qual la variació és un fet constant."
+      },
+      {
+       "n": 0,
+       "t": "La TGT silencia la variació i la diversitat. En la comunicació real, un mateix concepte rep denominacions distintes segons el grau d’especialització, el context i el registre."
+      },
+      {
+       "n": 0,
+       "t": "La TGT no dona compte del caràcter polièdric del terme. Segons la TCT, la unitat terminològica és alhora una unitat lingüística, cognitiva i de funcionament social, i cap d’aquestes tres dimensions no es pot reduir a les altres."
+      },
+      {
+       "n": 0,
+       "t": "La TGT separa artificialment el terme de la paraula. La tesi central de la TCT és que una unitat lèxica no és terminològica ni general per naturalesa, sinó que adquireix valor terminològic quan el context pragmàtic del discurs l’activa. Qualsevol unitat lèxica té, per tant, el potencial de ser una unitat terminològica."
+      },
+      {
+       "n": 0,
+       "t": "Cabré presenta la TCT com una teoria nova i no com una ampliació de la de Wüster, i la concep com una teoria descriptiva de base lingüística, multidimensional i variacionista, capaç de donar compte de la terminologia en el discurs especialitzat real."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA TESI DE LA TCT EN UNA FRASE Una unitat lèxica no és terminològica per si mateixa: ho esdevé quan la situació comunicativa n’activa el valor especialitzat. D’ací se’n deriva que la frontera entre lèxic general i terminologia és gradual i contextual, no absoluta —cosa que explica, en el cas valencià, que hi haja trànsit en tots dos sentits entre el DNV i el PTV."
+      }
+     ]
+    },
+    {
+     "titol": "2.4. Conseqüències per a la pràctica normalitzadora",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-11-2c6fb300b8fee3a7.mp3",
+     "durada": 129.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.4. Conseqüències per a la pràctica normalitzadora"
+      },
+      {
+       "n": 0,
+       "t": "El debat teòric no és ornamental: té conseqüències directes sobre com treballa un organisme terminològic."
+      },
+      {
+       "n": 0,
+       "t": "Qüestió pràctica. Resposta segons la TGT. Correcció que hi aporta la TCT"
+      },
+      {
+       "n": 0,
+       "t": "Qui decideix la denominació?. Els especialistes de l’àmbit, que són els únics que coneixen prou la matèria.. La decisió ha de combinar el criteri dels especialistes amb l’anàlisi lingüística i amb l’observació de l’ús real."
+      },
+      {
+       "n": 0,
+       "t": "Es pot admetre més d’una denominació?. Idealment no: la biunivocitat és l’objectiu.. La sinonímia i la variació denominativa són fets reals de la comunicació especialitzada i s’han de descriure, encara que se’n prioritze una forma."
+      },
+      {
+       "n": 0,
+       "t": "Quin paper té el discurs?. Secundari: el terme s’estudia aïllat, com a etiqueta d’un concepte.. Central: el terme s’ha d’estudiar en els textos on apareix, perquè és allí on s’activa el seu valor especialitzat."
+      },
+      {
+       "n": 0,
+       "t": "On acaba la terminologia i comença el lèxic?. Són dominis separats.. Són un contínuum: la mateixa unitat pot funcionar com a terme o com a paraula segons el context."
+      },
+      {
+       "n": 0,
+       "t": "El model valencià, com el català, s’instal·la en una posició intermèdia i pragmàtica: manté la forma clàssica de la fitxa —un concepte, una definició, uns equivalents— però la integra en un ecosistema que reconeix el contínuum entre lèxic i terminologia, amb dos repertoris interconnectats i amb trànsit documentat entre l’un i l’altre."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 3"
+      }
+     ]
+    },
+    {
+     "titol": "Normalització terminològica i normativització lingüística",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-12-874919edae741f1e.mp3",
+     "durada": 6.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "Normalització terminològica i normativització lingüística"
+      }
+     ]
+    },
+    {
+     "titol": "3.1. Dos conceptes que no s’han de confondre",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-13-a2ee0f0c07ee1802.mp3",
+     "durada": 139.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.1. Dos conceptes que no s’han de confondre"
+      },
+      {
+       "n": 0,
+       "t": "La distinció entre normativització i normalització és un dels punts on més sovint es cometen imprecisions, i un tribunal la pot demanar de manera directa. Convé fixar-la amb precisió terminològica."
+      },
+      {
+       "n": 0,
+       "t": "Normativització. Normalització terminològica"
+      },
+      {
+       "n": 0,
+       "t": "Què és. La fixació de la norma d’una llengua: ortografia, gramàtica i lèxic general.. El procés de fixació de les formes que es consideren més adequades per a designar conceptes especialitzats, generalment nous."
+      },
+      {
+       "n": 0,
+       "t": "Sobre què actua. Sobre el sistema de la llengua en el seu conjunt.. Sobre unitats concretes que presenten dificultat per a incorporar-se al sistema: manlleus, calcs, denominacions vacil·lants o formalment dubtoses."
+      },
+      {
+       "n": 0,
+       "t": "Qui la fa, en l’àmbit valencià. L’AVL, per acord del Ple, amb eficàcia obligatòria per a les administracions.. L’AVL, a través de la Secció de Terminologia i del Ple, amb la cooperació d’organismes especialitzats."
+      },
+      {
+       "n": 0,
+       "t": "Resultat. Obres normatives: gramàtiques i diccionari normatiu.. Repertoris terminològics: portals, vocabularis i lèxics sectorials."
+      },
+      {
+       "n": 0,
+       "t": "Un tercer concepte, veí però distint, és la normalització lingüística en sentit sociolingüístic: el procés d’extensió dels usos socials d’una llengua minoritzada. La terminologia hi té un paper instrumental de primer ordre, perquè una llengua no pot ocupar els àmbits científics, tècnics i professionals si no disposa de la terminologia necessària per a fer-ho. La creació d’organismes terminològics en llengües minoritzades s’ha de llegir, per tant, com una peça de la política lingüística general."
+      }
+     ]
+    },
+    {
+     "titol": "3.2. Què es normalitza i per què",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-14-542b886761b80275.mp3",
+     "durada": 87.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.2. Què es normalitza i per què"
+      },
+      {
+       "n": 0,
+       "t": "No tota la terminologia d’un àmbit necessita ser normalitzada. L’objecte de la normalització són els casos que presenten algun tipus de dificultat per a incorporar-se al sistema lingüístic. Es poden agrupar en quatre tipus:"
+      },
+      {
+       "n": 0,
+       "t": "Manlleus, sovint de l’anglès, que designen conceptes nous sense equivalent propi consolidat."
+      },
+      {
+       "n": 0,
+       "t": "Calcs inadequats: traduccions literals que no funcionen en la llengua receptora."
+      },
+      {
+       "n": 0,
+       "t": "Conceptes sense denominació clara, per als quals cal proposar una forma nova."
+      },
+      {
+       "n": 0,
+       "t": "Denominacions dubtoses des del punt de vista formal o de l’estructura, o vacil·lants entre diverses variants en ús."
+      },
+      {
+       "n": 0,
+       "t": "La raó de fons és de coherència del sistema: com que el material de treball és el llenguatge científic i tècnic, les denominacions han de ser netament descriptives, s’han d’ajustar a les necessitats comunicatives dels especialistes i han de seguir les tendències denominatives pròpies de l’àmbit i de la llengua. Una denominació incoherent amb el sistema no s’implanta, i una denominació que no s’implanta no compleix la seua funció."
+      }
+     ]
+    },
+    {
+     "titol": "3.3. Els criteris de fixació d’una denominació",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-15-b6eba9059009faf1.mp3",
+     "durada": 203.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.3. Els criteris de fixació d’una denominació"
+      },
+      {
+       "n": 0,
+       "t": "La pràctica terminològica consolidada en l’àmbit lingüístic compartit —la que aplica el Consell Supervisor del TERMCAT, òrgan permanent i col·legiat encarregat oficialment de la normalització de la terminologia en llengua catalana, integrat per membres de l’Institut d’Estudis Catalans i del TERMCAT i per experts dels diversos àmbits— pren les decisions «sobre la base d’estudis aprofundits de cada terme», en què es tenen en compte criteris de tipus lingüístic, terminològic i social, a més de l’opinió d’especialistes de l’àrea. Aquesta triple classificació és la que convé retenir i desplegar."
+      },
+      {
+       "n": 0,
+       "t": "Tipus de criteri. Contingut. Preguntes que resol"
+      },
+      {
+       "n": 0,
+       "t": "Lingüístics. Adequació de la forma al sistema fonològic, morfològic i ortogràfic de la llengua; correcció dels procediments de formació de paraules emprats; possibilitat de generar derivats.. La forma és pronunciable i escrivible sense violentar la llengua? Segueix pautes de derivació i composició pròpies? Permet formar-ne derivats i flexionar-la?"
+      },
+      {
+       "n": 0,
+       "t": "Terminològics. Precisió semàntica respecte del concepte; motivació i transparència de la denominació; coherència amb la resta de termes del camp conceptual; analogia amb la manera com altres llengües designen el mateix concepte.. La forma descriu bé el concepte? És coherent amb els termes veïns del mateix àmbit? És reconeixible per a qui coneix la matèria en altres llengües?"
+      },
+      {
+       "n": 0,
+       "t": "Sociolingüístics. Grau d’ús real de les formes en competència; actitud dels especialistes; possibilitats efectives d’implantació; interferència de la llengua dominant.. Quina forma usen realment els professionals? Una proposta nova té possibilitats de desplaçar la forma en ús? Quin cost té la substitució?"
+      },
+      {
+       "n": 0,
+       "t": "A aquests tres blocs cal afegir-hi, en el cas d’una llengua policèntrica com la nostra, un quart criteri de convergència interinstitucional: la conveniència que les institucions normatives dels distints territoris difonguen, sempre que siga possible, formes comunes. És exactament el compromís que recull el conveni entre l’AVL i el TERMCAT, examinat en l’apartat 8."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: ELS TRES BLOCS DE CRITERIS Lingüístics (la forma s’ajusta al sistema de la llengua) · Terminològics (la forma s’ajusta al concepte i al camp) · Sociolingüístics (la forma té ús i possibilitats d’implantació). En una llengua compartida per diversos territoris amb institucions normatives pròpies, hi opera a més el criteri de convergència."
+      }
+     ]
+    },
+    {
+     "titol": "3.4. Manlleus, calcs i formació de neologismes especialitzats",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-16-9eb12cc1160f159b.mp3",
+     "durada": 154.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.4. Manlleus, calcs i formació de neologismes especialitzats"
+      },
+      {
+       "n": 0,
+       "t": "Davant d’un concepte nou, una llengua disposa de quatre vies per a denominar-lo. Conèixer-les ordenadament permet analitzar qualsevol cas concret, i és el tipus d’exercici que apareix en una prova teoricopràctica."
+      },
+      {
+       "n": 0,
+       "t": "Via. Descripció. Exemples documentats en el PTV"
+      },
+      {
+       "n": 0,
+       "t": "Creació per procediments propis. Derivació, composició o composició culta a partir d’elements de la llengua.. desextinció (prefix des- + extinció); nanobiotecnologia (composició culta); identificació biomètrica (sintagma terminològic)."
+      },
+      {
+       "n": 0,
+       "t": "Sintagmació. Formació d’unitats terminològiques complexes amb estructura sintagmàtica, que és el procediment més productiu en la terminologia contemporània.. edició genòmica, visió artificial, sistema de verificació d’edat, diplomàcia parlamentària, diplomàcia preventiva."
+      },
+      {
+       "n": 0,
+       "t": "Adaptació d’un manlleu. Incorporació d’una forma d’una altra llengua amb adaptació gràfica i fònica al sistema receptor.. xopsuei, amb transcripció [ʧopsuéj], enfront de l’anglès chop suey."
+      },
+      {
+       "n": 0,
+       "t": "Manlleu no adaptat. Incorporació sense adaptació, quan la forma està internacionalment fixada o l’adaptació és inviable.. Tractats en el sistema de l’AVL amb la marca de llengua d’origen entre claudàtors i escriptura en cursiva."
+      },
+      {
+       "n": 0,
+       "t": "La lexicalització de sigles mereix una menció a part, perquè és un procediment cada vegada més freqüent i perquè l’AVL n’ha documentat un cas de manual: la sigla DANA —‘depressió aïllada en nivells alts’— figurava en el Portal Terminològic Valencià i, com a resultat de la generalització del seu ús, es va lexicalitzar en el substantiu comú dana, que va passar a ser entrada del Diccionari normatiu valencià. L’apartat 5.3 examina el cas."
+      }
+     ]
+    },
+    {
+     "titol": "3.5. La implantació: el límit de tota normalització",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-17-fee8274b0d9cd1ae.mp3",
+     "durada": 102.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.5. La implantació: el límit de tota normalització"
+      },
+      {
+       "n": 0,
+       "t": "Una proposta terminològica no té valor per si mateixa sinó pel seu ús. La implantació —el grau en què els especialistes i els parlants adopten efectivament la forma proposada— és la mesura real de l’èxit d’una actuació normalitzadora, i és també el seu límit: una institució pot proposar, difondre i coordinar, però no pot imposar l’ús efectiu d’una denominació en la comunicació professional."
+      },
+      {
+       "n": 0,
+       "t": "D’ací es deriven tres conseqüències metodològiques que expliquen el disseny dels portals terminològics contemporanis, i el del valencià en particular:"
+      },
+      {
+       "n": 0,
+       "t": "La difusió és part del procés, no un afegit posterior. Un terme fixat i no difós no s’implanta. Per això l’AVL complementa el portal amb col·leccions de vocabularis i lèxics sectorials adreçats als professionals de cada àmbit."
+      },
+      {
+       "n": 0,
+       "t": "La participació dels usuaris i dels especialistes és un mecanisme de qualitat i alhora d’implantació: qui ha participat en la proposta té més tendència a usar-la. El PTV disposa d’un formulari de propostes obert."
+      },
+      {
+       "n": 0,
+       "t": "La cooperació entre institucions evita que la mateixa comunitat lingüística difonga dos formes distintes per al mateix concepte, cosa que dificultaria la implantació de totes dos."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 4"
+      }
+     ]
+    },
+    {
+     "titol": "El fonament jurídic i institucional de la competència terminològica",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-18-853549796f538317.mp3",
+     "durada": 6.8,
+     "text": [
+      {
+       "n": 1,
+       "t": "El fonament jurídic i institucional de la competència terminològica"
+      }
+     ]
+    },
+    {
+     "titol": "4.1. Els preceptes habilitadors",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-19-45d0548baf0e7ddc.mp3",
+     "durada": 265.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.1. Els preceptes habilitadors"
+      },
+      {
+       "n": 0,
+       "t": "La competència de l’AVL en matèria terminològica no és una activitat voluntària ni accessòria: deriva directament de la Llei 7/1998, de 16 de setembre, de creació de l’Acadèmia Valenciana de la Llengua, i té cobertura estatutària."
+      },
+      {
+       "n": 0,
+       "t": "Precepte. Contingut. Projecció sobre la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "Art. 3. L’AVL té per funció determinar i elaborar la normativa lingüística de l’idioma valencià, partint de la tradició lexicogràfica i literària, la realitat lingüística genuïna valenciana i la normativització consolidada a partir de les Normes de Castelló.. Els tres fonaments materials operen també en terminologia, si bé el pes hi és distint: en un neologisme especialitzat no hi ha tradició lexicogràfica ni realitat genuïna prèvia, i el criteri decisiu passa a ser la coherència amb el sistema i amb l’ús dels especialistes."
+      },
+      {
+       "n": 0,
+       "t": "Art. 7.a. Correspon a l’AVL determinar la normativa oficial del valencià en tots els seus aspectes.. La fórmula «en tots els seus aspectes» inclou el nivell terminològic. És la base competencial de tota l’activitat de fixació de termes."
+      },
+      {
+       "n": 0,
+       "t": "Art. 7.c. Emetre i difondre informes o dictàmens i fer estudis sobre la normativa, a iniciativa pròpia o a requeriment de les institucions públiques.. Empara els estudis terminològics sectorials i la seua difusió, i és la base de les col·leccions de vocabularis i lèxics."
+      },
+      {
+       "n": 0,
+       "t": "Art. 5. Les decisions de l’AVL han de ser observades per les institucions de la Generalitat, els poders públics, la resta d’administracions, el sistema educatiu i els mitjans, entitats, organismes i empreses de titularitat pública o amb finançament públic.. És el fonament de l’exigència, formulada per l’AVL en l’informe sobre els criteris lingüístics de l’Administració, que el referent per als empleats públics siga la consulta del DNV i del Portal Terminològic Valencià."
+      },
+      {
+       "n": 0,
+       "t": "Cal subratllar un matís important sobre el valor normatiu dels continguts del portal. El Diccionari normatiu valencià té una declaració expressa de normativitat: la Resolució de 13 de novembre del 2017 de la Presidència de l’AVL fa públic que el DNV constitueix normativa lingüística de l’idioma valencià i que la versió vigent és la consulta electrònica. No consta una resolució equivalent referida específicament al Portal Terminològic Valencià. Ara bé, l’Acadèmia sí que l’ha situat expressament, al costat del DNV, com el referent de consulta obligat per als empleats públics, i el portal és el resultat de l’exercici de les competències dels articles 7.a i 7.c. La formulació prudent i exacta és, doncs, que el PTV és l’instrument oficial de l’AVL per a la difusió de la terminologia valenciana i el referent que la institució normativa assenyala per a l’ús públic formal."
+      },
+      {
+       "n": 0,
+       "t": "ATENCIÓ: UNA DISTINCIÓ QUE CONVÉ FORMULAR BÉ No s’ha de dir que «el PTV és normativa lingüística» amb la mateixa rotunditat amb què es diu del DNV, perquè no hi ha una resolució publicada que ho declare en aquests termes. Tampoc no s’ha de dir que «el PTV és merament orientatiu», perquè l’AVL el presenta com a referent de consulta per a l’Administració al costat del diccionari normatiu. La formulació correcta és la que el situa com a instrument oficial de difusió terminològica de la institució normativa, complementari del DNV i interconnectat amb ell."
+      }
+     ]
+    },
+    {
+     "titol": "4.2. La Secció de Terminologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-20-c277cb5578945b33.mp3",
+     "durada": 132.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.2. La Secció de Terminologia"
+      },
+      {
+       "n": 0,
+       "t": "L’òrgan que prepara i estudia les propostes terminològiques és la Secció de Terminologia, una de les sis seccions estables de l’Acadèmia, al costat de les de Foment de l’Ús del Valencià, Documentació i Literatura, Onomàstica, Lexicografia i Gramàtica, i Publicacions i Comunicació."
+      },
+      {
+       "n": 0,
+       "t": "D’acord amb el Reglament de l’AVL, aprovat pel Decret 158/2002, les seccions són òrgans col·legiats estables d’estudi, d’informació i d’assessorament, les conclusions dels quals se sotmeten a la consideració del Ple o de la Junta de Govern. Es creen per acord del Ple, que en fixa les funcions i n’especifica les competències, i estan integrades pels acadèmics que el Ple decideix segons criteris de competència, especialització, preferències personals i equilibri. Elegeixen d’entre els seus membres un president i un secretari i, segons l’article 55 del Reglament, es reuneixen com a mínim una vegada al mes."
+      },
+      {
+       "n": 0,
+       "t": "Després de la renovació per terços del 2026, la Secció de Terminologia està presidida per Rosa Agost Canós, amb Sandra Montserrat Buendia com a secretària, i la integren com a vocals M. Àngels Francés Díez, M. Isabel Guardiola Savall, Mar Iglesias Garcia, Josep Martines Peres, Joan Rafael Ramos Alfajarín i Vicenta Tasa Fuster."
+      },
+      {
+       "n": 0,
+       "t": "El Reglament preveu, a més, un instrument especialment pertinent en matèria terminològica: l’article 46 permet a la Junta de Govern encomanar informes o propostes de dictàmens, per escrit, a persones o institucions de provada competència. És la via reglamentària per a incorporar el criteri dels especialistes de cada àmbit, que la doctrina terminològica considera imprescindible."
+      }
+     ]
+    },
+    {
+     "titol": "4.3. El procediment de decisió i la via de propostes",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-21-7c59ac4b612b986c.mp3",
+     "durada": 136.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.3. El procediment de decisió i la via de propostes"
+      },
+      {
+       "n": 0,
+       "t": "El circuit de decisió reprodueix el que regeix per a les altres matèries normatives: la secció prepara, el Ple aprova. Les seccions són òrgans d’estudi i d’assessorament i les seues conclusions se sotmeten al Ple, que és l’òrgan màxim de decisió de la institució."
+      },
+      {
+       "n": 0,
+       "t": "A aquest circuit intern s’hi afegeix una via de participació externa institucionalitzada: el formulari de propostes, compartit pel DNV i pel PTV. L’AVL el presenta com un instrument per a «mantenir una relació activa amb els usuaris, i en especial amb la societat valenciana, amb l’objectiu de facilitar la incorporació de noves paraules o accepcions que no estiguen arreplegades» en els repertoris «o, si és el cas, corregir o puntualitzar els sentits recopilats». El formulari exigeix indicar l’entrada i una proposta de definició, i estableix que les propostes d’inclusió d’un terme o expressió nous «han d’anar acompanyades del seu significat i, si és possible, d’exemples o de documentació que n’avalen l’ús»."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta darrera exigència és de doctrina terminològica pura: una proposta de denominació s’ha de poder documentar en l’ús. Com que el formulari és compartit pels dos repertoris, la via queda oberta als especialistes dels diferents àmbits professionals, que són precisament els destinataris i els usuaris naturals del portal."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA CADENA DE DECISIÓ TERMINOLÒGICA Detecció i proposta (Secció de Terminologia, a iniciativa pròpia, a partir d’estudis encomanats a especialistes o a partir de propostes d’usuaris) → estudi i dictamen de la Secció → acord del Ple → incorporació al Portal Terminològic Valencià i, si escau, difusió en vocabularis i lèxics sectorials i cessió al Cercaterm en el marc del conveni amb el TERMCAT."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 5"
+      }
+     ]
+    },
+    {
+     "titol": "La frontera entre el lèxic general i la terminologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-22-cdfdfe355777e49e.mp3",
+     "durada": 29.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "La frontera entre el lèxic general i la terminologia"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha resolt la qüestió teòrica del contínuum entre lèxic i terminologia amb una solució institucional elegant: dos repertoris amb criteris d’admissió distints però tècnicament interconnectats. Entendre aquesta arquitectura és imprescindible, perquè és el que dona sentit a l’existència mateixa del portal."
+      }
+     ]
+    },
+    {
+     "titol": "5.1. El criteri de delimitació entre el DNV i el PTV",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-23-918d5a30de23ab58.mp3",
+     "durada": 169.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.1. El criteri de delimitació entre el DNV i el PTV"
+      },
+      {
+       "n": 0,
+       "t": "El criteri que separa els dos repertoris no és la matèria sinó el grau d’especificitat. El DNV incorpora el lèxic d’especialitat que ha assolit prou generalitat per a formar part del diccionari general d’una llengua: per això disposa d’un sistema de vora cent trenta marques temàtiques i per això hi figuren termes de botànica, química, dret o informàtica amb la marca corresponent. El PTV, en canvi, recull la terminologia que, per la seua especificitat, no és possible incorporar al diccionari general."
+      },
+      {
+       "n": 0,
+       "t": "A aquest criteri principal se n’hi afegeix un segon, de consolidació: el portal acull també denominacions recents que encara no han assolit l’estabilitat que s’exigeix per a entrar en el diccionari normatiu. Els dos criteris expliquen la composició real del portal, en què conviuen tecnicismes molt específics —nanobiotecnologia, cefalorraquidi, galàxia cD— amb neologismes de difusió recent —desextinció, visió artificial, petricor."
+      },
+      {
+       "n": 0,
+       "t": "Diccionari normatiu valencià. Portal Terminològic Valencià"
+      },
+      {
+       "n": 0,
+       "t": "Criteri d’admissió. Lèxic general de la llengua, incloent-hi el lèxic d’especialitat generalitzat.. Terminologia massa específica per a un diccionari general, i neologisme especialitzat encara no consolidat."
+      },
+      {
+       "n": 0,
+       "t": "Estructura de l’article. Accepcions numerades, subentrades fraseològiques, marques d’ús i d’intenció del parlant, exemples, conjugació.. Fitxa amb una sola definició, marca temàtica i equivalents en altres llengües."
+      },
+      {
+       "n": 0,
+       "t": "Marques de registre. Sí: col·loq., vulg., infant., ant., obs.. No: la terminologia es defineix pel seu àmbit, no pel seu registre."
+      },
+      {
+       "n": 0,
+       "t": "Equivalents en altres llengües. No.. Sí: castellà, anglès i francès."
+      },
+      {
+       "n": 0,
+       "t": "Declaració expressa de normativitat. Sí (Resolució de 13.11.2017).. No consta una resolució equivalent."
+      }
+     ]
+    },
+    {
+     "titol": "5.2. El mecanisme de remissió recíproca",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-24-f2cafeabe4d9b301.mp3",
+     "durada": 100.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.2. El mecanisme de remissió recíproca"
+      },
+      {
+       "n": 0,
+       "t": "La solució tècnica que articula els dos repertoris és una remissió automàtica i recíproca. Quan una consulta no troba resultat en un dels dos i sí en l’altre, el sistema ho adverteix i n’ofereix la visualització. El text exacte del missatge que mostra el DNV és:"
+      },
+      {
+       "n": 0,
+       "t": "«No s’han trobat resultats per a la consulta feta en el “Diccionari normatiu valencià”, però sí que n’hi ha en el “Portal Terminològic Valencià”. Vol visualitzar-los?» Missatge del sistema de consulta del DNV"
+      },
+      {
+       "n": 0,
+       "t": "El mecanisme funciona en els dos sentits, i la mateixa AVL descriu els dos portals com «dos aplicacions interrelacionades que funcionen per a donar una resposta global als dubtes de la llengua valenciana». Des del punt de vista de l’usuari, el resultat és que hi ha un únic punt d’entrada: es consulta una paraula i el sistema la busca en el repertori que li correspon."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta arquitectura té una lectura teòrica que val la pena explicitar en un examen: reconeix que la frontera entre lèxic general i terminologia és operativa però no absoluta, exactament com sosté la teoria comunicativa. Els dos repertoris tenen criteris d’admissió distints, però l’usuari no ha de saber prèviament en quin dels dos ha de buscar."
+      }
+     ]
+    },
+    {
+     "titol": "5.3. El trànsit entre repertoris: el cas de //dana//",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-25-1264bffcbaa87fa0.mp3",
+     "durada": 156.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.3. El trànsit entre repertoris: el cas de //dana//"
+      },
+      {
+       "n": 0,
+       "t": "El millor exemple documentat del trànsit d’una unitat del portal terminològic al diccionari general és el de dana, i és un cas d’estudi de primer ordre perquè hi conflueixen tres fenòmens: la lexicalització d’una sigla, la substitució d’una denominació anterior i la generalització social d’un tecnicisme."
+      },
+      {
+       "n": 0,
+       "t": "La sigla DANA —‘depressió aïllada en nivells alts’— figurava en el Portal Terminològic Valencià com a unitat d’un àmbit especialitzat, la meteorologia."
+      },
+      {
+       "n": 0,
+       "t": "La generalització extraordinària del seu ús en la comunicació pública en va provocar la lexicalització en un substantiu comú escrit en minúscula."
+      },
+      {
+       "n": 0,
+       "t": "El Ple de l’AVL va acordar incorporar-la al DNV com a article nou, amb la definició següent: «f. METEOR. Depressió en nivells alts de l’atmosfera, constituïda per un nucli d’aire fred amb circulació ciclònica dels vents, que, aïllada de la circulació general atmosfèrica, en descendir sobre una massa d’aire calent, pot produir greus pertorbacions amb precipitacions molt intenses». L’AVL ho va formular així en el seu butlletí: dana és un terme «que fins ara només teníem com a sigla en el Portal Terminològic Valencià»."
+      },
+      {
+       "n": 0,
+       "t": "El cas il·lustra a més la naturalesa dinàmica de la terminologia. L’AVL ha observat que abans s’usava gota freda i ha explicat el canvi en termes estrictament terminològics: «la terminologia es renova constantment per a intentar ser més precisos». És a dir, la substitució no respon a una moda sinó a una exigència de precisió conceptual, que és el criteri terminològic per excel·lència."
+      },
+      {
+       "n": 0,
+       "t": "PER A AMPLIAR El cas de dana és directament aprofitable en una prova teoricopràctica per a il·lustrar quatre qüestions alhora: el contínuum entre terminologia i lèxic general; la lexicalització de sigles com a procediment neològic; el criteri de precisió conceptual com a motor de la renovació terminològica; i el funcionament real del circuit entre els dos repertoris de l’AVL."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 6"
+      }
+     ]
+    },
+    {
+     "titol": "El Portal Terminològic Valencià",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-26-71bb2b55652db624.mp3",
+     "durada": 4.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "El Portal Terminològic Valencià"
+      }
+     ]
+    },
+    {
+     "titol": "6.1. Creació, denominació i presentació pública",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-27-8b7098f1fb9cabf2.mp3",
+     "durada": 112.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.1. Creació, denominació i presentació pública"
+      },
+      {
+       "n": 0,
+       "t": "El Portal Terminològic Valencià, conegut també amb la forma abreujada PorTerVal i amb la sigla PTV, és el repertori terminològic en línia de l’Acadèmia Valenciana de la Llengua. Es va presentar públicament el maig del 2016, el mateix mes en què l’AVL va firmar el conveni de col·laboració amb el TERMCAT, i és accessible des del web institucional de l’Acadèmia, integrat en la mateixa aplicació que allotja el Diccionari normatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "La coincidència temporal entre la presentació del portal i la firma del conveni amb el centre terminològic català no és casual: mostra que l’AVL va concebre la seua actuació terminològica, des del primer moment, en un marc de cooperació amb les altres institucions de la llengua compartida."
+      },
+      {
+       "n": 0,
+       "t": "Dada. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "Denominació. Portal Terminològic Valencià; formes abreujades PorTerVal i PTV."
+      },
+      {
+       "n": 0,
+       "t": "Titularitat. Acadèmia Valenciana de la Llengua."
+      },
+      {
+       "n": 0,
+       "t": "Presentació pública. Maig del 2016."
+      },
+      {
+       "n": 0,
+       "t": "Suport. Aplicació en línia integrada amb el DNV, i aplicació per a dispositius mòbils."
+      },
+      {
+       "n": 0,
+       "t": "Naturalesa. Repertori dinàmic, actualitzat periòdicament per acord del Ple."
+      },
+      {
+       "n": 0,
+       "t": "Òrgan responsable de la preparació. Secció de Terminologia."
+      }
+     ]
+    },
+    {
+     "titol": "6.2. Naturalesa i finalitat",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-28-0e6893f6e2c1d6d9.mp3",
+     "durada": 98.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.2. Naturalesa i finalitat"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL descriu el portal com una eina de consulta de terminologia científica i tècnica que, per la seua especificitat, no és possible incorporar al diccionari normatiu, i com un complement del DNV: «si una paraula no està en el DNV, busca automàticament en el PTV, i viceversa. Són, per tant, dos aplicacions interrelacionades que funcionen per a donar una resposta global als dubtes de la llengua valenciana»."
+      },
+      {
+       "n": 0,
+       "t": "D’aquesta caracterització se’n deriven tres finalitats:"
+      },
+      {
+       "n": 0,
+       "t": "Disponibilitat terminològica: garantir que el valencià disposa de denominacions per als conceptes especialitzats, de manera que puga ser usat en tots els àmbits professionals, científics i tècnics. És la funció instrumental de la terminologia dins de la normalització lingüística."
+      },
+      {
+       "n": 0,
+       "t": "Unificació: oferir una forma de referència allà on l’ús presenta vacil·lació, per a evitar que un mateix concepte reba denominacions divergents en la comunicació especialitzada valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Accessibilitat: posar la terminologia a l’abast dels professionals, dels traductors, dels docents i dels empleats públics amb una eina de consulta gratuïta i immediata, complementada amb equivalents en les principals llengües de comunicació."
+      }
+     ]
+    },
+    {
+     "titol": "6.3. L’estructura de la fitxa terminològica",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-29-e3d9bc6b26541d59.mp3",
+     "durada": 286.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.3. L’estructura de la fitxa terminològica"
+      },
+      {
+       "n": 0,
+       "t": "La fitxa del PTV és de composició fixa i molt econòmica, coherent amb la doctrina terminològica exposada en l’apartat 2. Els seus components, en l’orde en què apareixen, són sis."
+      },
+      {
+       "n": 0,
+       "t": "Component. Descripció"
+      },
+      {
+       "n": 0,
+       "t": "1. Terme. Denominació que encapçala la fitxa, destacada tipogràficament."
+      },
+      {
+       "n": 0,
+       "t": "2. Transcripció fonètica. Entre claudàtors, amb les convencions de l’Alfabet Fonètic Internacional emprades per l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "3. Categoria gramatical. Abreviatura corresponent (m., f., adj., v. tr., etc.)."
+      },
+      {
+       "n": 0,
+       "t": "4. Marca temàtica. Àrea de coneixement a què pertany el terme, en majúscula."
+      },
+      {
+       "n": 0,
+       "t": "5. Definició. Definició única, de tipus perifràstic, que individualitza el concepte."
+      },
+      {
+       "n": 0,
+       "t": "6. Equivalents. Formes corresponents en castellà (cast.), anglès (angl.) i francès (fr.)."
+      },
+      {
+       "n": 0,
+       "t": "Els exemples següents, verificats per consulta directa del portal, mostren l’estructura aplicada a àmbits distints i permeten reconèixer-la immediatament."
+      },
+      {
+       "n": 0,
+       "t": "Terme i transcripció. Cat.. Àrea. Definició. Equivalents"
+      },
+      {
+       "n": 0,
+       "t": "petricor [petɾikóɾ]. m.. GEOL.. Olor que genera la pluja quan cau en un sòl ressec.. cast. petricor · angl. petrichor · fr. pétrichor"
+      },
+      {
+       "n": 0,
+       "t": "desextinció [dezekstinsió]. f.. BIOL.. Procés de generació d’un organisme d’una espècie extinta o que s’hi sembla, a partir de la clonació, l’edició genòmica o la cria selectiva.. cast. desextinción · angl. de-extinction · fr. désextinction"
+      },
+      {
+       "n": 0,
+       "t": "nanobiotecnologia [nanobiotegnoloʤía]. f.. TECNOL.. Part de la nanotecnologia amb aplicacions en biologia i en bioquímica.. cast. nanobiotecnología · angl. nanobiotechnology · fr. nanobiotechnologie"
+      },
+      {
+       "n": 0,
+       "t": "xopsuei [ʧopsuéj]. m.. CUINA. Plat d’origen xinés-estatunidenc consistent en una barreja saltada de soja germinada, bolets, bambú, verdures diverses tallades a la juliana i trossets de carn, o, a vegades, trossets de marisc, que se sol servir amb arròs blanc i salsa de soja.. cast. chapsui, chapsuí · angl. chop suey · fr. chop soui"
+      },
+      {
+       "n": 0,
+       "t": "La comparació de les quatre fitxes permet extraure quatre observacions de valor doctrinal. Primera: no hi ha accepcions numerades, perquè l’ideal terminològic és la biunivocitat. Segona: no hi ha marques de registre, perquè el terme es defineix per l’àmbit i no pel nivell de llenguatge. Tercera: la definició és perifràstica i suficient, és a dir, ha de permetre identificar el concepte sense recórrer a una altra font. Quarta: els equivalents poden ser múltiples en una mateixa llengua quan aquella llengua no ha unificat la denominació —el cas de chapsui i chapsuí en castellà—, cosa que mostra que el portal descriu la situació real i no una idealització."
+      },
+      {
+       "n": 0,
+       "t": "El cas de xopsuei és especialment il·lustratiu del treball d’adaptació de manlleus: la forma valenciana adapta gràficament l’original anglès chop suey d’acord amb les convencions ortogràfiques de la llengua, i la transcripció fonètica en fixa la pronunciació. És terminologia i és, alhora, aplicació de la normativa ortogràfica."
+      }
+     ]
+    },
+    {
+     "titol": "6.4. Les modalitats de consulta",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-30-0d091aeffc83824c.mp3",
+     "durada": 110.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.4. Les modalitats de consulta"
+      },
+      {
+       "n": 0,
+       "t": "El portal ofereix dos modalitats de consulta, igual que el DNV."
+      },
+      {
+       "n": 0,
+       "t": "La consulta simple: s’escriu la paraula en el camp corresponent i s’obté la fitxa. Si la paraula no hi figura, el sistema proporciona una llista de les més pròximes alfabèticament i aplica els algoritmes d’aproximació que corregeixen errors ortogràfics habituals. Fent doble clic sobre qualsevol paraula de la definició es mostra l’article corresponent."
+      },
+      {
+       "n": 0,
+       "t": "La consulta avançada: permet delimitar de manera més precisa els paràmetres de busca amb quatre filtres —definició, àrea temàtica, categoria gramatical i llengua d’origen."
+      },
+      {
+       "n": 0,
+       "t": "La comparació amb els filtres del DNV és instructiva i mostra la diferència de naturalesa dels dos repertoris: el diccionari general ofereix filtres per locució, definició, exemple, àrea temàtica, categoria gramatical, nivell de llenguatge, intenció del parlant i llengua d’origen; el portal terminològic prescindeix dels dos filtres de caràcter pragmàtic, que no tenen sentit en un repertori d’especialitat."
+      },
+      {
+       "n": 0,
+       "t": "El filtre per àrea temàtica mereix una atenció especial, perquè és el que permet un ús pròpiament terminològic del portal: no la consulta puntual d’una forma, sinó la exploració d’un camp conceptual sencer. És el mode de consulta que necessita un traductor especialitzat o un redactor tècnic que ha de resoldre la terminologia d’un document complet."
+      }
+     ]
+    },
+    {
+     "titol": "6.5. Les equivalències multilingües",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-31-f5226a912279e992.mp3",
+     "durada": 88.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.5. Les equivalències multilingües"
+      },
+      {
+       "n": 0,
+       "t": "Cada fitxa incorpora els equivalents en castellà, anglès i francès. La tria d’aquestes tres llengües respon a criteris funcionals identificables:"
+      },
+      {
+       "n": 0,
+       "t": "El castellà és l’altra llengua oficial de la Comunitat Valenciana i la llengua des de la qual o cap a la qual es fa la major part de la traducció administrativa i tècnica en l’àmbit valencià."
+      },
+      {
+       "n": 0,
+       "t": "L’anglès és la llengua vehicular de la comunicació científica i tècnica internacional i, per tant, la llengua d’origen de la major part dels neologismes especialitzats."
+      },
+      {
+       "n": 0,
+       "t": "El francès és una llengua de referència en la tradició terminològica romànica i en els organismes internacionals, i permet contrastar les solucions adoptades per una llengua germana davant dels mateixos manlleus."
+      },
+      {
+       "n": 0,
+       "t": "La funció d’aquestes equivalències és doble. Per als usuaris, converteix el portal en una eina de traducció especialitzada. Per al treball terminològic, materialitza el criteri d’analogia amb altres llengües: veure com han resolt el mateix concepte el castellà, l’anglès i el francès és part de l’argumentació que sosté la denominació valenciana proposada."
+      }
+     ]
+    },
+    {
+     "titol": "6.6. La participació dels especialistes i dels usuaris",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-32-4fbce16b48a4f5cb.mp3",
+     "durada": 67.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.6. La participació dels especialistes i dels usuaris"
+      },
+      {
+       "n": 0,
+       "t": "El portal disposa d’un formulari de propostes, compartit amb el DNV, mitjançant el qual qualsevol usuari pot proposar la incorporació de termes nous o la correcció dels existents. Com s’ha exposat en l’apartat 4.3, la proposta ha d’anar acompanyada del significat i, si és possible, d’exemples o de documentació que n’avalen l’ús."
+      },
+      {
+       "n": 0,
+       "t": "La rellevància d’aquest mecanisme en terminologia és més gran que en lexicografia general, per una raó de fons: la competència sobre un àmbit d’especialitat resideix en els seus professionals. La via de propostes obri, per tant, la possibilitat que els especialistes dels diferents àmbits professionals amplien i corregisquen el repertori, cosa que la doctrina terminològica considera no ja convenient sinó necessària per a la qualitat i per a la implantació de les denominacions."
+      }
+     ]
+    },
+    {
+     "titol": "6.7. Difusió: web, aplicació mòbil i xarxes",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-33-598aec238dcbb5d6.mp3",
+     "durada": 70.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.7. Difusió: web, aplicació mòbil i xarxes"
+      },
+      {
+       "n": 0,
+       "t": "El portal es difon per tres vies complementàries. La primera és la consulta web, integrada en el lloc institucional de l’AVL i vinculada al DNV. La segona és l’aplicació per a dispositius mòbils, que l’Acadèmia ofereix per als principals sistemes operatius i que reprodueix la interconnexió automàtica entre els dos repertoris. La tercera és la funció de compartir una fitxa, disponible en el mateix portal, que permet difondre una entrada per xarxes socials o per mitjà d’un enllaç."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta darrera funcionalitat, aparentment menor, respon al principi exposat en l’apartat 3.5: la difusió és part del procés de normalització i no un afegit posterior. Un terme que no arriba als seus usuaris potencials no s’implanta."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 7"
+      }
+     ]
+    },
+    {
+     "titol": "Els criteris de representació aplicats en el portal",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-34-7182284aa3254d40.mp3",
+     "durada": 5.6,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els criteris de representació aplicats en el portal"
+      }
+     ]
+    },
+    {
+     "titol": "7.1. Un aparell de criteris compartit amb el DNV",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-35-917bcd578d953260.mp3",
+     "durada": 104.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.1. Un aparell de criteris compartit amb el DNV"
+      },
+      {
+       "n": 0,
+       "t": "Un fet tècnic revelador de la concepció institucional del portal és que els documents d’ajuda del PTV —«Introducció», «Criteris d’ús» i «Abreviatures»— són els mateixos que els del Diccionari normatiu valencià: el menú del portal terminològic hi remet directament."
+      },
+      {
+       "n": 0,
+       "t": "La conseqüència doctrinal és de primer ordre i convé formular-la amb claredat: l’AVL no ha construït un sistema de representació terminològic separat del lexicogràfic, sinó que ha aplicat a la terminologia el mateix aparell de convencions que aplica al lèxic general. Categories gramaticals, marques temàtiques, marques de llengua d’origen i convencions de transcripció fonètica són comunes als dos repertoris. El que canvia no és el sistema de notació sinó quins components de la fitxa s’activen: el portal prescindeix de les marques d’ús i d’intenció del parlant, de les accepcions numerades i de les subentrades, i hi afegeix els equivalents multilingües."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: UNITAT DE SISTEMA, DIFERÈNCIA D’APLICACIÓ El PTV i el DNV comparteixen introducció, criteris d’ús i abreviatures. Són dos repertoris amb criteris d’admissió i estructures d’article distints, però amb un únic sistema de convencions. És la traducció tècnica de la idea que lèxic general i terminologia formen un contínuum dins d’una mateixa llengua."
+      }
+     ]
+    },
+    {
+     "titol": "7.2. Les marques temàtiques",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-36-371ecbeb954add23.mp3",
+     "durada": 160.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.2. Les marques temàtiques"
+      },
+      {
+       "n": 0,
+       "t": "La marca temàtica és el component més característic de la fitxa terminològica, perquè adscriu el terme a un àmbit de coneixement i, amb això, delimita el sentit en què s’ha de llegir la definició. Segons els criteris d’ús compartits, les marques temàtiques «s’indiquen immediatament abans de la definició, escrites amb majúscula cursiva»."
+      },
+      {
+       "n": 0,
+       "t": "El repertori de marques és molt ampli —la llista d’abreviatures del sistema en conté al voltant de cent trenta— i abasta des de les ciències bàsiques fins als àmbits d’activitat quotidiana. En el portal terminològic s’hi observen, a més, marques d’ús específic del repertori, com ara CUINA, que il·lustren que el sistema de marques s’adapta a la naturalesa dels camps que el portal cobreix."
+      },
+      {
+       "n": 0,
+       "t": "Bloc temàtic. Marques representatives i exemples de termes del portal"
+      },
+      {
+       "n": 0,
+       "t": "Ciències de la vida i de la salut. BIOL., MED., ZOOL., MICOL.: desextinció, edició genòmica, aranya violinista, cor sistèmic."
+      },
+      {
+       "n": 0,
+       "t": "Ciències exactes i de la Terra. GEOL., FÍS., QUÍM., ASTRONOM., METEOR.: petricor, cúmul d’estreles, galàxia cD, depressió aïllada en nivells alts."
+      },
+      {
+       "n": 0,
+       "t": "Tecnologia i comunicació. TECNOL., INFORM., TELECOM.: nanobiotecnologia, biorobòtica, visió artificial, identificació biomètrica, sistema de verificació d’edat."
+      },
+      {
+       "n": 0,
+       "t": "Alimentació i gastronomia. CUINA, ALIM., GASTR.: xopsuei, gàrum, matxa, ametla crocant, fruites del bosc, vinagre d’arròs."
+      },
+      {
+       "n": 0,
+       "t": "Esport. ESPORT: anar menjant calç, baixar el baló."
+      },
+      {
+       "n": 0,
+       "t": "Música i arts. MÚS.: banda tribut, posthardcore."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit juridicopolític. DRET, POLÍT.: diplomàcia parlamentària, diplomàcia preventiva."
+      }
+     ]
+    },
+    {
+     "titol": "7.3. Categoria gramatical, transcripció fonètica i llengua d’origen",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-37-e741cf861dac4634.mp3",
+     "durada": 83.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.3. Categoria gramatical, transcripció fonètica i llengua d’origen"
+      },
+      {
+       "n": 0,
+       "t": "La categoria gramatical s’indica amb les abreviatures del sistema comú (m., f., m. i f., adj., v. tr., loc., inv.). Té valor normatiu: fixa el gènere i el comportament flexiu del terme, que en els manlleus i en els neologismes és sovint objecte de vacil·lació."
+      },
+      {
+       "n": 0,
+       "t": "La transcripció fonètica entre claudàtors resol la pronunciació, qüestió especialment rellevant en els manlleus adaptats i en els compostos cultes. En xopsuei [ʧopsuéj] la transcripció és, de fet, la justificació de l’adaptació gràfica adoptada."
+      },
+      {
+       "n": 0,
+       "t": "La llengua d’origen s’indica, en el sistema de l’AVL, mitjançant l’abreviatura corresponent, escrita en cursiva i entre claudàtors, en el cas dels manlleus no adaptats ortogràficament, que s’escriuen en cursiva. El repertori de llengües del sistema comprén una vintena de llengües d’origen. En el portal, aquest camp és a més un dels quatre filtres de la consulta avançada."
+      }
+     ]
+    },
+    {
+     "titol": "7.4. La definició terminològica",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-38-92910836bc60d2be.mp3",
+     "durada": 132.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.4. La definició terminològica"
+      },
+      {
+       "n": 0,
+       "t": "La definició del portal segueix el model de la definició perifràstica que els criteris d’ús estableixen per a les entrades principals del sistema lexicogràfic de l’AVL: s’explica el significat «a partir de la descripció dels seus trets rellevants fins a individualitzar-ne el sentit específic»."
+      },
+      {
+       "n": 0,
+       "t": "En terminologia, aquest model adopta uns trets propis que convé saber reconèixer i que s’observen amb claredat en les fitxes reproduïdes en l’apartat 6.3:"
+      },
+      {
+       "n": 0,
+       "t": "Definició per gènere pròxim i diferència específica. Nanobiotecnologia es defineix com a «part de la nanotecnologia» —el gènere pròxim— «amb aplicacions en biologia i en bioquímica» —la diferència específica. És l’estructura definitòria canònica del treball terminològic."
+      },
+      {
+       "n": 0,
+       "t": "Incorporació dels trets tècnics necessaris. La definició de desextinció no s’acontenta amb ‘recuperació d’una espècie extinta’: hi especifica els procediments —clonació, edició genòmica, cria selectiva— perquè són el que delimita el concepte enfront de nocions veïnes."
+      },
+      {
+       "n": 0,
+       "t": "Remissió implícita al sistema conceptual. Les definicions empren altres termes del mateix camp —edició genòmica dins de la definició de desextinció—, de manera que la consulta d’un terme condueix als termes veïns. La funció de doble clic sobre qualsevol paraula de la definició materialitza aquesta xarxa conceptual."
+      },
+      {
+       "n": 0,
+       "t": "Absència de valoració i de context d’ús. La definició no jutja ni situa en un registre: descriu el concepte. És la conseqüència directa de la primacia del concepte exposada en l’apartat 2.2."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 8"
+      }
+     ]
+    },
+    {
+     "titol": "La cooperació terminològica: l’AVL i el TERMCAT",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-39-00287f0dce475eb5.mp3",
+     "durada": 39.6,
+     "text": [
+      {
+       "n": 1,
+       "t": "La cooperació terminològica: l’AVL i el TERMCAT"
+      },
+      {
+       "n": 0,
+       "t": "En una llengua compartida per diversos territoris amb institucions normatives pròpies, la terminologia és el terreny on la fragmentació seria més costosa i menys justificable. Que un mateix concepte científic reba denominacions distintes segons el territori no aporta cap valor identitari i sí un cost comunicatiu evident. Per això la cooperació interinstitucional no és, en aquest àmbit, una cortesia sinó una exigència tècnica."
+      }
+     ]
+    },
+    {
+     "titol": "8.1. El conveni del 2016 i la renovació del 2024",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-40-6b705bebe6333e6e.mp3",
+     "durada": 101.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.1. El conveni del 2016 i la renovació del 2024"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL i el TERMCAT, Centre de Terminologia de Catalunya, van firmar un conveni de col·laboració el maig del 2016, el mateix mes de la presentació del Portal Terminològic Valencià. El 25 de juliol del 2024 les dos institucions el van renovar, amb la firma de la presidenta de l’AVL, Verònica Cantó, i del director del TERMCAT, Jordi Bover, en la seu de la institució normativa valenciana."
+      },
+      {
+       "n": 0,
+       "t": "El contingut de l’acord és doble i convé retenir-ne la formulació:"
+      },
+      {
+       "n": 0,
+       "t": "L’intercanvi d’informació sobre els projectes terminològics en curs."
+      },
+      {
+       "n": 0,
+       "t": "L’establiment de mecanismes que permeten garantir, «sempre que siga possible, la difusió de formes comunes per a designar els nous termes»."
+      },
+      {
+       "n": 0,
+       "t": "L’objectiu declarat és «estretir la relació entre els dos organismes per a col·laborar en el desenvolupament de la terminologia en els diversos àmbits del coneixement». Observeu la prudència de la clàusula «sempre que siga possible»: no s’hi renuncia a la possibilitat de solucions pròpies quan la realitat lingüística valenciana les justifique, però es fixa la forma comuna com a objectiu preferent. És, en el terreny terminològic, l’aplicació exacta del policentrisme convergent que el Dictamen del 2005 formula com a model de codificació."
+      }
+     ]
+    },
+    {
+     "titol": "8.2. La cessió de fitxes al Cercaterm",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-41-c0fe4efb5da8b3f5.mp3",
+     "durada": 149.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.2. La cessió de fitxes al Cercaterm"
+      },
+      {
+       "n": 0,
+       "t": "El resultat més tangible del conveni és la incorporació, l’any 2023, de 942 fitxes provinents del Portal Terminològic Valencià al Cercaterm, el cercador terminològic de consulta pública del TERMCAT."
+      },
+      {
+       "n": 0,
+       "t": "L’AVL n’ha detallat els àmbits i els exemples, que permeten veure quina és l’aportació específica del repertori valencià al cabal terminològic compartit:"
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Exemples de termes cedits"
+      },
+      {
+       "n": 0,
+       "t": "Alimentació i gastronomia. ametla crocant, fruites del bosc, vinagre d’arròs"
+      },
+      {
+       "n": 0,
+       "t": "Esport. anar menjant calç, baixar el baló"
+      },
+      {
+       "n": 0,
+       "t": "Música. banda tribut, posthardcore"
+      },
+      {
+       "n": 0,
+       "t": "Astronomia. cúmul d’estreles, galàxia cD"
+      },
+      {
+       "n": 0,
+       "t": "Tecnologia. biorobòtica, nanobiotecnologia"
+      },
+      {
+       "n": 0,
+       "t": "Zoologia. aranya violinista, cor sistèmic"
+      },
+      {
+       "n": 0,
+       "t": "Dos detalls tècnics de la cessió tenen gran valor doctrinal i són molt preguntables. El primer: les fitxes es difonen des del Cercaterm amb un marcatge que indica la font de procedència, de manera que l’usuari sap que la denominació prové del repertori valencià. El segon, encara més significatiu: les fitxes preserven en la grafia les variants geolingüístiques pròpies del valencià. Així, ametla crocant i cúmul d’estreles entren en el cercador català amb les formes valencianes ametla i estrela, i no amb ametlla i estrella."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: QUÈ DEMOSTRA LA CESSIÓ DE FITXES La incorporació de 942 fitxes del PTV al Cercaterm, amb marcatge d’origen i amb conservació de les variants gràfiques valencianes, és la millor prova empírica del funcionament real del policentrisme convergent: hi ha un cabal terminològic compartit i, alhora, un reconeixement explícit de les solucions formals pròpies de cada centre."
+      }
+     ]
+    },
+    {
+     "titol": "8.3. La coedició del //Diccionari de lingüística//",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-42-b4e17fd540cae93e.mp3",
+     "durada": 60.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.3. La coedició del //Diccionari de lingüística//"
+      },
+      {
+       "n": 0,
+       "t": "Un segon fruit del conveni és la coedició, l’any 2022, de l’actualització del Diccionari de lingüística, a càrrec de l’exacadèmic Manuel Pérez Saldanya, amb la col·laboració de Rosanna Mestre i Ofèlia Sanmartín."
+      },
+      {
+       "n": 0,
+       "t": "L’obra està formada per més de 3.500 entrades, que abasten «la terminologia generada per les principals escoles i teories que han abordat l’estudi del llenguatge humà, des de la gramàtica tradicional fins a les tendències lingüístiques més actuals». És, per tant, un repertori terminològic d’un àmbit d’especialitat concret —la lingüística— elaborat conjuntament per les dos institucions, i un exemple de la modalitat de cooperació que va més enllà de l’intercanvi de fitxes: la coproducció d’obres terminològiques."
+      }
+     ]
+    },
+    {
+     "titol": "8.4. Dos models institucionals comparats",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-43-7a2fc828f42ca062.mp3",
+     "durada": 216.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.4. Dos models institucionals comparats"
+      },
+      {
+       "n": 0,
+       "t": "La comparació entre el model valencià i el català és un contingut d’alt valor per a la prova de desenvolupament, perquè permet mostrar que s’entén l’arquitectura institucional de la terminologia i no només el funcionament d’un portal."
+      },
+      {
+       "n": 0,
+       "t": "Model valencià (AVL). Model català (TERMCAT)"
+      },
+      {
+       "n": 0,
+       "t": "Naturalesa de l’organisme. Secció especialitzada dins de la institució normativa de la llengua, que és alhora l’autoritat sobre l’ortografia, la gramàtica i el lèxic.. Centre de terminologia específic, creat el 1985 i constituït en consorci el 1994, distint de l’acadèmia (l’Institut d’Estudis Catalans) però amb participació d’aquesta."
+      },
+      {
+       "n": 0,
+       "t": "Òrgan que fixa els termes. El Ple de l’AVL, a proposta de la Secció de Terminologia.. El Consell Supervisor, òrgan permanent i col·legiat integrat per membres de l’IEC i del TERMCAT i per experts dels diversos àmbits."
+      },
+      {
+       "n": 0,
+       "t": "Instrument de difusió. Portal Terminològic Valencià, integrat amb el diccionari normatiu.. Cercaterm, Neoloteca i la col·lecció de diccionaris en línia."
+      },
+      {
+       "n": 0,
+       "t": "Base de la decisió. Estudi de la Secció, amb la possibilitat reglamentària d’encomanar informes a persones o institucions de provada competència.. Dossiers de normalització amb informació lingüística, terminològica i d’ús, i consulta d’especialistes de l’àrea."
+      },
+      {
+       "n": 0,
+       "t": "Criteris. Els mateixos criteris generals de l’AVL, aplicats a la matèria terminològica, amb el compromís de convergència del conveni.. Criteris de caràcter lingüístic, terminològic i social, amb criteris específics publicats per a determinats camps."
+      },
+      {
+       "n": 0,
+       "t": "Publicitat de la motivació. Difusió del resultat en el portal i en les notes i butlletins de la institució.. Les fitxes de termes aprovats a partir del 2011 contenen, en nota, un resum dels criteris tinguts en compte per a l’aprovació de la forma proposada."
+      },
+      {
+       "n": 0,
+       "t": "La diferència estructural és clara: en l’àmbit valencià, la terminologia està integrada dins de la institució normativa general; en el català, està encomanada a un organisme especialitzat vinculat a l’acadèmia. Cada model té avantatges. La integració valenciana garanteix la coherència automàtica entre les decisions terminològiques i les normes ortogràfiques, gramaticals i lèxiques, i explica que el PTV i el DNV compartisquen aparell de criteris i estiguen tècnicament interconnectats. L’especialització catalana permet una dedicació exclusiva i una producció més voluminosa, amb una explicitació sistemàtica de la motivació de cada decisió."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 9"
+      }
+     ]
+    },
+    {
+     "titol": "Els productes terminològics de l’AVL",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-44-fa84bc9713e88f52.mp3",
+     "durada": 35.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els productes terminològics de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "El Portal Terminològic Valencià és l’instrument central de la fixació terminològica, però no l’únic. L’Acadèmia manté tres col·leccions editorials dedicades específicament a la terminologia i al lèxic sectorial, que compleixen la funció de difusió de què depén, en última instància, la implantació de les denominacions. Conèixer-les permet respondre la part del tema que sovint queda desatesa."
+      }
+     ]
+    },
+    {
+     "titol": "9.1. La col·lecció Vocabularis",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-45-629d061902130f0d.mp3",
+     "durada": 165.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.1. La col·lecció Vocabularis"
+      },
+      {
+       "n": 0,
+       "t": "És la col·lecció terminològica principal. Recull vocabularis sectorials d’àmbits professionals i científics, amb vuit títols publicats."
+      },
+      {
+       "n": 0,
+       "t": "Núm.. Títol. Any. Extensió"
+      },
+      {
+       "n": 0,
+       "t": "1. Vocabulari jurídic. 2015 (2a ed.). 256 p."
+      },
+      {
+       "n": 0,
+       "t": "2. Vocabulari nàutic. 2018 (2a ed.). 182 p."
+      },
+      {
+       "n": 0,
+       "t": "3. Vocabulari de futbol. 2008. 104 p."
+      },
+      {
+       "n": 0,
+       "t": "4. Vocabulari del joc de pilota. 2010. 96 p."
+      },
+      {
+       "n": 0,
+       "t": "5. Vocabulari d’economia. 2011. 344 p."
+      },
+      {
+       "n": 0,
+       "t": "6. Vocabulari de la música. 2018 (2a ed.). 224 p."
+      },
+      {
+       "n": 0,
+       "t": "7. Vocabulari de les ciències de la salut. 2019. 536 p."
+      },
+      {
+       "n": 0,
+       "t": "8. Vocabulari de les arts escèniques. 2020. 268 p."
+      },
+      {
+       "n": 0,
+       "t": "La composició de la sèrie és reveladora dels criteris de prioritat de la institució. Hi ha, d’una banda, àmbits d’alta densitat terminològica i gran demanda professional: el jurídic, l’econòmic i el de les ciències de la salut, que són alhora els tres volums més extensos. Hi ha, d’altra banda, àmbits de forta implantació social i cultural: el futbol, la música, les arts escèniques i, molt significativament, el joc de pilota, terminologia patrimonial valenciana que difícilment seria objecte d’un repertori des d’una altra institució. I hi ha, finalment, un àmbit tradicional lligat a la realitat geogràfica del territori: el nàutic."
+      },
+      {
+       "n": 0,
+       "t": "Que tres dels vuit títols hagen arribat a una segona edició —el jurídic, el nàutic i el de la música— és un indicador d’implantació que val la pena assenyalar: la demanda real ha justificat la reedició."
+      }
+     ]
+    },
+    {
+     "titol": "9.2. La col·lecció Vocabularis Visuals",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-46-6e3b8f71aac181f4.mp3",
+     "durada": 117.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.2. La col·lecció Vocabularis Visuals"
+      },
+      {
+       "n": 0,
+       "t": "És una col·lecció de format distint i finalitat divulgativa, que presenta la terminologia d’un àmbit associada a la imatge del referent. Consta de quatre títols:"
+      },
+      {
+       "n": 0,
+       "t": "Núm.. Títol. Any. Observacions"
+      },
+      {
+       "n": 0,
+       "t": "1. Amb molt de gust. 2017. Edició de l’AVL amb la col·laboració del Museu Valencià d’Etnologia i l’Ajuntament de València."
+      },
+      {
+       "n": 0,
+       "t": "2. Fons de mar. Peixos, crustacis, mol·luscos i altres espècies marines. 2022. Terminologia zoològica i pesquera."
+      },
+      {
+       "n": 0,
+       "t": "3. El Corpus de València. 2023. Edició de l’AVL amb la col·laboració de l’Ajuntament de València."
+      },
+      {
+       "n": 0,
+       "t": "4. Amunt al cel. Vocabulari visual de la muixeranga. 2025. Terminologia d’una manifestació cultural valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta col·lecció mostra una dimensió de la fixació terminològica que la teoria clàssica no preveia: la terminologia de la cultura popular i festiva. La muixeranga, el Corpus de València o les espècies marines de la costa valenciana tenen un vocabulari específic, transmés sovint per via oral, que necessita fixació gràfica i definició tant com el vocabulari d’una ciència. La col·laboració amb museus i ajuntaments en aquestes edicions és, a més, un exemple del treball amb els especialistes del camp que la doctrina terminològica recomana."
+      }
+     ]
+    },
+    {
+     "titol": "9.3. La col·lecció Lèxics",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-47-7a1302557b96a23b.mp3",
+     "durada": 120.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.3. La col·lecció Lèxics"
+      },
+      {
+       "n": 0,
+       "t": "És una col·lecció de format breu —fitxes de 29,7 × 21 cm i tríptics de 21 × 9,9 cm— publicada entre 2009 i 2013, concebuda per a la difusió directa en establiments i entre professionals. Comprén vint-i-cinc títols:"
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Títols de la col·lecció"
+      },
+      {
+       "n": 0,
+       "t": "Alimentació i comerç. Lèxic del forn i de les pastisseries · Lèxic del restaurant · Lèxic de la carnisseria · Lèxic de la xarcuteria · Lèxic de les fruites i verdures · Lèxic del peix i marisc"
+      },
+      {
+       "n": 0,
+       "t": "Esport i lleure. Lèxic dels esports · Lèxic del futbol · Lèxic del joc de pilota · Lèxic d’activitats recreatives i a l’aire lliure · Lèxic dels viatges"
+      },
+      {
+       "n": 0,
+       "t": "Salut i cos. Lèxic de les malalties · Lèxic del cos humà · Lèxic de la salut i la sanitat · Lèxic de la imatge personal"
+      },
+      {
+       "n": 0,
+       "t": "Vida quotidiana. Lèxic de la casa · Lèxic del carrer · Lèxic de la roba i complements · Lèxic de la ferreteria · Lèxic de l’automòbil"
+      },
+      {
+       "n": 0,
+       "t": "Cultura i ciència. Lèxic de la música · Lèxic dels instruments musicals · Lèxic de l’astronomia · Lèxic de la religió catòlica · Lèxic de la cultura religiosa · Lèxic dels animals: fauna africana"
+      },
+      {
+       "n": 0,
+       "t": "La col·lecció es completa amb una sèrie de pòsters (70 × 50 cm), publicada el 2011, dedicada a El corder, La xarcuteria, El pollastre i el conill, El porc, La vedella, El forn i La pastisseria."
+      }
+     ]
+    },
+    {
+     "titol": "9.4. La funció de difusió sectorial",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-48-893a5711c7e8067c.mp3",
+     "durada": 126.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.4. La funció de difusió sectorial"
+      },
+      {
+       "n": 0,
+       "t": "El disseny d’aquestes tres col·leccions respon a una estratègia identificable de difusió graduada, que convè saber explicar perquè és el que connecta la fixació terminològica amb la promoció lingüística, objecte del cos al qual s’opta."
+      },
+      {
+       "n": 0,
+       "t": "Instrument. Destinatari. Funció"
+      },
+      {
+       "n": 0,
+       "t": "Portal Terminològic Valencià. Professionals, traductors, docents, empleats públics, redactors tècnics.. Consulta puntual i exploració de camps conceptuals; referència única i actualitzada."
+      },
+      {
+       "n": 0,
+       "t": "Vocabularis. Professionals d’un àmbit determinat i estudiants d’aquell àmbit.. Repertori sistemàtic i tancat d’un camp, amb definicions i equivalents, en suport estable."
+      },
+      {
+       "n": 0,
+       "t": "Vocabularis Visuals. Públic general i comunitat educativa.. Associació de la denominació amb la imatge del referent; difusió de terminologia patrimonial i festiva."
+      },
+      {
+       "n": 0,
+       "t": "Lèxics i pòsters. Establiments comercials, clients i públic no especialitzat.. Difusió directa en el punt d’ús de la terminologia quotidiana d’un sector."
+      },
+      {
+       "n": 0,
+       "t": "El model és el d’un contínuum de difusió que va del repertori tècnic exhaustiu fins al material de divulgació situat en el mateix lloc on la terminologia s’usa. Un lèxic de la carnisseria penjat en una carnisseria és, tècnicament, un instrument d’implantació terminològica: posa la denominació davant dels ulls de qui l’ha d’usar en el moment en què l’ha d’usar."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 10"
+      }
+     ]
+    },
+    {
+     "titol": "L’actualització i la neologia especialitzada",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-49-935a81d25164e87d.mp3",
+     "durada": 5.6,
+     "text": [
+      {
+       "n": 1,
+       "t": "L’actualització i la neologia especialitzada"
+      }
+     ]
+    },
+    {
+     "titol": "10.1. El ritme d’incorporació",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-50-50c73a0056d431f6.mp3",
+     "durada": 97.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.1. El ritme d’incorporació"
+      },
+      {
+       "n": 0,
+       "t": "El Portal Terminològic Valencià és, com el DNV, un repertori dinàmic. Les incorporacions s’aproven pel Ple i es difonen periòdicament, sovint de manera coordinada amb les actualitzacions del diccionari normatiu i amb la publicació dels butlletins electrònics de la institució."
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha donat dades concretes d’aquest ritme en alguna de les seues comunicacions: en un dels seus butlletins electrònics informa de 226 paraules incorporades al Portal Terminològic Valencià en el període corresponent, amb exemples com matxa, xopsuei, gàrum, diplomàcia parlamentària o diplomàcia preventiva. La xifra dona la mesura de la intensitat del treball terminològic: es tracta d’un volum comparable al de les incorporacions anuals al diccionari general."
+      },
+      {
+       "n": 0,
+       "t": "ATENCIÓ AMB LES DADES QUANTITATIVES Les xifres del portal corresponen sempre al moment de la consulta o de la comunicació institucional que les difon. En un examen convè citar-les amb la referència temporal («segons el butlletí electrònic de l’AVL, en el període corresponent s’hi van incorporar 226 paraules») i no com si foren dades estables. La formulació prudent demostra rigor i evita l’error de donar per fixa una xifra d’un repertori en creixement."
+      }
+     ]
+    },
+    {
+     "titol": "10.2. Exemples recents i àmbits d’expansió",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-51-dc2c23396a99f759.mp3",
+     "durada": 160.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.2. Exemples recents i àmbits d’expansió"
+      },
+      {
+       "n": 0,
+       "t": "L’anàlisi dels termes incorporats recentment permet identificar els àmbits en què la llengua necessita més urgentment terminologia nova. Els exemples següents procedeixen de comunicacions institucionals de l’AVL i de la consulta directa del portal."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Termes incorporats. Què revela"
+      },
+      {
+       "n": 0,
+       "t": "Biotecnologia i genètica. desextinció, edició genòmica. La necessitat de denominar conceptes generats per tecnologies emergents que arriben al debat públic."
+      },
+      {
+       "n": 0,
+       "t": "Intel·ligència artificial i tecnologia digital. visió artificial, identificació biomètrica, sistema de verificació d’edat. L’àmbit de major producció neològica actual, majoritàriament per sintagmació a partir d’originals anglesos."
+      },
+      {
+       "n": 0,
+       "t": "Meteorologia i medi ambient. petricor, i la sigla DANA abans de la seua lexicalització. La irrupció de tecnicismes meteorològics en la comunicació pública per efecte dels fenòmens extrems."
+      },
+      {
+       "n": 0,
+       "t": "Diplomàcia i vida institucional. diplomàcia parlamentària, diplomàcia preventiva. La terminologia de les relacions internacionals com a àmbit de traducció institucional."
+      },
+      {
+       "n": 0,
+       "t": "Gastronomia. xopsuei, gàrum, matxa, ametla crocant, vinagre d’arròs. La internacionalització de la cuina i la recuperació de terminologia històrica i patrimonial."
+      },
+      {
+       "n": 0,
+       "t": "Astronomia i ciències. cúmul d’estreles, galàxia cD. Àmbits d’alta especificitat, propis del portal i no del diccionari general."
+      },
+      {
+       "n": 0,
+       "t": "Val la pena observar el cas de gàrum, que apunta a una dimensió sovint oblidada: la terminologia no és només neologia. La fixació d’un terme històric —la salsa de peix romana documentada en el litoral valencià— és també fixació terminològica, i respon a la necessitat de disposar de denominacions precises per als àmbits de l’arqueologia, la història i el patrimoni."
+      }
+     ]
+    },
+    {
+     "titol": "10.3. La terminologia com a indicador social",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-52-d5a627eb55324dee.mp3",
+     "durada": 70.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.3. La terminologia com a indicador social"
+      },
+      {
+       "n": 0,
+       "t": "Els termes que una societat necessita denominar en un moment donat són un indicador força fiable de què li està passant. El conjunt de termes incorporats al portal en els darrers exercicis dibuixa un mapa reconeixible: emergència climàtica, intel·ligència artificial, biotecnologia, protecció digital de menors. La terminologia registra el canvi social abans que el lèxic general, precisament perquè és on arriben primer els conceptes nous."
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha explicitat aquesta idea en referir-se a la substitució de gota freda per dana: «la terminologia es renova constantment per a intentar ser més precisos». La renovació terminològica, doncs, no respon a la moda sinó a l’exigència de precisió conceptual, que és el criteri rector de la disciplina."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 11"
+      }
+     ]
+    },
+    {
+     "titol": "La terminologia en l’Administració i en el treball del tècnic lingüístic",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-53-65b4e16932778e1b.mp3",
+     "durada": 7.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "La terminologia en l’Administració i en el treball del tècnic lingüístic"
+      }
+     ]
+    },
+    {
+     "titol": "11.1. El PTV com a referent obligat per als empleats públics",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-54-b311f6c4b3de151d.mp3",
+     "durada": 167.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.1. El PTV com a referent obligat per als empleats públics"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL s’ha pronunciat de manera expressa sobre el paper del Portal Terminològic Valencià en la llengua de l’Administració, en l’informe que va emetre sobre els «Criteris lingüístics» que li va remetre la Direcció General de Política Lingüística i Gestió del Multilingüisme. El pronunciament és directament aplicable i convè conèixer-lo literalment:"
+      },
+      {
+       "n": 0,
+       "t": "«Tal com establix la legislació vigent, el referent que s’hauria de donar als empleats públics és la consulta del DNV i del Portal Terminològic Valencià, i supletòriament, en el cas de no trobar la paraula buscada, pot al·ludir-se a altres diccionaris o portals terminològics complementaris.» AVL, Informe sobre els «Criteris lingüístics»"
+      },
+      {
+       "n": 0,
+       "t": "El context d’aquest pronunciament és molt il·lustratiu, perquè mostra en quin tipus de qüestions opera la referència al portal. L’informe l’invoca en tres apartats successius:"
+      },
+      {
+       "n": 0,
+       "t": "A propòsit dels estrangerismes no adaptats. L’AVL adverteix que no és adequat referir-se de manera genèrica als «diccionaris i repertoris terminològics» per a saber si una forma està adaptada o no, «en primer lloc, perquè no tots els diccionaris tenen els mateixos criteris a l’hora d’adaptar gràficament els estrangerismes, i per tant, tal com està redactat, pot ser confús i donar lloc a contradiccions»."
+      },
+      {
+       "n": 0,
+       "t": "A propòsit dels llatinismes: «creiem que, en un llibre d’estil de la Generalitat, no és oportú dir que s’escriuen en cursiva els “mots adaptats si figuren així en els diccionaris”. Caldria fer una referència explícita al DNV i al Porterval»."
+      },
+      {
+       "n": 0,
+       "t": "A propòsit dels neologismes: «Els empleats públics han de seguir els criteris fixats en les obres normatives de l’AVL i, subsidiàriament, si no hi troben resposta als seus dubtes, poden consultar qualsevol altre diccionari»."
+      },
+      {
+       "n": 0,
+       "t": "Les tres qüestions són, precisament, les tres fronteres on la terminologia entra en contacte amb l’ortografia: quan una paraula d’origen estranger s’escriu en cursiva o en redona, com es tracten els llatinismes i quina forma pren un neologisme. La resposta institucional és unívoca: el referent és el sistema de l’AVL, i el PTV n’és part."
+      }
+     ]
+    },
+    {
+     "titol": "11.2. El protocol de consulta terminològica",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-55-1af83543ab06e1cc.mp3",
+     "durada": 154.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.2. El protocol de consulta terminològica"
+      },
+      {
+       "n": 0,
+       "t": "Traduïda a la pràctica professional, tota la doctrina exposada es condensa en un protocol de cinc passos, aplicable tant a la traducció especialitzada com a la correcció i a l’assessorament."
+      },
+      {
+       "n": 0,
+       "t": "Determinar si la unitat és un terme o una paraula del lèxic general, és a dir, si el text l’usa amb valor especialitzat dins d’un àmbit determinat. La resposta condiciona tot el que segueix."
+      },
+      {
+       "n": 0,
+       "t": "Consultar el DNV. Si la unitat hi figura, el tractament és el del lèxic general: definició perifràstica o remissió, marca temàtica si és lèxic d’especialitat generalitzat, marques d’ús si escau."
+      },
+      {
+       "n": 0,
+       "t": "Si no hi figura, seguir la remissió automàtica al PTV o consultar-lo directament. La fitxa en donarà la categoria, l’àmbit, la definició, la pronunciació i els equivalents."
+      },
+      {
+       "n": 0,
+       "t": "Si no hi figura en cap dels dos, acudir supletòriament a altres repertoris —el Cercaterm i els diccionaris en línia del TERMCAT en primer lloc, per la relació de cooperació entre les dos institucions— i, si el cas ho justifica, formular una proposta a l’AVL a través del formulari, amb definició i documentació d’ús."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar la coherència terminològica del document: un mateix concepte ha de rebre la mateixa denominació al llarg de tot el text i, idealment, al llarg de tota la producció de l’organisme. La incoherència terminològica és, en un text especialitzat, un error de més gravetat que una vacil·lació estilística."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA REGLA D’OR DE LA TERMINOLOGIA APLICADA En lèxic general, l’exigència és no alternar variants de rang distint dins d’un text. En terminologia, l’exigència és més estricta: un concepte, una denominació, mantinguda de manera constant en tot el document i en tota la producció de l’organisme. La sinonímia, que en la llengua general és riquesa, en un text especialitzat és font d’ambigüitat."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 12"
+      }
+     ]
+    },
+    {
+     "titol": "Síntesi: dades, criteris i conceptes de memorització obligatòria",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-56-5581072b75a208c6.mp3",
+     "durada": 7.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Síntesi: dades, criteris i conceptes de memorització obligatòria"
+      }
+     ]
+    },
+    {
+     "titol": "12.1. Cronologia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-57-0cf19e7885e45bf3.mp3",
+     "durada": 164.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.1. Cronologia"
+      },
+      {
+       "n": 0,
+       "t": "Data. Fita"
+      },
+      {
+       "n": 0,
+       "t": "Anys 1930. Eugen Wüster funda la terminologia moderna a Viena i formula els principis de la Teoria General de la Terminologia."
+      },
+      {
+       "n": 0,
+       "t": "1985. Creació del TERMCAT per acord entre el Departament de Cultura de la Generalitat de Catalunya i l’Institut d’Estudis Catalans. El 1994 esdevé un consorci amb la incorporació del Consorci per a la Normalització Lingüística."
+      },
+      {
+       "n": 0,
+       "t": "1999. M. T. Cabré publica La terminología: representación y comunicación, on formula la Teoria Comunicativa de la Terminologia."
+      },
+      {
+       "n": 0,
+       "t": "16.09.1998. Llei 7/1998, de creació de l’AVL: els articles 7.a i 7.c fonamenten la competència terminològica."
+      },
+      {
+       "n": 0,
+       "t": "2008-2020. Publicació dels vuit títols de la col·lecció Vocabularis de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "2009-2013. Publicació dels vint-i-cinc títols de la col·lecció Lèxics i, el 2011, de la sèrie de pòsters."
+      },
+      {
+       "n": 0,
+       "t": "Maig del 2016. Presentació pública del Portal Terminològic Valencià i firma del conveni de col·laboració entre l’AVL i el TERMCAT."
+      },
+      {
+       "n": 0,
+       "t": "2017-2025. Publicació dels quatre títols de la col·lecció Vocabularis Visuals."
+      },
+      {
+       "n": 0,
+       "t": "2022. Coedició AVL-TERMCAT de l’actualització del Diccionari de lingüística, de Manuel Pérez Saldanya (més de 3.500 entrades)."
+      },
+      {
+       "n": 0,
+       "t": "2023. El TERMCAT incorpora al Cercaterm 942 fitxes procedents del PTV, amb marcatge d’origen i conservació de les variants gràfiques valencianes."
+      },
+      {
+       "n": 0,
+       "t": "25.07.2024. Renovació del conveni entre l’AVL i el TERMCAT."
+      },
+      {
+       "n": 0,
+       "t": "2025. La sigla DANA, present en el PTV, es lexicalitza i s’incorpora al DNV com a substantiu comú dana."
+      }
+     ]
+    },
+    {
+     "titol": "12.2. Conceptes clau",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-58-b3a0e8ef7f1ee0f9.mp3",
+     "durada": 129.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.2. Conceptes clau"
+      },
+      {
+       "n": 0,
+       "t": "Concepte. Definició operativa"
+      },
+      {
+       "n": 0,
+       "t": "Terminologia. Disciplina que estudia les unitats de designació dels conceptes propis dels àmbits d’especialitat, i conjunt d’aquestes unitats en un camp determinat."
+      },
+      {
+       "n": 0,
+       "t": "Unitat terminològica. Segons la TCT, unitat alhora lingüística, cognitiva i de funcionament social, que adquireix valor terminològic quan el context pragmàtic del discurs l’activa."
+      },
+      {
+       "n": 0,
+       "t": "Perspectiva onomasiològica. Mètode que va del concepte a la denominació, propi del treball terminològic, per oposició al mètode semasiològic de la lexicografia."
+      },
+      {
+       "n": 0,
+       "t": "Biunivocitat. Ideal terminològic segons el qual a cada concepte li correspon una sola denominació i a cada denominació un sol concepte dins d’un mateix àmbit."
+      },
+      {
+       "n": 0,
+       "t": "Normalització terminològica. Procés de fixació de les formes que es consideren més adequades per a designar conceptes especialitzats que presenten dificultat per a incorporar-se al sistema lingüístic."
+      },
+      {
+       "n": 0,
+       "t": "Normativització. Fixació de la norma general de la llengua: ortografia, gramàtica i lèxic. No s’ha de confondre amb l’anterior."
+      },
+      {
+       "n": 0,
+       "t": "Implantació. Grau en què els especialistes i els parlants adopten efectivament la denominació proposada. És la mesura real de l’èxit de la normalització."
+      },
+      {
+       "n": 0,
+       "t": "Policentrisme convergent. Model de codificació formulat en el Dictamen del 2005, que en terminologia es concreta en el compromís de difondre formes comunes «sempre que siga possible»."
+      }
+     ]
+    },
+    {
+     "titol": "12.3. Quinze idees-força",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-59-5eb65137bf70e933.mp3",
+     "durada": 268.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.3. Quinze idees-força"
+      },
+      {
+       "n": 0,
+       "t": "La fixació terminològica és una activitat amb fonaments teòrics, criteris explícits, arquitectura institucional i productes diversos; el Portal Terminològic Valencià és l’instrument central de l’AVL, però no l’únic."
+      },
+      {
+       "n": 0,
+       "t": "La terminologia parteix del concepte i busca la denominació —perspectiva onomasiològica—, mentre que la lexicografia parteix de la forma i n’explica els significats."
+      },
+      {
+       "n": 0,
+       "t": "La Teoria General de la Terminologia, d’Eugen Wüster i l’Escola de Viena, es basa en la primacia del concepte, la biunivocitat, la sincronia i la prescriptivitat. La forma de la fitxa terminològica n’és el reflex directe."
+      },
+      {
+       "n": 0,
+       "t": "La Teoria Comunicativa de la Terminologia, de M. T. Cabré (1999), objecta a la TGT el seu reduccionisme i sosté que la unitat terminològica és polièdrica —lingüística, cognitiva i social— i que cap unitat lèxica no és terminològica per si mateixa: ho esdevé quan el discurs n’activa el valor especialitzat."
+      },
+      {
+       "n": 0,
+       "t": "Normalització terminològica i normativització no són el mateix: la primera fixa denominacions de conceptes especialitzats; la segona fixa la norma general de la llengua."
+      },
+      {
+       "n": 0,
+       "t": "S’hi normalitzen els casos amb dificultat d’incorporació al sistema: manlleus, calcs inadequats, conceptes sense denominació clara i denominacions dubtoses o vacil·lants."
+      },
+      {
+       "n": 0,
+       "t": "Els criteris de fixació d’una denominació són de tres tipus: lingüístics, terminològics i sociolingüístics, als quals s’afegeix, en una llengua policèntrica, el criteri de convergència interinstitucional."
+      },
+      {
+       "n": 0,
+       "t": "La competència de l’AVL es fonamenta en els articles 3, 7.a i 7.c de la Llei 7/1998, i l’observança de les seues decisions, en l’article 5 i en l’article 41 de l’Estatut."
+      },
+      {
+       "n": 0,
+       "t": "L’òrgan que prepara les propostes és la Secció de Terminologia, presidida des del 2026 per Rosa Agost Canós; l’òrgan que les aprova és el Ple."
+      },
+      {
+       "n": 0,
+       "t": "El criteri que separa el DNV del PTV és el grau d’especificitat: el portal recull la terminologia que, per la seua especificitat, no és possible incorporar al diccionari general, i el neologisme especialitzat encara no consolidat."
+      },
+      {
+       "n": 0,
+       "t": "Els dos repertoris estan tècnicament interconnectats per una remissió automàtica i recíproca, i comparteixen introducció, criteris d’ús i abreviatures."
+      },
+      {
+       "n": 0,
+       "t": "La fitxa del PTV consta de sis components: terme, transcripció fonètica, categoria gramatical, marca temàtica, definició única i equivalents en castellà, anglès i francès. No té accepcions numerades ni marques de registre."
+      },
+      {
+       "n": 0,
+       "t": "La consulta avançada del portal permet filtrar per definició, àrea temàtica, categoria gramatical i llengua d’origen; prescindeix dels filtres de nivell de llenguatge i d’intenció del parlant, propis del DNV."
+      },
+      {
+       "n": 0,
+       "t": "El conveni AVL-TERMCAT, firmat el maig del 2016 i renovat el 25 de juliol del 2024, preveu l’intercanvi d’informació i la difusió de formes comunes; en va derivar la cessió de 942 fitxes al Cercaterm el 2023, amb marcatge d’origen i conservació de les grafies valencianes."
+      },
+      {
+       "n": 0,
+       "t": "La implantació és el límit de tota normalització: per això l’AVL complementa el portal amb les col·leccions Vocabularis (8 títols), Vocabularis Visuals (4) i Lèxics (25 títols i una sèrie de pòsters), adreçades a públics successivament més amplis."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 13"
+      }
+     ]
+    },
+    {
+     "titol": "Per a ampliar",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-60-dcb6b887cc0c0cbd.mp3",
+     "durada": 16.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Per a ampliar"
+      },
+      {
+       "n": 0,
+       "t": "Les línies següents no formen part del contingut mínim exigible, però permeten respondre amb solvència les preguntes de matís i, sobretot, les de la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "13.1. Terminologia i normalització lingüística: la dimensió política",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-61-8c12c308d7e8d06a.mp3",
+     "durada": 96.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.1. Terminologia i normalització lingüística: la dimensió política"
+      },
+      {
+       "n": 0,
+       "t": "La terminologia és, en una llengua minoritzada, molt més que una qüestió tècnica. Una llengua que no disposa de terminologia en un àmbit determinat queda exclosa de fet d’aquell àmbit, encara que hi tinga reconeixement legal: no es pot redactar un informe pericial, una història clínica o un plec tècnic en una llengua que no té les denominacions necessàries."
+      },
+      {
+       "n": 0,
+       "t": "Per això la creació d’organismes terminològics en llengües minoritzades s’ha de llegir com una peça de la política lingüística general. El TERMCAT, creat el 1985, es va concebre com «un instrument essencial del desplegament de la llei de normalització lingüística» que treballa per a evitar l’enquistament d’una situació diglòssica. La lectura és directament traslladable al cas valencià: sense terminologia, la distribució funcional entre la llengua pròpia —reservada als usos informals— i la llengua dominant —reservada als usos tècnics i científics— es consolidaria per la via dels fets."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta és, probablement, la millor manera d’enllaçar aquest tema amb els temes del temari dedicats a la promoció de l’ús social del valencià i a la situació sociolingüística, i de demostrar davant d’un tribunal que s’entén la funció del portal i no només el seu funcionament."
+      }
+     ]
+    },
+    {
+     "titol": "13.2. Els límits del model valencià i les línies de millora",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-62-99db8b27e930539c.mp3",
+     "durada": 106.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.2. Els límits del model valencià i les línies de millora"
+      },
+      {
+       "n": 0,
+       "t": "Una valoració crítica ponderada és sempre ben valorada, sempre que siga argumentada i respectuosa. Es poden assenyalar tres línies de millora del model valencià, totes tres formulables en termes tècnics:"
+      },
+      {
+       "n": 0,
+       "t": "La publicitat de la motivació. El TERMCAT incorpora, en les fitxes de termes aprovats a partir del 2011, un resum en nota dels criteris tinguts en compte per a l’aprovació de la forma proposada. La fitxa del PTV no incorpora aquesta informació. Fer-ho augmentaria la transparència del procés i el valor formatiu del portal per als professionals."
+      },
+      {
+       "n": 0,
+       "t": "La clarificació del règim jurídic. El DNV té una declaració expressa de normativitat i de versió vigent (Resolució de 13.11.2017); el PTV no en té una d’equivalent, tot i que l’AVL el situa com a referent de consulta obligat al costat del diccionari. Una declaració anàloga eliminaria qualsevol ambigüitat sobre el seu valor."
+      },
+      {
+       "n": 0,
+       "t": "La sistematització de la difusió de les actualitzacions. El DNV disposa d’un document públic i acumulatiu d’actualitzacions, desglossat mes a mes des del 2017. Un instrument equivalent per al portal terminològic facilitaria el seguiment als professionals i la citació precisa en informes tècnics."
+      }
+     ]
+    },
+    {
+     "titol": "13.3. Un exercici pràctic model",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-63-e439c9ee90273260.mp3",
+     "durada": 101.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.3. Un exercici pràctic model"
+      },
+      {
+       "n": 0,
+       "t": "Una qüestió típica de la prova teoricopràctica és la resolució raonada d’un cas terminològic. L’esquema de resposta que s’espera és el següent, il·lustrat ací amb un cas real del portal:"
+      },
+      {
+       "n": 0,
+       "t": "Identificació del concepte: procés de generació d’un organisme d’una espècie extinta o que s’hi assembla, a partir de clonació, edició genòmica o cria selectiva."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit: biologia. La marca temàtica delimita el sentit i evita col·lisions amb altres camps."
+      },
+      {
+       "n": 0,
+       "t": "Formes en competència: manlleu de l’anglès de-extinction enfront d’una formació pròpia."
+      },
+      {
+       "n": 0,
+       "t": "Anàlisi segons els tres blocs de criteris. Lingüístics: el valencià disposa del prefix des- i del substantiu extinció, i la formació desextinció és regular, pronunciable i permet derivats. Terminològics: la forma és transparent i motivada, coherent amb el camp i anàloga a les solucions de les altres llengües romàniques —desextinción, désextinction. Sociolingüístics: la forma pròpia és tan breu com el manlleu i no en dificulta l’adopció."
+      },
+      {
+       "n": 0,
+       "t": "Proposta i difusió: fixació de desextinció amb la definició i els equivalents corresponents, incorporació al portal i difusió en els canals institucionals."
+      }
+     ]
+    },
+    {
+     "titol": "13.4. Lectures recomanades",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-64-019ef6cfdcc0253b.mp3",
+     "durada": 83.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.4. Lectures recomanades"
+      },
+      {
+       "n": 0,
+       "t": "La consulta directa del Portal Terminològic Valencià, explorant per àrea temàtica i no només per terme: és la millor manera d’entendre’n el disseny i l’abast real."
+      },
+      {
+       "n": 0,
+       "t": "Els «Criteris d’ús» del sistema lexicogràfic de l’AVL, compartits pel DNV i pel PTV, especialment els apartats sobre marques temàtiques, llengua d’origen i classes de definicions."
+      },
+      {
+       "n": 0,
+       "t": "L’informe de l’AVL sobre els «Criteris lingüístics», en els apartats relatius als estrangerismes, els llatinismes i els neologismes: és el pronunciament institucional sobre el paper del portal en la llengua de l’Administració."
+      },
+      {
+       "n": 0,
+       "t": "M. T. CABRÉ, La terminología: representación y comunicación (1999): l’obra on es formula la Teoria Comunicativa de la Terminologia."
+      },
+      {
+       "n": 0,
+       "t": "La documentació institucional del TERMCAT sobre el funcionament del Consell Supervisor i els criteris de normalització: permet comparar dos models i argumentar amb solvència sobre l’arquitectura institucional de la terminologia."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 14"
+      }
+     ]
+    },
+    {
+     "titol": "Bibliografia i fonts",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-65-4b62e909fa3f9e55.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Bibliografia i fonts"
+      }
+     ]
+    },
+    {
+     "titol": "14.1. Fonts normatives",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-66-8e01a896b958b592.mp3",
+     "durada": 68.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.1. Fonts normatives"
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana (arts. 6.8 i 41)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua (arts. 3, 5, 7.a, 7.c i 26)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’Acadèmia Valenciana de la Llengua (arts. 45-50, sobre les seccions, i art. 46, sobre l’encàrrec d’informes a persones o institucions de provada competència)."
+      }
+     ]
+    },
+    {
+     "titol": "14.2. Instruments i documents de l’Acadèmia Valenciana de la Llengua",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-67-0dcb42428c9c09c3.mp3",
+     "durada": 143.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.2. Instruments i documents de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Portal Terminològic Valencià (PorTerVal). València: Acadèmia Valenciana de la Llengua, 2016 [en línia]. Consulta directa de fitxes i de les modalitats de consulta simple i avançada."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari normatiu valencià: «Introducció», «Criteris d’ús», «Abreviatures» i «Ajuda». Versió electrònica oficial, compartida amb el Portal Terminològic Valencià."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Formulari de proposta per a la incorporació de noves paraules, accepcions o termes al DNV i al PTV."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Informe sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada», apartats 5.1, 5.2 i 5.3."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià (Acord 1/2005, de 9 de febrer), punts 7, 8 i 9."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. «El TERMCAT incorpora al Cercaterm termes cedits per l’AVL», nota de premsa, 9 de novembre del 2023."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. «L’AVL i el TERMCAT renoven el conveni de col·laboració per al desenvolupament de la terminologia», nota de premsa, 25 de juliol del 2024."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Butlletins electrònics de la institució, amb les actualitzacions periòdiques del DNV i del PTV."
+      }
+     ]
+    },
+    {
+     "titol": "14.3. Productes terminològics de l’AVL",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-68-b642ec3920009f92.mp3",
+     "durada": 104.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.3. Productes terminològics de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Col·lecció Vocabularis: Vocabulari jurídic (2015, 2a ed.), Vocabulari nàutic (2018, 2a ed.), Vocabulari de futbol (2008), Vocabulari del joc de pilota (2010), Vocabulari d’economia (2011), Vocabulari de la música (2018, 2a ed.), Vocabulari de les ciències de la salut (2019) i Vocabulari de les arts escèniques (2020)."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Col·lecció Vocabularis Visuals: Amb molt de gust (2017), Fons de mar (2022), El Corpus de València (2023) i Amunt al cel. Vocabulari visual de la muixeranga (2025)."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Col·lecció Lèxics (2009-2013), vint-i-cinc títols en format de fitxa i tríptic, i sèrie de pòsters (2011)."
+      },
+      {
+       "n": 0,
+       "t": "PÉREZ SALDANYA, Manuel (amb la col·laboració de Rosanna Mestre i Ofèlia Sanmartín). Diccionari de lingüística. Coedició de l’Acadèmia Valenciana de la Llengua i el TERMCAT, 2022. Més de 3.500 entrades."
+      }
+     ]
+    },
+    {
+     "titol": "14.4. Bibliografia terminològica",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-69-b0c97ff0733c4bcc.mp3",
+     "durada": 70.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.4. Bibliografia terminològica"
+      },
+      {
+       "n": 0,
+       "t": "CABRÉ CASTELLVÍ, Maria Teresa. La terminología: teoría, metodología, aplicaciones. Barcelona, 1993."
+      },
+      {
+       "n": 0,
+       "t": "CABRÉ CASTELLVÍ, Maria Teresa. La terminología: representación y comunicación. Elementos para una teoría de base comunicativa y otros artículos. Barcelona: Institut Universitari de Lingüística Aplicada, Universitat Pompeu Fabra, 1999."
+      },
+      {
+       "n": 0,
+       "t": "WÜSTER, Eugen. Obra fundacional de la Teoria General de la Terminologia i de l’Escola de Viena."
+      },
+      {
+       "n": 0,
+       "t": "TERMCAT. Documentació institucional sobre la normalització terminològica, el Consell Supervisor, el Cercaterm i la Neoloteca."
+      }
+     ]
+    },
+    {
+     "titol": "14.5. Recursos en línia",
+     "audio": "audio/tema-04-la-fixacio-de-la-terminologia-el-portal-te-70-7358314c696e0928.mp3",
+     "durada": 111.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.5. Recursos en línia"
+      },
+      {
+       "n": 0,
+       "t": "Portal Terminològic Valencià i Diccionari normatiu valencià, en el web de l’Acadèmia Valenciana de la Llengua: avl.gva.es."
+      },
+      {
+       "n": 0,
+       "t": "Aplicacions per a dispositius mòbils del Portal Terminològic Valencià i del Diccionari normatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "Cercaterm i Neoloteca, del TERMCAT: termcat.cat."
+      },
+      {
+       "n": 0,
+       "t": "Diari Oficial de la Generalitat Valenciana: dogv.gva.es."
+      },
+      {
+       "n": 0,
+       "t": "NOTA DE VERIFICACIÓ Les fitxes terminològiques que es reprodueixen en l’apartat 6.3 —petricor, desextinció, nanobiotecnologia i xopsuei— i el text del missatge de remissió recíproca entre el DNV i el PTV citat en l’apartat 5.2 s’han obtingut per consulta directa del Portal Terminològic Valencià i del Diccionari normatiu valencià. Les dades sobre el conveni amb el TERMCAT, la cessió de fitxes al Cercaterm i les actualitzacions del portal procedeixen de les notes de premsa i dels butlletins electrònics de l’Acadèmia. Les dades bibliogràfiques de les col·leccions terminològiques procedeixen del catàleg de publicacions de la institució. Atés que el Portal Terminològic Valencià és un repertori dinàmic, les dades quantitatives i els exemples concrets s’han de contrastar amb la consulta en línia abans de l’examen. Convé recordar, igualment, que la composició de la Secció de Terminologia correspon a la situació posterior a la renovació per terços del 2026."
       }
      ]
     }
