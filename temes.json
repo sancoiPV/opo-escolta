@@ -1,6 +1,6 @@
 {
  "titol": "Opo A2-02-09",
- "versio": "90cc4a1076",
+ "versio": "4fdc54ead7",
  "veu": "edge|ca-ES-JoanaNeural|+0%",
  "temes": [
   {
@@ -3509,6 +3509,2746 @@
       {
        "n": 0,
        "t": "NOTA DE VERIFICACIÓ Tot el contingut d’aquest tema procedeix de fonts primàries: els textos íntegres de la Llei 7/1998, del Decret 158/2002, dels cinc acords normatius i dels informes de l’AVL de 2025 i 2026, consultats en el web institucional de l’Acadèmia i en el Diari Oficial de la Generalitat Valenciana, i els preceptes de l’Estatut d’autonomia en la redacció de la Llei orgànica 1/2006. Les dades sobre la composició i els òrgans de govern de la institució corresponen a la situació posterior a la presa de possessió de la Junta de Govern el 3 de setembre del 2026 i convé contrastar-les amb el web de l’AVL abans de l’examen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tema-02-la-normativa-gramatical-fixada-per-l-avl-b",
+   "titol": "Presentació i orientació del tema",
+   "fitxer": "Tema 02 - La normativa gramatical fixada per l'AVL_bo.docx",
+   "seccions": [
+    {
+     "titol": "Introducció",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-01-08510369aaf52c6f.mp3",
+     "durada": 547.0,
+     "text": [
+      {
+       "n": 3,
+       "t": "TEMARI D’OPOSICIÓ · CONVOCATÒRIA 35/26"
+      },
+      {
+       "n": 0,
+       "t": "Cos tècnic facultatiu A2-02 · Escala tècnica facultativa de promoció lingüística (A2-02-09)"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 2"
+      },
+      {
+       "n": 3,
+       "t": "La normativa gramatical fixada per"
+      },
+      {
+       "n": 3,
+       "t": "l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "Criteris de fixació, tractament de la variació i abast de la regulació"
+      },
+      {
+       "n": 0,
+       "t": "FONTS PRIMÀRIES DEL TEMA Acord del Ple de l’AVL de 25 de març del 2002 (Resolució 10/2002) i acord del Ple de 20 de maig del 2002 (Resolució 12/2002), apartat 2: les característiques morfològiques i sintàctiques valencianes Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià (Acord 1/2005) Gramàtica normativa valenciana (2006), text íntegre: introducció, criteris inspiradors, criteris d’elaboració, criteris i àmbits d’ús i capítol d’ortologia Informació pública de l’edició de la Gramàtica normativa valenciana i del seu caràcter obligatori, DOGV núm. 5398, de 30 de novembre del 2006 [2006/13554] Gramàtica valenciana bàsica (2016), text íntegre: introducció, convencions i índex general Aplicació Gramàtic-ON: presentació, introducció, convencions usades, símbols fonètics i modificacions Acord del Ple núm. 31/2018, d’1 de juny, i Acord del Ple núm. 22/2021, de 4 de juny, sobre convencions ortogràfiques Informe de l’AVL sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada» Llei 7/1998, de creació de l’AVL (arts. 3, 5, 7 i 26) i Estatut d’autonomia (arts. 6.8 i 41)"
+      },
+      {
+       "n": 3,
+       "t": "ÍNDEX"
+      },
+      {
+       "n": 3,
+       "t": "1.  Presentació i orientació del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.1.  Delimitació conceptual: què és la normativa gramatical"
+      },
+      {
+       "n": 0,
+       "t": "1.2.  L’arquitectura de la normativa gramatical de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "1.3.  Advertiment metodològic sobre el model de llengua"
+      },
+      {
+       "n": 3,
+       "t": "2.  El fonament jurídic i doctrinal de la competència gramatical"
+      },
+      {
+       "n": 0,
+       "t": "2.1.  Els preceptes habilitants i el règim d’eficàcia"
+      },
+      {
+       "n": 0,
+       "t": "2.2.  Els tres fonaments materials de tota decisió gramatical"
+      },
+      {
+       "n": 0,
+       "t": "2.3.  El Dictamen del 2005 i el policentrisme convergent"
+      },
+      {
+       "n": 0,
+       "t": "2.4.  Prescriptiva i orientativa alhora: la doble naturalesa de la norma"
+      },
+      {
+       "n": 3,
+       "t": "3.  La tradició gramatical valenciana que l’AVL assumix"
+      },
+      {
+       "n": 0,
+       "t": "3.1.  El buit normatiu obert el 1707"
+      },
+      {
+       "n": 0,
+       "t": "3.2.  De Fullana a Enric Valor: la construcció d’una doctrina gramatical"
+      },
+      {
+       "n": 0,
+       "t": "3.3.  Les Normes de Castelló com a límit i com a directriu"
+      },
+      {
+       "n": 0,
+       "t": "3.4.  El precedent immediat de les tasques acadèmiques"
+      },
+      {
+       "n": 3,
+       "t": "4.  La primera fixació: la part morfosintàctica dels acords del 2002"
+      },
+      {
+       "n": 0,
+       "t": "4.1.  L’acord de 25 de març del 2002: la lletra b"
+      },
+      {
+       "n": 0,
+       "t": "4.2.  Els setze punts morfosintàctics de l’acord de 20 de maig"
+      },
+      {
+       "n": 0,
+       "t": "4.3.  Les dos claus de lectura i el valor actual dels acords"
+      },
+      {
+       "n": 3,
+       "t": "5.  La Gramàtica normativa valenciana: aprovació i règim jurídic"
+      },
+      {
+       "n": 0,
+       "t": "5.1.  L’Acord 19/2005 i la informació pública del 2006"
+      },
+      {
+       "n": 0,
+       "t": "5.2.  L’estructura de l’obra en quatre blocs"
+      },
+      {
+       "n": 0,
+       "t": "5.3.  Caràcter descriptiu i prescriptiu"
+      },
+      {
+       "n": 0,
+       "t": "5.4.  Terminologia, presentació tipogràfica i annexos"
+      },
+      {
+       "n": 3,
+       "t": "6.  Els criteris de fixació de la norma gramatical"
+      },
+      {
+       "n": 0,
+       "t": "6.1.  Els dos principis bàsics: priorització i convergència"
+      },
+      {
+       "n": 0,
+       "t": "6.2.  La priorització del valencià general"
+      },
+      {
+       "n": 0,
+       "t": "6.3.  La cohesió amb les altres varietats de la llengua"
+      },
+      {
+       "n": 0,
+       "t": "6.4.  La recuperació d’usos sintàctics genuïns"
+      },
+      {
+       "n": 0,
+       "t": "6.5.  Criteris i àmbits d’ús: formalitat i extensió geogràfica"
+      },
+      {
+       "n": 0,
+       "t": "6.6.  Conseqüències per a la llengua de l’Administració"
+      },
+      {
+       "n": 3,
+       "t": "7.  Com s’expressa la norma: les convencions de jerarquització"
+      },
+      {
+       "n": 0,
+       "t": "7.1.  La barra inclinada: variants amb el mateix valor normatiu"
+      },
+      {
+       "n": 0,
+       "t": "7.2.  Els parèntesis: la variant secundària"
+      },
+      {
+       "n": 0,
+       "t": "7.3.  Els dos cossos de lletra: norma i observació"
+      },
+      {
+       "n": 0,
+       "t": "7.4.  La gradació ortoèpica: pròpies, acceptables i no recomanables"
+      },
+      {
+       "n": 3,
+       "t": "8.  Què regula la normativa gramatical: l’abast de la matèria"
+      },
+      {
+       "n": 0,
+       "t": "8.1.  Ortologia: la pronunciació estàndard"
+      },
+      {
+       "n": 0,
+       "t": "8.2.  Ortografia"
+      },
+      {
+       "n": 0,
+       "t": "8.3.  Morfologia flexiva i sintaxi"
+      },
+      {
+       "n": 0,
+       "t": "8.4.  Formació de paraules"
+      },
+      {
+       "n": 0,
+       "t": "8.5.  Annexos i materials complementaris"
+      },
+      {
+       "n": 0,
+       "t": "8.6.  Quadre de síntesi de l’abast"
+      },
+      {
+       "n": 3,
+       "t": "9.  La Gramàtica valenciana bàsica i l’accés a la doctrina gramatical"
+      },
+      {
+       "n": 0,
+       "t": "9.1.  Propòsit i destinataris"
+      },
+      {
+       "n": 0,
+       "t": "9.2.  Estructura i extensió"
+      },
+      {
+       "n": 0,
+       "t": "9.3.  Què canvia i què no canvia respecte de la GNV"
+      },
+      {
+       "n": 0,
+       "t": "9.4.  L’aplicació Gramàtic-ON"
+      },
+      {
+       "n": 3,
+       "t": "10.  La revisió de la norma: els acords 31/2018 i 22/2021"
+      },
+      {
+       "n": 0,
+       "t": "10.1.  El procediment d’aprovació d’un acord normatiu"
+      },
+      {
+       "n": 0,
+       "t": "10.2.  L’Acord 31/2018: els cinc blocs de novetats"
+      },
+      {
+       "n": 0,
+       "t": "10.3.  Els quinze accents diacrítics i el règim transitori"
+      },
+      {
+       "n": 0,
+       "t": "10.4.  L’Acord 22/2021: ratificació, modificació i observacions"
+      },
+      {
+       "n": 0,
+       "t": "10.5.  La incorporació de les novetats a les gramàtiques"
+      },
+      {
+       "n": 3,
+       "t": "11.  La norma gramatical davant els criteris de l’Administració"
+      },
+      {
+       "n": 0,
+       "t": "11.1.  Les qüestions que contradiuen la normativa"
+      },
+      {
+       "n": 0,
+       "t": "11.2.  Les qüestions que en difereixen sense contradir-la"
+      },
+      {
+       "n": 3,
+       "t": "12.  Síntesi: dades, criteris i preceptes de memorització obligatòria"
+      },
+      {
+       "n": 3,
+       "t": "13.  Per a ampliar"
+      },
+      {
+       "n": 3,
+       "t": "14.  Bibliografia i fonts"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 2"
+      }
+     ]
+    },
+    {
+     "titol": "Presentació i orientació del tema",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-02-031433f1effcde2b.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Presentació i orientació del tema"
+      }
+     ]
+    },
+    {
+     "titol": "1.1. Delimitació conceptual: què és la normativa gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-03-08e0b5a206f4c9bb.mp3",
+     "durada": 196.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.1. Delimitació conceptual: què és la normativa gramatical"
+      },
+      {
+       "n": 0,
+       "t": "L’enunciat oficial del tema —La normativa gramatical fixada per l’Acadèmia Valenciana de la Llengua— demana l’exposició d’un cos de doctrina, no la descripció d’un llibre. La normativa gramatical és el conjunt de decisions per les quals la institució normativa determina quines formes i quines construccions pertanyen a la llengua, quines són preferibles en els usos formals, quines són acceptables amb caràcter secundari i quines no són recomanables, i ho fa integrant aquestes decisions dins d’una descripció general de l’estructura de l’idioma."
+      },
+      {
+       "n": 0,
+       "t": "La precisió és important per a respondre bé. Un opositor que identifique la normativa gramatical amb la Gramàtica normativa valenciana (GNV) haurà contestat només una part de la pregunta. La GNV és l’instrument principal que la concreta, però la norma gramatical és anterior a l’obra, la desborda i la continua: està enunciada en els acords normatius del 2002, fonamentada teòricament en el Dictamen del 2005, desplegada en la GNV del 2006, feta accessible per la Gramàtica valenciana bàsica (GVB) del 2016 i modificada pels acords del Ple de 2018 i de 2021."
+      },
+      {
+       "n": 0,
+       "t": "Convé, doncs, distingir amb claredat quatre plans:"
+      },
+      {
+       "n": 0,
+       "t": "Pla. Contingut. Instruments"
+      },
+      {
+       "n": 0,
+       "t": "Competència. La potestat jurídica de determinar la normativa gramatical i el règim d’eficàcia de les decisions.. Llei 7/1998, arts. 3, 5, 7.a i 26; Estatut d’autonomia, arts. 6.8 i 41."
+      },
+      {
+       "n": 0,
+       "t": "Criteris. Els principis materials que han de guiar tota decisió gramatical: què es prioritza, què es recupera, què es descarta i per què.. Dictamen del CVC (1998), art. 3 de la Llei, acords del 2002, Dictamen 1/2005, introducció de la GNV."
+      },
+      {
+       "n": 0,
+       "t": "Codificació. La plasmació de la norma en una descripció ordenada de l’ortologia, l’ortografia, la morfologia, la sintaxi i la formació de paraules.. GNV (2006), GVB (2016), aplicació Gramàtic-ON."
+      },
+      {
+       "n": 0,
+       "t": "Revisió. La modificació puntual de solucions normatives per acord del Ple.. Acord 31/2018 i Acord 22/2021, amb la incorporació posterior a les gramàtiques."
+      }
+     ]
+    },
+    {
+     "titol": "1.2. L’arquitectura de la normativa gramatical de l’AVL",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-04-c4aab38b2307aca3.mp3",
+     "durada": 180.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.2. L’arquitectura de la normativa gramatical de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "L’esquema següent ordena la matèria en cinc estrats de concreció descendent. Retenir-lo permet situar qualsevol pregunta en el lloc que li correspon i, sobretot, no confondre el que és norma amb el que és descripció o recomanació d’ús."
+      },
+      {
+       "n": 0,
+       "t": "Estrat. Instrument. Aportació a la norma gramatical"
+      },
+      {
+       "n": 0,
+       "t": "1. Principis. Dictamen del Consell Valencià de Cultura (1998) i article 3 de la Llei 7/1998. Fixa els tres fonaments materials: tradició lexicogràfica i literària, realitat lingüística genuïna valenciana i normativització consolidada a partir de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "2. Doctrina. Dictamen 1/2005. Estableix el model de codificació policèntric alhora que convergent i el principi que el valencià té la mateixa jerarquia i dignitat que qualsevol altra modalitat de la llengua compartida."
+      },
+      {
+       "n": 0,
+       "t": "3. Primera norma. Acords del Ple de 25 de març i de 20 de maig del 2002, apartat 2. Reconeixen com a oficials setze conjunts de característiques morfològiques i sintàctiques valencianes."
+      },
+      {
+       "n": 0,
+       "t": "4. Codificació. GNV (2006) i GVB (2016). Sistematitzen la norma en ortologia, ortografia, morfologia flexiva, sintaxi i formació de paraules, amb un aparell de convencions que jerarquitza les variants."
+      },
+      {
+       "n": 0,
+       "t": "5. Revisió. Acord 31/2018 i Acord 22/2021. Modifiquen convencions ortogràfiques concretes: accentuació diacrítica, dièresi, guionet i duplicació de la r."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA IDEA-FORÇA DEL TEMA La normativa gramatical de l’AVL no funciona per exclusió sinó per jerarquització. La mateixa GNV ho declara: «una gramàtica normativa té com a finalitat determinar amb claredat quines són les formes més idònies per als diversos àmbits d’ús de la llengua, és a dir, ha de ser prescriptiva i orientativa alhora». La correcció gramatical, per tant, es resol en dos preguntes successives: és normatiu? i és adequat a aquest àmbit d’ús?"
+      }
+     ]
+    },
+    {
+     "titol": "1.3. Advertiment metodològic sobre el model de llengua",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-05-fb29b10a6586acb8.mp3",
+     "durada": 64.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.3. Advertiment metodològic sobre el model de llengua"
+      },
+      {
+       "n": 0,
+       "t": "ADVERTIMENT METODOLÒGIC Els acords, els dictàmens i les obres normatives de l’AVL es reprodueixen ací en la seua redacció original. Això explica que en les citacions literals apareguen formes com este, establix, partix, oferixen o hui, pròpies del model de llengua de l’Acadèmia, mentre que la redacció d’aquest tema seguix el model de les universitats valencianes. La distinció no és accessòria, i en aquest tema és especialment pertinent: totes dos sèries de formes són normatives —la GNV les declara expressament variants amb el mateix valor o amb caràcter principal i secundari—, però pertanyen a models de llengua distints. En un examen, la citació literal d’una norma s’ha de respectar; la redacció pròpia, no."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 2"
+      }
+     ]
+    },
+    {
+     "titol": "El fonament jurídic i doctrinal de la competència gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-06-f2d6e8e9dc4939fe.mp3",
+     "durada": 6.2,
+     "text": [
+      {
+       "n": 1,
+       "t": "El fonament jurídic i doctrinal de la competència gramatical"
+      }
+     ]
+    },
+    {
+     "titol": "2.1. Els preceptes habilitadors i el règim d’eficàcia",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-07-1bdcf6291e1602b1.mp3",
+     "durada": 188.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.1. Els preceptes habilitadors i el règim d’eficàcia"
+      },
+      {
+       "n": 0,
+       "t": "La competència de l’AVL per a fixar la gramàtica està expressament atribuïda per llei i té cobertura estatutària. Quatre preceptes de la Llei 7/1998, de 16 de setembre, de creació de l’Acadèmia Valenciana de la Llengua, constitueixen el títol habilitant i el règim de publicitat i eficàcia."
+      },
+      {
+       "n": 0,
+       "t": "Precepte. Contingut. Projecció sobre la gramàtica"
+      },
+      {
+       "n": 0,
+       "t": "Art. 3. L’AVL té per funció determinar i elaborar la normativa lingüística de l’idioma valencià, partint de la tradició lexicogràfica i literària, la realitat lingüística genuïna valenciana i la normativització consolidada a partir de les Normes de Castelló.. Fixa els tres fonaments materials que la introducció de la GNV reprodueix literalment com a criteris inspiradors."
+      },
+      {
+       "n": 0,
+       "t": "Art. 5. Les decisions de l’AVL han de ser observades per les institucions de la Generalitat, els poders públics, la resta d’administracions, el sistema educatiu i els mitjans, entitats, organismes i empreses de titularitat pública o amb finançament públic.. És el precepte que la informació pública del 2006 invoca per a declarar l’observança obligatòria de la GNV."
+      },
+      {
+       "n": 0,
+       "t": "Art. 7.a. Correspon a l’AVL determinar la normativa oficial del valencià en tots els seus aspectes.. La fórmula «en tots els seus aspectes» comprèn expressament el nivell ortològic, ortogràfic, morfològic i sintàctic. És la base competencial invocada en la informació pública de la GNV."
+      },
+      {
+       "n": 0,
+       "t": "Art. 26. El Ple determina les resolucions que s’han de publicar en el DOGV; en tot cas s’hi publiquen les que afecten el diccionari, la normativa i les entrades.. És el fonament de la publicació en el DOGV de la informació pública sobre l’edició de la GNV i del seu caràcter obligatori."
+      },
+      {
+       "n": 0,
+       "t": "Des del 2006, aquest règim té a més cobertura estatutària: l’article 6.8 de l’Estatut d’autonomia declara l’AVL la institució normativa de l’idioma valencià, i l’article 41 disposa que la seua normativa lingüística és d’aplicació obligatòria a totes les administracions públiques de la Comunitat Valenciana. La informació pública del 2006 sobre la GNV invoca els dos preceptes de manera conjunta i explícita, com es veurà en l’apartat 5.1."
+      }
+     ]
+    },
+    {
+     "titol": "2.2. Els tres fonaments materials de tota decisió gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-08-a1f2d1f1c6c66a07.mp3",
+     "durada": 141.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.2. Els tres fonaments materials de tota decisió gramatical"
+      },
+      {
+       "n": 0,
+       "t": "L’article 3 de la Llei no es limita a atribuir una funció: en condiciona l’exercici. Tota decisió gramatical de l’AVL ha de poder justificar-se en tres fonaments acumulatius, que la institució repeteix de manera invariable en tots els seus textos normatius."
+      },
+      {
+       "n": 0,
+       "t": "La tradició literària i gramatical. En matèria gramatical no és una remissió genèrica al passat, sinó la comprovació que una forma o una construcció està avalada pels escriptors clàssics i per la doctrina dels gramàtics valencians. La introducció de la GNV desplega aquesta tradició en una genealogia explícita que va de Lluís Fullana (1915) fins a Enric Valor."
+      },
+      {
+       "n": 0,
+       "t": "La realitat lingüística genuïna valenciana. És el criteri de vitalitat i d’extensió: la GNV declara que ha seguit «el criteri de triar aquelles formes més generals en el valencià, és a dir, s’han prioritzat les formes de l’anomenat valencià general, atès que es tracta d’una gramàtica normativa, que pretén abastar el conjunt de l’àmbit geogràfic valencià»."
+      },
+      {
+       "n": 0,
+       "t": "La normativització consolidada a partir de les Normes de Castelló. Actua com a límit: la norma gramatical no pot desfer el consens de 1932 ni el cabal normativitzat que se n’ha derivat. La GNV recorda que el Dictamen del CVC de 1998 entenia que les Normes «havien sigut el punt de partida de la normativització consolidada de la nostra llengua»."
+      },
+      {
+       "n": 0,
+       "t": "La combinació dels tres fonaments explica decisions que, aïlladament, podrien semblar contradictòries: que es prioritzen formes vives de gran extensió però poc habituals en la tradició escrita del segle xx, que es conserven variants minoritàries amb una tradició literària important, i que s’accepten solucions consolidades des de 1932 que no són ni les més antigues ni les més esteses."
+      }
+     ]
+    },
+    {
+     "titol": "2.3. El Dictamen del 2005 i el policentrisme convergent",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-09-afd6590092342baf.mp3",
+     "durada": 162.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.3. El Dictamen del 2005 i el policentrisme convergent"
+      },
+      {
+       "n": 0,
+       "t": "La introducció de la GNV declara de manera expressa que els criteris que n’han inspirat la redacció són «els que assenyala l’article 4 de la Llei de Creació de l’Acadèmia Valenciana de la Llengua i que, en termes més concrets, s’especifiquen en el Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià, aprovat unànimement en la reunió plenària de l’AVL del 9 de febrer del 2005». D’aquest dictamen la gramàtica en reté dos enunciats:"
+      },
+      {
+       "n": 0,
+       "t": "Que la llengua pròpia i històrica dels valencians és també la que comparteixen Catalunya, les Illes Balears i el Principat d’Andorra, així com altres territoris de l’antiga Corona d’Aragó —el departament francès dels Pirineus Orientals, la ciutat sarda de l’Alguer i la franja oriental d’Aragó— i la comarca murciana del Carxe, i que tots aquests parlars constitueixen una mateixa llengua o sistema lingüístic."
+      },
+      {
+       "n": 0,
+       "t": "Que dins d’aquest conjunt de parlars el valencià té la mateixa jerarquia i dignitat que qualsevol altra modalitat territorial de la llengua compartida, i presenta unes característiques pròpies que l’AVL preservarà i potenciarà d’acord amb els tres fonaments de l’article 3."
+      },
+      {
+       "n": 0,
+       "t": "El corol·lari doctrinal és el model de codificació policèntric alhora que convergent que el Dictamen formula en el punt 7 i que l’Acord 31/2018 invoca expressament com «un dels principis bàsics de la Gramàtica normativa valenciana, inspirat en la idea del policentrisme convergent propugnada per Manuel Sanchis Guarner i en la doctrina gramatical dels mestres Josep Giner, Carles Salvador i Enric Valor». Aquesta atribució és rellevant: la institució no presenta la convergència com una concessió, sinó com la continuació de la doctrina dels seus propis clàssics."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA FÓRMULA QUE CAL RETENIR «Policentrisme convergent», atribuït per l’AVL a Manuel Sanchis Guarner i vinculat a la doctrina de Josep Giner, Carles Salvador i Enric Valor. Apareix en el punt 7 del Dictamen del 2005 i és invocat literalment en l’Acord 31/2018. És, probablement, el concepte més susceptible de ser preguntat de tot el bloc normatiu de l’AVL."
+      }
+     ]
+    },
+    {
+     "titol": "2.4. Prescriptiva i orientativa alhora: la doble naturalesa de la norma",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-10-ab1399dfdcc11e9f.mp3",
+     "durada": 143.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.4. Prescriptiva i orientativa alhora: la doble naturalesa de la norma"
+      },
+      {
+       "n": 0,
+       "t": "La formulació més precisa de la naturalesa de la normativa gramatical valenciana es troba en els preliminars de la introducció de la GNV:"
+      },
+      {
+       "n": 0,
+       "t": "«La diversitat de variants morfològiques poden conviure de manera harmònica dins d’un mateix sistema gramatical, i fins i tot poden ser útils per a expressar els més diversos matisos de la llengua. Però una gramàtica normativa té com a finalitat determinar amb claredat quines són les formes més idònies per als diversos àmbits d’ús de la llengua, és a dir, ha de ser prescriptiva i orientativa alhora.» GNV, Introducció, § 1"
+      },
+      {
+       "n": 0,
+       "t": "D’ací se’n deriva una distinció fonamental per a l’exercici professional del tècnic lingüístic, paral·lela a la que regix en matèria lèxica:"
+      },
+      {
+       "n": 0,
+       "t": "La normativa delimita què pertany a la llengua i, dins d’això, què és preferible en els registres formals i què és secundari o d’àmbit restringit. La fixa l’AVL i vincula les administracions."
+      },
+      {
+       "n": 0,
+       "t": "El model de llengua selecciona, dins del que és normatiu, allò que és adequat per a un àmbit d’ús determinat i per a una institució concreta. El poden fixar altres organismes sempre que no contradiguen la normativa."
+      },
+      {
+       "n": 0,
+       "t": "Per això els criteris lingüístics d’una universitat poden preferir sistemàticament aquest a este o pateix a patix sense contradir l’AVL: la GNV declara expressament que són variants amb el mateix valor normatiu. En canvi, prescriure la distinció entre com i com a segons un valor predicatiu o comparatiu que la normativa de l’AVL no estableix, o imposar usos obligatoris del pronom hi no previstos en la GNV, ja no és fixar un model de llengua sinó apartar-se de la norma. L’apartat 11 desplega aquesta qüestió amb els casos que la mateixa Acadèmia ha assenyalat."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 3"
+      }
+     ]
+    },
+    {
+     "titol": "La tradició gramatical valenciana que l’AVL assumeix",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-11-c8367ccb615b5d98.mp3",
+     "durada": 43.7,
+     "text": [
+      {
+       "n": 1,
+       "t": "La tradició gramatical valenciana que l’AVL assumeix"
+      },
+      {
+       "n": 0,
+       "t": "La introducció de la GNV dedica el primer apartat sencer a reconstruir la tradició gramatical de què l’obra es declara deutora. No és un exercici erudit: és l’acreditació documental del primer dels tres fonaments materials de l’article 3 de la Llei. Conéixer aquesta genealogia permet respondre amb solvència qualsevol pregunta sobre els antecedents de la normativa gramatical valenciana, i és un contingut que els tribunals valoren perquè demostra domini de la matèria i no simple memorització de l’índex d’un llibre."
+      }
+     ]
+    },
+    {
+     "titol": "3.1. El buit normatiu obert el 1707",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-12-70afe3a09b3fa941.mp3",
+     "durada": 75.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.1. El buit normatiu obert el 1707"
+      },
+      {
+       "n": 0,
+       "t": "La GNV situa el problema amb precisió històrica: des del segle xviii, la major part de les llengües de cultura occidentals han comptat amb gramàtiques prescriptives, sovint amb l’aval d’institucions acadèmiques creades pel poder reial per a aquesta finalitat. No va passar així en el cas del valencià, perquè, arran de la Guerra de Successió (1704-1714), en van quedar suprimits els usos oficials."
+      },
+      {
+       "n": 0,
+       "t": "Les conseqüències que l’Acadèmia n’assenyala són tres i convé retenir-les ordenadament: la llengua mantenia plena vitalitat en l’àmbit oral i en la literatura popular; però, sense usos administratius ni conreu de la literatura culta, començà a patir una certa interferència del castellà i entrà en un procés de dialectalització; i, a més, no disposà de gramàtics que la descrigueren amb rigor i que la dotaren d’unes normes de caràcter ortogràfic, morfològic i sintàctic que tornaren a convertir-la en llengua de cultura."
+      }
+     ]
+    },
+    {
+     "titol": "3.2. De Fullana a Enric Valor: la construcció d’una doctrina gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-13-89a37ecf3750bf1d.mp3",
+     "durada": 190.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.2. De Fullana a Enric Valor: la construcció d’una doctrina gramatical"
+      },
+      {
+       "n": 0,
+       "t": "Any. Obra i autor. Aportació que en destaca l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "1915. Gramàtica elemental de la llengua valenciana, del pare Lluís Fullana. Tot i basar-se en el registre col·loquial, pretenia superar els usos lingüístics més vulgaritzants que caracteritzaren una part de la producció escrita en valencià del segle xix."
+      },
+      {
+       "n": 0,
+       "t": "1918. Gramàtica valenciana (nocions elementals per a escoles de primeres lletres), de Bernat Ortín. Obra «ben orientada», resposta a les incipients demandes d’introducció de la llengua en el sistema escolar."
+      },
+      {
+       "n": 0,
+       "t": "1930. La llengua valenciana. Notes per al seu estudi i conreu, de Lluís Revest. Amb un remarcable to didàctic i rigor científic, posa les bases ortogràfiques i gramaticals de les Normes de Castelló, de les quals Revest fou un dels artífexs principals."
+      },
+      {
+       "n": 0,
+       "t": "Des de 1933. Lliçons de gramàtica, de Carles Salvador, després Gramàtica valenciana. Va servir, des del 1950, de llibre de text per als alumnes dels Cursos de Llengua Valenciana de Lo Rat Penat durant quasi tres dècades."
+      },
+      {
+       "n": 0,
+       "t": "1933. La conjugació dels verbs en valencià, de Josep Giner. Enfocament descriptiu i alhora prescriptiu."
+      },
+      {
+       "n": 0,
+       "t": "1950. Gramàtica valenciana, de Manuel Sanchis Guarner (Editorial Torre). Les seues recomanacions per als usos literaris foren seguides durant quasi trenta anys en totes les publicacions de l’editorial i han servit de pauta per als usos literaris valencians fins a l’actualitat."
+      },
+      {
+       "n": 0,
+       "t": "Anys 1970. Obres gramaticals d’Enric Valor, publicades en Gorg i Tres i Quatre. Completa, segons la GVB, «una generació de lingüistes compromesos amb la gestació d’un registre de llengua culta que ha conformat les pautes dels usos literaris valencians fins a l’actualitat»."
+      },
+      {
+       "n": 0,
+       "t": "La GNV subratlla que totes aquestes obres «s’inspiraven en l’esperit de consens i de dignificació de la llengua, que culminà amb la signatura de les Normes de Castelló, i aprofundien, des d’una òptica valenciana, en la tasca codificadora iniciada per Pompeu Fabra». La menció de Fabra és significativa: la institució normativa valenciana no es presenta com a alternativa a la codificació fabriana sinó com a continuadora, des d’una perspectiva pròpia."
+      }
+     ]
+    },
+    {
+     "titol": "3.3. Les Normes de Castelló com a límit i com a directriu",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-14-40cee8a70579ccb6.mp3",
+     "durada": 83.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.3. Les Normes de Castelló com a límit i com a directriu"
+      },
+      {
+       "n": 0,
+       "t": "El 1932, els principals escriptors i institucions culturals del moment van signar les Normes de Castelló, que la GVB descriu com «l’expressió de la voluntat col·lectiva de regular les desorientacions gràfiques de l’època» i que «van ser ràpidament acceptades per la immensa majoria dels usuaris de la llengua escrita»."
+      },
+      {
+       "n": 0,
+       "t": "El vincle amb la normativa gramatical actual és directe i de naturalesa jurídica, no només històrica: el Consell Valencià de Cultura, en el Dictamen de 1998 que va donar lloc a la creació de l’AVL, va entendre que les Normes de Castelló «havien sigut el punt de partida de la normativització consolidada de la nostra llengua»; aquest plantejament es va fixar de manera explícita en el preàmbul de la Llei de creació i es va reconéixer prescriptivament en l’article 4 de la mateixa llei. La GNV declara que és partint d’aquest mateix plantejament que l’Acadèmia va abordar «com a tasca prioritària de les seues actuacions elaborar una gramàtica que servira de pauta per als usos formals de la llengua i orientara sobre els usos poc formals, dins dels seus respectius àmbits d’ús»."
+      }
+     ]
+    },
+    {
+     "titol": "3.4. El precedent immediat de les tasques acadèmiques",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-15-8bd7a03fa31c4b8c.mp3",
+     "durada": 109.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.4. El precedent immediat de les tasques acadèmiques"
+      },
+      {
+       "n": 0,
+       "t": "La GVB assenyala un precedent que convé no oblidar, perquè marca la continuïtat entre l’obra de l’AVL i la producció normativa anterior: «Pel seu valor de precedent immediat de les tasques acadèmiques, cal fer una menció destacada de la Gramàtica valenciana editada per la Generalitat valenciana en col·laboració amb l’Institut Interuniversitari de Filologia Valenciana i Edicions Bromera»."
+      },
+      {
+       "n": 0,
+       "t": "La GVB tanca aquest recorregut amb una fórmula que resumix la posició institucional: «La Gramàtica normativa valenciana, publicada per l’Acadèmia Valenciana de la Llengua l’any 2006, és deutora de tota aquesta tradició, que arreplega com a ens de referència normativa del valencià. Es va redactar amb la voluntat d’actualitzar l’herència rebuda i adequar-la a les circumstàncies sociolingüístiques d’aquest nou mil·lenni, en què els registres funcionals, i especialment l’expressió oral, han adquirit un protagonisme creixent»."
+      },
+      {
+       "n": 0,
+       "t": "PER A AMPLIAR L’última frase conté una clau interpretativa de primer ordre per a entendre l’estructura de la GNV: el protagonisme creixent de l’expressió oral és el que justifica que una gramàtica normativa s’òbriga amb un capítol d’ortologia —la pronunciació estàndard—, cosa que no és habitual en la tradició gramatical prescriptiva. Explicar-ho en un examen demostra que s’ha entès el disseny de l’obra i no només se n’ha memoritzat l’índex."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 4"
+      }
+     ]
+    },
+    {
+     "titol": "La primera fixació: la part morfosintàctica dels acords del 2002",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-16-bd4c76da4e87da21.mp3",
+     "durada": 44.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "La primera fixació: la part morfosintàctica dels acords del 2002"
+      },
+      {
+       "n": 0,
+       "t": "Entre la constitució de l’Acadèmia, el juliol del 2001, i la publicació de la GNV, el novembre del 2006, van transcórrer més de cinc anys durant els quals la institució ja estava obligada a orientar els usos formals. Els dos acords normatius del 2002 resolen aquesta situació i, en fer-ho, dibuixen per primera vegada el perfil de la morfosintaxi valenciana oficial. Són, per tant, la primera fixació de la norma gramatical i s’han d’estudiar com a tals."
+      }
+     ]
+    },
+    {
+     "titol": "4.1. L’acord de 25 de març del 2002: la lletra b",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-17-e5f77034fb3d2b87.mp3",
+     "durada": 140.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.1. L’acord de 25 de març del 2002: la lletra b"
+      },
+      {
+       "n": 0,
+       "t": "L’acord, publicat per la Resolució 10/2002, de 4 d’abril, de la Presidència de l’AVL (DOGV núm. 4.229, de 16 d’abril del 2002), anuncia l’elaboració d’una gramàtica i un diccionari que «una vegada acabats i aprovats pel ple de la institució, seran els principals referents normatius oficials de l’idioma», i fixa els dos criteris bàsics que els han d’inspirar: el respecte als principis del Dictamen del CVC i de la Llei, i la voluntat d’integració de les diverses sensibilitats lingüístiques existents a la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Tot seguit, «a fi de prioritzar i recuperar solucions lingüístiques genuïnes», reconeix com a oficials tres conjunts de solucions. La lletra b és la que correspon a aquest tema:"
+      },
+      {
+       "n": 0,
+       "t": "«Les característiques morfològiques i sintàctiques valencianes genuïnes, com ara, el plural en -s de les paraules acabades en -sc, -st i -xt (foscs, trists, texts...); els plurals en -ns tals com hòmens, jóvens; els demostratius simples (este, eixe...); els possessius meua, teua, seua...; els numerals huit, dèsset, huitanta...; les formes verbals incoatives en -isc/-ix (patisc, patixes, patix...); els imperfets de subjuntiu en -ara, -era, -ira (cantara, vinguera, patira...); els infinitius tindre, vindre, valdre... i els participis verbals en -it (establit, omplit, complit...); la distinció de per i per a davant d’infinitiu; la distinció entre al + infinitiu i en + infinitiu; la concordança del participi passat (l’he duta; les he vistes...).» Acord del Ple de l’AVL de 25 de març del 2002, lletra b"
+      }
+     ]
+    },
+    {
+     "titol": "4.2. Els setze punts morfosintàctics de l’acord de 20 de maig",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-18-7d6b5f6f036781a8.mp3",
+     "durada": 448.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.2. Els setze punts morfosintàctics de l’acord de 20 de maig"
+      },
+      {
+       "n": 0,
+       "t": "El 23 d’abril del 2002 el conseller de Cultura i Educació va sol·licitar a l’AVL, a l’empara de l’article 8 de la Llei 7/1998, un dictamen que ampliara l’exemplificació de l’acord anterior «per a poder determinar el model de referència en l’ús del valencià per les institucions públiques». L’acord de 20 de maig, publicat per la Resolució 12/2002, de 31 de maig, hi respon i desplega la lletra b en setze punts. És el contingut morfosintàctic més susceptible de ser preguntat de tot el bloc del 2002 i convé dominar-lo amb l’exemplificació literal."
+      },
+      {
+       "n": 0,
+       "t": "Punt. Contingut normatiu. Exemples de l’acord"
+      },
+      {
+       "n": 0,
+       "t": "2.1. Els plurals en -s de les paraules acabades en -sc, -st i -xt, propis de la llengua clàssica i d’una part dels parlars actuals, al costat dels plurals en -os, vius en alguns parlars i cada volta més estesos.. boscs / boscos; contexts / contextos; discs / discos; foscs / foscos; gusts / gustos; manifests / manifestos; pretexts / pretextos; texts / textos; trists / tristos"
+      },
+      {
+       "n": 0,
+       "t": "2.2. Els plurals en -ns, clàssics i conservats en la major part dels parlars valencians, al costat dels plurals en -s, alguns dels quals ja són més generals.. hòmens / homes; jóvens / joves; còvens / coves; màrgens / marges; órdens / ordes; òrfens / orfes; òrguens / orgues; ràvens / raves; térmens / termes; vèrgens / verges"
+      },
+      {
+       "n": 0,
+       "t": "2.3. Els demostratius simples, al costat de les variants reforçades, majoritàries en els escriptors valencians clàssics.. este, esta, estos, estes; eixe, eixa, eixos, eixes / aquest, aquesta, aquestos o aquests, aquestes; aqueix, aqueixa, aqueixos, aqueixes"
+      },
+      {
+       "n": 0,
+       "t": "2.4. Els possessius femenins en -eua.. meua, meues; teua, teues; seua, seues"
+      },
+      {
+       "n": 0,
+       "t": "2.5. Els numerals valencians, al costat de les altres variants, vives en alguns parlars valencians septentrionals.. huit, díhuit, dèsset, dènou, huitanta / vuit, dívuit, vuitanta"
+      },
+      {
+       "n": 0,
+       "t": "2.6. Les formes verbals incoatives en -isc, -ix, al costat de les variants en -eix, més habituals en els escriptors valencians clàssics.. patisc, patixes, patix, patixen; patisca, patisques, patisquen / pateixes, pateix, pateixen"
+      },
+      {
+       "n": 0,
+       "t": "2.7. Els imperfets de subjuntiu en -ara, -era, -ira, al costat de les variants en -és, -ís, vives en alguns parlars valencians septentrionals i de més tradició clàssica.. cantara, vinguera, patira / cantés, vingués, patís"
+      },
+      {
+       "n": 0,
+       "t": "2.8. Els infinitius tindre, vindre i valdre i els seus composts, al costat de les variants, clàssiques i pròpies d’alguns parlars valencians meridionals, tenir i venir.. contindre, detindre, retindre; convindre, previndre, provindre; prevaldre"
+      },
+      {
+       "n": 0,
+       "t": "2.9. Les variants en -it d’alguns participis, com a preferibles a les variants en -ert.. complit, establit, oferit, omplit, reblit, sofrit"
+      },
+      {
+       "n": 0,
+       "t": "2.10. Els adverbis de temps valencians.. abans / ans, adés, anit, despús-ahir, despús-anit, despús-demà, enguany, enjorn, hui (o avui, viu en alguns parlars valencians septentrionals), prompte"
+      },
+      {
+       "n": 0,
+       "t": "2.11. Els adverbis de lloc valencians.. ací, avant («cap avant», «d’ara en avant»), arrere («cap arrere», «fer-se arrere»)"
+      },
+      {
+       "n": 0,
+       "t": "2.12. La conjunció, en les dos variants.. mentres / mentre"
+      },
+      {
+       "n": 0,
+       "t": "2.13. La distinció entre les preposicions per i per a davant d’infinitiu.. «He vingut per donar-te el regal» enfront de «Aquell aparell no aprofitava per a fer experiments»"
+      },
+      {
+       "n": 0,
+       "t": "2.14. La possibilitat de distinció entre les construccions al + infinitiu i en + infinitiu.. «Al pujar per la costera els vérem vindre» enfront de «En voler, podeu començar»"
+      },
+      {
+       "n": 0,
+       "t": "2.15. L’ús de la preposició com a tant en sentit predicatiu com en sentit comparatiu.. «Com a persona és excel·lent», «S’ho menjaven com a llops», «Obria uns ulls com a plats»"
+      },
+      {
+       "n": 0,
+       "t": "2.16. La concordança del participi passat amb el pronom acusatiu de tercera persona, com a construcció preferent.. «Eixa cançó, ja l’he sentida»; «Aquelles xiques, les havia vistes abans»"
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LLEGIR BÉ EL VERB DE CADA PUNT Els setze punts no tenen tots el mateix valor normatiu, i la diferència està en el verb que els introdueix. Convé distingir tres graus: «al costat de» (punts 2.1 a 2.8 i 2.12): reconeixement de dos variants normatives, sense preferència declarada. «com a preferibles» (punt 2.9) i «com a construcció preferent» (punt 2.16): hi ha preferència expressa. «la distinció» (2.13) i «la possibilitat de distinció» (2.14): la primera és una distinció que es reconeix com a operativa; la segona, una possibilitat que s’admet però no s’imposa. La diferència de matís és preguntable."
+      }
+     ]
+    },
+    {
+     "titol": "4.3. Les dos claus de lectura i el valor actual dels acords",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-19-bd48486151604731.mp3",
+     "durada": 158.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.3. Les dos claus de lectura i el valor actual dels acords"
+      },
+      {
+       "n": 0,
+       "t": "Tot el repertori de l’acord de 20 de maig està governat per un advertiment de dos línies que en precedix la part dispositiva i que constitueix la primera formulació del sistema de jerarquització de l’AVL:"
+      },
+      {
+       "n": 0,
+       "t": "Convenció. Significat normatiu"
+      },
+      {
+       "n": 0,
+       "t": "Orde de presentació. Quan es dona una solució doble, la forma que figura en primer lloc és, en general, la més estesa i habitual en l’idioma valencià. No implica que la segona siga incorrecta."
+      },
+      {
+       "n": 0,
+       "t": "Asterisc. Les formes precedides d’un asterisc no són recomanables en els registres formals. En l’apartat morfosintàctic no se n’usa cap; l’asterisc afecta només unitats lèxiques."
+      },
+      {
+       "n": 0,
+       "t": "Quant a la vigència, la resposta ha de ser matisada:"
+      },
+      {
+       "n": 0,
+       "t": "El referent normatiu transitori —els criteris de la conselleria entre 1983 i 2002 i els continguts del programa SALT 2.0— ha decaigut per compliment de la condició a què estava sotmès: els acords el declaraven vigent «mentres no s’aproven la Gramàtica i el Diccionari o altres texts prescriptius de la institució». Aprovada la GNV el 2005 i publicada el 2006, la funció supletòria s’ha exhaurit en matèria gramatical."
+      },
+      {
+       "n": 0,
+       "t": "Els criteris interpretatius i el reconeixement de les característiques morfosintàctiques continuen operatius: no han estat derogats, la GNV els assumeix i els desplega, i el tractament que la gramàtica dona a cada parella de variants es reconeix sense dificultat en els setze punts del 2002."
+      },
+      {
+       "n": 0,
+       "t": "Quan hi ha discrepància entre l’exemplificació del 2002 i la GNV, preval la gramàtica, que és el text prescriptiu que els mateixos acords anunciaven."
+      },
+      {
+       "n": 0,
+       "t": "En termes d’examen, això vol dir que els acords del 2002 s’han de conéixer com a font històrica i doctrinal de la normativa gramatical, i que les llistes concretes s’han de citar com el que són: el primer inventari oficial de la morfosintaxi valenciana, no el catàleg vigent."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 5"
+      }
+     ]
+    },
+    {
+     "titol": "La Gramàtica normativa valenciana: aprovació i règim jurídic",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-20-63d29a96896976a0.mp3",
+     "durada": 7.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "La Gramàtica normativa valenciana: aprovació i règim jurídic"
+      }
+     ]
+    },
+    {
+     "titol": "5.1. L’Acord 19/2005 i la informació pública del 2006",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-21-ee0f10d9a06907bb.mp3",
+     "durada": 266.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.1. L’Acord 19/2005 i la informació pública del 2006"
+      },
+      {
+       "n": 0,
+       "t": "La Gramàtica normativa valenciana (GNV) va ser aprovada pel Ple de l’AVL en la sessió de 2 de desembre del 2005, per mitjà de l’Acord 19/2005. La presentació pública es va celebrar l’16 de novembre del 2006 i, en la mateixa data, la Presidència va dictar la resolució que es va publicar en el DOGV núm. 5398, de 30 de novembre del 2006, amb el títol «Informació pública de l’edició de la Gramàtica normativa valenciana i del seu caràcter obligatori» [2006/13554]."
+      },
+      {
+       "n": 0,
+       "t": "Aquest document és la peça jurídica clau del tema i mereix una lectura detinguda, perquè encadena els quatre preceptes habilitants examinats en l’apartat 2. En els vistos invoca l’article 7.a de la Llei de creació —és competència de l’AVL determinar la normativa del valencià en tots els seus aspectes— i l’article 26 —es publicaran en el DOGV els acords que afecten la normativa, «com és el cas de la Gramàtica». I en la part resolutiva disposa dos punts:"
+      },
+      {
+       "n": 0,
+       "t": "Fer públic que la GNV ha sigut editada en text imprés, que ha sigut presentada públicament el 16 de novembre, que es troba entre les publicacions de l’AVL, en la col·lecció «Textos Normatius», núm. 2, i que pot ser consultada lliurement en la pàgina web de la institució."
+      },
+      {
+       "n": 0,
+       "t": "Que, pel fet de tractar-se d’un text normatiu, segons el que establix l’article 41 de l’Estatut d’autonomia serà d’aplicació obligatòria en totes les administracions públiques de la Comunitat Valenciana i, de conformitat amb l’article 5 de la Llei de creació, ha de ser observat per totes les institucions de la Generalitat, pels poders públics, per la resta de les administracions públiques, pel sistema educatiu, pels mitjans de comunicació i per les entitats, els organismes i les empreses de titularitat pública o que compten amb finançament públic."
+      },
+      {
+       "n": 0,
+       "t": "La resolució està signada per la presidència, Ascensió Figueres Górriz. Convé retenir la seqüència completa de dates, perquè és la que permet respondre amb precisió a qualsevol pregunta sobre la vigència de la gramàtica."
+      },
+      {
+       "n": 0,
+       "t": "Data. Acte"
+      },
+      {
+       "n": 0,
+       "t": "2 de desembre del 2005. El Ple de l’AVL aprova la GNV per mitjà de l’Acord 19/2005."
+      },
+      {
+       "n": 0,
+       "t": "Setembre del 2006. Primera edició impresa (col·lecció Textos Normatius, núm. 2). Hi ha una primera reimpressió el desembre del 2006 i una segona el setembre del 2008."
+      },
+      {
+       "n": 0,
+       "t": "16 de novembre del 2006. Presentació pública i resolució de la Presidència sobre el caràcter obligatori."
+      },
+      {
+       "n": 0,
+       "t": "30 de novembre del 2006. Publicació de la informació pública en el DOGV núm. 5398 [2006/13554]."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: NO CONFONDRE LES DATES Aprovació pel Ple: 2 de desembre del 2005 (Acord 19/2005). Presentació pública i resolució de la Presidència: 16 de novembre del 2006. Publicació en el DOGV: 30 de novembre del 2006, núm. 5398. És un error freqüent datar la gramàtica el 2006 sense més precisió: el 2006 és l’any de l’edició i de la publicitat, no el de l’aprovació."
+      }
+     ]
+    },
+    {
+     "titol": "5.2. L’estructura de l’obra en quatre blocs",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-22-a2db19ae169b4f62.mp3",
+     "durada": 224.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.2. L’estructura de l’obra en quatre blocs"
+      },
+      {
+       "n": 0,
+       "t": "La GNV consta de 408 pàgines i s’estructura en trenta-huit capítols distribuïts en quatre blocs, precedits dels símbols fonètics i de la introducció i seguits dels annexos i els índexs. La mateixa gramàtica justifica aquesta distribució en l’apartat 3.1 dels criteris d’elaboració."
+      },
+      {
+       "n": 0,
+       "t": "Bloc. Capítols. Contingut. Justificació de la GNV"
+      },
+      {
+       "n": 0,
+       "t": "Ortologia. 1. La pronunciació estàndard del valencià.. Part «una mica més allunyada de la gramàtica estricta», inclosa «a causa del seu interés normatiu»; fa referència a la pronúncia de vocals i consonants."
+      },
+      {
+       "n": 0,
+       "t": "Ortografia. 2-7. L’alfabet; l’agrupament dels sons; les lletres; els signes diacrítics auxiliars; les convencions gràfiques; els signes de puntuació.. Tracta «sobre els aspectes gràfics i la presentació formal dels texts escrits». La GNV la situa dins d’una «llarga tradició en els manuals gramaticals prescriptius»."
+      },
+      {
+       "n": 0,
+       "t": "Morfologia flexiva i sintaxi. 8-35. L’oració; substantius, adjectius, article, demostratius, possessius, quantificadors, pronoms, relatius, interrogatius, preposicions, adverbis, temps i classes verbals, perífrasis, predicació, conjuncions i interjeccions.. «La tercera part, la més extensa». Seguint un model habitual en la tradició gramatical, es partix de les classes de paraules i, per a cada classe, s’analitzen conjuntament la forma i la funció: les propietats flexives i les sintàctiques."
+      },
+      {
+       "n": 0,
+       "t": "Formació de paraules. 36-38. Introducció a la formació de paraules; la derivació; la composició i altres procediments.. S’hi analitzen «els procediments morfològics de què disposa la llengua per a crear paraules noves: la derivació, la composició, el truncament, etc.»."
+      },
+      {
+       "n": 0,
+       "t": "La justificació teòrica d’aquesta arquitectura és explícita i mereix ser citada, perquè permet respondre per què una gramàtica normativa incorpora ortografia i pronunciació: «Amb el terme gramàtica es fa referència a la descripció de l’estructura d’una llengua. En sentit estricte, la gramàtica s’ocupa de la manera com es combinen les unitats lèxiques i els morfemes gramaticals d’una llengua per a formar unitats superiors, com són les paraules, els sintagmes i les oracions. […] El gruix fonamental de la Gramàtica normativa valenciana es dedica, per tant, a la morfologia (tant a la flexió com a la formació de paraules) i a la sintaxi. A causa del seu interés normatiu, també s’inclouen dos parts una mica més allunyades de la gramàtica estricta, com són les que fan referència a l’ortografia i a la pronunciació»."
+      }
+     ]
+    },
+    {
+     "titol": "5.3. Caràcter descriptiu i prescriptiu",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-23-5835af43c834119a.mp3",
+     "durada": 106.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.3. Caràcter descriptiu i prescriptiu"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat 3.2 dels criteris d’elaboració conté la definició de naturalesa de l’obra que un tribunal pot demanar de manera literal:"
+      },
+      {
+       "n": 0,
+       "t": "«Com s’indica explícitament en el títol, la GNV és una obra fonamentalment normativa. El seu objectiu és, per tant, orientar l’usuari o l’aprenent de la llengua sobre les formes més recomanables en els registres formals i, en general, en la llengua estàndard. A més de normativa, la gramàtica també s’ha concebut com a descriptiva, en la mesura que la norma s’ha tractat d’integrar dins d’una descripció general de l’estructura de la llengua.» GNV, Introducció, § 3.2"
+      },
+      {
+       "n": 0,
+       "t": "La gramàtica hi afig una precisió metodològica de gran interés, perquè delimita fins a on arriba el component descriptiu: «Certament, la descripció lingüística no ha pretés ser exhaustiva, ja que la descripció no es justifica per ella mateixa (com ocorre en les gramàtiques descriptives o en les teòriques), sinó com a element auxiliar per tal d’afavorir la presentació i la comprensió de la norma»."
+      },
+      {
+       "n": 0,
+       "t": "En termes pràctics: la GNV descriu per a poder prescriure. Tota la informació descriptiva que conté està al servici de la comprensió de la norma, i per això no s’ha de confondre amb una gramàtica de referència a l’estil de les gramàtiques acadèmiques descriptives."
+      }
+     ]
+    },
+    {
+     "titol": "5.4. Terminologia, presentació tipogràfica i annexos",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-24-279b4cc8101ef8e0.mp3",
+     "durada": 166.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.4. Terminologia, presentació tipogràfica i annexos"
+      },
+      {
+       "n": 0,
+       "t": "Dos decisions més de l’apartat 3.2 tenen conseqüències directes sobre la lectura de l’obra i, per tant, sobre la seua aplicació professional."
+      },
+      {
+       "n": 0,
+       "t": "Terminologia: s’ha optat per «la terminologia més tradicional i coneguda per tothom», encara que també s’han adoptat termes més recents «en aquells casos en què han assolit molta difusió i resulten teòricament més adequats que els tradicionals»."
+      },
+      {
+       "n": 0,
+       "t": "Presentació tipogràfica: la informació es presenta en dos cossos de lletra, i la distinció té valor normatiu. Es desplega en l’apartat 7.3 d’aquest tema."
+      },
+      {
+       "n": 0,
+       "t": "L’obra es completa amb dos annexos i dos índexs que convé conéixer perquè són contingut normatiu i no simple aparell editorial:"
+      },
+      {
+       "n": 0,
+       "t": "Element. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "Annex: Abreviatures, símbols i sigles. Repertori de les abreviacions, els símbols i les sigles d’ús general, amb valor normatiu quant a la forma i la puntuació."
+      },
+      {
+       "n": 0,
+       "t": "Annex: Els gentilicis valencians. Formes dels gentilicis corresponents als habitants dels municipis valencians. És el punt de contacte de la gramàtica amb la matèria onomàstica i lèxica."
+      },
+      {
+       "n": 0,
+       "t": "Índex de taules. Permet localitzar directament els paradigmes flexius i les taules de combinacions pronominals."
+      },
+      {
+       "n": 0,
+       "t": "Índex general. Índex analític detallat de la matèria."
+      },
+      {
+       "n": 0,
+       "t": "La GNV també delimita expressament la seua relació amb el Diccionari ortogràfic i de pronunciació del valencià: en matèria de pronunciació, «per a completar estes informacions, caldrà recórrer al Diccionari ortogràfic i de pronunciació del valencià (DOPV), on s’indica la transcripció fonètica de totes aquelles vocals i consonants, i fins i tot en alguns casos, per raons pràctiques, de paraules senceres, en què els signes gràfics auxiliars resulten insuficients per a indicar la pronunciació correcta». La gramàtica dona les pautes; el diccionari, la realització concreta paraula a paraula."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 6"
+      }
+     ]
+    },
+    {
+     "titol": "Els criteris de fixació de la norma gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-25-08f89bac205bbe10.mp3",
+     "durada": 33.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els criteris de fixació de la norma gramatical"
+      },
+      {
+       "n": 0,
+       "t": "Aquest apartat és el nucli doctrinal del tema. Els criteris que s’hi exposen són els que expliquen per què la normativa gramatical valenciana té la fisonomia que té, i són comuns a la GNV i a la GVB: aquesta última declara expressament que «els criteris amb què s’ha elaborat i els àmbits d’ús que determina són els mateixos que apareixen descrits en la Introducció de la Gramàtica normativa valenciana»."
+      }
+     ]
+    },
+    {
+     "titol": "6.1. Els dos principis bàsics: priorització i convergència",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-26-201007222791e8ee.mp3",
+     "durada": 114.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.1. Els dos principis bàsics: priorització i convergència"
+      },
+      {
+       "n": 0,
+       "t": "Partint dels enunciats del Dictamen del 2005, la GNV declara que en la seua redacció «s’ha intentat harmonitzar dos principis bàsics»:"
+      },
+      {
+       "n": 0,
+       "t": "La recuperació i la priorització de les solucions valencianes genuïnes, vives, ben documentades en els clàssics i avalades per l’etimologia i per la tradició literària i gramatical."
+      },
+      {
+       "n": 0,
+       "t": "La convergència amb les solucions adoptades en els altres territoris que compartixen la nostra llengua, a fi de garantir-ne la cohesió pertinent."
+      },
+      {
+       "n": 0,
+       "t": "I en formula la síntesi: «La GNV vol ser una contribució de l’AVL al procés de construcció d’un model de llengua convergent amb la resta de modalitats de l’idioma comú. Un model que dona preferència a les formes valencianes, però que també descriu les variants usades en la resta de l’àmbit lingüístic compartit»."
+      },
+      {
+       "n": 0,
+       "t": "ATENCIÓ: UNA DIFERÈNCIA DE VERB QUE VAL LA PENA OBSERVAR La formulació de la GNV i la del DOPV són quasi idèntiques, però no del tot. El DOPV diu que el model «també incorpora les variants usades en la resta de l’àmbit lingüístic compartit»; la GNV diu que les «també descriu». La diferència no és casual i respon a la naturalesa de cada obra: un diccionari inventaria formes, una gramàtica descriu usos. En la gramàtica, la variant d’un altre territori no s’incorpora al paradigma prioritari, sinó que s’informa d’ella en nota."
+      }
+     ]
+    },
+    {
+     "titol": "6.2. La priorització del valencià general",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-27-f7ef01fea757b837.mp3",
+     "durada": 207.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.2. La priorització del valencià general"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat 3.3 dels criteris d’elaboració explica com opera el primer principi. La clau és el concepte de valencià general: «s’ha seguit el criteri de triar aquelles formes més generals en el valencià, és a dir, s’han prioritzat les formes de l’anomenat valencià general, atés que es tracta d’una gramàtica normativa, que pretén abastar el conjunt de l’àmbit geogràfic valencià. Però, alhora, s’ha tingut cura d’informar sobre les variants minoritàries més esteses»."
+      },
+      {
+       "n": 0,
+       "t": "La GNV il·lustra el criteri amb dos sèries d’exemples que convé retenir, perquè mostren que la priorització no discrimina per un sol motiu:"
+      },
+      {
+       "n": 0,
+       "t": "Forma prioritzada. Variant consignada. Motiu pel qual la variant no es prioritza"
+      },
+      {
+       "n": 0,
+       "t": "tindre. tenir. Variant clàssica i pròpia d’alguns parlars valencians, però de menor extensió en el valencià general."
+      },
+      {
+       "n": 0,
+       "t": "menge. menjo. Variant valenciana de menor extensió geogràfica, «encara que ben legítima en el seu àmbit geogràfic d’ús»."
+      },
+      {
+       "n": 0,
+       "t": "portara. portés. Variant d’àmbit més restringit dins del valencià."
+      },
+      {
+       "n": 0,
+       "t": "tinguem. tingam. Variant pròpia de determinades comarques valencianes."
+      },
+      {
+       "n": 0,
+       "t": "parle. parlo. Variant valenciana de menor extensió, legítima en el seu àmbit."
+      },
+      {
+       "n": 0,
+       "t": "partisca. partesques. Correspon a usos literaris molt formals o arcaics, no a una restricció geogràfica."
+      },
+      {
+       "n": 0,
+       "t": "vinguera. vingués. Variant valenciana de menor extensió."
+      },
+      {
+       "n": 0,
+       "t": "La gramàtica extrau d’aquests casos una conclusió metodològica de gran valor per a l’argumentació en un examen: «cal acceptar amb naturalitat un fet ben normal en qualsevol codificació normativa: la selecció a favor de la forma més estesa o de més tradició literària, a fi de garantir millor la cohesió del sistema lingüístic i optimitzar les situacions comunicatives. Totes les llengües, sobretot des de l’aparició de la impremta, han regulat les seues formes i els seus usos sintàctics més o menys variats, sovint amb una certa càrrega de convencionalismes»."
+      },
+      {
+       "n": 0,
+       "t": "I hi afegeix la contrapartida: «Per això, junt amb l’exposició prescriptiva, s’ofereixen, en diversos casos, informacions i explicacions de caràcter històric i diatòpic sobre formes i usos que presenten una certa variació o una certa vacil·lació en les seues realitzacions orals». La prescripció, doncs, va sempre acompanyada de l’explicació del perquè."
+      }
+     ]
+    },
+    {
+     "titol": "6.3. La cohesió amb les altres varietats de la llengua",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-28-57e2743f26d53d07.mp3",
+     "durada": 77.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.3. La cohesió amb les altres varietats de la llengua"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat 3.4 desplega el segon principi amb un argument de política lingüística idèntic al del DOPV: «La necessitat de cohesió entre les diverses varietats d’una mateixa llengua és un fet evident i indiscutible. Si això és un principi obvi en totes les llengües del món, ho és encara més —i d’una manera imperiosa— en el cas de llengües demogràficament minoritàries com la nostra. És evident que no podem accentuar les diferències entre les nostres varietats, sinó al contrari: intentar reduir-les al màxim, potenciant la convergència recíproca»."
+      },
+      {
+       "n": 0,
+       "t": "La conseqüència pràctica és la inclusió, al costat de les formes valencianes, de formes «més usuals en altres varietats de la llengua, com ara aviat, adesiara o gaire, que han assolit un notable ús entre els nostres escriptors». El criteri d’admissió és, doncs, doble: extensió en l’àmbit lingüístic compartit i ús acreditat entre els escriptors valencians."
+      }
+     ]
+    },
+    {
+     "titol": "6.4. La recuperació d’usos sintàctics genuïns",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-29-8bdbcbaefe891243.mp3",
+     "durada": 76.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.4. La recuperació d’usos sintàctics genuïns"
+      },
+      {
+       "n": 0,
+       "t": "Un tercer criteri, menys conegut però molt aprofitable, apareix també en l’apartat 3.3: «En la GNV, a més, s’ha fet un esforç per recuperar formes o usos sintàctics genuïns, de gran extensió i tradició històrica, que havien rebut poca atenció en les nostres gramàtiques i estudis lingüístics»."
+      },
+      {
+       "n": 0,
+       "t": "L’exemple que en dona la mateixa gramàtica és l’ús de la preposició composta com a en oracions del tipus «Partiu-vos-ho com a bons germans!», amb el valor de ‘com si fóreu bons germans’. És un cas especialment il·lustratiu perquè mostra que la normativa gramatical de l’AVL no es limita a triar entre variants preexistents en les gramàtiques anteriors: també incorpora al repertori normatiu construccions vives que la tradició gramatical havia passat per alt. I explica, de retruc, per què l’ús de com a és un dels punts on la normativa de l’AVL divergeix dels criteris d’altres institucions, com es veurà en l’apartat 11."
+      }
+     ]
+    },
+    {
+     "titol": "6.5. Criteris i àmbits d’ús: formalitat i extensió geogràfica",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-30-91707c5bb3ef5295.mp3",
+     "durada": 180.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.5. Criteris i àmbits d’ús: formalitat i extensió geogràfica"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat 4 de la introducció és el que millor respon a la pregunta sobre l’abast de la regulació. La posició de l’AVL és inclusiva quant a la descripció i graduada quant a l’ús: «en la presentació dels fets lingüístics es parteix generalment de la descripció d’aquells fenòmens que tenen una gran extensió i alhora una notable tradició literària d’ençà de les Normes de Castelló, però també s’analitzen aquells que tenen un abast geogràfic reduït i una vitalitat menor. Tots formen part del patrimoni lingüístic valencià però, lògicament, no tots són adequats per als mateixos àmbits d’ús»."
+      },
+      {
+       "n": 0,
+       "t": "La gramàtica creua dos paràmetres per a graduar l’adequació, i els il·lustra amb exemples sintàctics precisos:"
+      },
+      {
+       "n": 0,
+       "t": "Paràmetre. Graus. Exemples de la GNV"
+      },
+      {
+       "n": 0,
+       "t": "Grau de formalitat. Formes i usos de caràcter formal / formes i usos de caràcter poc formal.. Construcció relativa formal: «una obra l’autor de la qual és alacantí». Construcció relativa poc formal: «una obra que el seu autor és alacantí»."
+      },
+      {
+       "n": 0,
+       "t": "Extensió geogràfica. Formes i usos valencians d’àmbit general / formes i usos d’àmbit restringit.. D’àmbit general: el quantitatiu molt; la combinació pronominal li la de «li la dones». D’àmbit restringit: el quantitatiu força, viu en parlars meridionals; la combinació la hi de «la hi dones», viva en parlars septentrionals."
+      },
+      {
+       "n": 0,
+       "t": "La GNV caracteritza cada combinació per la situació comunicativa a què correspon:"
+      },
+      {
+       "n": 0,
+       "t": "Les formes i els usos de caràcter formal i d’àmbit general valencià són els més adequats «per als registres administratius (un decret, una citació judicial, una instància, etc.) i, en general, per a totes aquelles situacions, orals o escrites, que busquen la màxima eficàcia comunicativa dins d’uns certs paràmetres de formalitat (un noticiari, una conferència, un informe comercial, etc.)»."
+      },
+      {
+       "n": 0,
+       "t": "Les formes de caràcter poc formal o d’àmbit valencià restringit són adequades «per als usos individuals o col·lectius de caràcter espontani (una carta, una nota, un escrit costumista, un diàleg teatral o cinematogràfic, etc.)»."
+      }
+     ]
+    },
+    {
+     "titol": "6.6. Conseqüències per a la llengua de l’Administració",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-31-33c5da1760ebf90c.mp3",
+     "durada": 128.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.6. Conseqüències per a la llengua de l’Administració"
+      },
+      {
+       "n": 0,
+       "t": "D’aquesta graduació la GNV extrau una regla d’aplicació directa, que és la que ha de conéixer i aplicar un tècnic de promoció lingüística:"
+      },
+      {
+       "n": 0,
+       "t": "«La llengua de l’Administració pública i de les entitats que en depenen i, en general, la llengua d’ús públic formal ha d’utilitzar, com és lògic, les formes i els usos sintàctics propis dels registres formals i d’àmbit general. Exclou, per tant, l’alternança de registres formals i poc formals, de variants principals i secundàries i de variants d’àmbit general i d’àmbit restringit.» GNV, Introducció, § 4"
+      },
+      {
+       "n": 0,
+       "t": "El text és molt precís. El que s’exclou en la llengua administrativa no és l’ús de determinades formes, sinó l’alternança entre nivells dins d’un mateix text o d’una mateixa producció institucional. Per contrast, «la llengua de la literatura, de les entitats privades i, en general, la llengua d’ús personal admet un grau de variació molt més ampli, que comprèn els més diversos nivells de llenguatge, i pot permetre’s per tant l’alternança de registres i de variants»."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: EL CRITERI DE COHERÈNCIA La norma gramatical de l’AVL no imposa a l’Administració una única sèrie de formes, sinó tres exigències: usar formes i usos propis dels registres formals, usar formes d’àmbit general valencià i no alternar nivells ni variants dins d’un mateix text. És el criteri que fonamenta l’existència dels llibres d’estil institucionals —i el que en delimita el marge, perquè un llibre d’estil pot triar entre variants del mateix rang, però no pot convertir en incorrecta una variant que la norma declara vàlida."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 7"
+      }
+     ]
+    },
+    {
+     "titol": "Com s’expressa la norma: les convencions de jerarquització",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-32-95b3ccf0df09e9b2.mp3",
+     "durada": 36.7,
+     "text": [
+      {
+       "n": 1,
+       "t": "Com s’expressa la norma: les convencions de jerarquització"
+      },
+      {
+       "n": 0,
+       "t": "La normativa gramatical no s’expressa només pel que diu, sinó també per com ho diu. La GNV i la GVB comparteixen un aparell de convencions tipogràfiques que assigna un valor normatiu distint a cada manera de presentar una variant. Dominar aquest aparell és el que permet llegir correctament la gramàtica i, en la pràctica professional, resoldre un dubte sense haver d’interpretar."
+      }
+     ]
+    },
+    {
+     "titol": "7.1. La barra inclinada: variants amb el mateix valor normatiu",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-33-4d3c187332687c06.mp3",
+     "durada": 80.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.1. La barra inclinada: variants amb el mateix valor normatiu"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat «Convencions usades» de les gramàtiques ho estableix sense ambigüitat: «En els paradigmes flexius, l’ús de la barra inclinada (/) separant variants formals indica que tenen el mateix valor normatiu». Els exemples que en donen són:"
+      },
+      {
+       "n": 0,
+       "t": "Presentació en la gramàtica. Lectura normativa"
+      },
+      {
+       "n": 0,
+       "t": "este / aquest. Les dos formes tenen exactament el mateix valor normatiu. Cap de les dos és preferible a l’altra des del punt de vista de la norma."
+      },
+      {
+       "n": 0,
+       "t": "patix / pateix. Les dos formes de l’increment incoatiu tenen el mateix valor normatiu."
+      },
+      {
+       "n": 0,
+       "t": "La conseqüència pràctica és de primer ordre i s’ha d’enunciar amb claredat en un examen: no és normativament defensable qualificar d’incorrecta cap de les dos formes separades per barra. Un servei lingüístic pot triar-ne una per coherència de model de llengua, però no pot presentar l’altra com un error."
+      }
+     ]
+    },
+    {
+     "titol": "7.2. Els parèntesis: la variant secundària",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-34-ec825ea140b809c8.mp3",
+     "durada": 136.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.2. Els parèntesis: la variant secundària"
+      },
+      {
+       "n": 0,
+       "t": "La segona convenció introdueix la jerarquia: «L’ús dels parèntesis per a introduir una variant formal indica que té un caràcter secundari respecte a la forma immediatament anterior, considerada preferible en els usos formals valencians». Els exemples de les gramàtiques són:"
+      },
+      {
+       "n": 0,
+       "t": "Forma preferible. Variant secundària. Naturalesa de la variació"
+      },
+      {
+       "n": 0,
+       "t": "hereua. (o hereva). Femení dels substantius acabats en -eu."
+      },
+      {
+       "n": 0,
+       "t": "artista. (o artiste). Moció de gènere del sufix -ista."
+      },
+      {
+       "n": 0,
+       "t": "cap. (o ningun). Quantificador indefinit."
+      },
+      {
+       "n": 0,
+       "t": "dèsset. (o disset). Numeral."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta és la convenció que resol la major part dels dubtes professionals. La forma que figura abans del parèntesi és la preferible en els usos formals valencians; la que figura dins del parèntesi és normativa però secundària. La diferència amb la barra inclinada és, doncs, essencial i és susceptible de ser preguntada de manera directa."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: BARRA I PARÈNTESI NO SÓN EL MATEIX Barra inclinada (este/aquest, patix/pateix): mateix valor normatiu. No hi ha preferència. Parèntesis (hereua (o hereva), dèsset (o disset)): la primera forma és preferible en els usos formals valencians; la segona és secundària. Confondre les dos convencions porta a l’error de presentar com a equivalents formes que la norma jerarquitza, o de jerarquitzar formes que la norma declara equivalents."
+      }
+     ]
+    },
+    {
+     "titol": "7.3. Els dos cossos de lletra: norma i observació",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-35-c4fd8983ec44f2a4.mp3",
+     "durada": 120.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.3. Els dos cossos de lletra: norma i observació"
+      },
+      {
+       "n": 0,
+       "t": "La tercera convenció afecta l’estructura mateixa del text de la gramàtica. Segons l’apartat 3.2 dels criteris d’elaboració, «per a facilitar i orientar la lectura, la informació continguda en la gramàtica es presenta en dos tipus de lletra»:"
+      },
+      {
+       "n": 0,
+       "t": "Cos de lletra. Contingut. Valor"
+      },
+      {
+       "n": 0,
+       "t": "Cos normal. «Per a la descripció dels fets lingüístics més importants i sistemàtics, i les orientacions normatives bàsiques».. És el text normatiu pròpiament dit."
+      },
+      {
+       "n": 0,
+       "t": "Cos més menut (observacions). «Per a les observacions, que es reserven per a fer remarques teòriques de caràcter complementari o puntual, per a donar informació històrica o per a fer referència a variants geogràfiques secundàries o pròpies d’altres territoris de la llengua compartida».. És informació complementària, descriptiva i contextual; no constitueix orientació normativa bàsica."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta distinció explica una característica de la GNV que sovint desconcerta el consultant: que hi apareguen mencionades formes d’altres territoris o variants dialectals sense que això supose recomanar-les. Si la menció està en el cos menut, és informació, no orientació. La GVB, per la seua banda, ha eliminat aquest segon nivell: «s’han eliminat també les observacions i descripcions de caràcter històric, per considerar que es tractava d’una informació d’interès específic per als especialistes»."
+      }
+     ]
+    },
+    {
+     "titol": "7.4. La gradació ortoèpica: pròpies, acceptables i no recomanables",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-36-ad0c4da34aae9a3d.mp3",
+     "durada": 174.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.4. La gradació ortoèpica: pròpies, acceptables i no recomanables"
+      },
+      {
+       "n": 0,
+       "t": "En matèria de pronunciació, la GNV substitueix les convencions tipogràfiques per una gradació explícita de tres graus, formulada en el capítol 1. És el sistema equivalent, en el pla oral, a la tripartició d’entrades del DOPV en el pla lèxic, i s’ha de conéixer amb la definició literal."
+      },
+      {
+       "n": 0,
+       "t": "Grau. Definició de la GNV"
+      },
+      {
+       "n": 0,
+       "t": "Pròpies del valencià estàndard. Aquelles realitzacions que, pràcticament, són generals en tot el territori valencià o que tenen un prestigi social àmpliament reconegut."
+      },
+      {
+       "n": 0,
+       "t": "Acceptables. Algunes realitzacions d’àmbit general que presenten una alteració respecte a la grafia, o aquelles que són específiques d’un àmbit territorial reduït, dins del qual resulten plenament vàlides."
+      },
+      {
+       "n": 0,
+       "t": "No recomanables en el valencià estàndard. Aquelles realitzacions d’un abast territorial molt reduït o amb unes connotacions poc prestigiades en el conjunt de la comunitat lingüística."
+      },
+      {
+       "n": 0,
+       "t": "La gramàtica hi afigeix immediatament una cautela doctrinal que convé citar, perquè és la millor expressió del caràcter no excloent de la normativa de l’AVL:"
+      },
+      {
+       "n": 0,
+       "t": "«Primar la difusió d’uns trets lingüístics en les comunicacions formals d’abast general no hauria d’implicar de cap manera estigmatitzar qualsevol altra realització que no s’ajuste a uns determinats patrons estàndard. Si bé hi ha realitzacions que, efectivament, poden resultar vulgars en alguns contextos, també és ben cert que unes altres poden resultar afectades, i per tant igualment inadequades, en altres situacions comunicatives. La llengua és un codi de comunicació molt complex, amb múltiples funcionalitats, que no es pot reduir a un model de referència uniforme i excloent. Cada fenomen lingüístic encaixa perfectament en un àmbit i en un registre determinats.» GNV, capítol 1, § 1.1"
+      },
+      {
+       "n": 0,
+       "t": "La GVB reprèn aquesta gradació i la converteix en l’estructura mateixa dels capítols d’ortologia, amb epígrafs sistemàtics de «pronunciacions recomanables», «pronunciacions acceptables» i «pronunciacions no recomanables» per a cada grup de sons."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 8"
+      }
+     ]
+    },
+    {
+     "titol": "Què regula la normativa gramatical: l’abast de la matèria",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-37-7e242aba70765a40.mp3",
+     "durada": 27.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Què regula la normativa gramatical: l’abast de la matèria"
+      },
+      {
+       "n": 0,
+       "t": "Els apartats anteriors han exposat els criteris; aquest respon a la pregunta que se’n deriva: què hi entra. L’abast de la normativa gramatical de l’AVL és més ampli que el de la gramàtica en sentit estricte, i la mateixa institució ho justifica «a causa del seu interés normatiu»."
+      }
+     ]
+    },
+    {
+     "titol": "8.1. Ortologia: la pronunciació estàndard",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-38-11731b843fb2e529.mp3",
+     "durada": 173.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.1. Ortologia: la pronunciació estàndard"
+      },
+      {
+       "n": 0,
+       "t": "La GNV s’obri amb un capítol d’ortologia i el justifica per una raó sociolingüística explícita: «la societat actual es caracteritza per un predomini de la comunicació oral en tots els registres d’ús de l’idioma. En aquest sentit, l’aparició dels mitjans de comunicació audiovisuals és, sens dubte, el factor que més ha obligat a definir un model de referència per a l’expressió oral»."
+      },
+      {
+       "n": 0,
+       "t": "La gramàtica hi defineix el concepte mateix d’estàndard: «Totes les llengües de cultura posseeixen un model lingüístic de referència que es considera adequat per als usos administratius i educatius, per als mitjans de comunicació i, en general, per a tots els àmbits que requereixen un mínim de formalitat. Aquest model es coneix com a llengua estàndard, o simplement estàndard, i afecta tant els usos orals com els escrits». I en descriu la formació: «La varietat estàndard es conforma justament sobre la base d’una funcionalitat comunicativa, que tendeix a afavorir els fenòmens més estesos i acceptats en una determinada comunitat lingüística, en detriment d’aquells altres que tenen un abast més restringit o estan menys prestigiats»."
+      },
+      {
+       "n": 0,
+       "t": "Els destinataris que l’obra identifica són, en primer lloc, «els relacionats amb el món dels mitjans de comunicació i de l’educació i, en general, aquells col·lectius que solen fer un ús formal de la llengua parlada», però també el conjunt de ciutadans. Per aquesta raó s’hi ha reduït al màxim la teorització i s’han tingut en compte «els fenòmens d’interferència lingüística que provoca el contacte freqüent amb altres llengües, sobretot amb el castellà»."
+      },
+      {
+       "n": 0,
+       "t": "Quant al contingut, el capítol regula el vocalisme tònic i àton, el consonantisme, els grups vocàlics i els fenòmens de contacte entre sons. Un exemple del grau de detall normatiu: la GNV fixa que el valencià té set vocals en posició tònica i que l’oposició entre obertes i tancades «és un tret distintiu que permet diferenciar el significat d’algunes paraules» —dona enfront de dóna, set ‘numeral’ enfront de set ‘ganes de beure’, seu ‘domicili’ enfront de seu possessiu, son ‘ganes de dormir’ enfront de són del verb ser—, i dona a continuació les regles generals de distribució de la e i la o obertes amb les seues excepcions."
+      }
+     ]
+    },
+    {
+     "titol": "8.2. Ortografia",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-39-6a8872d0db37851c.mp3",
+     "durada": 55.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.2. Ortografia"
+      },
+      {
+       "n": 0,
+       "t": "El segon bloc, capítols 2 a 7, «tracta sobre els aspectes gràfics i la presentació formal dels texts escrits» i comprèn l’alfabet, l’agrupament dels sons, les lletres, els signes diacrítics auxiliars, les convencions gràfiques i els signes de puntuació. La GNV el justifica «d’acord amb una llarga tradició en els manuals gramaticals prescriptius»."
+      },
+      {
+       "n": 0,
+       "t": "És el bloc que ha estat objecte de modificació expressa pels acords del Ple de 2018 i 2021, com s’exposa en l’apartat 10. Per això, quan es cita la GNV en matèria ortogràfica, cal fer-ho sempre amb la redacció actualitzada, no amb la de l’edició impresa del 2006."
+      }
+     ]
+    },
+    {
+     "titol": "8.3. Morfologia flexiva i sintaxi",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-40-21d36aba1f8e52fa.mp3",
+     "durada": 141.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.3. Morfologia flexiva i sintaxi"
+      },
+      {
+       "n": 0,
+       "t": "El tercer bloc, capítols 8 a 35, és «la part més extensa» i constitueix la gramàtica en sentit estricte. El mètode expositiu és explícit: «Seguint un model de descripció molt habitual en la tradició gramatical, es parteix de les diverses classes de paraules (les parts de l’oració de la gramàtica tradicional) i, per a cada classe, s’analitzen conjuntament la forma i la funció: això és, les propietats flexives (si es tracta d’una classe variable com el substantiu, el verb, etc.) i les propietats sintàctiques»."
+      },
+      {
+       "n": 0,
+       "t": "Capítols. Matèria"
+      },
+      {
+       "n": 0,
+       "t": "8. L’oració: conceptes generals"
+      },
+      {
+       "n": 0,
+       "t": "9-11. Els substantius i els sintagmes nominals; el gènere i el nombre dels substantius"
+      },
+      {
+       "n": 0,
+       "t": "12-14. Els adjectius i els sintagmes adjectivals; el gènere i el nombre dels adjectius"
+      },
+      {
+       "n": 0,
+       "t": "15-17. L’article; els demostratius; els possessius"
+      },
+      {
+       "n": 0,
+       "t": "18-20. Els quantificadors: els numerals, els indefinits i els quantitatius"
+      },
+      {
+       "n": 0,
+       "t": "21-23. Els pronoms personals forts; els pronoms febles (aspectes formals i funcionals)"
+      },
+      {
+       "n": 0,
+       "t": "24-25. Els relatius; els interrogatius i els exclamatius"
+      },
+      {
+       "n": 0,
+       "t": "26-27. Les preposicions; els adverbis"
+      },
+      {
+       "n": 0,
+       "t": "28-31. Els temps verbals; els verbs regulars; els verbs irregulars; les perífrasis verbals"
+      },
+      {
+       "n": 0,
+       "t": "32-33. La predicació verbal i els complements; les predicacions no verbals: els verbs ser i estar"
+      },
+      {
+       "n": 0,
+       "t": "34-35. Les conjuncions; les interjeccions"
+      }
+     ]
+    },
+    {
+     "titol": "8.4. Formació de paraules",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-41-6c510f69d2e2e87b.mp3",
+     "durada": 44.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.4. Formació de paraules"
+      },
+      {
+       "n": 0,
+       "t": "El quart bloc, capítols 36 a 38, analitza «els procediments morfològics de què disposa la llengua per a crear paraules noves: la derivació, la composició, el truncament, etc.». És un contingut de frontera entre la gramàtica i el lèxic: la formació de paraules és morfologia, però el seu producte és unitat lèxica. Aquest bloc és, per tant, el punt de contacte entre el Tema 2 i el Tema 3, i també amb el tema del temari dedicat als neologismes i els estrangerismes."
+      }
+     ]
+    },
+    {
+     "titol": "8.5. Annexos i materials complementaris",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-42-4319cd38019f604e.mp3",
+     "durada": 48.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.5. Annexos i materials complementaris"
+      },
+      {
+       "n": 0,
+       "t": "Als quatre blocs s’hi afegeixen els dos annexos ja mencionats —abreviatures, símbols i sigles, i els gentilicis valencians— i, fora de l’obra impresa, el conjunt de recursos de l’aplicació Gramàtic-ON, que s’examina en l’apartat 9.4."
+      },
+      {
+       "n": 0,
+       "t": "Convé subratllar que l’annex d’abreviacions té valor normatiu i és el fonament del tema del temari dedicat a les sigles, els símbols i les abreviatures; i que l’annex de gentilicis connecta la gramàtica amb la matèria onomàstica, ja que el DOPV dedica igualment un capítol als gentilicis dels municipis valencians."
+      }
+     ]
+    },
+    {
+     "titol": "8.6. Quadre de síntesi de l’abast",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-43-d924147dfe2a0f59.mp3",
+     "durada": 248.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.6. Quadre de síntesi de l’abast"
+      },
+      {
+       "n": 0,
+       "t": "Matèria. Regulada per la normativa gramatical?. On es regula. Instrument de graduació"
+      },
+      {
+       "n": 0,
+       "t": "Pronunciació de vocals i consonants. Sí. GNV, cap. 1; GVB, caps. 1-3. Pròpies / acceptables / no recomanables"
+      },
+      {
+       "n": 0,
+       "t": "Alfabet, lletres i dígrafs. Sí. GNV, caps. 2-4; GVB, caps. 4-6. Regles amb excepcions"
+      },
+      {
+       "n": 0,
+       "t": "Accentuació i dièresi. Sí. GNV, cap. 5; GVB, caps. 7-8. Modificada pels acords de 2018 i 2021"
+      },
+      {
+       "n": 0,
+       "t": "Guionet i apòstrof. Sí. GNV, cap. 6; GVB, caps. 9-10. Modificada pels acords de 2018 i 2021"
+      },
+      {
+       "n": 0,
+       "t": "Majúscules, tipus de lletra i abreviacions. Sí. GNV, cap. 6 i annex; GVB, caps. 12-14. Regles i observacions"
+      },
+      {
+       "n": 0,
+       "t": "Signes de puntuació. Sí. GNV, cap. 7; GVB, cap. 15. Regles"
+      },
+      {
+       "n": 0,
+       "t": "Flexió nominal i verbal. Sí. GNV, caps. 9-30; GVB, caps. 16-39. Barra inclinada i parèntesis"
+      },
+      {
+       "n": 0,
+       "t": "Sintaxi de l’oració i dels complements. Sí. GNV, caps. 8 i 32-33. Formal / poc formal"
+      },
+      {
+       "n": 0,
+       "t": "Pronoms febles i combinacions. Sí. GNV, caps. 22-23. Àmbit general / àmbit restringit"
+      },
+      {
+       "n": 0,
+       "t": "Formació de paraules. Sí. GNV, caps. 36-38. Regles i observacions"
+      },
+      {
+       "n": 0,
+       "t": "Gentilicis. Sí, com a annex. GNV, annex; DOPV, cap. 3. Repertori"
+      },
+      {
+       "n": 0,
+       "t": "Significat i selecció de les paraules. No: és matèria lèxica. DNV i Portal Terminològic Valencià. Entrades i marques d’ús"
+      },
+      {
+       "n": 0,
+       "t": "Toponímia i antroponímia. No: és matèria onomàstica. Instruments toponímics i antroponímics de l’AVL. Repertoris específics"
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 9"
+      }
+     ]
+    },
+    {
+     "titol": "La Gramàtica valenciana bàsica i l’accés a la doctrina gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-44-93c22f039a927721.mp3",
+     "durada": 49.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "La Gramàtica valenciana bàsica i l’accés a la doctrina gramatical"
+      },
+      {
+       "n": 0,
+       "t": "La Gramàtica valenciana bàsica (GVB) és el número 3 de la col·lecció Textos Normatius. La primera edició és de febrer del 2016 (332 pàgines; ISBN 978-84-482-6070-5) i la presentació pública es va celebrar l’abril del mateix any. No és una obra normativa nova ni paral·lela: és la mateixa doctrina gramatical presentada per a un públic distint, i entendre-ho és essencial per a respondre bé una pregunta sobre la relació entre les dos gramàtiques."
+      }
+     ]
+    },
+    {
+     "titol": "9.1. Propòsit i destinataris",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-45-ce332e97977403e0.mp3",
+     "durada": 77.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.1. Propòsit i destinataris"
+      },
+      {
+       "n": 0,
+       "t": "La introducció de la GVB en declara el propòsit amb una fórmula que convé retenir: l’obra «representa, per damunt de qualsevol altra consideració, la voluntat de l’Acadèmia de facilitar l’accés a la seua doctrina gramatical a amplis sectors de la població valenciana interessats a utilitzar dignament el valencià»."
+      },
+      {
+       "n": 0,
+       "t": "I concreta l’objectiu en dos línies d’acció: «fer possible que la llengua pròpia passe a integrar-se amb normalitat en les tasques habituals del dia a dia, donant prioritat a les formes més correctes que ens ha llegat la pròpia tradició i corregint les interferències d’altres llengües, especialment del castellà, que s’han produït com a conseqüència d’una situació de minorització lingüística en què ha hagut de sobreviure la nostra llengua durant segles»."
+      },
+      {
+       "n": 0,
+       "t": "L’obra es tanca amb una declaració de finalitat pràctica: «aspira a ser, en definitiva, un recurs útil per a tots aquells que tenen la voluntat de fer un ús habitual i correcte del valencià en les seues relacions públiques i privades»."
+      }
+     ]
+    },
+    {
+     "titol": "9.2. Estructura i extensió",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-46-3f991770ad4c15ee.mp3",
+     "durada": 221.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.2. Estructura i extensió"
+      },
+      {
+       "n": 0,
+       "t": "La GVB s’organitza en tres blocs i quaranta-dos capítols, precedits de la introducció, els símbols fonètics i les convencions usades, i seguits d’un índex de paraules i matèries."
+      },
+      {
+       "n": 0,
+       "t": "Bloc. Capítols. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "Ortologia. 1-3. La pronunciació del valencià: les vocals; les consonants; el contacte entre sons. Cada apartat es desplega sistemàticament en «pronunciacions recomanables», «pronunciacions acceptables» i «pronunciacions no recomanables»."
+      },
+      {
+       "n": 0,
+       "t": "Ortografia. 4-15. L’alfabet; l’agrupament de sons; les lletres; l’accentuació; la dièresi; el guionet; l’apòstrof; les contraccions; l’ús de les lletres majúscules; els tipus de lletra; les abreviacions; els signes de puntuació."
+      },
+      {
+       "n": 0,
+       "t": "Morfosintaxi. 16-42. El gènere i el nombre dels substantius; l’adjectiu; l’article; els demostratius; els possessius; els numerals; els quantitatius; els pronoms personals forts i febles; els relatius; els interrogatius i els exclamatius; les preposicions; els adverbis de manera, de lloc, de temps i de quantitat; els verbs; les perífrasis verbals; les conjuncions; les interjeccions."
+      },
+      {
+       "n": 0,
+       "t": "La comparació estructural amb la GNV és directament preguntable i convé tenir-la sistematitzada."
+      },
+      {
+       "n": 0,
+       "t": "Gramàtica normativa valenciana. Gramàtica valenciana bàsica"
+      },
+      {
+       "n": 0,
+       "t": "Núm. de col·lecció. Textos Normatius, 2. Textos Normatius, 3"
+      },
+      {
+       "n": 0,
+       "t": "Any. 2006 (aprovada pel Ple el 2.12.2005). 2016 (primera edició: febrer)"
+      },
+      {
+       "n": 0,
+       "t": "Extensió. 408 pàgines. 332 pàgines"
+      },
+      {
+       "n": 0,
+       "t": "Blocs. Quatre: ortologia, ortografia, morfologia flexiva i sintaxi, formació de paraules. Tres: ortologia, ortografia, morfosintaxi"
+      },
+      {
+       "n": 0,
+       "t": "Capítols. 38. 42"
+      },
+      {
+       "n": 0,
+       "t": "Observacions en cos menut. Sí. No: s’han eliminat"
+      },
+      {
+       "n": 0,
+       "t": "Informació històrica i diatòpica. Sí. No"
+      },
+      {
+       "n": 0,
+       "t": "Formació de paraules. Sí (caps. 36-38). No hi figura com a bloc propi"
+      },
+      {
+       "n": 0,
+       "t": "Annexos. Abreviatures, símbols i sigles; gentilicis valencians; índex de taules; índex general. Índex de paraules i matèries"
+      }
+     ]
+    },
+    {
+     "titol": "9.3. Què hi canvia i què no respecte de la GNV",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-47-5347892883847179.mp3",
+     "durada": 157.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.3. Què hi canvia i què no respecte de la GNV"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta és la qüestió decisiva, i la GVB la resol de manera inequívoca. El que canvia és la presentació:"
+      },
+      {
+       "n": 0,
+       "t": "Una estructura d’apartats breus, «a fi de permetre a l’usuari localitzar ràpidament la qüestió concreta que li suscita dubtes i trobar-hi una resposta succinta i precisa»."
+      },
+      {
+       "n": 0,
+       "t": "Un esforç per reduir al mínim l’ús d’una terminologia lingüística que poguera resultar poc transparent «i dificultar per tant la comprensió de la norma gramatical»."
+      },
+      {
+       "n": 0,
+       "t": "L’eliminació de les observacions i descripcions de caràcter històric, «per considerar que es tractava d’una informació d’interés específic per als especialistes»."
+      },
+      {
+       "n": 0,
+       "t": "El que no canvia és la doctrina. La GVB ho declara amb tota claredat: «Fora dels aspectes formals i de contingut esmentats, els criteris generals que han inspirat la redacció de la Gramàtica valenciana bàsica són els mateixos que inspiraren la Gramàtica normativa valenciana», és a dir, els de l’article 4 de la Llei de creació i els del Dictamen del 2005; i, en conseqüència, «com ocorria en la Gramàtica normativa valenciana, obra en la qual es basa, s’ha intentat harmonitzar, d’una banda, la recuperació i la priorització de les solucions valencianes genuïnes […] i, de l’altra, la convergència amb les solucions adoptades en els altres territoris de la llengua compartida». I remata: «els criteris amb què s’ha elaborat i els àmbits d’ús que determina són els mateixos que apareixen descrits en la Introducció de la Gramàtica normativa valenciana»."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA RELACIÓ ENTRE LES DOS GRAMÀTIQUES La GVB no és una gramàtica distinta de la GNV sinó una versió divulgativa de la mateixa doctrina, basada expressament en aquella. En cas de dubte o de consulta especialitzada, la referència és la GNV, que conté la descripció completa, les observacions i la informació diatòpica que la GVB ha eliminat. Dir que la GVB «substitueix» o «actualitza» la GNV és un error."
+      }
+     ]
+    },
+    {
+     "titol": "9.4. L’aplicació Gramàtic-ON",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-48-f3ed06261fcc840f.mp3",
+     "durada": 136.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.4. L’aplicació Gramàtic-ON"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha completat les dos obres amb l’aplicació web Gramàtiques Normatives Valencianes, coneguda com a Gramàtic-ON, que dona accés conjunt a la GVB i a la GNV. La presentació institucional en declara l’objectiu: «facilitar a tots els interessats l’accés a les obres de contingut gramatical publicades per aquest organisme de la Generalitat valenciana en format de llibre» i, a més, oferir «tot un conjunt de recursos i utilitats per a proporcionar una resposta ràpida a qualsevol consulta que puga suscitar dubtes relacionats amb qüestions gramaticals»."
+      },
+      {
+       "n": 0,
+       "t": "Les modalitats de consulta que ofereix són tres: per índex conceptual, per text lliure i per termes gramaticals, amb selecció prèvia de l’obra —GVB o GNV— sobre la qual es vol consultar. L’aplicació incorpora també els apartats de presentació, introducció, convencions usades, símbols fonètics i, molt especialment, modificacions, que recull els canvis introduïts pels acords de 2018 i 2021 en el text de les gramàtiques."
+      },
+      {
+       "n": 0,
+       "t": "La justificació que en dona l’AVL enllaça amb la concepció funcional de la norma que recorre tot el tema: «La gramàtica i la llengua estan lligades inextricablement a través de l’ús social. I és precisament l’ús el que genera dubtes reals; l’aplicació informàtica Gramàtiques Normatives Valencianes intenta resoldre’ls de la manera més eficaç possible, amb respostes ràpides i succintes. Un coneixement teòric de la gramàtica sense aplicació pràctica no té massa sentit. Per això precisament esta aplicació informàtica intenta servir d’enllaç entre els diversos contextos d’ús i les normes gramaticals que els regulen per a aconseguir una comunicació més eficaç»."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 10"
+      }
+     ]
+    },
+    {
+     "titol": "La revisió de la norma: els acords 31/2018 i 22/2021",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-49-538536fe42680e08.mp3",
+     "durada": 30.8,
+     "text": [
+      {
+       "n": 1,
+       "t": "La revisió de la norma: els acords 31/2018 i 22/2021"
+      },
+      {
+       "n": 0,
+       "t": "A diferència de la normativa lèxica, que s’actualitza mensualment, la normativa gramatical es revisa per acords puntuals del Ple. Des de la publicació de la GNV només se n’han adoptat dos, tots dos en matèria de convencions ortogràfiques, i tots dos són contingut obligat d’aquest tema."
+      }
+     ]
+    },
+    {
+     "titol": "10.1. El procediment d’aprovació d’un acord normatiu",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-50-cac41fbc7102a965.mp3",
+     "durada": 120.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.1. El procediment d’aprovació d’un acord normatiu"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord 31/2018 documenta amb detall l’itinerari que segueixen les propostes normatives, d’acord amb les Normes internes de procediment de l’AVL (article 3 i següents), aprovades a l’empara de la disposició addicional del Reglament de la institució. És un contingut procedimental molt susceptible de ser preguntat:"
+      },
+      {
+       "n": 0,
+       "t": "La Secció de Lexicografia i Gramàtica elabora i aprova una proposta d’acord normatiu i la remet a la Junta de Govern."
+      },
+      {
+       "n": 0,
+       "t": "La Junta de Govern adopta l’acord d’inici del procediment i el notifica a tots els acadèmics. En el cas del 2018 fou l’Acord núm. 66/2018, de 23 d’abril; en el del 2021, l’Acord núm. 77/2021, de 10 de maig."
+      },
+      {
+       "n": 0,
+       "t": "S’obri un termini d’esmenes per als acadèmics."
+      },
+      {
+       "n": 0,
+       "t": "La Secció, constituïda en ponència, informa les esmenes presentades i emet dictamen. En el 2018 el dictamen es va emetre el 14 de maig."
+      },
+      {
+       "n": 0,
+       "t": "Notificat el dictamen, els acadèmic que presenten les esmenes poden acceptar les propostes transaccionals de la ponència o mantenir les esmenes."
+      },
+      {
+       "n": 0,
+       "t": "Realitzades les intervencions de defensa del dictamen i de les esmenes mantingudes, el Ple adopta l’acord."
+      },
+      {
+       "n": 0,
+       "t": "En l’Acord 22/2021 el procediment fou el mateix però simplificat: «En el termini establit per a presentar esmenes […] no se’n registrà cap», de manera que el Ple va aprovar directament la proposta de la Secció en la sessió de 4 de juny."
+      }
+     ]
+    },
+    {
+     "titol": "10.2. L’Acord 31/2018: els cinc blocs de novetats",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-51-6efa116253f3e8f7.mp3",
+     "durada": 258.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.2. L’Acord 31/2018: els cinc blocs de novetats"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord núm. 31/2018, d’1 de juny, pel qual s’aprova l’acord normatiu sobre algunes convencions ortogràfiques, és la primera modificació de calat de la norma gramatical adoptada per l’AVL. La motivació que hi consta és doble i convé conèixer-la en els seus termes:"
+      },
+      {
+       "n": 0,
+       "t": "La dificultat d’aprenentatge i assimilació de determinades convencions gràfiques: «Actualment hi ha consens entre els ensenyants i els usuaris en general que una reducció dels accents diacrítics, així com una simplificació de les convencions sobre l’ús de la dièresi i del guionet, i uns criteris flexibles sobre la representació gràfica del so vibrant [r] quan apareix entre vocals precedit d’un prefix o d’un radical, facilitaria l’escriptura i permetria evitar memoritzacions innecessàries»."
+      },
+      {
+       "n": 0,
+       "t": "El principi de convergència «amb les solucions ja adoptades normativament en la resta del nostre àmbit lingüístic, que és un dels principis bàsics de la Gramàtica normativa valenciana, inspirat en la idea del policentrisme convergent propugnada per Manuel Sanchis Guarner i en la doctrina gramatical dels mestres Josep Giner, Carles Salvador i Enric Valor»."
+      },
+      {
+       "n": 0,
+       "t": "L’acord invoca, com a precedent doctrinal intern, que «el gramàtic valencià Josep Giner ja va fer una proposta de reducció substancial dels diacrítics, similar a la propugnada posteriorment per Joan Solà»."
+      },
+      {
+       "n": 0,
+       "t": "La part dispositiva estableix que, «al costat de les solucions ortogràfiques vigents en les seues obres gramaticals i lexicogràfiques», també seran normatives cinc sèries de solucions:"
+      },
+      {
+       "n": 0,
+       "t": "Núm.. Novetat. Exemples de l’acord"
+      },
+      {
+       "n": 0,
+       "t": "1. La reducció de l’accent diacrític a quinze casos.. Vegeu la taula de l’apartat 10.3."
+      },
+      {
+       "n": 0,
+       "t": "2. L’ús sense dièresi dels derivats cultes acabats en -al.. laical, helicoidal, ovoidal, romboidal, trapezoidal, xifoidal"
+      },
+      {
+       "n": 0,
+       "t": "3. La supressió del guionet en determinats compostos.. correcuita, cuitacorrents, a matadegolla, corimori, ratbuf, sucamulla"
+      },
+      {
+       "n": 0,
+       "t": "4. L’ús del guionet en quatre supòsits: en els derivats dels compostos en què el primer element és un punt cardinal; quan el prefix precedix una locució, un sintagma lexicalitzat o una paraula que ja porta guionet; de manera discrecional, quan la combinació puga donar formes homònimes susceptibles d’induir a confusió; i quan els termes d’un compost no responen a un concepte unitari.. nord-estejar, sud-americanització; pro-drets humans, ex-director general, anti-nord-americà; ex-pres, ex-exiliat, pre-ocupació; un tractat hispano-portugués"
+      },
+      {
+       "n": 0,
+       "t": "5. La duplicació de la r (rr) per a representar el so vibrant [r] entre vocals precedit d’un prefix o d’un radical: paraules amb els prefixos a- privatiu i cor-; la paraula erradicar i derivats; compostos amb els radicals grecs raqui(o)-, reo-, rin(o)-, rinco-, riz(o)- i rodo-; i compostos amb la terminació -ràfia.. arrafidi, arrítmia; correferent, corresponsable; erradicació, erradicatiu; cefalorraquidi, batirreòmetre, otorrinolaringòleg, catarrí, ornitorrinc, micorriza, cinorròdon; neurorràfia"
+      }
+     ]
+    },
+    {
+     "titol": "10.3. Els quinze accents diacrítics i el règim transitori",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-52-622841e1c018ee58.mp3",
+     "durada": 187.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.3. Els quinze accents diacrítics i el règim transitori"
+      },
+      {
+       "n": 0,
+       "t": "La llista de diacrítics és tancada i memoritzable. Cada parell oposa la forma amb accent diacrític a la forma sense accent. És, amb tota probabilitat, el contingut concret més preguntat de tot el bloc gramatical de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "Amb diacrític. Sense diacrític. Amb diacrític. Sense diacrític"
+      },
+      {
+       "n": 0,
+       "t": "bé, béns. be, bens. què. que"
+      },
+      {
+       "n": 0,
+       "t": "déu, déus. deu, deus. sé. se"
+      },
+      {
+       "n": 0,
+       "t": "és. es. sí, sís. si, sis"
+      },
+      {
+       "n": 0,
+       "t": "mà. ma. sòl, sòls. sol, sols"
+      },
+      {
+       "n": 0,
+       "t": "més. mes. són. son"
+      },
+      {
+       "n": 0,
+       "t": "món. mon. té. te"
+      },
+      {
+       "n": 0,
+       "t": "pèl, pèls. pel, pels. ús. us"
+      },
+      {
+       "n": 0,
+       "t": "vós. vos"
+      },
+      {
+       "n": 0,
+       "t": "Dos observacions que eviten errors freqüents. La primera: l’acord adverteix expressament que mà i món no porten diacrític en plural —les formes mans i mons no s’accentuen. La segona: en el cas de sòl / sol, l’acord hi distingeix tres valors de la forma sense diacrític —el nom ‘astre’, l’adjectiu ‘sense companyia’ i el nom de la nota musical—, tots tres sense accent."
+      },
+      {
+       "n": 0,
+       "t": "El punt segon de l’acord hi estableix un doble règim temporal que convé no confondre:"
+      },
+      {
+       "n": 0,
+       "t": "Per als diacrítics: un període de tres anys durant el qual serien vigents tant la norma tradicional com la nova; acabat el termini, s’adoptaria com a solució única la norma nova. L’AVL es comprometia a aplicar la reducció «en els seus usos de manera prioritària a partir de l’aprovació del present acord»."
+      },
+      {
+       "n": 0,
+       "t": "Per a la resta de punts —dièresi, guionet i duplicació de la r—: l’AVL revisaria i consensuaria les decisions normatives, en un període de tres anys, «amb la resta de les institucions de la nostra llengua que actuen com a referents normatius, amb la finalitat d’aconseguir unes regles comprensibles i aplicables»."
+      },
+      {
+       "n": 0,
+       "t": "Aquest segon compromís és el que dona lloc, exactament tres anys després, a l’Acord 22/2021."
+      }
+     ]
+    },
+    {
+     "titol": "10.4. L’Acord 22/2021: ratificació, modificació i observacions",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-53-226b53d2d8f7aff2.mp3",
+     "durada": 324.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.4. L’Acord 22/2021: ratificació, modificació i observacions"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord núm. 22/2021, de 4 de juny, de caràcter normatiu, «resol les qüestions ortogràfiques que quedaven pendents en l’Acord del Ple núm. 31/2018, d’1 de juny, així com altres observacions complementàries». La Secció de Lexicografia i Gramàtica el va elaborar «després de reflexionar i de debatre sobre la incidència i el grau d’acceptabilitat de les propostes normatives i de coordinar-se amb la Comissió mixta (Acadèmia Valenciana de la Llengua-Institut d’Estudis Catalans)». Aquesta menció és rellevant: acredita que el compromís de consens amb les altres institucions normatives es va complir."
+      },
+      {
+       "n": 0,
+       "t": "L’acord s’estructura en tres parts."
+      },
+      {
+       "n": 4,
+       "t": "a) Solucions ratificades"
+      },
+      {
+       "n": 0,
+       "t": "L’ús sense dièresi dels derivats cultes acabats en -al."
+      },
+      {
+       "n": 0,
+       "t": "La supressió del guionet en correcuita, cuitacorrents, a matadegolla, sucamulla."
+      },
+      {
+       "n": 0,
+       "t": "L’ús del guionet en els compostos amb guionet per raons fonètiques (nord-estejar, sud-americanització) i, de manera discrecional, quan els termes d’un compost no responen sempre a un concepte unitari."
+      },
+      {
+       "n": 0,
+       "t": "La duplicació de la r en les paraules formades amb els prefixos a- privatiu, co- (variant de con-) i e- (< ex-), i en els compostos formats amb els radicals raqui(o), reo, rin(o), riz(o) i rodo, i amb les terminacions -rafia, -ragia, -rea, -rexi, -rinc i -oide."
+      },
+      {
+       "n": 4,
+       "t": "b) Solucions modificades"
+      },
+      {
+       "n": 0,
+       "t": "La modificació més important afecta la regla del guionet amb prefixos. La solució de 2018 —posar guionet quan el prefix precedia una locució, un sintagma lexicalitzat o una paraula que ja duia guionet— se substitueix per una regla de separació amb espai."
+      },
+      {
+       "n": 0,
+       "t": "Regla general. Excepcions: el prefix va separat"
+      },
+      {
+       "n": 0,
+       "t": "En general, quan es formen nous mots per prefixació, el prefix va aglutinat a la paraula: asocial, exalcalde, sotssecretari, vicerector, proafroamericà, pluridisciplinari. També van aglutinats els casos, generalment associats a càrrecs, en què la unió del prefix i la primera paraula del compost ja representen una unitat lèxica preexistent: exvicepresident primer, subdirector general.. Quan el prefix precedix una locució lexicalitzada: N + Adj (pseudo casc blau, pro drets humans); Adj + N (vice primer ministre, ex alt càrrec); N + prep. + SN (anti pena de mort, pro llei de l’avortament); expressions llatines (pro pater familias, anti in vitro) i manlleus no adaptats (anti kale borroka, pro cante jondo). · Quan el prefix s’unix a una paraula amb un element gràfic específic: guionet (pseudo ciència-ficció, anti nord-americà, pro ping-pong), majúscula (ex Unió Soviètica), sigles (ex URSS), símbol (anti e-mail), xifra (sub 21), cometes (ex “hippy”) o cursiva (anti rock-and-roll)."
+      },
+      {
+       "n": 0,
+       "t": "La segona modificació afecta els casos d’homonímia: quan la prefixació puga donar lloc a formes homònimes o detonants, el prefix no anirà aglutinat —però tampoc amb guionet—: ex pres, pre ocupació, co rector, ex exiliat."
+      },
+      {
+       "n": 4,
+       "t": "c) Observacions complementàries"
+      },
+      {
+       "n": 0,
+       "t": "Tot i que l’accentuació diacrítica ha quedat reduïda a uns pocs casos, de manera discrecional es podrà mantenir l’accent diacrític quan el mot que l’ha perdut puga crear malentesos en contextos aïllats, «com ara en la retolació, cartells o indicadors». L’exemple de l’acord és el títol teatral Els ossos del tossal (‘part de l’esquelet’) enfront de Els óssos del tossal (‘animal’)."
+      },
+      {
+       "n": 0,
+       "t": "Per regla general, la negació no s’usa sense guionet davant de substantius i d’adjectius (la no confessionalitat, no militant). Discrecionalment, si interessa destacar un ús lexicalitzat com a prefix, es podrà marcar amb guionet; alguns d’aquests usos ja estan plenament consolidats i figuren en els diccionaris: no-jo, no-res, no-violència, no-metall."
+      }
+     ]
+    },
+    {
+     "titol": "10.5. La incorporació de les novetats a les gramàtiques",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-54-c351b7d4e0e13881.mp3",
+     "durada": 185.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.5. La incorporació de les novetats a les gramàtiques"
+      },
+      {
+       "n": 0,
+       "t": "Un acord normatiu no modifica per si sol el text de les obres: cal incorporar-hi els canvis. L’AVL ho ha fet i n’ha documentat el resultat en l’apartat «Modificacions» de l’aplicació Gramàtic-ON, que mostra els epígrafs afectats amb una convenció tipogràfica explícita: «Els afegiments s’indiquen en color blau i subratllats. Les supressions, en canvi, s’assenyalen en un color gris més tènue i amb la lletra ratllada»."
+      },
+      {
+       "n": 0,
+       "t": "Els epígrafs de la gramàtica que hi apareixen modificats permeten mesurar l’abast real de la revisió:"
+      },
+      {
+       "n": 0,
+       "t": "Epígraf. Matèria afectada"
+      },
+      {
+       "n": 0,
+       "t": "4.16. Les grafies r i rr"
+      },
+      {
+       "n": 0,
+       "t": "5.1.3. L’accentuació diacrítica"
+      },
+      {
+       "n": 0,
+       "t": "5.2. La dièresi"
+      },
+      {
+       "n": 0,
+       "t": "5.3. El guionet"
+      },
+      {
+       "n": 0,
+       "t": "5.4. L’apòstrof"
+      },
+      {
+       "n": 0,
+       "t": "6.3.3. Les sigles"
+      },
+      {
+       "n": 0,
+       "t": "23.4.1. El pronom ne"
+      },
+      {
+       "n": 0,
+       "t": "24.3.2. Els relatius"
+      },
+      {
+       "n": 0,
+       "t": "26.3.1.2. Els complements de temps"
+      },
+      {
+       "n": 0,
+       "t": "27.5. Els adverbis de temps"
+      },
+      {
+       "n": 0,
+       "t": "El detall és instructiu: els acords de 2018 i 2021 tenien per objecte les convencions ortogràfiques, però la seua incorporació a la gramàtica ha comportat també l’actualització d’epígrafs de morfosintaxi —el pronom ne, els relatius, els complements de temps, els adverbis de temps— i de les sigles. Això vol dir que la revisió del text de la GNV va més enllà del contingut estricte dels dos acords i que la versió vigent de la gramàtica és la que ofereix el Gramàtic-ON, no la de l’edició impresa del 2006 ni la de les seues reimpressions."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: QUINA VERSIÓ CAL CITAR En matèria lèxica, la versió normativa és la consulta electrònica del DNV (Resolució de 13.11.2017). En matèria gramatical no hi ha una resolució equivalent, però el resultat pràctic és el mateix: el text de la GNV i de la GVB actualitzat amb els acords de 2018 i 2021 és el que consta en l’aplicació Gramàtic-ON, i és el que s’ha de citar en un informe o en una correcció."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 11"
+      }
+     ]
+    },
+    {
+     "titol": "La norma gramatical davant els criteris de l’Administració",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-55-d59b82b560acc125.mp3",
+     "durada": 74.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "La norma gramatical davant els criteris de l’Administració"
+      },
+      {
+       "n": 0,
+       "t": "La normativa gramatical de l’AVL conviu amb els llibres d’estil i els criteris lingüístics de les administracions, de les universitats i dels mitjans. Delimitar-ne les fronteres és una competència professional central del tècnic de promoció lingüística, i l’Acadèmia ha tingut ocasió de fer-ho de manera sistemàtica en l’informe que va emetre sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada» que li va remetre la Direcció General de Política Lingüística i Gestió del Multilingüisme."
+      },
+      {
+       "n": 0,
+       "t": "L’informe és metodològicament exemplar perquè classifica les observacions segons la seua gravetat normativa: hi distingeix les qüestions que contradiuen la normativa lingüística de l’AVL de les que simplement difereixen de les recomanacions contingudes en les seues obres normatives. Aquesta gradació és, en si mateixa, la millor exposició pràctica de la distinció entre norma i model de llengua exposada en l’apartat 2.4."
+      }
+     ]
+    },
+    {
+     "titol": "11.1. Les qüestions que contradiuen la normativa",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-56-03ada01067d62641.mp3",
+     "durada": 148.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.1. Les qüestions que contradiuen la normativa"
+      },
+      {
+       "n": 0,
+       "t": "L’informe només situa en aquest bloc dos qüestions, totes dos de naturalesa gramatical, i és molt significatiu que siga així."
+      },
+      {
+       "n": 0,
+       "t": "Qüestió. Solució dels Criteris informats. Objecció de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "Les preposicions com i com a. Distinció entre com i com a segons que tinguen un valor predicatiu o comparatiu, apel·lant a «la tradició gramatical consolidada».. No s’ajusta al que establix la normativa fixada per l’AVL «tant en les gramàtiques com en el diccionari». L’Acadèmia hi afigeix que la tradició gramatical té «un valor de referència important, que cal tenir en compte per a no penalitzar determinats usos», però que «per als usos actuals de la Generalitat l’única referència vàlida ha de ser, perquè així ho establix la legislació vigent, la normativa de l’Acadèmia Valenciana de la Llengua»."
+      },
+      {
+       "n": 0,
+       "t": "Els pronoms adverbials en i hi. Criteris d’ús del pronom hi «molt més amplis que els establits en la Gramàtica normativa valenciana», presentats com a obligatoris.. Es plantegen com a obligatoris usos «no previstos en la normativa gramatical que, precisament per això, no són propis d’un llibre d’estil». L’informe reprodueix els exemples qüestionats: «A la Pobla hi tornaré…», «A la sol·licitud cal adjuntar-hi…», «En la reunió hi ha participat…», «Per aquell camí no hi passe mai»."
+      },
+      {
+       "n": 0,
+       "t": "El criteri que se’n desprèn és de gran valor pràctic: un llibre d’estil no pot convertir en obligatori allò que la norma no imposa, ni pot establir-hi distincions que la norma no reconeix. Pot triar, pot recomanar i pot prioritzar; no pot ampliar el perímetre de l’obligatorietat."
+      },
+      {
+       "n": 0,
+       "t": "L’informe assenyala també, en aquest mateix apartat, una qüestió de fet: l’ús de la paraula postposat, que «caldria corregir per posposat», perquè «el verb postposar no està acceptat pel DNV (ni per cap altre diccionari)»."
+      }
+     ]
+    },
+    {
+     "titol": "11.2. Les qüestions que en difereixen sense contradir-la",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-57-2d3ba221551d8ec5.mp3",
+     "durada": 360.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.2. Les qüestions que en difereixen sense contradir-la"
+      },
+      {
+       "n": 0,
+       "t": "El segon bloc reuneix les divergències de preferència. Ací no hi ha infracció de la norma, sinó separació de la solució prioritzada per l’Acadèmia. La llista és directament aprofitable com a bateria de casos gramaticals resolts."
+      },
+      {
+       "n": 0,
+       "t": "Qüestió. Solució dels Criteris informats. Preferència de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "Sistema d’accentuació. Accent greu en èmbol, tèrbol, trèmol, terratrèmol, trèvol, seguint «la tradició escrita més consolidada».. Formes principals émbol, térbol, trémol, terratrémol, trévol. L’AVL adverteix que «la tradició escrita» és un concepte difús i poc útil per a orientar els empleats públics, i que no seria coherent seguir l’accentuació general del valencià i aplicar en unes poques paraules un criteri diferent."
+      },
+      {
+       "n": 0,
+       "t": "Plural de home i jove. Preferència per homes i joves.. Formes de plural clàssiques i etimològiques, plenament vigents, en -ns: hòmens i jóvens. L’AVL remet a l’observació de la pàgina 101 de la GNV."
+      },
+      {
+       "n": 0,
+       "t": "Femenins dels substantius acabats en -eu. Preferència per hereva, jueva, romeva.. El DNV prioritza les formes en -a: hereua, jueua, romeua. L’AVL hi apunta, a més, que -eva no és un sufix sinó una terminació."
+      },
+      {
+       "n": 0,
+       "t": "Noms variables. Exemple el perit / la perita.. Formes planes el pèrit / la pèrita."
+      },
+      {
+       "n": 0,
+       "t": "Demostratius. Relegament dels demostratius simples a «discursos o escrits en què calga conservar la forma original o popular».. La GNV accepta plenament tant les formes simples com les reforçades. El relegament «no sols no s’adiu amb el criteri fixat per la normativa de l’AVL, sinó que fins i tot entra en contradicció amb el criteri d’esta institució de fer servir els demostratius simples en la llengua vehicular de les seues obres». No és adequat tractar-les com a pròpies del discurs col·loquial."
+      },
+      {
+       "n": 0,
+       "t": "Cardinal dos. Obligació de distingir gènere: dos masculí i dues femení.. El DNV dona com a principal la forma invariable dos i la variable dos / dues com a secundària."
+      },
+      {
+       "n": 0,
+       "t": "Ordinals. Formes cinqué, sisé, seté, huité.. Preferència per les formes de base llatina quint, sext, sèptim, octau."
+      },
+      {
+       "n": 0,
+       "t": "Verbs incoatius. Única solució: formes amb l’increment en -eix (serveixes, serveix, serveixen).. L’AVL dona servix / serveix com a variants equivalents. Hi suggerix, per equivalència funcional, que en el cas d’usar els demostratius simples és preferible fer servir també les formes incoatives amb l’increment en -ix."
+      },
+      {
+       "n": 0,
+       "t": "Present de subjuntiu de voler. —. L’AVL fa servir en les seues obres les formes palatals vullga, vullgues, vullga: «Són les úniques formes vives, i tenen una àmplia tradició gramatical»."
+      },
+      {
+       "n": 0,
+       "t": "Adverbis de lloc. Preferència per aquí i indicació que «en tot cas, caldrà evitar la forma ahí».. Contradiu la preferència expressada en el DNV per la forma viva actual ahí; segons l’AVL, «no hi ha cap fonament que permeta expressar aquest rebuig per la forma ahí»."
+      },
+      {
+       "n": 0,
+       "t": "Convé subratllar el cas dels demostratius, perquè és el més il·lustratiu de tot el conjunt. La GNV declara que les formes simples i les reforçades tenen el mateix valor normatiu —la convenció de la barra inclinada de l’apartat 7.1—, i l’AVL fa servir les simples en la llengua vehicular de les seues obres. Un llibre d’estil pot, doncs, triar les reforçades; el que no pot fer és qualificar les simples de col·loquials, perquè això no és una preferència sinó una recaracterització de registre que la norma no avala."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA REGLA QUE TANCA EL SISTEMA L’informe conclou amb el criteri general aplicable als empleats públics: el referent que se’ls ha de donar és la consulta de les obres normatives de l’AVL i, subsidiàriament, si no hi troben resposta als seus dubtes, poden consultar qualsevol altre diccionari o gramàtica. L’AVL hi afegeix que «seria desitjable disposar d’uns criteris estables i consolidats per al conjunt de les administracions públiques, a fi d’evitar que vagen canviant segons les vel·leïtats personals de cada redactor o les preferències del partit que governe en cada moment»."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 12"
+      }
+     ]
+    },
+    {
+     "titol": "Síntesi: dades, criteris i preceptes de memorització obligatòria",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-58-474ba568bc10eecb.mp3",
+     "durada": 7.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Síntesi: dades, criteris i preceptes de memorització obligatòria"
+      }
+     ]
+    },
+    {
+     "titol": "12.1. Cronologia de la normativa gramatical",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-59-5d1217deb3e29bfe.mp3",
+     "durada": 223.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.1. Cronologia de la normativa gramatical"
+      },
+      {
+       "n": 0,
+       "t": "Data. Fita"
+      },
+      {
+       "n": 0,
+       "t": "1915-1950. Fullana (1915), Ortín (1918), Revest (1930), Carles Salvador (des de 1933), Giner (1933) i Sanchis Guarner (1950): la doctrina gramatical que l’AVL declara assumir."
+      },
+      {
+       "n": 0,
+       "t": "21.12.1932. Normes de Castelló: punt de partida de la normativització consolidada, reconegut prescriptivament en l’article 4 de la Llei 7/1998."
+      },
+      {
+       "n": 0,
+       "t": "16.09.1998. Llei 7/1998: l’article 3 fixa els tres fonaments materials i l’article 7.a atribueix la determinació de la normativa oficial «en tots els seus aspectes»."
+      },
+      {
+       "n": 0,
+       "t": "25.03.2002. Acord del Ple sobre el referent normatiu: la lletra b reconeix com a oficials les característiques morfològiques i sintàctiques valencianes genuïnes (Resolució 10/2002)."
+      },
+      {
+       "n": 0,
+       "t": "20.05.2002. Acord de refosa i ampliació: desplega la lletra b en setze punts morfosintàctics (Resolució 12/2002)."
+      },
+      {
+       "n": 0,
+       "t": "09.02.2005. Acord 1/2005: el Dictamen fixa el model de codificació policèntrica alhora que convergent."
+      },
+      {
+       "n": 0,
+       "t": "02.12.2005. Acord 19/2005: el Ple de l’AVL aprova la Gramàtica normativa valenciana."
+      },
+      {
+       "n": 0,
+       "t": "2006. Publicació del Diccionari ortogràfic i de pronunciació del valencià (Textos Normatius, 1) i primera edició de la GNV (Textos Normatius, 2), amb reimpressions el desembre del 2006 i el setembre del 2008."
+      },
+      {
+       "n": 0,
+       "t": "16.11.2006. Presentació pública de la GNV i resolució de la Presidència sobre el seu caràcter obligatori."
+      },
+      {
+       "n": 0,
+       "t": "30.11.2006. Informació pública de l’edició de la GNV i del seu caràcter obligatori, DOGV núm. 5398 [2006/13554]."
+      },
+      {
+       "n": 0,
+       "t": "Febrer del 2016. Primera edició de la Gramàtica valenciana bàsica (Textos Normatius, 3); presentació pública l’abril del 2016."
+      },
+      {
+       "n": 0,
+       "t": "01.06.2018. Acord del Ple núm. 31/2018 sobre algunes convencions ortogràfiques: diacrítics, dièresi, guionet i duplicació de la r; règim transitori de tres anys."
+      },
+      {
+       "n": 0,
+       "t": "04.06.2021. Acord del Ple núm. 22/2021: ratifica, modifica i completa l’anterior, amb la coordinació de la Comissió mixta AVL-IEC."
+      }
+     ]
+    },
+    {
+     "titol": "12.2. Els criteris de fixació, en una taula",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-60-c740cbab7bf8a36d.mp3",
+     "durada": 155.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.2. Els criteris de fixació, en una taula"
+      },
+      {
+       "n": 0,
+       "t": "Criteri. Formulació. On es formula"
+      },
+      {
+       "n": 0,
+       "t": "Tradició literària i gramatical. Aval dels escriptors clàssics i de la doctrina dels gramàtics valencians.. Art. 3 de la Llei 7/1998; introducció de la GNV, § 1 i 2."
+      },
+      {
+       "n": 0,
+       "t": "Realitat lingüística genuïna. Priorització de les formes del valencià general, per a abastar el conjunt de l’àmbit geogràfic valencià.. Art. 3 de la Llei; GNV, § 1 i 3.3."
+      },
+      {
+       "n": 0,
+       "t": "Normativització consolidada. Respecte del cabal fixat a partir de les Normes de Castelló.. Art. 4 de la Llei; GNV, § 1; GVB, introducció."
+      },
+      {
+       "n": 0,
+       "t": "Convergència recíproca. Reducció de distàncies amb les altres varietats de la llengua compartida, potenciant la convergència recíproca.. Dictamen 1/2005; GNV, § 2 i 3.4; Acord 31/2018."
+      },
+      {
+       "n": 0,
+       "t": "Recuperació d’usos genuïns. Incorporació de formes o usos sintàctics genuïns que havien rebut poca atenció en les gramàtiques anteriors.. GNV, § 3.3 (l’ús de com a predicatiu)."
+      },
+      {
+       "n": 0,
+       "t": "Adequació a l’àmbit d’ús. Graduació per formalitat i per extensió geogràfica.. GNV, § 4; GVB, introducció."
+      },
+      {
+       "n": 0,
+       "t": "No estigmatització. Primar uns trets en les comunicacions formals no implica estigmatitzar les altres realitzacions.. GNV, cap. 1, § 1.1."
+      }
+     ]
+    },
+    {
+     "titol": "12.3. Quinze idees-força",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-61-3044d1628146d0e8.mp3",
+     "durada": 260.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.3. Quinze idees-força"
+      },
+      {
+       "n": 0,
+       "t": "La normativa gramatical no és un catàleg de formes correctes sinó un sistema de jerarquització de la variació: la GNV declara que ha de ser prescriptiva i orientativa alhora."
+      },
+      {
+       "n": 0,
+       "t": "La competència es fonamenta en els articles 3, 5, 7.a i 26 de la Llei 7/1998 i té cobertura estatutària en els articles 6.8 i 41 de l’Estatut d’autonomia."
+      },
+      {
+       "n": 0,
+       "t": "Tota decisió gramatical ha de justificar-se en tres fonaments acumulatius: tradició literària i gramatical, realitat lingüística genuïna valenciana i normativització consolidada a partir de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "El model de codificació és el policentrisme convergent, que l’AVL atribueix a Manuel Sanchis Guarner i vincula a la doctrina de Josep Giner, Carles Salvador i Enric Valor."
+      },
+      {
+       "n": 0,
+       "t": "La primera fixació de la norma gramatical són els acords del 2002: la lletra b de l’acord de 25 de març i els setze punts morfosintàctics de l’acord de 20 de maig."
+      },
+      {
+       "n": 0,
+       "t": "La GNV va ser aprovada pel Ple el 2 de desembre del 2005 (Acord 19/2005), presentada el 16 de novembre del 2006 i declarada d’aplicació obligatòria per la informació pública del DOGV núm. 5398, de 30 de novembre del 2006."
+      },
+      {
+       "n": 0,
+       "t": "La GNV té 408 pàgines i 38 capítols en quatre blocs: ortologia (1), ortografia (2-7), morfologia flexiva i sintaxi (8-35) i formació de paraules (36-38), amb annexos d’abreviatures i de gentilicis."
+      },
+      {
+       "n": 0,
+       "t": "Els dos principis que la GNV ha d’harmonitzar són la priorització de les solucions valencianes genuïnes i la convergència amb les solucions dels altres territoris de la llengua compartida."
+      },
+      {
+       "n": 0,
+       "t": "La priorització es fa a favor del valencià general, informant sempre de les variants minoritàries més esteses: tindre, menge, portara, tinguem, parle, partisca, vinguera."
+      },
+      {
+       "n": 0,
+       "t": "Les convencions de jerarquització són tres: barra inclinada (mateix valor normatiu), parèntesis (variant secundària respecte de la forma preferible en els usos formals valencians) i dos cossos de lletra (norma i observació)."
+      },
+      {
+       "n": 0,
+       "t": "En ortologia, la gradació és de tres graus: realitzacions pròpies del valencià estàndard, acceptables i no recomanables; i primar unes formes no implica estigmatitzar-ne cap altra."
+      },
+      {
+       "n": 0,
+       "t": "La llengua de l’Administració ha d’usar formes i usos formals i d’àmbit general i exclou l’alternança de registres i de variants; la llengua literària i personal admet un grau de variació molt més ampli."
+      },
+      {
+       "n": 0,
+       "t": "La GVB (2016, Textos Normatius 3, 332 p., 42 capítols en tres blocs) no és una gramàtica distinta sinó una versió divulgativa de la mateixa doctrina, amb apartats breus, terminologia simplificada i sense observacions històriques."
+      },
+      {
+       "n": 0,
+       "t": "Els acords 31/2018 i 22/2021 modifiquen les convencions ortogràfiques: reducció de l’accent diacrític a quinze casos, dièresi, guionet i duplicació de la r; el segon substitueix el guionet per la separació amb espai en la prefixació sobre locucions i elements gràfics especials."
+      },
+      {
+       "n": 0,
+       "t": "La versió vigent de la norma gramatical és el text de les gramàtiques actualitzat amb els acords de 2018 i 2021, tal com consta en l’aplicació Gramàtic-ON."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 13"
+      }
+     ]
+    },
+    {
+     "titol": "Per a ampliar",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-62-dcb6b887cc0c0cbd.mp3",
+     "durada": 16.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Per a ampliar"
+      },
+      {
+       "n": 0,
+       "t": "Les línies següents no formen part del contingut mínim exigible, però permeten respondre amb solvència les preguntes de matís i, sobretot, les de la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "13.1. Per què una gramàtica normativa incorpora ortologia i ortografia",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-63-f926fb1ce3512e68.mp3",
+     "durada": 78.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.1. Per què una gramàtica normativa incorpora ortologia i ortografia"
+      },
+      {
+       "n": 0,
+       "t": "És una pregunta que un tribunal pot formular directament, i la resposta té dos nivells. El nivell tècnic el dona la mateixa GNV: la gramàtica en sentit estricte és morfologia i sintaxi, i l’ortografia i la pronunciació s’hi inclouen «a causa del seu interés normatiu» i «d’acord amb una llarga tradició en els manuals gramaticals prescriptius». El nivell sociolingüístic el dona la GVB: la GNV es va redactar «amb la voluntat d’actualitzar l’herència rebuda i adequar-la a les circumstàncies sociolingüístiques d’aquest nou mil·lenni, en què els registres funcionals, i especialment l’expressió oral, han adquirit un protagonisme creixent»."
+      },
+      {
+       "n": 0,
+       "t": "S’hi pot afegir un tercer argument, de política lingüística: en una llengua minoritzada amb un sistema educatiu que ha de formar parlants competents en els registres formals, la separació entre ortografia i gramàtica seria disfuncional, perquè obligaria l’usuari a consultar dos obres per a resoldre un sol dubte."
+      }
+     ]
+    },
+    {
+     "titol": "13.2. La distinció entre variació i error",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-64-7b435718a8bbb5cc.mp3",
+     "durada": 84.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.2. La distinció entre variació i error"
+      },
+      {
+       "n": 0,
+       "t": "La normativa gramatical de l’AVL descansa sobre una distinció que convé saber formular: la variació no és error. El Ple ho va enunciar en l’acord de 20 de maig del 2002 en dir que les decisions de l’Acadèmia «no poden prescriure amb criteris excloents de formes vives, de territoris, de col·lectius de parlants, de situacions generals de la llengua i de les situacions de comunicació», i que «tota dualitat o multiplicitat de paraules i usos lingüístics no és normativa sinó pragmàtica, i destinada a evolucionar o simplificar-se diacrònicament»."
+      },
+      {
+       "n": 0,
+       "t": "La GNV ho reprén en el pla ortoèpic amb la cautela ja citada: primar uns trets en les comunicacions formals «no hauria d’implicar de cap manera estigmatitzar qualsevol altra realització». I hi afig un argument sovint oblidat: si unes realitzacions «poden resultar vulgars en alguns contexts», unes altres «poden resultar afectades, i per tant igualment inadequades, en altres situacions comunicatives». L’adequació, doncs, funciona en els dos sentits: també es pot errar per excés de formalitat."
+      }
+     ]
+    },
+    {
+     "titol": "13.3. La normativa gramatical i el treball del tècnic lingüístic",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-65-86cf04f3134acf47.mp3",
+     "durada": 69.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.3. La normativa gramatical i el treball del tècnic lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "Traduïda a la pràctica professional, tota la doctrina exposada es condensa en un protocol de consulta de quatre passos:"
+      },
+      {
+       "n": 0,
+       "t": "Comprovar que la forma o la construcció figura en la GNV o en la GVB, en la versió actualitzada del Gramàtic-ON."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar com hi està presentada: si va amb barra inclinada, té el mateix valor normatiu que l’altra variant; si va entre parèntesis, és secundària i la preferible és la que la precedix."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar en quin cos de lletra apareix: si està en una observació, és informació complementària o diatòpica, no orientació normativa bàsica."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar la coherència amb la resta del text i amb el model de llengua adoptat per l’organisme: la norma permet optar entre variants del mateix rang, però la llengua administrativa exclou l’alternança de registres i de variants."
+      }
+     ]
+    },
+    {
+     "titol": "13.4. Lectures recomanades",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-66-0aff0aa5f7ccf9f3.mp3",
+     "durada": 91.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.4. Lectures recomanades"
+      },
+      {
+       "n": 0,
+       "t": "La introducció completa de la GNV, especialment els apartats 2 (criteris inspiradors), 3 (criteris d’elaboració) i 4 (criteris i àmbits d’ús): és el text doctrinal fonamental del tema i s’hi troben formulades totes les nocions que la resta de l’obra aplica sense explicar."
+      },
+      {
+       "n": 0,
+       "t": "El capítol 1 de la GNV, sobre la pronunciació estàndard: conté la definició institucional de llengua estàndard i la gradació ortoèpica de tres graus."
+      },
+      {
+       "n": 0,
+       "t": "La introducció de la GVB: la millor síntesi disponible de la tradició gramatical valenciana i de la relació entre les dos gramàtiques."
+      },
+      {
+       "n": 0,
+       "t": "El text íntegre dels acords 31/2018 i 22/2021: no sols pel contingut, sinó perquè documenten el procediment intern d’aprovació d’un acord normatiu."
+      },
+      {
+       "n": 0,
+       "t": "L’apartat «Modificacions» del Gramàtic-ON: permet veure exactament què ha canviat en el text de les gramàtiques i on."
+      },
+      {
+       "n": 0,
+       "t": "L’informe de l’AVL sobre els «Criteris lingüístics»: model de com es delimita la frontera entre normativa i model de llengua, amb casos gramaticals concrets resolts."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 14"
+      }
+     ]
+    },
+    {
+     "titol": "Bibliografia i fonts",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-67-4b62e909fa3f9e55.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Bibliografia i fonts"
+      }
+     ]
+    },
+    {
+     "titol": "14.1. Fonts normatives",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-68-c345c4bc47395404.mp3",
+     "durada": 66.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.1. Fonts normatives"
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana (arts. 6.8 i 41)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua (arts. 3, 4, 5, 7 i 26)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’Acadèmia Valenciana de la Llengua (disposició addicional, sobre les normes internes de procediment; arts. 45-50, sobre les seccions)."
+      }
+     ]
+    },
+    {
+     "titol": "14.2. Acords i resolucions de l’Acadèmia Valenciana de la Llengua",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-69-848e20a29c1937df.mp3",
+     "durada": 182.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.2. Acords i resolucions de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 25 de març del 2002, pel qual s’aprova el referent normatiu oficial del valencià. Resolució 10/2002, de 4 d’abril, de la Presidència de l’AVL. DOGV, núm. 4.229, de 16 d’abril del 2002 [2002/X3440]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 20 de maig del 2002, en què es refon i es complementa l’acord de 25 de març del 2002 i s’emet dictamen sobre la consulta formulada pel conseller de Cultura i Educació. Resolució 12/2002, de 31 de maig, de la Presidència de l’AVL [2002/A6019]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià (Acord 1/2005, de 9 de febrer). València: Publicacions de l’AVL, 2005. Col·lecció Documents, 4. DOGV, núm. 4.983, de 12 d’abril del 2005."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord 19/2005 del Ple, de 2 de desembre, pel qual s’aprova la Gramàtica normativa valenciana."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Informació pública de l’edició de la Gramàtica normativa valenciana i del seu caràcter obligatori. DOGV, núm. 5398, de 30 de novembre del 2006 [2006/13554]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord núm. 31/2018 pel qual s’aprova l’acord normatiu sobre algunes convencions ortogràfiques, d’1 de juny del 2018."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord núm. 22/2021, de caràcter normatiu, pel qual es resolen les qüestions ortogràfiques que quedaven pendents en l’Acord del Ple núm. 31/2018, de 4 de juny del 2021."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Informe sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada»."
+      }
+     ]
+    },
+    {
+     "titol": "14.3. Obres normatives de l’AVL",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-70-a7ebeb209356f980.mp3",
+     "durada": 132.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.3. Obres normatives de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica normativa valenciana. València: Publicacions de l’AVL, 2006. Col·lecció Textos Normatius, 2. ISBN 978-84-482-4422-4. 408 p. Primera edició: setembre del 2006; primera reimpressió: desembre del 2006; segona reimpressió: setembre del 2008."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica valenciana bàsica. València: Publicacions de l’AVL, 2016. Col·lecció Textos Normatius, 3. ISBN 978-84-482-6070-5. 332 p. Primera edició: febrer del 2016."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari ortogràfic i de pronunciació del valencià. València: Publicacions de l’AVL, 2006. Col·lecció Textos Normatius, 1. ISBN 978-84-7890-040-4. 916 p."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari normatiu valencià. València: Publicacions de l’AVL, 2016. Col·lecció Textos Normatius, 4. [1a ed. electrònica: 2014]."
+      }
+     ]
+    },
+    {
+     "titol": "14.4. Recursos en línia",
+     "audio": "audio/tema-02-la-normativa-gramatical-fixada-per-l-avl-b-71-a882b69237b1fca1.mp3",
+     "durada": 137.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.4. Recursos en línia"
+      },
+      {
+       "n": 0,
+       "t": "Aplicació Gramàtic-ON (Gramàtiques Normatives Valencianes): accés conjunt a la GNV i a la GVB, amb els apartats de presentació, introducció, convencions usades, símbols fonètics i modificacions, i consulta per índex, per text lliure o per termes gramaticals."
+      },
+      {
+       "n": 0,
+       "t": "Acadèmia Valenciana de la Llengua: avl.gva.es, apartats «Documents normatius», «Acords», «Publicacions» i «Seccions i comissions»."
+      },
+      {
+       "n": 0,
+       "t": "Diccionari normatiu valencià en línia, en el web de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "Diari Oficial de la Generalitat Valenciana: dogv.gva.es."
+      },
+      {
+       "n": 0,
+       "t": "NOTA DE VERIFICACIÓ Tot el contingut d’aquest tema procedix de fonts primàries: els textos íntegres dels acords normatius de 25 de març i 20 de maig del 2002 publicats en el DOGV; el text íntegre de la Gramàtica normativa valenciana (409 pàgines de l’edició digital consultada, amb la reimpressió del 2008) i de la Gramàtica valenciana bàsica (334 pàgines); els apartats documentals de l’aplicació Gramàtic-ON —presentació, introducció, convencions usades, símbols fonètics i modificacions—; els textos íntegres dels acords del Ple núm. 31/2018 i núm. 22/2021; la informació pública publicada en el DOGV núm. 5398, de 30 de novembre del 2006; l’informe de l’AVL sobre els «Criteris lingüístics»; les fitxes bibliogràfiques institucionals de l’Acadèmia, i els preceptes de la Llei 7/1998 i de l’Estatut d’autonomia. Atés que el text de les gramàtiques s’ha actualitzat amb els acords del 2018 i del 2021, convé contrastar qualsevol epígraf concret amb la versió vigent de l’aplicació Gramàtic-ON abans de l’examen."
       }
      ]
     }
