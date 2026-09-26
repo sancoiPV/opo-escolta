@@ -1,6 +1,6 @@
 {
  "titol": "Opo A2-02-09",
- "versio": "4fdc54ead7",
+ "versio": "cf5b6309bc",
  "veu": "edge|ca-ES-JoanaNeural|+0%",
  "temes": [
   {
@@ -6249,6 +6249,3008 @@
       {
        "n": 0,
        "t": "NOTA DE VERIFICACIÓ Tot el contingut d’aquest tema procedix de fonts primàries: els textos íntegres dels acords normatius de 25 de març i 20 de maig del 2002 publicats en el DOGV; el text íntegre de la Gramàtica normativa valenciana (409 pàgines de l’edició digital consultada, amb la reimpressió del 2008) i de la Gramàtica valenciana bàsica (334 pàgines); els apartats documentals de l’aplicació Gramàtic-ON —presentació, introducció, convencions usades, símbols fonètics i modificacions—; els textos íntegres dels acords del Ple núm. 31/2018 i núm. 22/2021; la informació pública publicada en el DOGV núm. 5398, de 30 de novembre del 2006; l’informe de l’AVL sobre els «Criteris lingüístics»; les fitxes bibliogràfiques institucionals de l’Acadèmia, i els preceptes de la Llei 7/1998 i de l’Estatut d’autonomia. Atés que el text de les gramàtiques s’ha actualitzat amb els acords del 2018 i del 2021, convé contrastar qualsevol epígraf concret amb la versió vigent de l’aplicació Gramàtic-ON abans de l’examen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tema-03-la-normativa-lexica-definida-per-l-avl-bo",
+   "titol": "Tema 3. La normativa lèxica definida per l’Acadèmia Valenciana de la Llengua",
+   "fitxer": "Tema 03 - La normativa lèxica definida per l'AVL_bo.docx",
+   "seccions": [
+    {
+     "titol": "Introducció",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-01-055cbe98fdfbc1d8.mp3",
+     "durada": 594.5,
+     "text": [
+      {
+       "n": 3,
+       "t": "TEMARI D’OPOSICIÓ · CONVOCATÒRIA 35/26"
+      },
+      {
+       "n": 0,
+       "t": "Cos tècnic facultatiu A2-02 · Escala tècnica facultativa de promoció lingüística (A2-02-09)"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 3"
+      },
+      {
+       "n": 3,
+       "t": "La normativa lèxica definida per"
+      },
+      {
+       "n": 3,
+       "t": "l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "Criteris de selecció, jerarquització de variants i abast de l’inventari"
+      },
+      {
+       "n": 0,
+       "t": "FONTS PRIMÀRIES DEL TEMA Acord del Ple de l’AVL de 25 de març del 2002 (Resolució 10/2002) i acord del Ple de 20 de maig del 2002 (Resolució 12/2002), amb el repertori lèxic i fraseològic complet Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià (Acord 1/2005), punts 7, 8 i 9 Diccionari ortogràfic i de pronunciació del valencià (2006): Introducció, criteris inspiradors, criteris d’elaboració i criteris i àmbits d’ús Diccionari normatiu valencià: Introducció, «Criteris d’ús» (16 apartats) i «Abreviatures», en la versió electrònica oficial de l’AVL Resolució de 13 de novembre del 2017, de la Presidència de l’AVL, sobre el caràcter normatiu del DNV (DOGV núm. 8184, de 5 de desembre del 2017) «Actualitzacions del Diccionari normatiu valencià»: modificacions aprovades pel Ple entre el 2017 i el 2026 (285 pàgines) Informe de l’AVL sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada» Llei 7/1998, de creació de l’AVL (arts. 3, 5 i 7) i Estatut d’autonomia (arts. 6.8 i 41)"
+      },
+      {
+       "n": 3,
+       "t": "ÍNDEX"
+      },
+      {
+       "n": 3,
+       "t": "1.  Presentació i orientació del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.1.  Delimitació conceptual: què és la normativa lèxica"
+      },
+      {
+       "n": 0,
+       "t": "1.2.  L’arquitectura de la normativa lèxica de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "1.3.  Advertiment metodològic sobre el model de llengua"
+      },
+      {
+       "n": 3,
+       "t": "2.  El fonament jurídic i doctrinal de la competència lèxica"
+      },
+      {
+       "n": 0,
+       "t": "2.1.  Els preceptes habilitadors: articles 3, 5 i 7.a de la Llei 7/1998"
+      },
+      {
+       "n": 0,
+       "t": "2.2.  Els tres fonaments materials de tota decisió lèxica"
+      },
+      {
+       "n": 0,
+       "t": "2.3.  El Dictamen del 2005: policentrisme convergent i lèxic"
+      },
+      {
+       "n": 0,
+       "t": "2.4.  Normativa i model de llengua: dos plans que no s’han de confondre"
+      },
+      {
+       "n": 3,
+       "t": "3.  La primera fixació de la norma lèxica: els acords del 2002"
+      },
+      {
+       "n": 0,
+       "t": "3.1.  L’acord de 25 de març del 2002: els tres àmbits de reconeixement"
+      },
+      {
+       "n": 0,
+       "t": "3.2.  L’acord de 20 de maig del 2002: els quatre criteris interpretatius"
+      },
+      {
+       "n": 0,
+       "t": "3.3.  El referent normatiu transitori i el programa SALT 2.0"
+      },
+      {
+       "n": 0,
+       "t": "3.4.  Les dos claus de lectura del repertori: orde de preferència i asterisc"
+      },
+      {
+       "n": 0,
+       "t": "3.5.  Les grafies reconegudes com a oficials (apartat 1 de l’acord)"
+      },
+      {
+       "n": 0,
+       "t": "3.6.  El repertori lèxic i fraseològic (apartat 3 de l’acord)"
+      },
+      {
+       "n": 0,
+       "t": "3.7.  Valor actual dels acords del 2002"
+      },
+      {
+       "n": 3,
+       "t": "4.  Els criteris de selecció del lèxic: la doctrina del DOPV"
+      },
+      {
+       "n": 0,
+       "t": "4.1.  Els dos principis bàsics: priorització i convergència"
+      },
+      {
+       "n": 0,
+       "t": "4.2.  La tipologia d’entrades: principals, secundàries i no recomanades"
+      },
+      {
+       "n": 0,
+       "t": "4.3.  La priorització sistemàtica de les formes valencianes"
+      },
+      {
+       "n": 0,
+       "t": "4.4.  La convergència amb les altres varietats de l’idioma"
+      },
+      {
+       "n": 0,
+       "t": "4.5.  Criteris i àmbits d’ús: formalitat i extensió geogràfica"
+      },
+      {
+       "n": 0,
+       "t": "4.6.  Conseqüències per a la llengua de l’Administració"
+      },
+      {
+       "n": 3,
+       "t": "5.  El Diccionari normatiu valencià: naturalesa i règim jurídic"
+      },
+      {
+       "n": 0,
+       "t": "5.1.  Elaboració, aprovació i publicació"
+      },
+      {
+       "n": 0,
+       "t": "5.2.  La Resolució de 13 de novembre del 2017"
+      },
+      {
+       "n": 0,
+       "t": "5.3.  Dimensions i dades de l’obra"
+      },
+      {
+       "n": 0,
+       "t": "5.4.  Els antecedents lexicogràfics que l’AVL reconeix"
+      },
+      {
+       "n": 3,
+       "t": "6.  Els criteris d’ús del DNV: la formalització de la norma lèxica"
+      },
+      {
+       "n": 0,
+       "t": "6.1.  L’estructura de l’article lexicogràfic"
+      },
+      {
+       "n": 0,
+       "t": "6.2.  L’entrada: homògrafes, variants i estrangerismes"
+      },
+      {
+       "n": 0,
+       "t": "6.3.  Definició perifràstica i definició per remissió: la clau de la jerarquia"
+      },
+      {
+       "n": 0,
+       "t": "6.4.  Les subentrades: la fraseologia com a objecte de norma"
+      },
+      {
+       "n": 0,
+       "t": "6.5.  Exemples, informació complementària i flexió verbal"
+      },
+      {
+       "n": 3,
+       "t": "7.  El sistema de marques: la graduació de la normativitat"
+      },
+      {
+       "n": 0,
+       "t": "7.1.  Les marques d’ús"
+      },
+      {
+       "n": 0,
+       "t": "7.2.  Les marques temàtiques i el lèxic d’especialitat"
+      },
+      {
+       "n": 0,
+       "t": "7.3.  Les marques de llengua d’origen"
+      },
+      {
+       "n": 0,
+       "t": "7.4.  Les marques d’intenció del parlant"
+      },
+      {
+       "n": 0,
+       "t": "7.5.  La marca «en recessió» (2024)"
+      },
+      {
+       "n": 0,
+       "t": "7.6.  La regla operativa per al registre formal"
+      },
+      {
+       "n": 3,
+       "t": "8.  Quin lèxic forma part de la normativa: l’abast de l’inventari"
+      },
+      {
+       "n": 0,
+       "t": "8.1.  El lèxic patrimonial valencià i les recuperacions"
+      },
+      {
+       "n": 0,
+       "t": "8.2.  Les variants d’altres territoris de la llengua compartida"
+      },
+      {
+       "n": 0,
+       "t": "8.3.  Col·loquialismes, vulgarismes i llenguatge infantil"
+      },
+      {
+       "n": 0,
+       "t": "8.4.  Arcaismes i termes obsolets"
+      },
+      {
+       "n": 0,
+       "t": "8.5.  Estrangerismes, manlleus i llatinismes"
+      },
+      {
+       "n": 0,
+       "t": "8.6.  Sigles, acrònims i unitats de mesura"
+      },
+      {
+       "n": 0,
+       "t": "8.7.  Terminologia especialitzada: la frontera amb el Portal Terminològic Valencià"
+      },
+      {
+       "n": 0,
+       "t": "8.8.  Onomàstica: gentilicis, antropònims i topònims"
+      },
+      {
+       "n": 0,
+       "t": "8.9.  Fraseologia i unitats lèxiques complexes"
+      },
+      {
+       "n": 0,
+       "t": "8.10.  Quadre de síntesi de l’abast de l’inventari"
+      },
+      {
+       "n": 3,
+       "t": "9.  L’actualització permanent de la norma lèxica"
+      },
+      {
+       "n": 0,
+       "t": "9.1.  El procediment: de la Secció de Lexicografia i Gramàtica al Ple"
+      },
+      {
+       "n": 0,
+       "t": "9.2.  La tipologia de modificacions"
+      },
+      {
+       "n": 0,
+       "t": "9.3.  Les dades del període 2017-2026"
+      },
+      {
+       "n": 0,
+       "t": "9.4.  Exemples significatius de l’última etapa"
+      },
+      {
+       "n": 3,
+       "t": "10.  La norma lèxica davant els criteris lingüístics de l’Administració"
+      },
+      {
+       "n": 0,
+       "t": "10.1.  L’informe de l’AVL sobre els «Criteris lingüístics»"
+      },
+      {
+       "n": 0,
+       "t": "10.2.  Els casos lèxics concrets de divergència"
+      },
+      {
+       "n": 0,
+       "t": "10.3.  La regla de consulta per als empleats públics"
+      },
+      {
+       "n": 3,
+       "t": "11.  Síntesi: dades, criteris i preceptes de memorització obligatòria"
+      },
+      {
+       "n": 3,
+       "t": "12.  Per a ampliar"
+      },
+      {
+       "n": 3,
+       "t": "13.  Bibliografia i fonts"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 3"
+      }
+     ]
+    },
+    {
+     "titol": "Presentació i orientació del tema",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-02-031433f1effcde2b.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Presentació i orientació del tema"
+      }
+     ]
+    },
+    {
+     "titol": "1.1. Delimitació conceptual: què és la normativa lèxica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-03-7e2bd88d61a14cad.mp3",
+     "durada": 205.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.1. Delimitació conceptual: què és la normativa lèxica"
+      },
+      {
+       "n": 0,
+       "t": "L’enunciat oficial del tema —La normativa lèxica definida per l’Acadèmia Valenciana de la Llengua— no demana la descripció d’una obra, sinó l’exposició d’un cos de doctrina. La normativa lèxica és el conjunt de decisions per les quals la institució normativa determina quines unitats lèxiques pertanyen a la llengua, quina forma gràfica i fònica han de tenir, quin significat se’ls atribueix i en quins àmbits d’ús són adequades. No es tracta, per tant, d’un inventari tancat de paraules correctes enfront de paraules incorrectes, sinó d’un sistema graduat que ordena la variació."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta precisió inicial és decisiva per a respondre bé el tema. Un opositor que identifique la normativa lèxica amb el Diccionari normatiu valencià (DNV) haurà contestat només una part de la pregunta, i probablement la menys valorada. El DNV és l’instrument que concreta i fa consultable la norma lèxica; però la norma lèxica és anterior al diccionari, el desborda i el continua: està formulada en els acords normatius del 2002, desplegada doctrinalment en el Diccionari ortogràfic i de pronunciació del valencià (DOPV) del 2006, fonamentada teòricament en el Dictamen del 2005 i actualitzada mensualment pel Ple de l’Acadèmia."
+      },
+      {
+       "n": 0,
+       "t": "Convé, doncs, distingir amb claredat quatre plans que sovint es confonen:"
+      },
+      {
+       "n": 0,
+       "t": "Pla. Contingut. Instruments"
+      },
+      {
+       "n": 0,
+       "t": "Competència. La potestat jurídica de determinar la normativa lèxica i el règim d’eficàcia de les decisions.. Llei 7/1998, arts. 3, 5 i 7.a; Estatut d’autonomia, arts. 6.8 i 41."
+      },
+      {
+       "n": 0,
+       "t": "Criteris. Els principis materials que han de guiar tota decisió lèxica: què es recupera, què es prioritza, què es rebutja i per què.. Dictamen del CVC (1998), Llei 7/1998 (art. 3), acords del 2002, Dictamen 1/2005, Introducció del DOPV."
+      },
+      {
+       "n": 0,
+       "t": "Codificació. La plasmació de la norma en un repertori estructurat, amb entrades jerarquitzades, definicions i marques.. DOPV (2006), DNV (2014 en línia, 2016 imprés), Vocabulari de noms de persona, Portal Terminològic Valencià."
+      },
+      {
+       "n": 0,
+       "t": "Aplicació. La selecció, dins del que és normatiu, del que és adequat a cada àmbit d’ús.. Marques d’ús del DNV, capítol «Criteris i àmbits d’ús» del DOPV, informes de l’AVL sobre llibres d’estil."
+      }
+     ]
+    },
+    {
+     "titol": "1.2. L’arquitectura de la normativa lèxica de l’AVL",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-04-ead3df138f3b9871.mp3",
+     "durada": 184.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.2. L’arquitectura de la normativa lèxica de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "L’esquema següent ordena la matèria en cinc estrats de concreció descendent. Retenir-lo permet situar qualsevol pregunta —de test o de desenvolupament— en el lloc que li correspon i, sobretot, no confondre el que és norma amb el que és recomanació d’ús."
+      },
+      {
+       "n": 0,
+       "t": "Estrat. Instrument. Aportació a la norma lèxica"
+      },
+      {
+       "n": 0,
+       "t": "1. Principis. Dictamen del Consell Valencià de Cultura (1998) i article 3 de la Llei 7/1998. Fixa els tres fonaments materials: tradició lexicogràfica i literària, realitat lingüística genuïna valenciana i normativització consolidada a partir de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "2. Doctrina. Dictamen 1/2005, punts 7, 8 i 9. Estableix el model de codificació: policèntric alhora que convergent, amb versions valencianes pròpies i un model convergent per als usos d’abast general."
+      },
+      {
+       "n": 0,
+       "t": "3. Primera norma. Acords del Ple de 25 de març i de 20 de maig del 2002. Reconeixen com a oficials grafies, trets morfosintàctics i un repertori lèxic i fraseològic valencià, i declaren oficials els continguts del SALT 2.0."
+      },
+      {
+       "n": 0,
+       "t": "4. Codificació. DOPV (2006) i DNV (2014/2016). Sistematitzen la norma en entrades principals, secundàries i no recomanades, i hi afegeixen definicions, accepcions, subentrades i marques d’ús."
+      },
+      {
+       "n": 0,
+       "t": "5. Actualització. Acords mensuals del Ple des del 2017. Incorporen articles, accepcions i locucions noves, modifiquen definicions i reajusten marques; el text vigent és sempre la versió electrònica."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA IDEA-FORÇA DEL TEMA La normativa lèxica de l’AVL no funciona per exclusió sinó per jerarquització. El sistema no diu, en general, «açò és incorrecte»; diu «açò és principal», «açò és secundari», «açò no és recomanable en registres formals», «açò és col·loquial», «açò és antic». La correcció s’hi resol, per tant, en dos preguntes successives: és normatiu? i és adequat a aquest àmbit d’ús?"
+      }
+     ]
+    },
+    {
+     "titol": "1.3. Advertiment metodològic sobre el model de llengua",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-05-c2db82ac28888e0e.mp3",
+     "durada": 65.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.3. Advertiment metodològic sobre el model de llengua"
+      },
+      {
+       "n": 0,
+       "t": "ADVERTIMENT METODOLÒGIC Els acords, els dictàmens i les obres normatives de l’AVL es reprodueixen ací en la seua redacció original. Això explica que en les citacions literals apareguen formes com este, servici, orde, establix, hui o perjuí, pròpies del model de llengua de l’Acadèmia, mentre que la redacció d’aquest tema seguix el model de les universitats valencianes (aquest, servei, ordre, estableix, avui, perjudici). La distinció no és accessòria: totes dos sèries de formes són normatives —el tema ho explica en l’apartat 2.4—, però pertanyen a models de llengua distints. En un examen, la citació literal d’una norma s’ha de respectar; la redacció pròpia, no."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 2"
+      }
+     ]
+    },
+    {
+     "titol": "El fonament jurídic i doctrinal de la competència lèxica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-06-15a019e6112349ca.mp3",
+     "durada": 6.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "El fonament jurídic i doctrinal de la competència lèxica"
+      }
+     ]
+    },
+    {
+     "titol": "2.1. Els preceptes habilitadors: articles 3, 5 i 7.a de la Llei 7/1998",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-07-a91b0f7b82dcacea.mp3",
+     "durada": 187.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.1. Els preceptes habilitadors: articles 3, 5 i 7.a de la Llei 7/1998"
+      },
+      {
+       "n": 0,
+       "t": "La competència de l’AVL per a fixar el lèxic no és una competència implícita ni derivada: està expressament atribuïda per llei i té cobertura estatutària. Tres preceptes de la Llei 7/1998, de 16 de setembre, de creació de l’Acadèmia Valenciana de la Llengua, constitueixen el títol habilitant."
+      },
+      {
+       "n": 0,
+       "t": "Precepte. Contingut. Projecció sobre el lèxic"
+      },
+      {
+       "n": 0,
+       "t": "Art. 3. L’AVL té per funció determinar i elaborar la normativa lingüística de l’idioma valencià, i vetlar pel valencià partint de la tradició lexicogràfica i literària, la realitat lingüística genuïna valenciana i la normativització consolidada a partir de les Normes de Castelló.. És el precepte que introdueix la tradició lexicogràfica com a fonament exprés. Els tres criteris de l’article 3 es reprodueixen literalment en els acords del 2002 i en els criteris inspiradors del DOPV."
+      },
+      {
+       "n": 0,
+       "t": "Art. 5. Les decisions de l’AVL han de ser observades per les institucions de la Generalitat, els poders públics, la resta d’administracions, el sistema educatiu i els mitjans, entitats, organismes i empreses de titularitat pública o amb finançament públic.. Converteix la norma lèxica en obligatòria per a l’Administració. És el fonament de l’exigència que els empleats públics consulten el DNV i el Portal Terminològic Valencià."
+      },
+      {
+       "n": 0,
+       "t": "Art. 7.a. Correspon a l’AVL determinar la normativa oficial del valencià en tots els seus aspectes.. La fórmula «en tots els seus aspectes» inclou expressament el nivell lèxic, al costat de l’ortogràfic i el gramatical. És la base competencial invocada en els dos acords del 2002."
+      },
+      {
+       "n": 0,
+       "t": "Des del 2006, aquest règim té a més cobertura estatutària: l’article 6.8 de l’Estatut d’autonomia declara l’AVL la institució normativa de l’idioma valencià, i l’article 41 disposa que la seua normativa lingüística és d’aplicació obligatòria a totes les administracions públiques de la Comunitat Valenciana. La mateixa Acadèmia recorda aquesta doble cobertura en l’informe que va emetre sobre els criteris lingüístics de la Generalitat, en el qual conclou que «per als usos actuals de la Generalitat l’única referència vàlida ha de ser, perquè així ho estableix la legislació vigent, la normativa de l’Acadèmia Valenciana de la Llengua»."
+      }
+     ]
+    },
+    {
+     "titol": "2.2. Els tres fonaments materials de tota decisió lèxica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-08-b3990cf48a3ac2aa.mp3",
+     "durada": 135.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.2. Els tres fonaments materials de tota decisió lèxica"
+      },
+      {
+       "n": 0,
+       "t": "L’article 3 de la Llei no es limita a atribuir una funció: en condiciona l’exercici. Tota decisió lèxica de l’AVL ha de poder justificar-se en tres fonaments acumulatius, que la institució repeteix de manera invariable en tots els textos normatius."
+      },
+      {
+       "n": 0,
+       "t": "La tradició lexicogràfica i literària. No és una remissió genèrica al passat: és la comprovació documental que una forma o un significat estan avalats pels escriptors clàssics dels segles xiii a xvi i pels lexicògrafs valencians. La introducció del DNV desplega aquesta tradició en una genealogia explícita que va del Liber elegantiarum de Joan Esteve (1489) fins al Diccionari valencià de 1995."
+      },
+      {
+       "n": 0,
+       "t": "La realitat lingüística genuïna valenciana. És el criteri de vitalitat: una forma pot ser normativa perquè viu en els parlars valencians actuals, encara que no estiga documentada en els clàssics. L’apartat 3.5 de l’acord de 20 de maig del 2002 recull precisament aquest supòsit."
+      },
+      {
+       "n": 0,
+       "t": "La normativització consolidada a partir de les Normes de Castelló. Actua com a límit: la norma lèxica no pot desfer el consens gràfic de 1932 ni el cabal normativitzat que se n’ha derivat. El DOPV ho formula dient que les Normes són «el punt de partida de la normativització consolidada de la nostra llengua»."
+      },
+      {
+       "n": 0,
+       "t": "La combinació dels tres fonaments explica decisions que, aïlladament, podrien semblar contradictòries: que s’incorporen formes vives sense tradició escrita moderna, que s’hi recuperen formes clàssiques poc habituals en la parla actual i que, alhora, es respecten solucions consolidades que no són ni les més antigues ni les més esteses."
+      }
+     ]
+    },
+    {
+     "titol": "2.3. El Dictamen del 2005: policentrisme convergent i lèxic",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-09-21062289d0343f00.mp3",
+     "durada": 183.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.3. El Dictamen del 2005: policentrisme convergent i lèxic"
+      },
+      {
+       "n": 0,
+       "t": "L’Acord 1/2005, de 9 de febrer, pel qual s’aprova amb caràcter prescriptiu el Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià, no és un document exclusivament onomàstic. Els punts 7, 8 i 9 contenen la teoria de la codificació que sustenta tota la normativa lèxica posterior, i per això el DOPV els invoca expressament com a criteris inspiradors."
+      },
+      {
+       "n": 0,
+       "t": "Punt. Contingut. Conseqüència lèxica"
+      },
+      {
+       "n": 0,
+       "t": "7. Davant dels models centralistes (l’italià) i dels models de varietat composicional (l’èuscar batua), l’AVL considera més adequat el model que respecta les modalitats dins la unitat (el portuguès de Portugal i del Brasil), i proposa per al conjunt de la llengua una codificació policèntrica alhora que convergent.. Legitima l’existència d’un repertori lèxic normatiu propi del valencià, amb prioritats pròpies, sense que això supose una llengua distinta ni una fragmentació."
+      },
+      {
+       "n": 0,
+       "t": "8. La codificació valenciana incorpora les característiques pròpies dels parlars valencians, la qual cosa permet disposar de versions valencianes pròpies en els mitjans, els productes audiovisuals, les aplicacions informàtiques, el mercat editorial i els textos litúrgics, i no s’ha d’interpretar com un signe de fragmentació.. Justifica la priorització de servici, juí, espill, faena o hui com a formes principals en l’àmbit valencià."
+      },
+      {
+       "n": 0,
+       "t": "9. En els usos oficials i institucionals d’abast general fora de tot l’àmbit territorial de la llengua s’hauria d’utilitzar un model de llengua convergent, basat en formes clàssiques integradores.. Explica que el sistema mantinga com a normatives, i no com a errors, les variants generals (servei, judici, mirall, feina, avui): són les que fan possible eixe model convergent."
+      },
+      {
+       "n": 0,
+       "t": "El DOPV tradueix aquesta doctrina en dos principis operatius que després hereta el DNV: la recuperació i priorització de les variants valencianes genuïnes, vives, ben documentades en els clàssics i avalades per l’etimologia i per la tradició literària i lexicogràfica, i la convergència amb les solucions adoptades en els altres territoris que comparteixen la llengua, a fi de garantir-ne la cohesió pertinent. Tota la normativa lèxica de l’Acadèmia es pot llegir com l’intent d’harmonitzar aquests dos principis, que en molts casos apunten en direccions oposades."
+      }
+     ]
+    },
+    {
+     "titol": "2.4. Normativa i model de llengua: dos plans que no s’han de confondre",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-10-7621f8a5ec165d03.mp3",
+     "durada": 124.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.4. Normativa i model de llengua: dos plans que no s’han de confondre"
+      },
+      {
+       "n": 0,
+       "t": "L’acord de 20 de maig del 2002 conté una formulació doctrinal que, per la seua precisió, convé conéixer literalment: «El concepte de normativa, complementari del de varietat, no anul·la les distincions d’ús institucional i personal, d’ús col·loquial i estàndard de la llengua. Així, admetre un mot no vol dir que se’l considere l’únic vàlid per a qualsevol ús i situació comunicativa»."
+      },
+      {
+       "n": 0,
+       "t": "D’ací se’n deriva una distinció fonamental per a l’exercici professional del tècnic lingüístic:"
+      },
+      {
+       "n": 0,
+       "t": "La normativa delimita què pertany a la llengua i, dins d’això, què és principal i què és secundari. La fixa l’AVL i vincula les administracions."
+      },
+      {
+       "n": 0,
+       "t": "El model de llengua selecciona, dins del que és normatiu, allò que és adequat per a un àmbit d’ús determinat. El poden fixar altres institucions —una universitat, una conselleria, un mitjà públic— sempre que no contradiguen la normativa."
+      },
+      {
+       "n": 0,
+       "t": "Per això els criteris lingüístics de les universitats valencianes poden preferir servei a servici o ordre a orde sense contradir l’AVL: totes dos formes són normatives. En canvi, prescriure una distinció semàntica entre orde i ordre que el DNV no reconeix, o imposar dues com a única forma de femení quan el DNV dona com a principal la forma invariable dos, ja no és fixar un model de llengua sinó apartar-se de la norma. L’apartat 10 desplega aquesta qüestió amb els casos concrets que la mateixa Acadèmia ha assenyalat."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 3"
+      }
+     ]
+    },
+    {
+     "titol": "La primera fixació de la norma lèxica: els acords del 2002",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-11-dccb05115a06a5e6.mp3",
+     "durada": 37.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "La primera fixació de la norma lèxica: els acords del 2002"
+      },
+      {
+       "n": 0,
+       "t": "L’Acadèmia es va constituir el 23 de juliol del 2001 i es va trobar immediatament davant d’un problema pràctic: l’article 5 de la Llei imposava a tota l’Administració l’observança de les seues decisions, però la institució encara no disposava d’obres normatives pròpies. Els dos acords del 2002 resolen aquesta situació i, en fer-ho, dibuixen per primera vegada el perfil del lèxic valencià oficial."
+      }
+     ]
+    },
+    {
+     "titol": "3.1. L’acord de 25 de març del 2002: els tres àmbits de reconeixement",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-12-b9a5709cb7c20641.mp3",
+     "durada": 196.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.1. L’acord de 25 de març del 2002: els tres àmbits de reconeixement"
+      },
+      {
+       "n": 0,
+       "t": "L’acord, publicat per la Resolució 10/2002, de 4 d’abril, de la Presidència de l’AVL (DOGV núm. 4.229, de 16 d’abril del 2002), anuncia l’elaboració d’una gramàtica i un diccionari que «seran els principals referents normatius oficials de l’idioma», fixa els dos criteris bàsics que els han d’inspirar —el respecte als principis del Dictamen del CVC i de la Llei, i la voluntat d’integració de les diverses sensibilitats lingüístiques— i, «a fi de prioritzar i recuperar solucions lingüístiques genuïnes», reconeix com a oficials tres conjunts de solucions."
+      },
+      {
+       "n": 0,
+       "t": "Lletra. Àmbit. Exemples literals de l’acord"
+      },
+      {
+       "n": 0,
+       "t": "a. Les grafies genuïnes de nombroses paraules usades pels escriptors clàssics i pels lexicògrafs valencians més prestigiosos.. Manteniment de la a: arrancar, avançar, llançar, traure. Manteniment de la e: redó, bàlsem, cànter. Formes sense r adventícia: orde, murta, cartó."
+      },
+      {
+       "n": 0,
+       "t": "b. Les característiques morfològiques i sintàctiques valencianes genuïnes.. Plurals en -s (foscs, trists, texts); plurals en -ns (hòmens, jóvens); demostratius simples (este, eixe); possessius meua, teua, seua; numerals huit, dèsset, huitanta; incoatius en -isc, -ix; imperfets de subjuntiu en -ara, -era, -ira; infinitius tindre, vindre, valdre; participis en -it."
+      },
+      {
+       "n": 0,
+       "t": "c. El ric repertori lèxic i fraseològic valencià, procurant incorporar les aportacions específiques de les comarques.. defendre, faena, trellat, calfar, torcar, servici, castic, espenta, verdader, rogle, roín, oroneta, juí, despús-demà, al sendemà, bona cosa, a soles, a tothora; aportacions comarcals com bonegar, encanar-se, ans, rua, bellugar-se, brull, moixó."
+      },
+      {
+       "n": 0,
+       "t": "Cal parar atenció a la lletra c: l’acord no es limita a acceptar el lèxic valencià general, sinó que compromet l’Acadèmia a incorporar les aportacions comarcals. Aquesta decisió, presa el 2002, explica bona part de la fisonomia posterior del DNV i és l’origen de les crítiques que ha rebut per la multiplicació de variants."
+      }
+     ]
+    },
+    {
+     "titol": "3.2. L’acord de 20 de maig del 2002: els quatre criteris interpretatius",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-13-666d8e5f585d1cc6.mp3",
+     "durada": 226.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.2. L’acord de 20 de maig del 2002: els quatre criteris interpretatius"
+      },
+      {
+       "n": 0,
+       "t": "El 23 d’abril del 2002 el conseller de Cultura i Educació va sol·licitar a l’AVL, a l’empara de l’article 8 de la Llei 7/1998, un dictamen que ampliara l’exemplificació de l’acord anterior «per a poder determinar el model de referència en l’ús del valencià per les institucions públiques». L’acord de 20 de maig, publicat per la Resolució 12/2002, de 31 de maig, respon a aquesta consulta i, alhora, refon i complementa l’acord de març."
+      },
+      {
+       "n": 0,
+       "t": "Abans de la part dispositiva, el Ple fixa un conjunt de precisions doctrinals de gran valor conceptual. Es tracta de la teoria de la norma lèxica que l’AVL aplica des d’aleshores i que convé conéixer amb precisió, perquè és susceptible de ser preguntat de manera literal."
+      },
+      {
+       "n": 0,
+       "t": "El concepte de normativa, complementari del de varietat, no anul·la les distincions d’ús institucional i personal, ni col·loquial i estàndard: admetre un mot no vol dir considerar-lo l’únic vàlid per a qualsevol ús i situació comunicativa."
+      },
+      {
+       "n": 0,
+       "t": "La noció de genuí (propi o particular), complementària de la de general, no ha de fer predominar els elements geogràfics per damunt dels socials, els estilístics, els històrics, els pragmàtics o els idiolectals: admetre que una paraula o un fet gramatical és valencià genuí no vol dir que ho haja estat sempre, ni que ho siga de totes les comarques, ni que no ho siga en altres territoris del sistema lingüístic."
+      },
+      {
+       "n": 0,
+       "t": "La noció de paraula o de fet gramatical no és separable del context ni de l’ús: admetre una paraula no explica res sobre les seues accepcions, la seua vitalitat i les seues restriccions."
+      },
+      {
+       "n": 0,
+       "t": "La noció de valencià aplicada a les paraules o fets gramaticals no nega la diversitat social i territorial valenciana: l’AVL no pot excloure amb les seues decisions usos de parts del territori, i tota dualitat o multiplicitat de paraules i usos no és normativa sinó pragmàtica, destinada a evolucionar o simplificar-se diacrònicament."
+      },
+      {
+       "n": 0,
+       "t": "L’acord hi afig dos consideracions generals de gran calat. La primera: les decisions de l’AVL «tenen la responsabilitat de descriure fets i processos lingüístics i determinar solucions perdurables, generals, coherents i sistemàtiques; i per això, no pot prescriure amb criteris excloents de formes vives, de territoris, de col·lectius de parlants, de situacions generals de la llengua i de les situacions de comunicació». La segona: «cada element i cada varietat lingüística han de tendir a la convergència amb les altres formes per tal d’arribar a ser generals i útils en totes les situacions i processos de comunicació»."
+      },
+      {
+       "n": 0,
+       "t": "CLAU CONCEPTUAL Els quatre criteris interpretatius del 20 de maig del 2002 són la resposta anticipada a la crítica més freqüent contra la normativa lèxica de l’AVL —que multiplica variants innecessàriament. La resposta institucional és que la dualitat de formes no és una qüestió normativa sinó pragmàtica: la norma recull la variació existent i n’ordena l’ús; és el temps i la comunitat de parlants qui la simplifica."
+      }
+     ]
+    },
+    {
+     "titol": "3.3. El referent normatiu transitori i el programa SALT 2.0",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-14-dfccf5617e6440b6.mp3",
+     "durada": 121.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.3. El referent normatiu transitori i el programa SALT 2.0"
+      },
+      {
+       "n": 0,
+       "t": "La decisió central dels dos acords és de tècnica normativa poc habitual: una recepció per remissió. Mentre no s’aproven la gramàtica i el diccionari o altres textos prescriptius, el referent normatiu oficial del valencià, a tots els efectes, és «el conjunt de criteris ortogràfics, gramaticals i lèxics usats en els texts i documents oficials de la Conselleria de la Generalitat Valenciana responsable de l’aplicació i desplegament de la Llei d’Ús i Ensenyament del Valencià des de l’aprovació d’esta llei (1983) fins a la data de 25 de març del 2002»."
+      },
+      {
+       "n": 0,
+       "t": "L’acord de maig hi afegeix una precisió operativa de primer ordre per al nivell lèxic:"
+      },
+      {
+       "n": 0,
+       "t": "«En este sentit, es declaren oficials els continguts del programa informàtic SALT 2.0 Traductor i Corrector de Valencià, de la Generalitat Valenciana, a excepció de tots els elements lingüístics marcats explícitament com a vulgarismes, estrangerismes i col·loquialismes, els quals seran en el futur objecte d’estudi.» Acord del Ple de l’AVL de 20 de maig del 2002, punt I"
+      },
+      {
+       "n": 0,
+       "t": "L’oficialització del SALT 2.0 té una lectura lexicogràfica precisa: l’AVL no assumia un diccionari qualsevol, sinó el repertori d’un corrector automàtic, amb les seues marques internes, i n’excloïa expressament tres categories —vulgarismes, estrangerismes i col·loquialismes— que ajornava per a un estudi posterior. Eixe estudi posterior és, de fet, el que es materialitza en el sistema de marques del DNV que s’examina en l’apartat 7."
+      }
+     ]
+    },
+    {
+     "titol": "3.4. Les dos claus de lectura del repertori: orde de preferència i asterisc",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-15-0cca77e2f7909ed4.mp3",
+     "durada": 98.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.4. Les dos claus de lectura del repertori: orde de preferència i asterisc"
+      },
+      {
+       "n": 0,
+       "t": "El punt II de l’acord de maig s’obri amb un advertiment de dos línies que governa la interpretació de tot el repertori i que és, per si mateix, la primera formulació del sistema de jerarquització lèxica de l’AVL:"
+      },
+      {
+       "n": 0,
+       "t": "Convenció. Significat normatiu"
+      },
+      {
+       "n": 0,
+       "t": "Orde de presentació. Quan es dona una solució doble, la forma que figura en primer lloc és, en general, la més estesa i habitual en l’idioma valencià. No implica que la segona siga incorrecta."
+      },
+      {
+       "n": 0,
+       "t": "Asterisc. Les formes precedides d’un asterisc no són recomanables en els registres formals. És l’antecedent directe de les marques d’ús del DNV."
+      },
+      {
+       "n": 0,
+       "t": "Les formes marcades amb asterisc en l’acord són poques i identificables: *iaio (davant avi), *boçar (davant vomitar), *botijós (davant tartamut), *desficaci, *dessubstanciat, *destarifat, *destrellatat, *desvanit, *tararot i *trompellot. Val la pena observar-les perquè mostren el criteri: es tracta de formes vives i genuïnes, que l’acord reconeix com a oficials, però que la institució considera inadequades per a un text administratiu o acadèmic."
+      }
+     ]
+    },
+    {
+     "titol": "3.5. Les grafies reconegudes com a oficials (apartat 1 de l’acord)",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-16-cb998cf5404f8733.mp3",
+     "durada": 142.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.5. Les grafies reconegudes com a oficials (apartat 1 de l’acord)"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat 1 de l’acord de maig no és ortografia en sentit estricte: és normativa lèxico-gràfica, perquè no fixa regles de representació de fonemes sinó la forma gràfica canònica de paraules concretes. Per això s’estudia dins d’aquest tema i no dins del tema d’ortografia."
+      },
+      {
+       "n": 0,
+       "t": "Subapartat. Criteri. Formes reconegudes (llista completa de l’acord)"
+      },
+      {
+       "n": 0,
+       "t": "1.1. Variants amb a, preferibles a les variants amb e o o, documentades històricament en alguns casos (com ara febre o néixer).. baina, bambolla, febra, pantaix, sagí, sutja, arrancar, avançar, contraure, distraure, esgarrar, jaure, llançar, nadar, nàixer, pantaixar, retraure, traure, xarrar"
+      },
+      {
+       "n": 0,
+       "t": "1.2. Variants amb e, preferibles a les variants amb a, i o o.. amerar, arredonir, arxipèleg, bàlsem, cànter, cementeri, clevill, cordell, depòsit, endenyar, esme, estómec, fenoll, flamerada, llarguerut, màsquera, nàufreg, redó, redolí, sénia, sépia"
+      },
+      {
+       "n": 0,
+       "t": "1.3. Grafia sense ròtica adventícia.. alfàbega, cartó, desorde, murta, orde; però orquestra (amb r etimològica) i tresor (amb r patrimonial)"
+      },
+      {
+       "n": 0,
+       "t": "L’excepció final de l’apartat 1.3 és especialment susceptible de ser preguntat: orquestra i tresor s’escriuen amb r perquè aquesta r no és adventícia sinó etimològica i patrimonial, respectivament. Confondre-les amb cartó o murta és un error freqüent."
+      }
+     ]
+    },
+    {
+     "titol": "3.6. El repertori lèxic i fraseològic (apartat 3 de l’acord)",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-17-078bf4dd9994ba26.mp3",
+     "durada": 393.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.6. El repertori lèxic i fraseològic (apartat 3 de l’acord)"
+      },
+      {
+       "n": 0,
+       "t": "L’apartat 3 és el nucli de la normativa lèxica del 2002. Ordena el lèxic reconegut com a oficial en vuit subapartats segons dos paràmetres creuats: la documentació històrica (si la forma apareix o no en textos dels segles xiii al xvi) i la vitalitat actual (si viu o no en els parlars valencians d’avui). Aquesta classificació és, en si mateixa, una teoria implícita sobre què legitima una forma lèxica, i per això convé dominar-la."
+      },
+      {
+       "n": 0,
+       "t": "Subap.. Criteri de classificació. Exemples de l’acord"
+      },
+      {
+       "n": 0,
+       "t": "3.1. Paraules vives en els parlars valencians actuals, ja documentades en els escriptors clàssics i en altres textos valencians dels segles xiii al xvi, al costat d’altres sinònims i variants.. acaçar, alçar, alfals, arrapar, bellugar-se, brull, caragol, cresol, cudol (clàssic còdol), desfici, eixir, escurar, espenta, espill, fadrí, faena, fardatxo, ferramenta, fesol, granera, llibrell, melic, muscle, pitxer, poal, rabosa, torcar, trellat, verdader, vesprada, vidriola, xafar, xic, xiquet, xufa, xulla"
+      },
+      {
+       "n": 0,
+       "t": "3.2. Parelles de variants o sinònims vius en els parlars actuals i ja documentats en la llengua clàssica, al costat d’altres variants i sinònims.. afonar / esfondrar; arrel / raïl; arribar / aplegar; bescoll / clatell; calfar / escalfar; capell / barret; conrear / cultivar; dacsa / panís; defendre / defensar; endemà / sendemà; estrela / estel; unflar / inflar; mamprendre / emprendre; oroneta / oronella; paréixer / semblar; purna / espurna; rent / llevat; roig / vermell; sacsar / sacsejar"
+      },
+      {
+       "n": 0,
+       "t": "3.3. Parelles documentades en textos medievals, en què el primer terme predomina en valencià general i el segon alterna amb aquell en els registres formals.. alacrà / escorpí; albelló / claveguera; amprar / manllevar; arena / sorra; corder / anyell; escaló / graó; juí / judici; llanda / llauna; mitat / meitat; perjuí / perjudici; prejuí / prejudici; servici / servei"
+      },
+      {
+       "n": 0,
+       "t": "3.4. Parelles de variants o sinònims vius, el primer dels quals ja apareix documentat en el període clàssic.. acatxar-se / ajupir-se; agafar / agarrar; avalotar / escarotar; escopir / escopinyar; mànega / màniga; renyó / ronyó"
+      },
+      {
+       "n": 0,
+       "t": "3.5. Paraules vives en els parlars actuals no documentades en textos dels segles xiii al xvi, que en alguns registres alternen amb variants o sinònims usats pels clàssics.. coentor / coïssor; corfa / escorça; gasto / despesa; *iaio / avi; quadro / quadre; xicotet / petit"
+      },
+      {
+       "n": 0,
+       "t": "3.6. Innovacions del valencià modern, al costat d’altres sinònims i variants.. amollar, bigot, bonegar, botella, calcetí, catxerulo, clòtxina / musclo, cosquerelles, desgel, encanar-se, escabussar, joguet, jupetí, milotxa, monyica, nugar, pallola, poregós, prunyó, puntelló, rogle, roín, rua (de pa), tomaca, voladoret; amb asterisc: *boçar, *botijós, *desficaci, *dessubstanciat, *destarifat, *destrellatat, *desvanit, *tararot, *trompellot"
+      },
+      {
+       "n": 0,
+       "t": "3.7. Paraules vives i documentades en l’època clàssica que conviuen amb neologismes o manlleus ja naturalitzats en valencià.. desplegar / desenrotllar / desenvolupar; fumeral / ximenera; sotssecretari / subsecretari / vicesecretari; vacacions / vacances"
+      },
+      {
+       "n": 0,
+       "t": "3.8. Unitats fraseològiques, generalment pròpies de la comunicació oral espontània.. a estall, a soles, a tothora, al remat, bona cosa, donar pena, fer ois, fer parlar, fer pena, fer rogle, més aïna / més aïnes, ser oli en un cresol, tindre seguida, tirar (traure) el lleu, traure trellat"
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: COM DISTINGIR ELS SUBAPARTATS 3.1 A 3.6 3.1: viva i clàssica, sense parella oposada. 3.2: viva i clàssica, en parella de variants o sinònims tots dos clàssics. 3.3: parella medieval en què el primer predomina en valencià general i el segon alterna en els registres formals. És el subapartat de servici / servei i juí / judici. 3.4: parella en què només el primer està documentat en el període clàssic. 3.5: forma viva no documentada entre els segles xiii i xvi. 3.6: innovació moderna, sense documentació clàssica ni parella clàssica equivalent."
+      }
+     ]
+    },
+    {
+     "titol": "3.7. Valor actual dels acords del 2002",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-18-03478f59200955bc.mp3",
+     "durada": 119.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.7. Valor actual dels acords del 2002"
+      },
+      {
+       "n": 0,
+       "t": "Una pregunta recurrent és si els acords del 2002 continuen vigents després de l’aprovació del DNV. La resposta ha de ser matisada."
+      },
+      {
+       "n": 0,
+       "t": "El referent normatiu transitori —els criteris de la conselleria entre 1983 i 2002 i els continguts del SALT 2.0— ha decaigut per compliment de la condició a què estava sotmès: els mateixos acords el declaraven vigent «mentres no s’aproven la Gramàtica i el Diccionari o altres texts prescriptius de la institució». Aprovats el DOPV i la GNV el 2006 i el DNV el 2014, la funció supletòria s’ha exhaurit."
+      },
+      {
+       "n": 0,
+       "t": "Els criteris interpretatius i els principis de priorització, en canvi, continuen plenament operatius: no han estat derogats, són el fonament doctrinal invocat pel DOPV i pel DNV, i la classificació lèxica dels vuit subapartats es reconeix sense dificultat en el tractament que el DNV dona a cada parella de formes."
+      },
+      {
+       "n": 0,
+       "t": "El repertori concret ha estat absorbit i ampliat pel DNV. Quan hi ha discrepància entre l’exemplificació del 2002 i el DNV vigent, preval el DNV, perquè la versió electrònica és la normativa i s’actualitza mensualment."
+      },
+      {
+       "n": 0,
+       "t": "En termes d’examen, això vol dir que els acords del 2002 s’han de conéixer com a font històrica i doctrinal de la normativa lèxica, i que les llistes concretes s’han de citar com el que són: el primer inventari oficial del lèxic valencià, no el catàleg vigent."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 4"
+      }
+     ]
+    },
+    {
+     "titol": "Els criteris de selecció del lèxic: la doctrina del DOPV",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-19-5c6d8853a1c59277.mp3",
+     "durada": 83.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els criteris de selecció del lèxic: la doctrina del DOPV"
+      },
+      {
+       "n": 0,
+       "t": "El Diccionari ortogràfic i de pronunciació del valencià (DOPV), publicat el 2006 com a número 1 de la col·lecció Textos Normatius, és, en aparença, una obra estrictament ortogràfica. En realitat és el text on l’AVL formula per primera vegada, de manera sistemàtica i raonada, els criteris de selecció i de jerarquització del lèxic. La mateixa introducció del DNV ho reconeix: el DOPV va significar «no sols una concreció dels principis ortogràfics esbossats en les declaracions anteriors, sinó també una fixació dels límits i l’abast de la normativa pel que fa al lèxic», i, per mitjà d’un sistema de marques, «s’establia una jerarquització de variants amb l’objecte d’orientar en l’ús correcte i adequat del valencià en els registres formals»."
+      },
+      {
+       "n": 0,
+       "t": "Per això aquest apartat és, probablement, el més important de tot el tema: els criteris que s’hi exposen són els que després aplica el DNV, que declara expressament seguir «els mateixos criteris explicitats en la Introducció del Diccionari ortogràfic i de pronunciació del valencià»."
+      }
+     ]
+    },
+    {
+     "titol": "4.1. Els dos principis bàsics: priorització i convergència",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-20-f4e064752894fb5b.mp3",
+     "durada": 83.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.1. Els dos principis bàsics: priorització i convergència"
+      },
+      {
+       "n": 0,
+       "t": "Els criteris inspiradors del DOPV són, amb caràcter general, els de l’article 4 de la Llei de creació i els del Dictamen del 2005. D’ací l’AVL en deriva dos principis que ha d’harmonitzar en la redacció de l’obra:"
+      },
+      {
+       "n": 0,
+       "t": "La recuperació i la priorització de les variants valencianes genuïnes, vives, ben documentades en els clàssics i avalades per l’etimologia i per la tradició literària i lexicogràfica."
+      },
+      {
+       "n": 0,
+       "t": "La convergència amb les solucions adoptades en els altres territoris que comparteixen la llengua, a fi de garantir-ne la cohesió pertinent."
+      },
+      {
+       "n": 0,
+       "t": "El DOPV declara voler ser «la primera contribució de l’AVL al procés de construcció d’un model de llengua convergent amb la resta de modalitats de l’idioma comú», un model «que, pel fet d’haver sigut elaborat des de València, dona preferència a les formes valencianes, però que també incorpora les variants usades en la resta de l’àmbit lingüístic compartit». Aquesta és, en una sola frase, la definició operativa del policentrisme convergent aplicat al lèxic."
+      }
+     ]
+    },
+    {
+     "titol": "4.2. La tipologia d’entrades: principals, secundàries i no recomanades",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-21-ca7b79c5f3c101b6.mp3",
+     "durada": 237.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.2. La tipologia d’entrades: principals, secundàries i no recomanades"
+      },
+      {
+       "n": 0,
+       "t": "El DOPV classifica les paraules incorporades en tres grups d’entrades. Aquesta tripartició és el moll de l’os de la normativa lèxica de l’AVL i s’ha de dominar amb precisió terminològica."
+      },
+      {
+       "n": 0,
+       "t": "Tipus. Definició del DOPV. Tractament formal. Valor normatiu"
+      },
+      {
+       "n": 0,
+       "t": "Entrades principals. Variants prioritàries en el corpus lèxic formal del valencià; apareixen sense remissió a una altra entrada.. Entrada autònoma.. Són les pròpies dels registres formals o d’àmbit general i, per tant, les aconsellades per als usos públics formals, especialment els de les administracions públiques."
+      },
+      {
+       "n": 0,
+       "t": "Entrades secundàries. Variants gràfiques de les principals; apareixen en segon lloc, al costat d’estes.. Al costat de la principal, amb el mateix tipus de lletra, separades per un parèntesi i la conjunció o: dentista (o dentiste); naturalesa (o naturalea).. Reflectixen usos genuïns més o menys estesos en valencià que, encara que no presents en la normativització consolidada des de 1932, es consideren acceptables."
+      },
+      {
+       "n": 0,
+       "t": "Entrades no recomanades. Variants d’escassa tradició formal en valencià; remeten a les principals.. Remissió amb fletxa a l’entrada principal.. Són variants no recomanades per als usos formals valencians. No es qualifiquen d’incorrectes: es reenvien a la forma aconsellada."
+      },
+      {
+       "n": 0,
+       "t": "El DOPV precisa quins són els dos motius pels quals una variant es considera no recomanada:"
+      },
+      {
+       "n": 0,
+       "t": "Ser resultat d’evolucions massa dialectals: dumenge, giner, quet."
+      },
+      {
+       "n": 0,
+       "t": "Haver-se fixat modernament a partir d’una forma poc ajustada a l’etimologia i a la fonètica històrica, o provenir d’evolucions no compartides pel valencià: cartró, bàlsam, amarar, cop, càntir, pop."
+      },
+      {
+       "n": 0,
+       "t": "Dins de les entrades principals, el DOPV encara hi distingeix les principals úniques (lluna, terra, mar), que expressen un concepte amb una sola paraula i constitueixen la immensa majoria del diccionari, i les principals alternatives (portar / dur, arribar / aplegar, tardar / trigar), que són variants lèxiques amb què es pot expressar un mateix concepte. Com que el DOPV és un diccionari d’ortografia, no especifica quina de les principals alternatives és preferent en l’estàndard valencià: aquesta informació —adverteix expressament— apareixerà en el Diccionari normatiu valencià que l’AVL preparava aleshores."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: QUATRE PARELLES QUE EL DOPV DECLARA TOTES DOS PRINCIPALS Demostratius simples este, eixe i reforçats aquest, aqueix. L’adverbi hui, forma majoritària en valencià, i la variant septentrional avui. Variants vives com servici i juí i les també clàssiques valencianes servei i judici. Lexemes com defendre i dispondre i les variants defensar i disposar, tots quatre d’ús general."
+      }
+     ]
+    },
+    {
+     "titol": "4.3. La priorització sistemàtica de les formes valencianes",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-22-733a4cb9d92909de.mp3",
+     "durada": 154.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.3. La priorització sistemàtica de les formes valencianes"
+      },
+      {
+       "n": 0,
+       "t": "El DOPV declara que «es prioritzen sistemàticament les formes valencianes vives, genuïnes i fidels a l’etimologia i a la tradició literària i lexicogràfica». El mecanisme tècnic és la remissió amb fletxa: la forma no prioritzada remet a la prioritzada. La llista d’exemples que dona l’obra és directament aprofitable com a bateria de casos."
+      },
+      {
+       "n": 0,
+       "t": "Forma que remet. Forma prioritzada. Forma que remet. Forma prioritzada"
+      },
+      {
+       "n": 0,
+       "t": "càntir. cànter. gibrell. llibrell"
+      },
+      {
+       "n": 0,
+       "t": "treure. traure. gresol. cresol"
+      },
+      {
+       "n": 0,
+       "t": "ametlla. ametla. llençar. llançar"
+      },
+      {
+       "n": 0,
+       "t": "cartró. cartó. nedar. nadar"
+      },
+      {
+       "n": 0,
+       "t": "cementiri. cementeri. néixer. nàixer"
+      },
+      {
+       "n": 0,
+       "t": "cordill. cordell. ordre. orde"
+      },
+      {
+       "n": 0,
+       "t": "embussar. embossar. porxo. porxe"
+      },
+      {
+       "n": 0,
+       "t": "enciam. encisam. rodó. redó"
+      },
+      {
+       "n": 0,
+       "t": "esma. esme. ronyó. renyó"
+      },
+      {
+       "n": 0,
+       "t": "estrella. estrela. fonoll. fenoll"
+      },
+      {
+       "n": 0,
+       "t": "Un mecanisme complementari, molt il·lustratiu del mètode de l’AVL, és l’ús de la transcripció fonètica per a reduir la variació formal. Davant de parelles com peixcater / peixater o matalap / matalàs, el DOPV recomana una sola forma gràfica, la més coherent amb l’etimologia i la fonètica històrica —pescater i matalaf, i alhora accepta les variants populars com a pronunciacions admissibles. Es normativitza així una sola grafia sense proscriure la pronúncia real dels parlants."
+      }
+     ]
+    },
+    {
+     "titol": "4.4. La convergència amb les altres varietats de l’idioma",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-23-ea6ac2ebd448cb9a.mp3",
+     "durada": 242.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.4. La convergència amb les altres varietats de l’idioma"
+      },
+      {
+       "n": 0,
+       "t": "El DOPV dedica un apartat específic a justificar el segon principi. L’argument és de política lingüística: «Si compartim una mateixa literatura i un mateix espai cultural i comunicatiu, és evident que no podem accentuar les diferències entre les nostres varietats sinó, al contrari, intentar reduir-les al màxim», i això és encara més imperiós «en el cas de llengües demogràficament minoritàries com la nostra»."
+      },
+      {
+       "n": 0,
+       "t": "L’Acadèmia hi fa constar que l’esforç d’acostament ha de ser mutu i n’assenyala evidències concretes: l’Institut d’Estudis Catalans ha adoptat com a prioritàries en el seu diccionari normatiu variants com cartó, caragol o carabassa —i com a no recomanades les dialectals cartró, cargol o carbassa— i ha eliminat formes dialectals com arrera i darrera, reemplaçades per les formes etimològiques arrere i darrere, úniques en valencià i en gran part del català occidental."
+      },
+      {
+       "n": 0,
+       "t": "En sentit invers, el DOPV ha prioritzat variants «a vegades poc habituals en la parla actual dels valencians però més ajustades a l’etimologia, a la tradició dels clàssics valencians i als usos consolidats en la literatura contemporània i en el sistema educatiu». Els exemples que en dona són un excel·lent contrapunt als de l’apartat anterior, perquè mostren que la priorització no és un automatisme dialectalista:"
+      },
+      {
+       "n": 0,
+       "t": "Forma popular que remet. Forma prioritzada. Forma popular que remet. Forma prioritzada"
+      },
+      {
+       "n": 0,
+       "t": "bascoll. bescoll. milacre. miracle"
+      },
+      {
+       "n": 0,
+       "t": "dumenge. diumenge. montanya. muntanya"
+      },
+      {
+       "n": 0,
+       "t": "fredat. feredat. nyespra. nespra"
+      },
+      {
+       "n": 0,
+       "t": "llançol. llençol. peixca. pesca"
+      },
+      {
+       "n": 0,
+       "t": "llauger. lleuger. quet. quiet"
+      },
+      {
+       "n": 0,
+       "t": "llunt. lluny. rellonge. rellotge"
+      },
+      {
+       "n": 0,
+       "t": "maravella. meravella. ringlera. renglera"
+      },
+      {
+       "n": 0,
+       "t": "sancer. sencer. sixanta. seixanta"
+      },
+      {
+       "n": 0,
+       "t": "tesor. tresor"
+      },
+      {
+       "n": 0,
+       "t": "El cas de convergència de major abast quantitatiu és l’accentuació de les e tancades. La e tancada tònica del llatí vulgar manté el timbre tancat en la varietat occidental —València i Catalunya occidental— i s’ha obert en la major part dels parlars orientals. El problema afecta uns quants centenars de paraules, sobretot en els acabaments -é, -és i -én: francés / francès, café / cafè, comprén / comprèn. Atés que els catalans occidentals han adoptat l’accentuació oriental i que la normativització consolidada a partir de les Normes de Castelló també la va utilitzar, l’AVL considera acceptable escriure amb accent obert eixes e tancades; però, com que el seu ús ha sigut i és minoritari en valencià, les considera variants secundàries i recomana en tots els casos la pronunciació tancada, que és la que reflectixen les entrades del DOPV."
+      }
+     ]
+    },
+    {
+     "titol": "4.5. Criteris i àmbits d’ús: formalitat i extensió geogràfica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-24-a3b7235fc5794c5f.mp3",
+     "durada": 160.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.5. Criteris i àmbits d’ús: formalitat i extensió geogràfica"
+      },
+      {
+       "n": 0,
+       "t": "El capítol 4 de la introducció del DOPV és el que millor respon a la pregunta «quin lèxic forma part de la normativa». La resposta de l’AVL és inclusiva pel que fa a l’inventari i restrictiva pel que fa a l’ús: «L’inventari del DOPV inclou paraules i variants de gran tradició històrica i literària al costat d’altres d’un abast geogràfic reduït i d’una vitalitat menor. Totes formen part del patrimoni lingüístic valencià però, lògicament, no totes són adequades per als mateixos àmbits d’ús»."
+      },
+      {
+       "n": 0,
+       "t": "L’obra creua dos paràmetres per a graduar l’adequació:"
+      },
+      {
+       "n": 0,
+       "t": "Paràmetre. Graus. Exemples del DOPV"
+      },
+      {
+       "n": 0,
+       "t": "Grau de formalitat. Caràcter més formal / caràcter merament formal / caràcter menys formal.. odontòleg (més formal) — dentista (merament formal) — queixaler (menys formal); cauteritzar, munificència (més formals); clasca, encanària (menys formals)."
+      },
+      {
+       "n": 0,
+       "t": "Extensió geogràfica. Àmbit general / àmbit restringit.. oroneta i oronella (àmbit general) enfront d’orendella, viva només en algunes poblacions meridionals."
+      },
+      {
+       "n": 0,
+       "t": "El DOPV caracteritza cada grau per la situació comunicativa a què correspon:"
+      },
+      {
+       "n": 0,
+       "t": "Les paraules o variants de caràcter més formal són pròpies de registres que impliquen un alt grau d’especialització, una voluntat estètica superior o un propòsit d’ús solemne."
+      },
+      {
+       "n": 0,
+       "t": "Les de caràcter merament formal són les més adequades per als usos administratius —un decret, una citació judicial, una instància— i, en general, per a totes les situacions, orals o escrites, que busquen la màxima eficàcia comunicativa dins d’uns certs paràmetres de formalitat: un noticiari, una conferència, un informe comercial."
+      },
+      {
+       "n": 0,
+       "t": "Les de caràcter menys formal corresponen als usos de menor tradició literària o no tan generals, i són pròpies d’usos sobretot individuals: una carta, una nota, un escrit costumista."
+      }
+     ]
+    },
+    {
+     "titol": "4.6. Conseqüències per a la llengua de l’Administració",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-25-b118548b7ef2771d.mp3",
+     "durada": 142.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.6. Conseqüències per a la llengua de l’Administració"
+      },
+      {
+       "n": 0,
+       "t": "D’aquesta graduació el DOPV extrau una regla d’aplicació directa, que és la que ha de conéixer i aplicar un tècnic de promoció lingüística:"
+      },
+      {
+       "n": 0,
+       "t": "«La llengua de l’Administració pública i, en general, la llengua d’ús públic formal ha d’utilitzar, com és natural, les paraules o variants pròpies dels registres formals o d’àmbit general. Exclou, per tant, l’alternança de registres, de variants principals i secundàries i de variants d’àmbit general i d’àmbit restringit, encara que pot optar per les variants lèxiques que presenten un mateix grau de formalitat.» DOPV, Introducció, § 4"
+      },
+      {
+       "n": 0,
+       "t": "El text és molt precís i mereix una lectura atenta. El que s’exclou en la llengua administrativa no és l’ús de determinades formes, sinó l’alternança entre nivells: barrejar en un mateix document una forma principal i una de secundària, o una d’àmbit general i una d’àmbit restringit. El que sí que s’hi permet expressament és optar entre variants lèxiques del mateix grau de formalitat —d’ací que un servei lingüístic puga triar coherentment servei o servici sempre que mantinga la tria al llarg del text i del conjunt de la seua producció."
+      },
+      {
+       "n": 0,
+       "t": "Per contrast, «la llengua de la literatura, de les entitats privades i, en general, la llengua d’ús personal admet un grau de variació molt més ampli, que comprèn els més diversos nivells de llenguatge, i així pot permetre’s l’alternança de registres i de variants»."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: EL CRITERI DE COHERÈNCIA La norma lèxica de l’AVL no imposa a l’Administració una llista tancada de paraules, sinó tres exigències: usar formes principals o d’àmbit general, no alternar nivells dins d’un mateix text i mantenir la coherència de la tria. És el criteri que fonamenta l’existència mateixa dels llibres d’estil institucionals —i el que en delimita el marge."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 5"
+      }
+     ]
+    },
+    {
+     "titol": "El Diccionari normatiu valencià: naturalesa i règim jurídic",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-26-589b912bd5add232.mp3",
+     "durada": 6.8,
+     "text": [
+      {
+       "n": 1,
+       "t": "El Diccionari normatiu valencià: naturalesa i règim jurídic"
+      }
+     ]
+    },
+    {
+     "titol": "5.1. Elaboració, aprovació i publicació",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-27-50ec9ccc6183654b.mp3",
+     "durada": 222.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.1. Elaboració, aprovació i publicació"
+      },
+      {
+       "n": 0,
+       "t": "El Diccionari normatiu valencià (DNV) és l’obra que completa el corpus normatiu de l’AVL i la que fixa el lèxic amb tot el detall que el DOPV, per la seua naturalesa ortogràfica, no podia oferir: significats, accepcions, marques d’ús, àrees temàtiques i fraseologia. Els treballs es van iniciar pràcticament amb la institució i el resultat es va aprovar per acord del Ple de 31 de gener del 2014, identificat com a Acord 2/2014."
+      },
+      {
+       "n": 0,
+       "t": "Fita. Data. Contingut"
+      },
+      {
+       "n": 0,
+       "t": "Anunci. 25.03.2002. L’acord sobre el referent normatiu anuncia l’elaboració d’un diccionari valencià que, una vegada aprovat pel Ple, serà un dels principals referents normatius oficials de l’idioma."
+      },
+      {
+       "n": 0,
+       "t": "Aprovació. 31.01.2014. Acord 2/2014 del Ple de l’AVL pel qual s’aprova el Diccionari normatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "Publicació electrònica. Febrer del 2014. L’AVL fa pública la primera versió en línia, consultable en el web institucional."
+      },
+      {
+       "n": 0,
+       "t": "Edició impresa. 29.09.2016. Presentació de l’edició impresa en el monestir de Sant Miquel dels Reis: 2 volums, 1.672 + 1.640 pàgines, col·lecció Textos Normatius núm. 4, ISBN 978-84-482-6089-7."
+      },
+      {
+       "n": 0,
+       "t": "Declaració de normativitat. 13.11.2017. Resolució de la Presidència de l’AVL, publicada en el DOGV núm. 8184, de 5 de desembre del 2017."
+      },
+      {
+       "n": 0,
+       "t": "Actualització. Des del 2017. Modificacions aprovades pel Ple i incorporades mensualment a la versió electrònica."
+      },
+      {
+       "n": 0,
+       "t": "En la presentació de l’edició impresa, el president de l’AVL, Ramon Ferrer, va definir el diccionari com «el resultat d’un treball minuciós, ponderat, meditat i inclusiu, fruit del consens, de l’entesa i de la concòrdia entre tots els acadèmics», i va afirmar que el DNV «és el diccionari de tots els valencians». El coordinador de l’obra, Jordi Colomina, va explicar-ne el caràcter: és un diccionari general d’aquesta llengua compartida que dona preferència a les paraules, accepcions i fraseologia pròpies del valencià i les incorpora per primera vegada, quan fins aleshores eren absents dels diccionaris anteriors. Josep Lacreu, cap de la Unitat de Recursos Lingüisticotècnics, va subratllar-ne l’aspecte integrador —«un conjunt de convencions ordenades amb entrades preferents i secundàries, a més de marques d’ús establides de forma jeràrquica»— i va precisar que la versió digital és la normativa, sempre viva i actualitzada."
+      }
+     ]
+    },
+    {
+     "titol": "5.2. La Resolució de 13 de novembre del 2017",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-28-a8b7a3cfe738c070.mp3",
+     "durada": 124.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.2. La Resolució de 13 de novembre del 2017"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta resolució de la Presidència de l’AVL, dictada a l’empara de l’article 26 de la Llei 7/1998 —que ordena publicar en el DOGV les resolucions que afecten «el Diccionari, la Normativa i les Entrades»—, conté dos pronunciaments de gran transcendència pràctica:"
+      },
+      {
+       "n": 0,
+       "t": "Fer públic que el Diccionari normatiu valencià constitueix normativa lingüística de l’idioma valencià."
+      },
+      {
+       "n": 0,
+       "t": "Comunicar que la versió vigent en cada moment del DNV és la que correspon a la consulta electrònica que es pot efectuar en el web de l’Acadèmia Valenciana de la Llengua."
+      },
+      {
+       "n": 0,
+       "t": "La conseqüència del segon punt és molt rellevant i sovint mal entesa: l’edició impresa del 2016 no és el text normatiu, sinó una fixació editorial d’un moment determinat. La norma lèxica vigent és la que en cada moment mostra la consulta en línia. Un informe lingüístic, una resolució administrativa o una correcció que invoque el DNV s’ha de fonamentar, per tant, en la versió electrònica del dia, no en el volum imprès."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA NATURALESA DINÀMICA DE LA NORMA LÈXICA La normativa lèxica valenciana té una característica que la distingeix de la gramatical i de l’ortogràfica: no es fixa per acords puntuals sinó per actualització continuada. La GNV és de 2006 i no s’ha refet; els acords ortogràfics són de 2018 i 2021. El DNV, en canvi, canvia cada mes. Aquesta diferència de règim explica que la Resolució del 2017 haguera de precisar quina versió és la vigent."
+      }
+     ]
+    },
+    {
+     "titol": "5.3. Dimensions i dades de l’obra",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-29-9da5d63592b71605.mp3",
+     "durada": 126.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.3. Dimensions i dades de l’obra"
+      },
+      {
+       "n": 0,
+       "t": "Les xifres del DNV són dades de memorització recomanable, però convé manejar-les amb la precaució de saber a quin moment corresponen, perquè l’obra creix contínuament."
+      },
+      {
+       "n": 0,
+       "t": "Dada. Xifra. Moment / font"
+      },
+      {
+       "n": 0,
+       "t": "Entrades en la primera versió electrònica. Al voltant de 93.000 vocables. Presentació de l’obra, 2014-2016"
+      },
+      {
+       "n": 0,
+       "t": "Vocables que apareixien per primera vegada en un diccionari. Uns 8.000. Declaracions del president de l’AVL en la presentació de l’edició impresa (29.09.2016)"
+      },
+      {
+       "n": 0,
+       "t": "Entrades actuals. Més de noranta-quatre mil. Apartat «Documents normatius» del web de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "Edició impresa. 2 volums; 1.672 + 1.640 pàgines. Fitxa bibliogràfica de l’AVL, Textos Normatius núm. 4 (2016)"
+      },
+      {
+       "n": 0,
+       "t": "Periodicitat de l’actualització. Mensual. Apartat «Actualitzacions del DNV» del web de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "El web institucional caracteritza el DNV com «l’obra de referència lexicogràfica de l’Acadèmia Valenciana de la Llengua» i n’enumera els components complementaris: la transcripció fonètica i l’opció de reproducció sonora de totes les paraules, la conjugació completa de tots els verbs i «diverses marques d’ús per a orientar el lector sobre la correcta utilització dels mots segons els diferents àmbits lingüístics»."
+      }
+     ]
+    },
+    {
+     "titol": "5.4. Els antecedents lexicogràfics que l’AVL reconeix",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-30-0a3360e78ba2d5b9.mp3",
+     "durada": 348.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.4. Els antecedents lexicogràfics que l’AVL reconeix"
+      },
+      {
+       "n": 0,
+       "t": "La introducció del DNV dedica un espai considerable a reconèixer els treballs lexicogràfics precedents. No és una cortesia erudita: és l’acreditació documental del primer dels tres fonaments materials de l’article 3 de la Llei —la tradició lexicogràfica— i, per tant, part de la justificació normativa de l’obra. Conéixer aquesta genealogia permet respondre amb solvència qualsevol pregunta sobre les fonts de la normativa lèxica valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Any. Obra i autor. Aportació que en destaca l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "1489. Liber elegantiarum, de Joan Esteve. Tot i ser una obra destinada a l’ensenyament del llatí, es considera el primer diccionari, stricto sensu, d’una llengua romànica."
+      },
+      {
+       "n": 0,
+       "t": "1492. Regles d’esquivar vocables o mots grossers o pagesívols, de Bernat Fenollar i Jeroni Pau. Van optar per les variants diatòpiques més urbanes i cultes."
+      },
+      {
+       "n": 0,
+       "t": "1569. Vocabulario del humanista, de Llorenç Palmireno. Dona veus d’animals, plantes, monedes o metalls en llatí, amb equivalències castellanes i valencianes."
+      },
+      {
+       "n": 0,
+       "t": "1575. Thesaurus puerilis, d’Onofre Pou. El millor diccionari de l’època moderna i font de tots els posteriors."
+      },
+      {
+       "n": 0,
+       "t": "1764. Diccionario valenciano-castellano, de Carles Ros. Primera gran obra lexicogràfica valenciana del segle xviii."
+      },
+      {
+       "n": 0,
+       "t": "1839. Ensayo de un diccionario valenciano-castellano, de Lluís Lamarca. Especial atenció a l’exactitud de les equivalències."
+      },
+      {
+       "n": 0,
+       "t": "1851 / 1887. Diccionario valenciano-castellano, de Josep Escrig, ampliat per Constantí Llombart. La tercera edició hi incorpora un «Ensayo de ortografía lemosino-valenciana»; l’ús del terme llemosí volia manifestar la consciència d’unitat lingüística."
+      },
+      {
+       "n": 0,
+       "t": "1891. Novíssimo diccionario general valenciano-castellano, de Joaquim Martí Gadea. Amplia Escrig-Llombart amb refranys, modismes i frases fetes."
+      },
+      {
+       "n": 0,
+       "t": "1921. Vocabulari ortográfic valenciá-castellá, de Lluís Fullana. Obra meritòria dins del procés de fixació ortogràfica."
+      },
+      {
+       "n": 0,
+       "t": "1932. Vocabulari ortogràfic valencià, de Carles Salvador. Completà el text de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "1932 i seg.. Obra de Pompeu Fabra, continuada per l’Institut d’Estudis Catalans. Menció especial per la seua modernitat i repercussió."
+      },
+      {
+       "n": 0,
+       "t": "1962. Diccionari català-valencià-balear, d’Alcover i Moll. Arreplega amb exhaustivitat les variants lèxiques i de pronunciació; hi col·laboraren nombrosos valencians i en fou redactor destacat Manuel Sanchis Guarner."
+      },
+      {
+       "n": 0,
+       "t": "1956. Diccionari de la rima, de Francesc Ferrer Pastor i Josep Giner. Al costat del Diccionari general de Ferrer Pastor, amb un eminent propòsit de divulgació."
+      },
+      {
+       "n": 0,
+       "t": "1980-1991. Diccionari etimològic i complementari de la llengua catalana, de Joan Coromines. Quant a l’origen i l’evolució de les paraules; hi col·laboraren Josep Giner i Enric Valor."
+      },
+      {
+       "n": 0,
+       "t": "1995. Diccionari valencià, Generalitat Valenciana, Bromera i Institut Interuniversitari de Filologia Valenciana. Referència bàsica per la proximitat temporal, la pretensió normativitzadora i l’augment significatiu de lexemes, accepcions i variants formals."
+      },
+      {
+       "n": 0,
+       "t": "2002. Programa SALT 2 i el seu diccionari, de l’Àrea de Política Lingüística de la Generalitat. Ha contribuït decisivament a la difusió de la normativa fins al punt d’haver sigut el referent per al valencià fins a l’aprovació del DNV."
+      },
+      {
+       "n": 0,
+       "t": "La introducció fa constar també, amb una fórmula deliberadament matisada, la referència als diccionaris publicats per la Reial Acadèmia de Cultura Valenciana, que «així mateix, han contribuït a la recuperació del lèxic i la fraseologia valenciana, tot i no ajustar-se a l’ortografia oficial». I precisa que, a més d’aquestes obres, s’han consultat «nombrosos vocabularis especialitzats de matèries específiques, així com diccionaris de neologismes i llibres d’estil dels mitjans de comunicació»."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 6"
+      }
+     ]
+    },
+    {
+     "titol": "Els criteris d’ús del DNV: la formalització de la norma lèxica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-31-7bfb24d7a234dda7.mp3",
+     "durada": 44.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els criteris d’ús del DNV: la formalització de la norma lèxica"
+      },
+      {
+       "n": 0,
+       "t": "Els «Criteris d’ús» que precedeixen el DNV són el document tècnic que tradueix la doctrina lèxica en decisions de codificació. Estan organitzats en setze apartats i tenen valor normatiu indirecte: determinen com s’ha de llegir cada element de l’article lexicogràfic i, per tant, quin abast té cada decisió de l’Acadèmia. L’informe de l’AVL sobre els criteris lingüístics de la Generalitat s’hi remet expressament quan explica com s’indiquen «les solucions més adequades per als diversos registres d’ús»."
+      }
+     ]
+    },
+    {
+     "titol": "6.1. L’estructura de l’article lexicogràfic",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-32-9d33a5800c9c7dc7.mp3",
+     "durada": 99.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.1. L’estructura de l’article lexicogràfic"
+      },
+      {
+       "n": 0,
+       "t": "El DNV està estructurat en articles, que contenen tota la informació relativa a una paraula. L’ordre dels components és sempre el mateix i cal poder-lo reproduir:"
+      },
+      {
+       "n": 0,
+       "t": "L’entrada, destacada tipogràficament en negreta i color roig, seguida —si té variació de gènere— de la terminació corresponent de la forma de femení."
+      },
+      {
+       "n": 0,
+       "t": "La transcripció fonètica entre claudàtors."
+      },
+      {
+       "n": 0,
+       "t": "Les accepcions, en paràgrafs separats i precedits d’un número d’orde, amb indicació expressa de la categoria gramatical i, quan pertoca, una referència al registre lingüístic i a l’àmbit específic en què se sol usar."
+      },
+      {
+       "n": 0,
+       "t": "Les subentrades, ordenades alfabèticament al final de l’article: unitats lèxiques complexes constituïdes per sintagmes nominals, locucions i frases fetes que contenen l’entrada."
+      },
+      {
+       "n": 0,
+       "t": "Els substantius i adjectius amb variació de gènere s’entren per la forma de masculí singular (forner -a, blanc -a); els verbs, per la forma d’infinitiu (cantar). Els substantius femenins que presenten alguna variació formal respecte de la forma masculina dels adjectius o substantius amb què estan relacionats semànticament i etimològicament tenen article independent: músic -a i música; bavós -osa i bavosa."
+      }
+     ]
+    },
+    {
+     "titol": "6.2. L’entrada: homògrafes, variants i estrangerismes",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-33-c178715a81e710c9.mp3",
+     "durada": 169.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.2. L’entrada: homògrafes, variants i estrangerismes"
+      },
+      {
+       "n": 0,
+       "t": "Cas. Tractament. Exemples"
+      },
+      {
+       "n": 0,
+       "t": "Entrades homògrafes. Articles independents amb superíndex numèric quan conflueixen en una mateixa forma dos o més paraules d’origen etimològic diferent. També s’hi separen, tot i tenir un mateix ètim, els verbs i les formes substantivades que en deriven, i les paraules que han generat una moció de gènere diferent en certes accepcions.. estoc¹ (arma) i estoc² (existències); berenar¹ (verb) i berenar² (substantiu); actor -a¹ (dret: demandant) i actor actriu² (professió)."
+      },
+      {
+       "n": 0,
+       "t": "Variants d’accentuació. Un sol article, amb l’entrada secundària entre parèntesis, precedida de la conjunció o, a continuació de la forma considerada principal. Afecta tant el timbre de la vocal tònica com la presència o absència d’accent gràfic.. alé (o alè); xòfer -a (o xofer -a)."
+      },
+      {
+       "n": 0,
+       "t": "Variants lèxiques. S’integren en un mateix article les variants que responen a fenòmens fonètics o morfològics de caràcter general.. Sufix -ista amb variant secundària en -iste per al masculí: oficinista (o oficiniste -a). Sufix -esa amb variant en -ea: peresa (o perea)."
+      },
+      {
+       "n": 0,
+       "t": "Estrangerismes. Les entrades dels estrangerismes no adaptats ortogràficament s’escriuen en cursiva i porten la marca de llengua d’origen entre claudàtors.. country [angl.]; boutique [fr.]; paterfamilias [llatí]."
+      },
+      {
+       "n": 0,
+       "t": "Unitats de mesura de nom propi. Excepció a la regla anterior: es mantenen en redona, amb l’ortografia originària del cognom, per a preservar la denominació fixada internacionalment.. coulomb, dalton, weber."
+      },
+      {
+       "n": 0,
+       "t": "Sigles i acrònims. S’incorporen com a entrades normals quan estan plenament lexicalitzats, o escrits amb majúscula quan es lligen lletra a lletra.. làser (lexicalitzat); DVD (lletra a lletra)."
+      }
+     ]
+    },
+    {
+     "titol": "6.3. Definició perifràstica i definició per remissió: la clau de la jerarquia",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-34-0002d903b684d090.mp3",
+     "durada": 207.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.3. Definició perifràstica i definició per remissió: la clau de la jerarquia"
+      },
+      {
+       "n": 0,
+       "t": "Aquest és, sens dubte, l’apartat més important dels criteris d’ús, perquè conté el mecanisme tècnic pel qual el DNV jerarquitza el lèxic. El diccionari té dos classes de definicions:"
+      },
+      {
+       "n": 0,
+       "t": "Les definicions perifràstiques, en què s’explica el significat de la paraula a partir de la descripció dels seus trets rellevants fins a individualitzar-ne el sentit específic."
+      },
+      {
+       "n": 0,
+       "t": "Les definicions per remissió, en què es dirigeix a una altra entrada, bé a un article sencer, bé a una o diverses accepcions."
+      },
+      {
+       "n": 0,
+       "t": "I tot seguit formula la regla decisiva:"
+      },
+      {
+       "n": 0,
+       "t": "«Les paraules amb definició perifràstica corresponen a les entrades principals, considerades les més apropiades i recomanables per als usos formals valencians de caràcter general i oficial.» DNV, «Criteris d’ús», § 6.1"
+      },
+      {
+       "n": 0,
+       "t": "D’ací se’n deriva un procediment de consulta immediat i infal·lible, que és el que l’AVL recomana als empleats públics: si una entrada té definició pròpia, és principal i apta per al registre formal; si remet a una altra entrada, la forma recomanada és aquella a què remet. Així, canell remet a monyica 1; gamell, a camell 1 i 2; ordre, a orde 1-15; doral, a martinet². Quan la remissió es fa a accepcions concretes, la paraula a què s’envia va seguida del número o números corresponents; quan es remet a una entrada homògrafa, del superíndex numèric."
+      },
+      {
+       "n": 0,
+       "t": "L’ús dels parèntesis en les definicions té també valor normatiu: indica que la informació acotada no forma part estrictament dels trets semàntics definitoris. En les definicions dels verbs transitius s’hi acota el complement directe —«Adquirir (alguna cosa) a canvi d’una quantitat de diners convinguda», en comprar—; en les dels adjectius, l’àmbit d’aplicació expressat per una classe de substantius —«Que no té (una persona) decisió ni iniciativa», en abajocat -ada; «Que habita (una planta o una comunitat vegetal) en sòls o substrats calcaris», en calcícola."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA REGLA DE LES DOS PREGUNTES Davant de qualsevol dubte lèxic, el DNV es consulta amb dos preguntes encadenades: Té definició perifràstica? Si en té, és entrada principal i, per tant, apropiada per als usos formals de caràcter general i oficial. Si remet, la recomanada és la forma a què remet. Porta alguna marca d’ús entre claudàtors? Si en porta —col·loq., vulg., ant., obs., infant.—, en general el seu ús no es considera apropiat per a un registre formal."
+      }
+     ]
+    },
+    {
+     "titol": "6.4. Les subentrades: la fraseologia com a objecte de norma",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-35-d44ee1a429f29853.mp3",
+     "durada": 148.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.4. Les subentrades: la fraseologia com a objecte de norma"
+      },
+      {
+       "n": 0,
+       "t": "El DNV defineix les subentrades com «unitats lèxiques complexes constituïdes per més d’una paraula amb un significat específic diferent del que seria la mera addició semàntica dels elements integrants»: sintagmes nominals, locucions, frases fetes. Es representen en negreta i color roig, en un cos més menut que el de l’entrada, i se situen després dels significats, ordenades alfabèticament i encapçalades per un número d’orde que continua el de les accepcions."
+      },
+      {
+       "n": 0,
+       "t": "L’orde de prelació per a decidir en quin article s’incorpora cada subentrada és una regla tècnica de consulta que convé retenir:"
+      },
+      {
+       "n": 0,
+       "t": "Com a norma general, dins de l’article corresponent al primer substantiu que hi apareix: lligar els gossos amb llonganisses va en gos; estar com el gat i el gos, en gat."
+      },
+      {
+       "n": 0,
+       "t": "Si no té cap substantiu, a partir del primer adjectiu: ballar amb la més lletja va en lleig lletja; filar prim, en prim -a."
+      },
+      {
+       "n": 0,
+       "t": "Si no hi ha ni substantius ni adjectius, pel pronom, l’adverbi o el verb, amb aquest orde de prelació: d’allò més va en allò; d’ací a, en ací; ni per saber morir, en saber¹."
+      },
+      {
+       "n": 0,
+       "t": "Les subentrades formades a partir d’una paraula que no té entrada pròpia s’incorporen a partir de la paraula que en constitueix el nucli semàntic: a rossegons, a la babalà."
+      },
+      {
+       "n": 0,
+       "t": "Les locucions procedents d’altres llengües es prenen com un tot indestriable i s’entren pel primer component: in pectore, mass media."
+      },
+      {
+       "n": 0,
+       "t": "Per a facilitar-ne la consulta, una mateixa subentrada es pot localitzar també des de la resta de paraules que la componen, que hi remeten amb l’abreviatura V. (‘vegeu’) seguida del número d’orde. I quan una locució presenta variants d’algunes paraules que no n’afecten el significat, les formes alternatives s’escriuen entre parèntesis, en negreta i precedides de la conjunció o: advocat de secà (o de marge, o de cuina); presència d’esperit (o d’ànim)."
+      }
+     ]
+    },
+    {
+     "titol": "6.5. Exemples, informació complementària i flexió verbal",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-36-550e78e3e4be0b57.mp3",
+     "durada": 121.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.5. Exemples, informació complementària i flexió verbal"
+      },
+      {
+       "n": 0,
+       "t": "Exemples: moltes definicions van seguides d’exemples en cursiva que situen la paraula en un context d’ús real, per a precisar-ne el sentit o il·lustrar-ne la construcció sintàctica, «especialment el règim preposicional dels verbs»."
+      },
+      {
+       "n": 0,
+       "t": "Categoria gramatical: s’indica en cada accepció amb les abreviatures corresponents."
+      },
+      {
+       "n": 0,
+       "t": "Informació complementària: entre claudàtors i en un altre tipus de lletra, aporta indicacions ortogràfiques, morfològiques i sintàctiques que poden afectar tot l’article o accepcions concretes. Exemples: administració 5, «[escrit amb majúscula inicial]»; malament, «[mal davant d’adjectius, adverbis i formes verbals]»; cap², «[en oracions negatives]» i «[en oracions interrogatives, dubitatives i en la pròtasi de les condicionals]»."
+      },
+      {
+       "n": 0,
+       "t": "Flexió verbal: en totes les entrades constituïdes per un verb es pot consultar la conjugació completa, «així com observacions sobre l’acceptabilitat de certes formes verbals alternatives», mitjançant el botó de conjugació de la versió electrònica."
+      },
+      {
+       "n": 0,
+       "t": "Formes de plural: no s’indiquen sistemàticament, però sí en quatre supòsits concrets —paraules acabades en vocal tònica que fan el plural en -s (bisturí, sofà), substantius aguts masculins acabats en -s que fan el plural en -sos (alficòs, progrés), acabats en -x que l’afigen en -s (linx, box) i acabats en -ig que fan el plural en -tjos o alternativament en -igs (desig)."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 7"
+      }
+     ]
+    },
+    {
+     "titol": "El sistema de marques: la graduació de la normativitat",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-37-c62df8f9e080f6ee.mp3",
+     "durada": 44.4,
+     "text": [
+      {
+       "n": 1,
+       "t": "El sistema de marques: la graduació de la normativitat"
+      },
+      {
+       "n": 0,
+       "t": "Si la distinció entre definició perifràstica i definició per remissió jerarquitza les formes, el sistema de marques gradua els usos. Les marques són l’instrument amb què l’AVL compleix el compromís, assumit ja en l’acord de 20 de maig del 2002, de no prescriure amb criteris excloents i, alhora, orientar sobre l’adequació de cada unitat a cada situació comunicativa. El DNV n’utilitza cinc sèries: gramaticals, d’ús, temàtiques, de llengua d’origen i d’intenció del parlant."
+      }
+     ]
+    },
+    {
+     "titol": "7.1. Les marques d’ús",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-38-7430ee223ea1b218.mp3",
+     "durada": 239.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.1. Les marques d’ús"
+      },
+      {
+       "n": 0,
+       "t": "Les marques d’ús es refereixen al nivell de llenguatge en què les entrades o accepcions solen ser utilitzades. Els criteris del DNV en fixen l’efecte normatiu amb una fórmula que cal retenir: «en general, amb els matisos específics associats a cada abreviatura, indiquen que el seu ús no es considera apropiat per a un registre formal». Estan escrites en cursiva i van sempre entre claudàtors, a continuació de la categoria gramatical."
+      },
+      {
+       "n": 0,
+       "t": "Marca. Valor. Definició dels criteris del DNV. Exemples"
+      },
+      {
+       "n": 0,
+       "t": "col·loq.. col·loquial. Paraules o accepcions pròpies de la conversa informal i distesa. També s’aplica a variants purament formals producte d’evolucions dialectals amb escassa tradició en el llenguatge escrit modern, no recomanables en registres formals.. castanya (colp; contrarietat; any d’edat), nàpia; aixina, mascletà"
+      },
+      {
+       "n": 0,
+       "t": "vulg.. vulgar. Mots considerats habitualment malsonants, grollers i poc o gens assumits pel bon gust majoritari, especialment els de caràcter escatològic o sexual.. merda, piu"
+      },
+      {
+       "n": 0,
+       "t": "infant.. infantil. Paraules pròpies del llenguatge dels xiquets de poca edat o de qui es relaciona amb ells.. non, bua"
+      },
+      {
+       "n": 0,
+       "t": "ant.. antic. Veus que han deixat d’usar-se en la llengua viva, però que poden tenir encara una certa rendibilitat en la creació literària.. dejús, donzell 2 i 3"
+      },
+      {
+       "n": 0,
+       "t": "obs.. obsolet. Termes de l’àmbit científic desplaçats per altres denominacions en els respectius llenguatges d’especialitat.. ornitodelf -a, vidriol"
+      },
+      {
+       "n": 0,
+       "t": "impr.. impròpiament. Figura en la llista oficial d’abreviatures del diccionari.. —"
+      },
+      {
+       "n": 0,
+       "t": "Val la pena observar la diferència de naturalesa entre les tres primeres i les dos següents. Col·loq., vulg. i infant. són marques diafàsiques: situen la unitat en un registre. Ant. i obs. són marques cronològiques: indiquen que la paraula o l’accepció ha perdut vigència, i el DNV les presenta expressament com a marques «de caràcter cronològic». La distinció entre ant. i obs. és preguntable: la primera afecta la llengua general i deixa oberta la rendibilitat literària; la segona afecta específicament els llenguatges d’especialitat."
+      },
+      {
+       "n": 0,
+       "t": "Un matís de gran valor pràctic: la marca col·loq. no s’aplica només a paraules, sinó també a variants formals. Que aixina porte la marca col·loq. no vol dir que siga incorrecta; vol dir que és una variant dialectal amb escassa tradició escrita moderna i, per tant, no recomanable en un registre formal. És el mateix criteri que l’asterisc de l’acord del 2002, ara integrat en el sistema lexicogràfic."
+      }
+     ]
+    },
+    {
+     "titol": "7.2. Les marques temàtiques i el lèxic d’especialitat",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-39-d2bd82077ee0fab9.mp3",
+     "durada": 220.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.2. Les marques temàtiques i el lèxic d’especialitat"
+      },
+      {
+       "n": 0,
+       "t": "Les marques temàtiques indiquen l’àrea de coneixement a què pertany una entrada o accepció. S’escriuen amb majúscula cursiva i se situen immediatament abans de la definició. La llista oficial d’abreviatures del DNV en conté al voltant de cent trenta, cosa que dona la mesura de l’ambició terminològica de l’obra: el DNV no és només un diccionari de llengua general, sinó també un repertori de lèxic d’especialitat."
+      },
+      {
+       "n": 0,
+       "t": "Una mateixa entrada pot rebre marques temàtiques distintes en cada accepció, i això és precisament el que permet delimitar significats. L’exemple que en donen els criteris és acíclic -a, amb tres accepcions marcades BOT., QUÍM. i ECON.. També són freqüents les marques compostes, quan un terme pertany simultàniament a dos àmbits: BOT./AGR. en creïlla, PROF./MÚS. en músic -a, ANTROP./LING. en els gentilicis i noms de llengües."
+      },
+      {
+       "n": 0,
+       "t": "Blocs de marques temàtiques del DNV (mostra representativa)"
+      },
+      {
+       "n": 0,
+       "t": "Ciències de la vida i de la salut: ANAT., BOT., MED., MICOL., ORNIT., PAT., PSIC./PSIQ., VETER., ZOOL."
+      },
+      {
+       "n": 0,
+       "t": "Ciències exactes i naturals: ASTRONOM., FÍS., GEOL., MATEM., METEOR., METROL., MINERAL., QUÍM."
+      },
+      {
+       "n": 0,
+       "t": "Ciències socials i humanes: ANTROP., ARQUEOL., DRET, ECON., HIST., LING., REL., SOCIOL."
+      },
+      {
+       "n": 0,
+       "t": "Tècnica i indústria: AERON., ASTRONÀUT., CONSTR., ELECTR., INFORM., PAPER, TECNOL., TELECOM., TÈXTIL, TRANSP., URBAN., VIDRE"
+      },
+      {
+       "n": 0,
+       "t": "Activitats i vida quotidiana: AGR., ALIM., APIC., AQÜIC., ARM., AVIC., BEG., CAVALL., CONF., ESPORT, GASTR., JOCS, JOI., MOBIL., PIR., PROF."
+      },
+      {
+       "n": 0,
+       "t": "Arts i comunicació: ART, AUDIOVIS., FOTOGR., MÚS., TEATRE"
+      },
+      {
+       "n": 0,
+       "t": "Onomàstica: GENTIL., AMPEL."
+      },
+      {
+       "n": 0,
+       "t": "La presència de la marca GENTIL. mereix una atenció especial, perquè significa que els gentilicis —valencià, mancunià -ana, emiratià -ana— formen part del lèxic normatiu i s’hi tracten com a entrades ordinàries, amb la seua definició i la seua transcripció fonètica. És un dels punts de contacte entre la normativa lèxica i l’onomàstica (v. l’apartat 8.8)."
+      }
+     ]
+    },
+    {
+     "titol": "7.3. Les marques de llengua d’origen",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-40-797c3fd028fa483b.mp3",
+     "durada": 103.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.3. Les marques de llengua d’origen"
+      },
+      {
+       "n": 0,
+       "t": "En el cas de manlleus no adaptats ortogràficament, el DNV indica la llengua d’origen amb l’abreviatura corresponent, escrita en cursiva i entre claudàtors. La llista oficial en conté vint-i-una: afrik. (afrikaans), al. (alemany), angl. (anglés), àr. (àrab), basc, cast. (castellà), coreà, escand. (escandinau), fr. (francés), gaèlic, gr. (grec), hong. (hongarés), it. (italià), jap. (japonés), llatí, nor. (noruec), pol. (polonés), port. (portugués), rus, suec i xinés."
+      },
+      {
+       "n": 0,
+       "t": "La marca de llengua d’origen no és un simple apunt etimològic: coocorre amb la cursiva i, per tant, identifica de manera inequívoca les paraules que el DNV considera estrangerismes no adaptats. Aquesta és la informació que l’AVL exigix consultar en el diccionari abans d’escriure una paraula en cursiva o en redona, com recorda en l’informe sobre els criteris lingüístics de la Generalitat."
+      }
+     ]
+    },
+    {
+     "titol": "7.4. Les marques d’intenció del parlant",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-41-cc5095c543266176.mp3",
+     "durada": 74.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.4. Les marques d’intenció del parlant"
+      },
+      {
+       "n": 0,
+       "t": "El DNV empra dos marques per a indicar el valor amb què s’utilitza una entrada o accepció: iròn. (irònic) i pej. (pejoratiu). Els exemples dels criteris d’ús són gracieta 2, «[iròn.] Cosa irritant, que molesta», i cavallot 2, «[pej.] Dona corpulenta i que parla i es mou tumultuosament, sense elegància, sense delicadesa»."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta sèrie de marques és la que més ha crescut en les actualitzacions recents. En el 2024, per exemple, el Ple va acordar canvis de marca valorativa que assignen [pej.] a entrades com bardaix, faldetes, faldilletes o gallimarsot. La decisió mostra que el sistema de marques no és una etiqueta descriptiva neutra, sinó un instrument amb què la institució normativa fa explícita la càrrega valorativa de determinades unitats."
+      }
+     ]
+    },
+    {
+     "titol": "7.5. La marca «en recessió» (2024)",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-42-165e9df483446d49.mp3",
+     "durada": 190.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.5. La marca «en recessió» (2024)"
+      },
+      {
+       "n": 0,
+       "t": "En les modificacions aprovades pel Ple el maig del 2024 apareix una marca que no figura encara en la llista d’abreviatures publicada en el portal del DNV: [en rec.], «en recessió». S’aplica de manera sistemàtica a un conjunt homogeni d’accepcions: les formes de femení dels noms de càrrec que designaven la muller del titular masculí."
+      },
+      {
+       "n": 0,
+       "t": "Entrada. Accepció que rep la marca"
+      },
+      {
+       "n": 0,
+       "t": "alcalde¹ -essa. 2. f. [en rec.] Muller de l’alcalde."
+      },
+      {
+       "n": 0,
+       "t": "almirall -essa. 3. f. [en rec.] Muller de l’almirall."
+      },
+      {
+       "n": 0,
+       "t": "ambaixador -a. 5. f. [en rec.] Muller de l’ambaixador."
+      },
+      {
+       "n": 0,
+       "t": "batle -essa. 6. f. [en rec.] Muller del batle."
+      },
+      {
+       "n": 0,
+       "t": "capità -ana. 9. f. [en rec.] Muller del capità."
+      },
+      {
+       "n": 0,
+       "t": "coronel -a. 2. f. [en rec.] Muller del coronel."
+      },
+      {
+       "n": 0,
+       "t": "general -a. 2. f. [en rec.] Muller del general."
+      },
+      {
+       "n": 0,
+       "t": "regent -a. 5. f. [en rec.] Muller del regent."
+      },
+      {
+       "n": 0,
+       "t": "sagristà -ana. 2. f. [en rec.] REL. Muller del sagristà."
+      },
+      {
+       "n": 0,
+       "t": "L’operació és molt significativa des del punt de vista de la teoria de la norma. L’AVL no elimina aquestes accepcions —fer-ho equivaldria a negar-ne l’existència històrica i a impedir la lectura de textos que les contenen—, sinó que les marca com a usos en retrocés. És l’aplicació més recent i més visible del principi enunciat el 2002: la norma descriu fets i processos lingüístics i determina solucions perdurables, però no prescriu amb criteris excloents."
+      },
+      {
+       "n": 0,
+       "t": "PER A AMPLIAR La introducció de [en rec.] és un bon exemple, aprofitable en una prova teoricopràctica, de com una institució normativa gestiona el canvi social a través del sistema de marques. Compareu-ho amb la solució adoptada per a les mateixes entrades en altres diccionaris de referència: mentre unes obres suprimeixen l’accepció, l’AVL opta per conservar-la amb una marca de vigència. Són dos models distints de relació entre norma i realitat social, i tots dos són defensables."
+      }
+     ]
+    },
+    {
+     "titol": "7.6. La regla operativa per al registre formal",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-43-07526e5b4d1ccd31.mp3",
+     "durada": 99.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.6. La regla operativa per al registre formal"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha formulat de manera expressa, en l’informe sobre els criteris lingüístics de l’Administració, la regla que resumeix tot el sistema exposat en aquest apartat i en l’anterior:"
+      },
+      {
+       "n": 0,
+       "t": "«Com a criteri general, partint de la tradició lingüística consolidada, l’AVL considera preferibles per als registres formals les entrades principals del diccionari, és a dir, aquelles que tenen una definició perifràstica; per contra, estima que no són apropiades per al registre formal propi de l’Administració pública aquelles paraules o accepcions que estan marcades amb les abreviatures de col·loquial o vulgar.» AVL, Informe sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada»"
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA REGLA EN TRES LÍNIES Apte per al registre formal administratiu: entrada amb definició perifràstica i sense marca d’ús. No apte per al registre formal administratiu: entrada o accepció marcada col·loq. o vulg. (i, per la seua naturalesa cronològica, també ant. i obs., llevat d’usos literaris o històrics justificats). Recomanació de substitució: si l’entrada remet a una altra, la forma recomanada és aquella a què remet."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 8"
+      }
+     ]
+    },
+    {
+     "titol": "Quin lèxic forma part de la normativa: l’abast de l’inventari",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-44-914e189a80de77b4.mp3",
+     "durada": 34.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Quin lèxic forma part de la normativa: l’abast de l’inventari"
+      },
+      {
+       "n": 0,
+       "t": "Els apartats anteriors han exposat els criteris; aquest respon a la pregunta que se’n deriva: què hi entra. La resposta de l’AVL és deliberadament àmplia quant a l’inventari i graduada quant a l’ús, i es pot resumir en una fórmula del DOPV: totes les paraules recollides «formen part del patrimoni lingüístic valencià però, lògicament, no totes són adequades per als mateixos àmbits d’ús»."
+      }
+     ]
+    },
+    {
+     "titol": "8.1. El lèxic patrimonial valencià i les recuperacions",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-45-79e96b72e740b6ef.mp3",
+     "durada": 75.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.1. El lèxic patrimonial valencià i les recuperacions"
+      },
+      {
+       "n": 0,
+       "t": "El nucli de l’inventari és el lèxic valencià viu i documentat, amb un tractament preferencial explícit. El coordinador del DNV va definir l’obra com «un diccionari general d’esta llengua compartida» que «dóna preferència a les paraules, accepcions i fraseologia pròpies del valencià, i les incorpora per primera vegada, quan fins ara eren absentes en els diccionaris anteriors». Segons les dades facilitades per la mateixa institució en la presentació de l’edició impresa, uns 8.000 vocables del DNV apareixien per primera vegada en un diccionari."
+      },
+      {
+       "n": 0,
+       "t": "La incorporació no és indiscriminada: respon als criteris de l’apartat 3 de l’acord del 2002 —documentació clàssica, vitalitat actual, aportació comarcal— i es materialitza tant en entrades noves com en prioritzacions de formes ja existents (una variant passa a ser principal) i en accepcions noves (un significat valencià s’afegei a una entrada compartida)."
+      }
+     ]
+    },
+    {
+     "titol": "8.2. Les variants d’altres territoris de la llengua compartida",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-46-569b5705c1b28cbc.mp3",
+     "durada": 76.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.2. Les variants d’altres territoris de la llengua compartida"
+      },
+      {
+       "n": 0,
+       "t": "Una decisió que defineix el caràcter del DNV és la incorporació del lèxic de la resta del domini lingüístic. La introducció ho explica sense ambigüitat: «d’acord amb els principis unitaris enunciats anteriorment, també hem donat entrada a les variants lèxiques pròpies d’altres regions de la nostra comunitat lingüística (com ara noi o al·lot, per exemple), encara que, evidentment, remetent-les a la forma pròpia de l’àmbit valencià (xic), a la qual s’ha donat prioritat»."
+      },
+      {
+       "n": 0,
+       "t": "El mecanisme és, doncs, el mateix que s’aplica a les variants internes: inclusió amb remissió. La forma d’un altre territori és normativa —forma part de la llengua i es pot llegir, ensenyar i entendre—, però no és la prioritzada per a l’ús formal valencià. Aquesta solució és la traducció lexicogràfica exacta del policentrisme convergent: un sol repertori per a tota la llengua, amb prioritats distintes segons el centre."
+      }
+     ]
+    },
+    {
+     "titol": "8.3. Col·loquialismes, vulgarismes i llenguatge infantil",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-47-914ab59bf7d04173.mp3",
+     "durada": 94.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.3. Col·loquialismes, vulgarismes i llenguatge infantil"
+      },
+      {
+       "n": 0,
+       "t": "El lèxic dels registres informals forma part de l’inventari normatiu, amb la marca corresponent. Aquesta és una diferència important respecte de la concepció tradicional del diccionari normatiu com a catàleg del que és apte: l’AVL inclou merda i piu amb la marca vulg., nàpia i aixina amb la marca col·loq., non i bua amb la marca infant."
+      },
+      {
+       "n": 0,
+       "t": "La raó d’aquesta inclusió està en els criteris del 2002: si l’AVL no pot «prescriure amb criteris excloents de formes vives, de territoris, de col·lectius de parlants, de situacions generals de la llengua i de les situacions de comunicació», ha de recollir els usos informals i, alhora, indicar-ne l’àmbit. La marca no és una condemna sinó una instrucció d’ús: informa que la unitat existeix, és genuïna i té el seu lloc, però que aquest lloc no és el registre formal."
+      },
+      {
+       "n": 0,
+       "t": "Convé recordar l’antecedent: l’acord de 20 de maig del 2002 va oficialitzar els continguts del SALT 2.0 excepte els elements marcats com a vulgarismes, estrangerismes i col·loquialismes, «els quals seran en el futur objecte d’estudi». Aquell estudi ajornat és el que ha donat lloc al tractament actual: no exclusió, sinó inclusió marcada."
+      }
+     ]
+    },
+    {
+     "titol": "8.4. Arcaismes i termes obsolets",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-48-d2f6d362ab5b7123.mp3",
+     "durada": 66.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.4. Arcaismes i termes obsolets"
+      },
+      {
+       "n": 0,
+       "t": "El DNV incorpora també unitats que ja no pertanyen a la llengua viva, amb les dos marques cronològiques. La marca ant. s’aplica a veus que han deixat d’usar-se «però que, això no obstant, poden tenir encara una certa rendibilitat en la creació literària» —dejús, o les accepcions 2 i 3 de donzell—; la marca obs., a termes científics desplaçats per altres denominacions en els llenguatges d’especialitat —ornitodelf, vidriol per ‘sulfat’."
+      },
+      {
+       "n": 0,
+       "t": "La justificació és funcional: un diccionari normatiu ha de permetre llegir i interpretar el patrimoni escrit, no només produir textos nous. La distinció entre les dos marques mostra, a més, que l’AVL diferencia el que ha caigut en desús en la llengua general del que ha estat substituït per decisió de les comunitats científiques."
+      }
+     ]
+    },
+    {
+     "titol": "8.5. Estrangerismes, manlleus i llatinismes",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-49-63f45c2c78662f1f.mp3",
+     "durada": 155.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.5. Estrangerismes, manlleus i llatinismes"
+      },
+      {
+       "n": 0,
+       "t": "El tractament dels manlleus és un dels punts on la normativa lèxica es fa més visible, perquè hi conflueixen tres decisions: si s’incorporen, com s’escriuen i com es pronuncien."
+      },
+      {
+       "n": 0,
+       "t": "Situació. Tractament normatiu. Exemples"
+      },
+      {
+       "n": 0,
+       "t": "Manlleu adaptat ortogràficament. Entrada en redona, com qualsevol altra paraula del diccionari, amb la grafia adaptada.. hòlding, làser (lexicalitzat com a entrada normal)"
+      },
+      {
+       "n": 0,
+       "t": "Manlleu no adaptat. Entrada en cursiva, amb la marca de llengua d’origen entre claudàtors i transcripció fonètica.. country [angl.], boutique [fr.], carpaccio [it.], blues [angl.], fondue [fr.]"
+      },
+      {
+       "n": 0,
+       "t": "Llatinisme. Mateix tractament que els manlleus no adaptats, amb la marca [llatí].. paterfamilias, in pectore"
+      },
+      {
+       "n": 0,
+       "t": "Unitat de mesura derivada de nom propi. Excepció: es manté en redona amb l’ortografia originària del cognom, per a preservar la denominació fixada internacionalment.. coulomb, dalton, weber"
+      },
+      {
+       "n": 0,
+       "t": "Locució d’una altra llengua. Entrada en cursiva. Es pren com un tot indestriable i s’entra pel primer component.. in pectore, mass media"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL ha subratllat en l’informe sobre els criteris lingüístics de la Generalitat que la determinació de si un estrangerisme està adaptat o no no es pot deixar a la consulta genèrica de «diccionaris i repertoris terminològics», perquè no tots apliquen els mateixos criteris d’adaptació. El referent que s’ha de donar als empleats públics és la consulta del DNV i del Portal Terminològic Valencià i, supletòriament —només si no s’hi troba la paraula buscada—, altres diccionaris o portals terminològics complementaris. El mateix criteri val per als llatinismes i per als neologismes."
+      }
+     ]
+    },
+    {
+     "titol": "8.6. Sigles, acrònims i unitats de mesura",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-50-752cfb2daec5315f.mp3",
+     "durada": 45.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.6. Sigles, acrònims i unitats de mesura"
+      },
+      {
+       "n": 0,
+       "t": "El DNV incorpora sigles i acrònims «d’una gran freqüència d’ús», amb un criteri de doble via: com a entrades normals quan estan plenament lexicalitzats —làser, escrit en minúscula i tractat com un substantiu comú— i escrits amb majúscula quan es lligen lletra a lletra —DVD, amb la transcripció fonètica corresponent i la marca de plural invariable. La incorporació d’una sigla al diccionari té, doncs, una lectura normativa immediata: en determina la grafia, el gènere, la flexió i la pronunciació."
+      }
+     ]
+    },
+    {
+     "titol": "8.7. Terminologia especialitzada: la frontera amb el Portal Terminològic Valencià",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-51-75c3f1582b457d39.mp3",
+     "durada": 140.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.7. Terminologia especialitzada: la frontera amb el Portal Terminològic Valencià"
+      },
+      {
+       "n": 0,
+       "t": "El DNV conté una proporció molt alta de lèxic d’especialitat, com acredita el sistema de vora cent trenta marques temàtiques. Però la normativa terminològica de l’AVL no s’esgota en el diccionari: la institució disposa d’una Secció de Terminologia pròpia i del Portal Terminològic Valencià, objecte específic del tema 4 del temari, a més d’una àmplia col·lecció de vocabularis i lèxics sectorials."
+      },
+      {
+       "n": 0,
+       "t": "La delimitació entre els dos instruments és rellevant i es pot formular així:"
+      },
+      {
+       "n": 0,
+       "t": "El DNV recull el lèxic d’especialitat que ha assolit prou generalitat per a formar part del diccionari general de la llengua, amb definició, marca temàtica i, si escau, transcripció fonètica."
+      },
+      {
+       "n": 0,
+       "t": "El Portal Terminològic Valencià recull la terminologia sectorial amb un grau de detall i d’exhaustivitat que un diccionari general no pot assumir, amb equivalents en altres llengües i fitxes terminològiques."
+      },
+      {
+       "n": 0,
+       "t": "Els dos són referents normatius per a l’Administració: l’informe de l’AVL sobre els criteris lingüístics els cita conjuntament com el referent que s’ha de donar als empleats públics."
+      },
+      {
+       "n": 0,
+       "t": "El trànsit entre els dos repertoris és possible i està documentat: les actualitzacions del DNV registren operacions de «canvi de grafia i trasllat del DNV al PTV», que mostren que la frontera es gestiona de manera activa."
+      },
+      {
+       "n": 0,
+       "t": "A aquest conjunt cal afegir-hi la col·lecció de vocabularis i lèxics sectorials publicats per l’AVL —lèxics de la carnisseria, del cos humà, del futbol, del joc de pilota, dels instruments musicals, dels viatges, de la salut i la sanitat, de la imatge personal, entre molts altres, i vocabularis d’economia, de les arts escèniques o de les ciències de la salut—, que difonen la terminologia fixada i la fan accessible als sectors professionals corresponents."
+      }
+     ]
+    },
+    {
+     "titol": "8.8. Onomàstica: gentilicis, antropònims i topònims",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-52-426180ee39ce7370.mp3",
+     "durada": 143.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.8. Onomàstica: gentilicis, antropònims i topònims"
+      },
+      {
+       "n": 0,
+       "t": "L’onomàstica ocupa una posició fronterera en la normativa lèxica: part és lèxic comú i part no ho és. La delimitació ha de ser precisa, perquè és font freqüent de confusió."
+      },
+      {
+       "n": 0,
+       "t": "Categoria. Naturalesa. Instrument normatiu"
+      },
+      {
+       "n": 0,
+       "t": "Gentilicis. Són lèxic comú: substantius i adjectius amb definició, flexió i transcripció. Porten la marca temàtica GENTIL.. DNV (entrades ordinàries). El DOPV ja hi dedicava el seu tercer capítol, amb les formes dels gentilicis de tots els municipis valencians i la grafia i la pronunciació del nom d’aquests municipis, elaborades amb la col·laboració de les corporacions municipals."
+      },
+      {
+       "n": 0,
+       "t": "Antropònims. Noms propis de persona: no són lèxic comú, però necessiten fixació formal per als usos oficials i registrals.. Vocabulari de noms de persona, sèrie Antroponímia núm. 1 (2a ed., 2017; actualització digital d’abril del 2025)."
+      },
+      {
+       "n": 0,
+       "t": "Topònims. Noms propis de lloc: competència específica de l’article 7.b de la Llei 7/1998, d’exercici rogat.. Corpus toponímic valencià (2009), Criteris per a la fixació de la toponímia valenciana (2015) i Nomenclàtor Toponímic Valencià. Objecte propi d’altres temes del temari."
+      },
+      {
+       "n": 0,
+       "t": "La regla pràctica que se’n deriva és senzilla: el gentilici es busca en el DNV; l’antropònim, en el Vocabulari de noms de persona; el topònim, en els instruments toponímics. Confondre’ls porta a l’error de buscar un nom de municipi en el diccionari general o de tractar un gentilici com si fora onomàstica."
+      }
+     ]
+    },
+    {
+     "titol": "8.9. Fraseologia i unitats lèxiques complexes",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-53-a799808c374f20fb.mp3",
+     "durada": 99.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.9. Fraseologia i unitats lèxiques complexes"
+      },
+      {
+       "n": 0,
+       "t": "La fraseologia és objecte de norma des del primer moment: l’apartat 3.8 de l’acord de 20 de maig del 2002 ja reconeixia com a oficials un conjunt d’unitats fraseològiques «generalment pròpies de la comunicació oral espontània». En el DNV, la fraseologia s’articula com a subentrades, amb tot l’aparell descriptiu de qualsevol unitat lèxica: categoria (loc. adv., loc. verb., loc. orac., loc. nom., loc. adj., loc. conj., loc. prep., loc. pron., loc. interj.), definició, exemples i, si escau, marca d’ús."
+      },
+      {
+       "n": 0,
+       "t": "L’atenció que l’Acadèmia hi dedica és creixent i mesurable: en el període 2017-2026 les actualitzacions del DNV registren 297 locucions noves, i en alguns exercicis recents les locucions noves superen en nombre els articles nous. La introducció del DNV ho justifica com una de les operacions constitutives d’un diccionari: «compilar els girs idiomàtics que no són una mera addició semàntica dels elements lèxics que els componen»."
+      }
+     ]
+    },
+    {
+     "titol": "8.10. Quadre de síntesi de l’abast de l’inventari",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-54-746e80504b80a958.mp3",
+     "durada": 223.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.10. Quadre de síntesi de l’abast de l’inventari"
+      },
+      {
+       "n": 0,
+       "t": "Tipus de lèxic. Forma part de la normativa?. Com s’hi identifica. Apte per al registre formal?"
+      },
+      {
+       "n": 0,
+       "t": "Lèxic valencià general, viu i documentat. Sí, com a entrada principal. Definició perifràstica, sense marca d’ús. Sí"
+      },
+      {
+       "n": 0,
+       "t": "Variant valenciana secundària. Sí. Entre parèntesis, precedida de o, al costat de la principal. Preferible la principal; no s’ha d’alternar"
+      },
+      {
+       "n": 0,
+       "t": "Variant no recomanada. Sí, però remesa. Remissió a l’entrada principal. No; s’ha d’usar la forma a què remet"
+      },
+      {
+       "n": 0,
+       "t": "Variant d’un altre territori de la llengua. Sí. Entrada pròpia amb remissió a la forma valenciana prioritzada. És normativa; en l’àmbit valencià es prioritza la valenciana"
+      },
+      {
+       "n": 0,
+       "t": "Col·loquialisme, vulgarisme, llenguatge infantil. Sí. Marques col·loq., vulg., infant.. No"
+      },
+      {
+       "n": 0,
+       "t": "Arcaisme i terme obsolet. Sí. Marques ant. i obs.. Només en usos literaris o històrics justificats"
+      },
+      {
+       "n": 0,
+       "t": "Ús irònic o pejoratiu. Sí. Marques iròn. i pej.. Amb la cautela que la marca adverteix"
+      },
+      {
+       "n": 0,
+       "t": "Ús en retrocés. Sí. Marca [en rec.] (des del 2024). Desaconsellat"
+      },
+      {
+       "n": 0,
+       "t": "Estrangerisme adaptat. Sí. Entrada en redona. Sí"
+      },
+      {
+       "n": 0,
+       "t": "Estrangerisme no adaptat. Sí. Entrada en cursiva amb marca de llengua d’origen. Sí, amb la cursiva preceptiva"
+      },
+      {
+       "n": 0,
+       "t": "Sigla o acrònim d’ús freqüent. Sí. Entrada normal si està lexicalitzat; en majúscula si es llig lletra a lletra. Sí"
+      },
+      {
+       "n": 0,
+       "t": "Terme d’especialitat. Sí. Marca temàtica en majúscula cursiva. Sí, en el seu àmbit"
+      },
+      {
+       "n": 0,
+       "t": "Gentilici. Sí. Marca GENTIL.. Sí"
+      },
+      {
+       "n": 0,
+       "t": "Unitat fraseològica. Sí. Subentrada amb categoria de locució. Segons la marca d’ús que porte"
+      },
+      {
+       "n": 0,
+       "t": "Antropònim i topònim. No en el diccionari general. Instruments onomàstics específics. Segons l’instrument corresponent"
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 9"
+      }
+     ]
+    },
+    {
+     "titol": "L’actualització permanent de la norma lèxica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-55-afeb049d7c3f76c3.mp3",
+     "durada": 39.6,
+     "text": [
+      {
+       "n": 1,
+       "t": "L’actualització permanent de la norma lèxica"
+      },
+      {
+       "n": 0,
+       "t": "El web institucional de l’AVL caracteritza el DNV com «una obra dinàmica, que s’actualitza tots els mesos com a resultat del treball de l’Acadèmia Valenciana de la Llengua, que observa atentament la realitat social i va seleccionant les innovacions lingüístiques que considera que convé incorporar al diccionari». Aquesta actualització permanent és, avui, la forma ordinària d’exercici de la competència normativa en matèria lèxica, i per això mereix un tractament propi."
+      }
+     ]
+    },
+    {
+     "titol": "9.1. El procediment: de la Secció de Lexicografia i Gramàtica al Ple",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-56-d98ccf4d17364996.mp3",
+     "durada": 125.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.1. El procediment: de la Secció de Lexicografia i Gramàtica al Ple"
+      },
+      {
+       "n": 0,
+       "t": "L’òrgan que prepara les decisions lèxiques és la Secció de Lexicografia i Gramàtica, una de les sis seccions estables de l’Acadèmia. Les seccions són, d’acord amb el Reglament de l’AVL, òrgans col·legiats estables d’estudi, d’informació i d’assessorament, les conclusions de les quals se sotmeten a la consideració del Ple o de la Junta de Govern. La decisió final correspon sempre al Ple, que és qui aprova les modificacions del diccionari."
+      },
+      {
+       "n": 0,
+       "t": "El procediment es completa amb una via de participació ciutadana institucionalitzada: el formulari de proposta al DNV, disponible en el web de l’Acadèmia. La institució el presenta com un instrument per a «mantindre una relació activa amb els usuaris, i en especial amb la societat valenciana, amb l’objectiu de facilitar la incorporació de noves paraules o accepcions que no estiguen arreplegades en l’actual versió del Diccionari Normatiu Valencià o, si és el cas, corregir o puntualitzar els sentits recopilats». El formulari exigix indicar l’entrada i una proposta de definició, i les propostes d’inclusió d’un nou terme o expressió «han d’anar acompanyades del seu significat i, si és possible, d’exemples o de documentació que n’avalen l’ús»."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA CADENA DE DECISIÓ LÈXICA Proposta (Secció de Lexicografia i Gramàtica, a iniciativa pròpia o a partir de propostes d’usuaris) → acord del Ple → incorporació a la versió electrònica del DNV → publicació mensual en el document «Actualitzacions del DNV». La versió electrònica és, en tot moment, la normativa (Resolució de 13 de novembre del 2017)."
+      }
+     ]
+    },
+    {
+     "titol": "9.2. La tipologia de modificacions",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-57-54f281e1b3876f09.mp3",
+     "durada": 196.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.2. La tipologia de modificacions"
+      },
+      {
+       "n": 0,
+       "t": "El document «Actualitzacions del Diccionari normatiu valencià» classifica cada modificació amb una etiqueta que en descriu l’operació lexicogràfica. Conèixer-ne la tipologia permet entendre en quines direccions es mou la norma lèxica."
+      },
+      {
+       "n": 0,
+       "t": "Operació. Descripció. Freqüència 2017-2026"
+      },
+      {
+       "n": 0,
+       "t": "Accepció nova. S’afegeix un significat a una entrada ja existent.. 709"
+      },
+      {
+       "n": 0,
+       "t": "Article nou. S’incorpora una entrada que no figurava en el diccionari.. 431"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de definició. Es reformula la definició d’una accepció per a fer-la més precisa.. 309"
+      },
+      {
+       "n": 0,
+       "t": "Locució nova. S’incorpora una subentrada fraseològica.. 297"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de forma principal. Una variant secundària passa a principal, o s’inverteix la remissió.. 67"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de grafia. Es modifica la representació gràfica d’una entrada.. 63"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de categoria o acotació gramatical. Es rectifica la categoria gramatical o l’acotació entre parèntesis.. 37 (+19 de «canvi de categoria gramatical»)"
+      },
+      {
+       "n": 0,
+       "t": "Supressió i canvi de marca valorativa. S’elimina o es modifica una marca d’ús.. 28 supressions i 16 canvis"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de transcripció fonètica. Es rectifica la pronunciació indicada.. 12"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de remissió. Es redirigeix una entrada cap a una altra.. 5"
+      },
+      {
+       "n": 0,
+       "t": "La lectura d’aquestes xifres és instructiva. La normativa lèxica no creix sobretot per paraules noves sinó per significats nous: hi ha una accepció nova i mitja per cada article nou. Això confirma que l’adaptació de la llengua a la realitat social es produeix majoritàriament per ampliació semàntica del cabal existent, no per creació o manlleu. La segona dada rellevant és el pes de la fraseologia (297 locucions noves), i la tercera, la revisió constant de les definicions (309), que mostra una feina de manteniment de la qualitat lexicogràfica i no només d’ampliació."
+      }
+     ]
+    },
+    {
+     "titol": "9.3. Les dades del període 2017-2026",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-58-5b908174833c4bf6.mp3",
+     "durada": 172.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.3. Les dades del període 2017-2026"
+      },
+      {
+       "n": 0,
+       "t": "El document oficial d’actualitzacions, en la versió de juny del 2026, recull en 285 pàgines totes les modificacions aprovades pel Ple des del gener del 2017, desglossades mes a mes. La distribució per anys de les quatre operacions principals és la següent."
+      },
+      {
+       "n": 0,
+       "t": "Any. Articles nous. Accepcions noves. Locucions noves. Canvis de definició"
+      },
+      {
+       "n": 0,
+       "t": "2017. 94. 129. —. 33"
+      },
+      {
+       "n": 0,
+       "t": "2018. 42. 71. 1. 37"
+      },
+      {
+       "n": 0,
+       "t": "2019. 41. 82. 43. 18"
+      },
+      {
+       "n": 0,
+       "t": "2020. 68. 71. 22. 14"
+      },
+      {
+       "n": 0,
+       "t": "2021. 42. 56. 27. 19"
+      },
+      {
+       "n": 0,
+       "t": "2022. 32. 81. 54. 25"
+      },
+      {
+       "n": 0,
+       "t": "2023. 29. 80. 41. 62"
+      },
+      {
+       "n": 0,
+       "t": "2024. 26. 53. 27. 50"
+      },
+      {
+       "n": 0,
+       "t": "2025. 31. 54. 60. 36"
+      },
+      {
+       "n": 0,
+       "t": "2026 (fins al juny). 26. 32. 22. 15"
+      },
+      {
+       "n": 0,
+       "t": "S’hi observen dos inflexions significatives. La primera, el 2019: és l’any en què la fraseologia entra de manera sistemàtica en el programa d’actualització, amb 43 locucions noves després de pràcticament cap els dos anys anteriors. La segona, el 2023: els canvis de definició es tripliquen i, des d’aleshores, es mantenen en un nivell alt, cosa que indica un canvi d’orientació —de l’ampliació del repertori cap a la revisió qualitativa del que ja hi ha."
+      }
+     ]
+    },
+    {
+     "titol": "9.4. Exemples significatius de l’última etapa",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-59-04fddb2c23786df1.mp3",
+     "durada": 258.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.4. Exemples significatius de l’última etapa"
+      },
+      {
+       "n": 0,
+       "t": "Uns quants exemples concrets de les actualitzacions recents il·lustren millor que cap generalització com opera la norma lèxica en la pràctica."
+      },
+      {
+       "n": 0,
+       "t": "Any. Entrada. Operació i contingut. Què il·lustra"
+      },
+      {
+       "n": 0,
+       "t": "2025. dana. Article nou i canvi de forma principal: «f. METEOR. Depressió en nivells alts de l’atmosfera, constituïda per un nucli d’aire fred amb circulació ciclònica dels vents, que, aïllada de la circulació general atmosfèrica, en descendir sobre una massa d’aire calent, pot produir greus pertorbacions amb precipitacions molt intenses.». La incorporació d’un terme d’especialitat lexicalitzat per un esdeveniment social, amb pas de sigla a substantiu comú."
+      },
+      {
+       "n": 0,
+       "t": "2025. reixos. Article nou: «m. pl. REL./ETNOL. [col·loq.] Rei 7 i 38.». La inclusió d’una forma col·loquial molt viva, amb marca d’ús i remissió a l’entrada principal."
+      },
+      {
+       "n": 0,
+       "t": "2025. garaig. Article nou. La incorporació de variants formals populars amb el tractament que els correspon."
+      },
+      {
+       "n": 0,
+       "t": "2024. alcalde¹ -essa i sèrie. Canvi de marca valorativa: [en rec.] en les accepcions «muller de…».. La gestió del canvi social per mitjà del sistema de marques, sense supressió."
+      },
+      {
+       "n": 0,
+       "t": "2024. bardaix, faldetes, gallimarsot. Canvi de marca valorativa a [pej.]. L’explicitació de la càrrega valorativa d’unitats fins aleshores no marcades."
+      },
+      {
+       "n": 0,
+       "t": "2024. benzina, benzinera, besiaio -a, iai -a, dinamitar, arromangar. Supressió de marca valorativa. El moviment invers: formes que la institució considera plenament integrades en l’ús general perden la restricció."
+      },
+      {
+       "n": 0,
+       "t": "2017. aracnofòbia, copernici, distímic -a. Articles nous amb marca temàtica PSIC./PSIQ. i QUÍM.. L’actualització terminològica sistemàtica per àrees de coneixement."
+      },
+      {
+       "n": 0,
+       "t": "2026. cherokee, kiowa, emiratià -ana, mancunià -ana, karabakhià -ana. Articles nous amb marques ANTROP., LING. i GENTIL.. L’ampliació del repertori de gentilicis i de noms de pobles i llengües."
+      },
+      {
+       "n": 0,
+       "t": "2026. caure del cel, posar el crit en el (o al) cel, caure dels núvols. Locucions noves. La incorporació continuada de fraseologia amb definició i exemple."
+      },
+      {
+       "n": 0,
+       "t": "PER A AMPLIAR El document «Actualitzacions del DNV» és una font excel·lent per a la prova teoricopràctica. Permet documentar amb dades reals qüestions com ara: com incorpora una institució normativa un terme sorgit d’una emergència (dana), com tracta les formes col·loquials molt esteses (reixos, garaig), com gestiona el llenguatge no discriminatori sense mutilar el repertori ([en rec.]) i com equilibra l’ampliació del cabal amb la millora de les definicions ja existents."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 10"
+      }
+     ]
+    },
+    {
+     "titol": "La norma lèxica davant els criteris lingüístics de l’Administració",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-60-c35ff375e58de653.mp3",
+     "durada": 31.8,
+     "text": [
+      {
+       "n": 1,
+       "t": "La norma lèxica davant els criteris lingüístics de l’Administració"
+      },
+      {
+       "n": 0,
+       "t": "La normativa lèxica de l’AVL no s’aplica en el buit: conviu amb els llibres d’estil i els criteris lingüístics de les administracions, de les universitats i dels mitjans. La delimitació entre uns i altres és una de les competències professionals centrals d’un tècnic de promoció lingüística i, per això, un contingut d’alt valor per a l’examen."
+      }
+     ]
+    },
+    {
+     "titol": "10.1. L’informe de l’AVL sobre els «Criteris lingüístics»",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-61-1b55e5c79c90c5a3.mp3",
+     "durada": 126.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.1. L’informe de l’AVL sobre els «Criteris lingüístics»"
+      },
+      {
+       "n": 0,
+       "t": "L’Acadèmia ha tingut ocasió de pronunciar-se sobre aquesta qüestió en l’informe que va emetre sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada» que li va remetre la Direcció General de Política Lingüística i Gestió del Multilingüisme. L’informe és metodològicament exemplar, perquè classifica les observacions segons la seua gravetat normativa en quatre blocs:"
+      },
+      {
+       "n": 0,
+       "t": "Qüestions preliminars: sobre la denominació mateixa del document. L’AVL adverteix que no pot titular-se «Criteris lingüístics de la Generalitat Valenciana», perquè la Generalitat és el conjunt de les institucions d’autogovern —les Corts, la Presidència, el Consell i les institucions de l’article 20.3 de l’Estatut, entre les quals la mateixa AVL—; si una direcció general vol aprovar criteris propis, caldrà precisar que són els criteris de la Direcció General o, en tot cas, del Consell."
+      },
+      {
+       "n": 0,
+       "t": "Qüestions que contradiuen la normativa lingüística de l’AVL. Són les més greus: no es tracta de preferències sinó de solucions que s’aparten de la norma."
+      },
+      {
+       "n": 0,
+       "t": "Qüestions que difereixen de les recomanacions lingüístiques contingudes en les obres normatives de l’AVL. Ací hi ha divergència de preferència, no de normativitat."
+      },
+      {
+       "n": 0,
+       "t": "Qüestions que difereixen dels criteris lingüístics continguts en altres obres de l’AVL, com ara els Criteris per a la fixació de la toponímia valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Aquesta gradació és, en si mateixa, la millor exposició pràctica de la distinció entre norma i model de llengua que s’ha exposat en l’apartat 2.4."
+      }
+     ]
+    },
+    {
+     "titol": "10.2. Els casos lèxics concrets de divergència",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-62-13cfc926be4593a9.mp3",
+     "durada": 261.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.2. Els casos lèxics concrets de divergència"
+      },
+      {
+       "n": 0,
+       "t": "Els casos que l’informe assenyala en el bloc tercer són directament aprofitables com a bateria de qüestions lèxiques resoltes per la norma, i mostren que la preferència del DNV no sempre coincidix amb la intuïció ni amb el costum administratiu."
+      },
+      {
+       "n": 0,
+       "t": "Qüestió. Solució dels Criteris informats. Solució normativa de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "Doblets orde / ordre. Distinció semàntica: ordre per als significats de ‘ordenació, manament’ i orde per a ‘institució’.. No es correspon amb el criteri prioritari fixat en el DNV, que és utilitzar preferentment la forma orde en tots els casos."
+      },
+      {
+       "n": 0,
+       "t": "Sistema d’accentuació. Accent greu en èmbol, tèrbol, trèmol, terratrèmol, trèvol, seguint «la tradició escrita més consolidada».. La norma de l’AVL establix com a formes principals émbol, térbol, trémol, terratrémol, trévol. L’AVL adverteix, a més, que «la tradició escrita» és un concepte difús i poc útil per a orientar els empleats públics."
+      },
+      {
+       "n": 0,
+       "t": "Plural de home i jove. Preferència per homes i joves.. L’Acadèmia considera preferibles les formes de plural clàssiques i etimològiques, plenament vigents, en -ns: hòmens i jóvens."
+      },
+      {
+       "n": 0,
+       "t": "Noms variables. Exemple el perit / la perita.. El DNV dona com a formes principals les formes planes el pèrit / la pèrita."
+      },
+      {
+       "n": 0,
+       "t": "Femenins de substantius en -eu. Preferència per hereva, jueva, romeva.. El DNV prioritza les formes en -a: hereua, jueua, romeua. L’AVL hi apunta, a més, que -eva no és un sufix sinó una terminació."
+      },
+      {
+       "n": 0,
+       "t": "Cardinal dos. Obligació de distingir gènere: dos masculí i dues femení.. Contradiu el criteri del DNV, que dona com a principal la forma invariable dos i la variable dos / dues com a secundària."
+      },
+      {
+       "n": 0,
+       "t": "Ordinals. Formes cinqué, sisé, seté, huité.. El DNV dona preferència a les formes de base llatina quint, sext, sèptim, octau."
+      },
+      {
+       "n": 0,
+       "t": "Adverbi de lloc. Preferència per aquí i indicació que «en tot cas, caldrà evitar la forma ahí».. Contradiu la preferència expressada en el DNV per la forma viva actual ahí; segons l’AVL, no hi ha cap fonament que permeta expressar aquest rebuig."
+      },
+      {
+       "n": 0,
+       "t": "H aspirada. Exemple holding com a estrangerisme no adaptat.. El DNV dona la paraula hòlding adaptada gràficament."
+      },
+      {
+       "n": 0,
+       "t": "Verb postposar. Ús de «postposat».. El verb postposar no està acceptat pel DNV (ni per cap altre diccionari): la forma correcta és posposat."
+      },
+      {
+       "n": 0,
+       "t": "Val la pena subratllar el cas del verb postposar, perquè il·lustra un tipus de qüestió lèxica distinta de totes les anteriors: no és una preferència entre variants normatives, sinó una forma inexistent en el repertori. La resposta normativa, en aquest cas, no és de jerarquia sinó d’absència: si una paraula no figura en el DNV ni en el Portal Terminològic Valencià, no pertany al lèxic normatiu."
+      }
+     ]
+    },
+    {
+     "titol": "10.3. La regla de consulta per als empleats públics",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-63-d01c6b0c495b381c.mp3",
+     "durada": 72.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.3. La regla de consulta per als empleats públics"
+      },
+      {
+       "n": 0,
+       "t": "L’informe conclou amb una regla d’aplicació general que tanca el sistema exposat en tot el tema:"
+      },
+      {
+       "n": 0,
+       "t": "«Tal com establix la legislació vigent, el referent que s’hauria de donar als empleats públics és la consulta del DNV i del Portal Terminològic Valencià, i supletòriament, en el cas de no trobar la paraula buscada, pot al·ludir-se a altres diccionaris o portals terminològics complementaris.» AVL, Informe sobre els «Criteris lingüístics»"
+      },
+      {
+       "n": 0,
+       "t": "L’AVL hi afegeix una consideració de política lingüística que convé conéixer, perquè expressa la funció institucional que la mateixa Acadèmia s’atribueix: «pensem que seria desitjable disposar d’uns criteris estables i consolidats per al conjunt de les administracions públiques, a fi d’evitar que vagen canviant segons les vel·leïtats personals de cada redactor o les preferències del partit que governe en cada moment»."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 11"
+      }
+     ]
+    },
+    {
+     "titol": "Síntesi: dades, criteris i preceptes de memorització obligatòria",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-64-474ba568bc10eecb.mp3",
+     "durada": 7.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Síntesi: dades, criteris i preceptes de memorització obligatòria"
+      }
+     ]
+    },
+    {
+     "titol": "11.1. Cronologia de la normativa lèxica",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-65-4f0d9fc8704082b3.mp3",
+     "durada": 205.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.1. Cronologia de la normativa lèxica"
+      },
+      {
+       "n": 0,
+       "t": "Data. Fita"
+      },
+      {
+       "n": 0,
+       "t": "21.12.1932. Normes de Castelló, completades pel Vocabulari ortogràfic valencià de Carles Salvador: punt de partida de la normativització consolidada."
+      },
+      {
+       "n": 0,
+       "t": "16.09.1998. Llei 7/1998: l’article 3 fixa els tres fonaments materials i l’article 7.a atribueix la determinació de la normativa oficial «en tots els seus aspectes»."
+      },
+      {
+       "n": 0,
+       "t": "25.03.2002. Acord del Ple sobre el referent normatiu oficial: reconeix com a oficials grafies, trets morfosintàctics i el repertori lèxic i fraseològic valencià (Resolució 10/2002)."
+      },
+      {
+       "n": 0,
+       "t": "20.05.2002. Acord de refosa i ampliació: quatre criteris interpretatius, oficialització del SALT 2.0 i repertori lèxic detallat en vuit subapartats (Resolució 12/2002)."
+      },
+      {
+       "n": 0,
+       "t": "09.02.2005. Acord 1/2005: el Dictamen fixa el model de codificació policèntrica alhora que convergent (punts 7, 8 i 9)."
+      },
+      {
+       "n": 0,
+       "t": "2006. Diccionari ortogràfic i de pronunciació del valencià, Textos Normatius núm. 1: tipologia d’entrades i criteris i àmbits d’ús."
+      },
+      {
+       "n": 0,
+       "t": "2006. Gramàtica normativa valenciana, Textos Normatius núm. 2."
+      },
+      {
+       "n": 0,
+       "t": "31.01.2014. Acord 2/2014: aprovació del Diccionari normatiu valencià; publicació en línia el febrer del 2014."
+      },
+      {
+       "n": 0,
+       "t": "2016. Edició impresa del DNV (Textos Normatius núm. 4, 2 vols.) i Gramàtica valenciana bàsica (núm. 3). Presentació el 29 de setembre."
+      },
+      {
+       "n": 0,
+       "t": "2017. Vocabulari de noms de persona, 2a edició (actualització digital: abril del 2025). Inici de la publicació sistemàtica de les actualitzacions del DNV."
+      },
+      {
+       "n": 0,
+       "t": "13.11.2017. Resolució de la Presidència: el DNV constitueix normativa lingüística i la versió vigent és l’electrònica (DOGV núm. 8184, de 05.12.2017)."
+      },
+      {
+       "n": 0,
+       "t": "Maig del 2024. Introducció de la marca [en rec.] en les accepcions «muller de…» dels noms de càrrec."
+      },
+      {
+       "n": 0,
+       "t": "2026. El document d’actualitzacions arriba a 285 pàgines; el DNV supera les noranta-quatre mil entrades."
+      }
+     ]
+    },
+    {
+     "titol": "11.2. Els criteris de selecció, en una taula",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-66-24b9731f5a6adcda.mp3",
+     "durada": 143.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.2. Els criteris de selecció, en una taula"
+      },
+      {
+       "n": 0,
+       "t": "Criteri. Formulació. On es formula"
+      },
+      {
+       "n": 0,
+       "t": "Tradició lexicogràfica i literària. Documentació en els clàssics dels segles xiii a xvi i en els lexicògrafs valencians.. Art. 3 de la Llei 7/1998; acords del 2002; introducció del DNV."
+      },
+      {
+       "n": 0,
+       "t": "Realitat lingüística genuïna. Vitalitat en els parlars valencians actuals, incloses les aportacions comarcals.. Art. 3 de la Llei; lletra c de l’acord de 25.03.2002; subapartats 3.5 i 3.6 de l’acord de 20.05.2002."
+      },
+      {
+       "n": 0,
+       "t": "Normativització consolidada. Respecte del cabal fixat a partir de les Normes de Castelló.. Art. 3 de la Llei; introducció del DOPV."
+      },
+      {
+       "n": 0,
+       "t": "Etimologia i fonètica històrica. Priorització de la forma més coherent amb l’origen i l’evolució.. DOPV, § 3.2.3 i 3.3 (pescater, matalaf, cànter)."
+      },
+      {
+       "n": 0,
+       "t": "Convergència. Reducció de distàncies amb les altres varietats de la llengua compartida.. Dictamen 1/2005, punts 7 i 9; DOPV, § 3.4."
+      },
+      {
+       "n": 0,
+       "t": "Integració de sensibilitats. Voluntat d’integrar les diverses sensibilitats lingüístiques valencianes.. Segon criteri bàsic de l’acord de 25.03.2002; introducció del DNV."
+      },
+      {
+       "n": 0,
+       "t": "Adequació a l’àmbit d’ús. Graduació per formalitat i per extensió geogràfica.. DOPV, § 4; sistema de marques del DNV."
+      }
+     ]
+    },
+    {
+     "titol": "11.3. Quinze idees-força",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-67-50aeee35820410d7.mp3",
+     "durada": 265.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.3. Quinze idees-força"
+      },
+      {
+       "n": 0,
+       "t": "La normativa lèxica no és un catàleg de paraules correctes sinó un sistema de jerarquització de la variació: determina què és principal, què és secundari, què no és recomanable i què és marcat."
+      },
+      {
+       "n": 0,
+       "t": "La competència es fonamenta en els articles 3, 5 i 7.a de la Llei 7/1998 —que atribueix determinar la normativa oficial «en tots els seus aspectes»— i té cobertura estatutària en els articles 6.8 i 41."
+      },
+      {
+       "n": 0,
+       "t": "Tota decisió lèxica ha de justificar-se en tres fonaments acumulatius: tradició lexicogràfica i literària, realitat lingüística genuïna valenciana i normativització consolidada a partir de les Normes de Castelló."
+      },
+      {
+       "n": 0,
+       "t": "El model de codificació és el fixat en el punt 7 del Dictamen del 2005: policèntric alhora que convergent, per oposició als models centralista i composicional."
+      },
+      {
+       "n": 0,
+       "t": "Els acords de 25 de març i 20 de maig del 2002 són la primera fixació de la norma lèxica: reconeixen grafies, trets morfosintàctics i un repertori lèxic i fraseològic ordenat en vuit subapartats segons documentació i vitalitat."
+      },
+      {
+       "n": 0,
+       "t": "Les dos claus de lectura del repertori del 2002 —orde de preferència i asterisc per als usos no recomanables en registres formals— són l’antecedent directe del sistema de marques del DNV."
+      },
+      {
+       "n": 0,
+       "t": "El DOPV (2006) fixa la tipologia d’entrades —principals, secundàries i no recomanades— i és, per tant, el text on es formula la doctrina lèxica, encara que siga un diccionari ortogràfic."
+      },
+      {
+       "n": 0,
+       "t": "Els dos principis que el DOPV ha d’harmonitzar són la priorització de les variants valencianes genuïnes i la convergència amb les altres varietats de la llengua compartida."
+      },
+      {
+       "n": 0,
+       "t": "Els criteris d’adequació a l’àmbit d’ús es creuen en dos eixos: grau de formalitat (més formal, merament formal, menys formal) i extensió geogràfica (àmbit general, àmbit restringit)."
+      },
+      {
+       "n": 0,
+       "t": "La llengua de l’Administració ha d’usar formes principals i d’àmbit general i exclou l’alternança de registres i de variants, però pot optar entre variants del mateix grau de formalitat."
+      },
+      {
+       "n": 0,
+       "t": "El DNV va ser aprovat per l’Acord 2/2014, de 31 de gener; la Resolució de 13 de novembre del 2017 declara que constitueix normativa lingüística i que la versió vigent és l’electrònica."
+      },
+      {
+       "n": 0,
+       "t": "La definició perifràstica identifica les entrades principals, «considerades les més apropiades i recomanables per als usos formals valencians de caràcter general i oficial»; la definició per remissió identifica les formes que cal substituir."
+      },
+      {
+       "n": 0,
+       "t": "El sistema de marques comprén marques gramaticals, d’ús (col·loq., vulg., infant., ant., obs., impr.), temàtiques (prop de 130), de llengua d’origen (21) i d’intenció del parlant (iròn., pej.), i des del 2024 la marca [en rec.]."
+      },
+      {
+       "n": 0,
+       "t": "L’inventari normatiu és inclusiu: hi entren col·loquialismes, vulgarismes, arcaismes, termes obsolets, estrangerismes, sigles, terminologia, gentilicis, fraseologia i variants d’altres territoris —tots amb la marca o la remissió que en delimita l’ús."
+      },
+      {
+       "n": 0,
+       "t": "La norma lèxica és dinàmica: s’actualitza mensualment per acord del Ple, admet propostes ciutadanes i, entre el 2017 i el 2026, ha incorporat 431 articles nous, 709 accepcions noves i 297 locucions noves, a més de 309 canvis de definició."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 12"
+      }
+     ]
+    },
+    {
+     "titol": "Per a ampliar",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-68-dcb6b887cc0c0cbd.mp3",
+     "durada": 16.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Per a ampliar"
+      },
+      {
+       "n": 0,
+       "t": "Les línies següents no formen part del contingut mínim exigible, però permeten respondre amb solvència les preguntes de matís i, sobretot, les de la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "12.1. La crítica a la normativa lèxica de l’AVL i la resposta institucional",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-69-2d003304218df82c.mp3",
+     "durada": 112.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.1. La crítica a la normativa lèxica de l’AVL i la resposta institucional"
+      },
+      {
+       "n": 0,
+       "t": "Des de la publicació del DNV s’ha formulat una objecció recurrent des de determinats sectors filològics: que la incorporació d’entrades i accepcions exclusives, no coincidents amb les del diccionari normatiu de l’Institut d’Estudis Catalans, multiplica les variants i afebleix la cohesió de la llengua. La qüestió té interés perquè un tribunal pot demanar-ne una valoració raonada."
+      },
+      {
+       "n": 0,
+       "t": "La resposta institucional està anticipada en els criteris interpretatius de l’acord de 20 de maig del 2002 i es pot articular en tres arguments. Primer, que tota dualitat de formes no és normativa sinó pragmàtica, i està «destinada a evolucionar o simplificar-se diacrònicament»: la norma no crea la variació, la reconeix. Segon, que l’AVL no pot prescriure amb criteris excloents de formes vives ni de territoris, perquè l’acord del 2002 l’hi vincula expressament. I tercer, que el sistema de jerarquització —entrades principals i secundàries, remissions, marques— és precisament el mecanisme que evita que el repertori siga un totum revolutum: la inclusió va sempre acompanyada d’una instrucció d’ús."
+      },
+      {
+       "n": 0,
+       "t": "A aquests arguments s’hi pot afegir el que aporta el mateix DOPV en l’apartat de convergència: la reducció de distàncies ha estat i és bidireccional, i l’IEC ha adoptat com a prioritàries variants com cartó, caragol o carabassa i ha reemplaçat arrera i darrera per arrere i darrere."
+      }
+     ]
+    },
+    {
+     "titol": "12.2. Norma lèxica i llenguatge no discriminatori",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-70-2df2e411ad4a831b.mp3",
+     "durada": 71.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.2. Norma lèxica i llenguatge no discriminatori"
+      },
+      {
+       "n": 0,
+       "t": "El tractament de les accepcions «muller de…» amb la marca [en rec.], aprovat el maig del 2024, és un cas d’estudi de primer ordre sobre com una institució normativa pot intervindre en qüestions socialment sensibles sense renunciar a la funció descriptiva. Els dos models possibles són la supressió —eliminar l’accepció del repertori— i el marcatge —conservar-la amb una indicació de vigència. L’AVL ha optat pel segon, coherentment amb el principi de no prescriure amb criteris excloents."
+      },
+      {
+       "n": 0,
+       "t": "El mateix any, i en sentit convergent, el Ple va assignar la marca [pej.] a un conjunt d’entrades que designen persones per raó de la seua condició o del seu comportament. Les dos operacions són complementàries: la primera senyala el retrocés d’un ús, la segona fa explícita una càrrega valorativa que abans quedava implícita."
+      }
+     ]
+    },
+    {
+     "titol": "12.3. La normativa lèxica i el treball del tècnic lingüístic",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-71-59680824cc326fdc.mp3",
+     "durada": 74.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.3. La normativa lèxica i el treball del tècnic lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "Traduïda a la pràctica professional, tota la doctrina exposada es condensa en un protocol de consulta de quatre passos, aplicable tant a la correcció com a l’assessorament:"
+      },
+      {
+       "n": 0,
+       "t": "Comprovar que la unitat figura en el DNV o en el Portal Terminològic Valencià. Si no hi figura, no pertany al lèxic normatiu, i només supletòriament es poden consultar altres repertoris."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar si la definició és perifràstica o per remissió. Si remet, la forma recomanada és aquella a què remet."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar si porta marca d’ús. Si porta col·loq. o vulg., no és apropiada per al registre formal de l’Administració pública."
+      },
+      {
+       "n": 0,
+       "t": "Comprovar la coherència amb la resta del text i amb el model de llengua adoptat per l’organisme: la norma permet optar entre variants del mateix grau de formalitat, però no alternar-les."
+      }
+     ]
+    },
+    {
+     "titol": "12.4. Lectures recomanades",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-72-9e7bfa3377dd8a5e.mp3",
+     "durada": 79.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.4. Lectures recomanades"
+      },
+      {
+       "n": 0,
+       "t": "La introducció del DOPV completa, especialment els apartats 2 (criteris inspiradors), 3 (criteris d’elaboració) i 4 (criteris i àmbits d’ús): és el text doctrinal fonamental i s’hi troben formulades les nocions que després el DNV aplica sense explicar."
+      },
+      {
+       "n": 0,
+       "t": "Els «Criteris d’ús» del DNV, en els setze apartats: constitueixen el manual tècnic de la norma lèxica i permeten interpretar correctament qualsevol article del diccionari."
+      },
+      {
+       "n": 0,
+       "t": "El text íntegre de l’acord de 20 de maig del 2002: els quatre criteris interpretatius són la millor síntesi disponible de la teoria de la norma lèxica de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "El document «Actualitzacions del DNV»: font de dades reals i actualitzades sobre la direcció en què es mou la normativa."
+      },
+      {
+       "n": 0,
+       "t": "L’informe de l’AVL sobre els «Criteris lingüístics»: model de com es delimita la frontera entre normativa i model de llengua, amb casos concrets resolts."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 13"
+      }
+     ]
+    },
+    {
+     "titol": "Bibliografia i fonts",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-73-4b62e909fa3f9e55.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Bibliografia i fonts"
+      }
+     ]
+    },
+    {
+     "titol": "13.1. Fonts normatives",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-74-4001124764a57d40.mp3",
+     "durada": 61.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.1. Fonts normatives"
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana (arts. 6.8 i 41)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua (arts. 3, 5, 7 i 26)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Decret 158/2002, de 17 de setembre, del Govern Valencià, pel qual s’aprova el Reglament de l’Acadèmia Valenciana de la Llengua (arts. 45-50, sobre les seccions)."
+      }
+     ]
+    },
+    {
+     "titol": "13.2. Acords i resolucions de l’Acadèmia Valenciana de la Llengua",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-75-a170164a0c305da4.mp3",
+     "durada": 152.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.2. Acords i resolucions de l’Acadèmia Valenciana de la Llengua"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 25 de març del 2002, pel qual s’aprova el referent normatiu oficial del valencià. Resolució 10/2002, de 4 d’abril, de la Presidència de l’AVL. DOGV, núm. 4.229, de 16 d’abril del 2002 [2002/X3440]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord del Ple de 20 de maig del 2002, en què es refon i es complementa l’acord de 25 de març del 2002 i s’emet dictamen sobre la consulta formulada pel conseller de Cultura i Educació. Resolució 12/2002, de 31 de maig, de la Presidència de l’AVL [2002/A6019]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Dictamen sobre els principis i criteris per a la defensa de la denominació i l’entitat del valencià (Acord 1/2005, de 9 de febrer). València: Publicacions de l’AVL, 2005. Col·lecció Documents, 4. DOGV, núm. 4.983, de 12 d’abril del 2005."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Acord 2/2014 del Ple, de 31 de gener, pel qual s’aprova el Diccionari normatiu valencià."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Resolució de 13 de novembre de 2017, de la Presidència de l’Acadèmia Valenciana de la Llengua, per la qual es fa públic que el Diccionari normatiu valencià constitueix normativa lingüística de l’idioma valencià. DOGV, núm. 8184, de 5 de desembre del 2017."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Informe sobre els «Criteris lingüístics. Segona edició, revisada i actualitzada»."
+      }
+     ]
+    },
+    {
+     "titol": "13.3. Obres normatives i de referència de l’AVL",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-76-5e265e650512ccf9.mp3",
+     "durada": 238.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.3. Obres normatives i de referència de l’AVL"
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari ortogràfic i de pronunciació del valencià. València: Publicacions de l’AVL, 2006. Col·lecció Textos Normatius, 1. ISBN 978-84-7890-040-4. 916 p."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica normativa valenciana. València: Publicacions de l’AVL, 2006. Col·lecció Textos Normatius, 2. ISBN 978-84-482-4422-4. 408 p."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Gramàtica valenciana bàsica. València: Publicacions de l’AVL, 2016. Col·lecció Textos Normatius, 3. ISBN 978-84-482-6070-5. 332 p."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari normatiu valencià. València: Publicacions de l’AVL, 2016. Col·lecció Textos Normatius, 4. ISBN 978-84-482-6089-7. 2 vols., 1.672 + 1.640 p. [1a ed. electrònica: 2014]."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Diccionari normatiu valencià: «Introducció», «Criteris d’ús» i «Abreviatures». Versió electrònica oficial, consulta en el web de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Actualitzacions del Diccionari normatiu valencià. Modificacions aprovades pel Ple de l’Acadèmia Valenciana de la Llengua per al Diccionari normatiu valencià, 2017-2026. 285 p."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Vocabulari de noms de persona. València: Publicacions de l’AVL, 2a ed., 2017. Col·lecció Onomàstica, sèrie Antroponímia, 1. ISBN 978-84-482-6156-6. Actualització digital: abril del 2025."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Corpus toponímic valencià. València: Publicacions de l’AVL, 2009."
+      },
+      {
+       "n": 0,
+       "t": "ACADÈMIA VALENCIANA DE LA LLENGUA. Criteris per a la fixació de la toponímia valenciana. València: Publicacions de l’AVL, 2015."
+      }
+     ]
+    },
+    {
+     "titol": "13.4. Recursos en línia",
+     "audio": "audio/tema-03-la-normativa-lexica-definida-per-l-avl-bo-77-bd2633de4a54840f.mp3",
+     "durada": 130.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.4. Recursos en línia"
+      },
+      {
+       "n": 0,
+       "t": "Acadèmia Valenciana de la Llengua: avl.gva.es, apartats «Documents normatius», «Acords», «Publicacions» i «Seccions i comissions»."
+      },
+      {
+       "n": 0,
+       "t": "Diccionari normatiu valencià en línia i formulari de proposta d’incorporació de noves paraules o accepcions, en el web de l’AVL."
+      },
+      {
+       "n": 0,
+       "t": "Aplicació Gramàtic-ON (Gramàtiques Normatives Valencianes), que dona accés conjunt a la GNV i a la GVB."
+      },
+      {
+       "n": 0,
+       "t": "Portal Terminològic Valencià, referent terminològic de l’AVL, complementari del DNV."
+      },
+      {
+       "n": 0,
+       "t": "Diari Oficial de la Generalitat Valenciana: dogv.gva.es."
+      },
+      {
+       "n": 0,
+       "t": "NOTA DE VERIFICACIÓ Tot el contingut d’aquest tema procedeix de fonts primàries: els textos íntegres dels acords normatius de 25 de març i 20 de maig del 2002 publicats en el DOGV; la introducció i els capítols de criteris del Diccionari ortogràfic i de pronunciació del valencià; la «Introducció», els «Criteris d’ús» i les «Abreviatures» del Diccionari normatiu valencià en la versió electrònica oficial de l’AVL; el document «Actualitzacions del DNV» en la versió de juny del 2026; l’informe de l’AVL sobre els «Criteris lingüístics»; les fitxes bibliogràfiques i les notes de premsa institucionals de l’Acadèmia, i els preceptes de la Llei 7/1998 i de l’Estatut d’autonomia. Les xifres de modificacions del període 2017-2026 s’han obtingut per recompte directe sobre el document oficial d’actualitzacions. Atès que el DNV s’actualitza mensualment i que la versió normativa és l’electrònica, convé contrastar les dades quantitatives i els casos concrets amb la consulta en línia abans de l’examen."
       }
      ]
     }
