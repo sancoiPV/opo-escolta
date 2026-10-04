@@ -1,6 +1,6 @@
 {
  "titol": "Opo A2-02-09",
- "versio": "c937146247",
+ "versio": "7abc51326b",
  "veu": "edge|ca-ES-JoanaNeural|+0%",
  "temes": [
   {
@@ -14423,6 +14423,4166 @@
       {
        "n": 0,
        "t": "NOTA DE VERIFICACIÓ El contingut d’aquest tema relatiu al CIVAL procedeix de fonts primàries: el text íntegre de la «Presentació» i del document d’«Ajuda» del corpus, consultats directament en l’aplicació de l’AVL; la nota de premsa institucional de 29 de juny del 2015; i el butlletí electrònic de l’Acadèmia sobre el finançament dels projectes de millora de les seues aplicacions informàtiques. Els exemples de consulta reproduïts en l’apartat 8.1 —juí, juhii, tenir, casa— són els que figuren en el manual d’ajuda oficial del corpus. Les dades sobre el CTILC i el CICA procedeixen de la documentació institucional dels respectius projectes. Atés que el CIVAL és un corpus obert i en creixement continu —la mateixa AVL declara que «no és una obra acabada; ni ho ha d’estar mai»—, les dades quantitatives corresponen al moment de la consulta i s’han de contrastar abans de l’examen. Per la mateixa raó, qualsevol citació acadèmica de dades del corpus ha d’anar acompanyada de la data de consulta."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "tema-06-la-situacio-linguistica-valenciana-enquest",
+   "titol": "Presentació i orientació del tema",
+   "fitxer": "Tema 06 - La situació lingüística valenciana. Enquesta 2021_bo.docx",
+   "seccions": [
+    {
+     "titol": "Introducció",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-01-78089aac7beecbd4.mp3",
+     "durada": 604.4,
+     "text": [
+      {
+       "n": 3,
+       "t": "TEMARI D’OPOSICIÓ · CONVOCATÒRIA 35/26"
+      },
+      {
+       "n": 0,
+       "t": "Cos tècnic facultatiu A2-02 · Escala tècnica facultativa de promoció lingüística (A2-02-09)"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 6"
+      },
+      {
+       "n": 3,
+       "t": "La situació lingüística valenciana"
+      },
+      {
+       "n": 3,
+       "t": "en l’actualitat: l’enquesta sobre coneixement"
+      },
+      {
+       "n": 3,
+       "t": "i ús social del valencià de 2021"
+      },
+      {
+       "n": 0,
+       "t": "Metodologia, resultats i diagnòstic sociolingüístic"
+      },
+      {
+       "n": 0,
+       "t": "FONTS PRIMÀRIES DEL TEMA GENERALITAT VALENCIANA, Conselleria d’Educació, Cultura i Esport. Enquesta 2021. Coneixement i ús social del valencià. Síntesi de resultats. Text íntegre: metodologia, capítol de coneixement, capítol d’ús i capítol de perspectives de futur GENERALITAT VALENCIANA, Conselleria d’Educació, Cultura i Esport. Baròmetre d’usos personals, professionals i públics del valencià. Onada 2023. Text íntegre: fitxa tècnica, resultats, metodologia, annex tècnic i qüestionari Estatut d’autonomia de la Comunitat Valenciana (arts. 6 i 41) Llei 4/1983, de 23 de novembre, d’ús i ensenyament del valencià, i la delimitació territorial del títol V Llei 7/1998, de 16 de setembre, de creació de l’Acadèmia Valenciana de la Llengua Totes les dades quantitatives d’aquest tema procedeixen dels dos documents oficials citats i s’han transcrit directament de les taules originals. Les sumes derivades s’identifiquen expressament com a tals."
+      },
+      {
+       "n": 3,
+       "t": "ÍNDEX"
+      },
+      {
+       "n": 3,
+       "t": "1.  Presentació i orientació del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.1.  Delimitació: què és i què no és una enquesta sociolingüística"
+      },
+      {
+       "n": 0,
+       "t": "1.2.  Els dos membres de l’enunciat"
+      },
+      {
+       "n": 0,
+       "t": "1.3.  L’arquitectura del tema"
+      },
+      {
+       "n": 0,
+       "t": "1.4.  Advertiment metodològic"
+      },
+      {
+       "n": 3,
+       "t": "2.  El marc conceptual: com es diagnostica una situació lingüística"
+      },
+      {
+       "n": 0,
+       "t": "2.1.  Competència, ús i actituds: tres plans que no s’han de confondre"
+      },
+      {
+       "n": 0,
+       "t": "2.2.  Llengua inicial, transmissió intergeneracional i vitalitat"
+      },
+      {
+       "n": 0,
+       "t": "2.3.  Bilingüisme social, minorització i substitució lingüística"
+      },
+      {
+       "n": 0,
+       "t": "2.4.  Els indicadors que fan operatiu el diagnòstic"
+      },
+      {
+       "n": 3,
+       "t": "3.  El marc jurídic i institucional de l’enquesta"
+      },
+      {
+       "n": 0,
+       "t": "3.1.  Els fonaments normatius"
+      },
+      {
+       "n": 0,
+       "t": "3.2.  La zonificació de la Llei d’ús i ensenyament del valencià"
+      },
+      {
+       "n": 0,
+       "t": "3.3.  L’òrgan responsable i la sèrie històrica d’enquestes"
+      },
+      {
+       "n": 0,
+       "t": "3.4.  La funció de l’enquesta en la planificació lingüística"
+      },
+      {
+       "n": 3,
+       "t": "4.  La metodologia de l’enquesta de 2021"
+      },
+      {
+       "n": 0,
+       "t": "4.1.  Univers, mostra i precisió estadística"
+      },
+      {
+       "n": 0,
+       "t": "4.2.  L’estratificació de la mostra"
+      },
+      {
+       "n": 0,
+       "t": "4.3.  Les sis regions i la seua composició comarcal"
+      },
+      {
+       "n": 0,
+       "t": "4.4.  La selecció mostral i el treball de camp"
+      },
+      {
+       "n": 0,
+       "t": "4.5.  La nota metodològica i els límits de comparabilitat"
+      },
+      {
+       "n": 0,
+       "t": "4.6.  Les convencions de lectura de les taules"
+      },
+      {
+       "n": 3,
+       "t": "5.  El coneixement del valencià"
+      },
+      {
+       "n": 0,
+       "t": "5.1.  La competència declarada per zones de predomini lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "5.2.  La competència per regions"
+      },
+      {
+       "n": 0,
+       "t": "5.3.  La competència per edat i sexe"
+      },
+      {
+       "n": 0,
+       "t": "5.4.  La competència per lloc de naixement i temps de residència"
+      },
+      {
+       "n": 0,
+       "t": "5.5.  La competència per nivell d’estudis"
+      },
+      {
+       "n": 0,
+       "t": "5.6.  La competència per activitat principal i situació laboral"
+      },
+      {
+       "n": 0,
+       "t": "5.7.  Síntesi del capítol de coneixement"
+      },
+      {
+       "n": 3,
+       "t": "6.  L’aprenentatge del valencià"
+      },
+      {
+       "n": 0,
+       "t": "6.1.  On s’aprèn cada habilitat"
+      },
+      {
+       "n": 0,
+       "t": "6.2.  Entorn principal i entorn secundari"
+      },
+      {
+       "n": 0,
+       "t": "6.3.  La diferència entre zones de predomini"
+      },
+      {
+       "n": 0,
+       "t": "6.4.  Lectura: el pes del sistema educatiu"
+      },
+      {
+       "n": 3,
+       "t": "7.  La transmissió lingüística familiar"
+      },
+      {
+       "n": 0,
+       "t": "7.1.  La llengua parlada a casa durant la infantesa"
+      },
+      {
+       "n": 0,
+       "t": "7.2.  La transmissió ascendent: pares i avis"
+      },
+      {
+       "n": 0,
+       "t": "7.3.  La transmissió descendent: parella, fills i nets"
+      },
+      {
+       "n": 0,
+       "t": "7.4.  Les raons del canvi de llengua"
+      },
+      {
+       "n": 0,
+       "t": "7.5.  Lectura: el saldo intergeneracional"
+      },
+      {
+       "n": 3,
+       "t": "8.  Els comportaments lingüístics interpersonals"
+      },
+      {
+       "n": 0,
+       "t": "8.1.  La freqüència amb què s’inicien converses en valencià"
+      },
+      {
+       "n": 0,
+       "t": "8.2.  El canvi de llengua davant de l’interlocutor"
+      },
+      {
+       "n": 0,
+       "t": "8.3.  Lectura: la norma de convergència"
+      },
+      {
+       "n": 3,
+       "t": "9.  L’ús social del valencià"
+      },
+      {
+       "n": 0,
+       "t": "9.1.  L’abast del capítol i les seues limitacions"
+      },
+      {
+       "n": 0,
+       "t": "9.2.  Els usos personals: la llar i les amistats"
+      },
+      {
+       "n": 0,
+       "t": "9.3.  Els usos interpersonals menys pròxims"
+      },
+      {
+       "n": 0,
+       "t": "9.4.  Els usos professionals"
+      },
+      {
+       "n": 0,
+       "t": "9.5.  Els usos comercials i financers"
+      },
+      {
+       "n": 0,
+       "t": "9.6.  Els usos davant de l’Administració i la sanitat"
+      },
+      {
+       "n": 0,
+       "t": "9.7.  Els usos comunitaris i associatius"
+      },
+      {
+       "n": 0,
+       "t": "9.8.  Els usos escrits i digitals"
+      },
+      {
+       "n": 0,
+       "t": "9.9.  El gradient d’usos: quadre de síntesi"
+      },
+      {
+       "n": 0,
+       "t": "9.10.  La variació territorial de l’ús"
+      },
+      {
+       "n": 3,
+       "t": "10.  Les perspectives de futur: percepcions, actituds i valoracions"
+      },
+      {
+       "n": 0,
+       "t": "10.1.  La percepció de l’ús actual"
+      },
+      {
+       "n": 0,
+       "t": "10.2.  L’ús desitjat"
+      },
+      {
+       "n": 0,
+       "t": "10.3.  L’evolució percebuda i l’expectativa de futur"
+      },
+      {
+       "n": 0,
+       "t": "10.4.  El coneixement de les iniciatives de promoció"
+      },
+      {
+       "n": 0,
+       "t": "10.5.  L’opinió sobre l’actuació de la Generalitat"
+      },
+      {
+       "n": 0,
+       "t": "10.6.  El coneixement d’altres llengües"
+      },
+      {
+       "n": 3,
+       "t": "11.  L’instrument complementari: el Baròmetre d’usos del valencià"
+      },
+      {
+       "n": 0,
+       "t": "11.1.  Naturalesa, objectiu i fitxa tècnica"
+      },
+      {
+       "n": 0,
+       "t": "11.2.  La construcció dels tres indicadors"
+      },
+      {
+       "n": 0,
+       "t": "11.3.  Els resultats de l’onada 2023"
+      },
+      {
+       "n": 0,
+       "t": "11.4.  La comparació amb l’enquesta de 2021 i les seues cauteles"
+      },
+      {
+       "n": 3,
+       "t": "12.  Diagnòstic sociolingüístic: lectura integrada de les dades"
+      },
+      {
+       "n": 0,
+       "t": "12.1.  La paradoxa de la competència i l’ús"
+      },
+      {
+       "n": 0,
+       "t": "12.2.  Els quatre punts crítics"
+      },
+      {
+       "n": 0,
+       "t": "12.3.  Els elements de suport"
+      },
+      {
+       "n": 0,
+       "t": "12.4.  Implicacions per a la planificació lingüística"
+      },
+      {
+       "n": 3,
+       "t": "13.  Síntesi: dades i conceptes de memorització obligatòria"
+      },
+      {
+       "n": 3,
+       "t": "14.  Per a ampliar"
+      },
+      {
+       "n": 3,
+       "t": "15.  Bibliografia i fonts"
+      },
+      {
+       "n": 3,
+       "t": "TEMA 6"
+      }
+     ]
+    },
+    {
+     "titol": "Presentació i orientació del tema",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-02-031433f1effcde2b.mp3",
+     "durada": 4.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "Presentació i orientació del tema"
+      }
+     ]
+    },
+    {
+     "titol": "1.1. Delimitació: què és i què no és una enquesta sociolingüística",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-03-f2ce2625cb5649b5.mp3",
+     "durada": 106.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.1. Delimitació: què és i què no és una enquesta sociolingüística"
+      },
+      {
+       "n": 0,
+       "t": "Una enquesta sociolingüística és un instrument de recollida sistemàtica de dades sobre el coneixement, els usos i les actituds lingüístiques d’una població, obtingut per mitjà d’un qüestionari aplicat a una mostra representativa. La seua funció és convertir en dades mesurables i comparables el que d’altra manera només seria percepció, impressió o discurs."
+      },
+      {
+       "n": 0,
+       "t": "Cal precisar, però, què mesura exactament. Una enquesta sociolingüística no mesura la competència lingüística real —això exigiria una prova objectiva— sinó la competència declarada: el que la persona enquestada diu que és capaç de fer. Tampoc no mesura l’ús efectiu observat, sinó l’ús declarat. Aquesta distinció no invalida l’instrument: el converteix en el que és, una radiografia de l’autopercepció lingüística d’una població, que en sociolingüística té valor propi, perquè el que els parlants creuen que fan i creuen que saben condiciona el que efectivament fan."
+      },
+      {
+       "n": 0,
+       "t": "D’ací se’n deriva una cautela permanent que ha de recórrer tot el tema: tota xifra d’aquesta enquesta és una xifra declarada, i com a tal s’ha de formular. La manera correcta de dir-ho en un examen no és «el 50,6% dels valencians sap parlar valencià», sinó «el 50,6% de la població de quinze anys i més declara saber parlar valencià bastant bé o perfectament»."
+      }
+     ]
+    },
+    {
+     "titol": "1.2. Els dos membres de l’enunciat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-04-2918c75c1f2b2b85.mp3",
+     "durada": 139.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.2. Els dos membres de l’enunciat"
+      },
+      {
+       "n": 0,
+       "t": "L’enunciat oficial —La situació lingüística valenciana en l’actualitat: enquesta sobre coneixement i ús social del valencià de 2021— demana, en el primer membre, un diagnòstic sociolingüístic i, en el segon, l’exposició de la font que el fonamenta. L’ordre indica la jerarquia: l’enquesta no és el tema, és l’instrument amb què el tema es documenta."
+      },
+      {
+       "n": 0,
+       "t": "Un opositor que es limitara a enumerar percentatges hauria contestat la part menys valorada. El que s’espera és que sàpia què mesura cada indicador, com s’ha obtingut, quines limitacions té i, sobretot, quin diagnòstic se’n desprèn quan les xifres es llegeixen en conjunt. Les dades són la matèria; el diagnòstic és la resposta."
+      },
+      {
+       "n": 0,
+       "t": "Pla. Contingut. Apartats"
+      },
+      {
+       "n": 0,
+       "t": "Teòric. Conceptes que fan possible el diagnòstic: competència, ús, actituds, transmissió, minorització.. 2"
+      },
+      {
+       "n": 0,
+       "t": "Institucional. Marc jurídic, òrgan responsable i funció de l’enquesta en la planificació lingüística.. 3"
+      },
+      {
+       "n": 0,
+       "t": "Metodològic. Com s’ha fet l’enquesta i què se’n pot concloure legítimament.. 4"
+      },
+      {
+       "n": 0,
+       "t": "Empíric. Els resultats: coneixement, aprenentatge, transmissió, comportaments, ús i actituds.. 5 a 10"
+      },
+      {
+       "n": 0,
+       "t": "Complementari. El Baròmetre d’usos, instrument de seguiment anual creat després de l’enquesta.. 11"
+      },
+      {
+       "n": 0,
+       "t": "Interpretatiu. La lectura integrada de les dades i les seues implicacions.. 12"
+      }
+     ]
+    },
+    {
+     "titol": "1.3. L’arquitectura del tema",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-05-7f1541273e5356d1.mp3",
+     "durada": 103.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.3. L’arquitectura del tema"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta de 2021 s’estructura en tres blocs, i el tema en reprodueix l’ordre per a facilitar-ne el maneig conjunt amb el document oficial:"
+      },
+      {
+       "n": 0,
+       "t": "Coneixement: competència declarada en les quatre habilitats, desagregada per zona, regió, edat, sexe, lloc de naixement, temps de residència, nivell d’estudis, activitat i situació laboral; entorns d’aprenentatge; transmissió familiar; i comportaments lingüístics interpersonals."
+      },
+      {
+       "n": 0,
+       "t": "Ús: llengua declarada en setze situacions comunicatives, només per a la zona valencianoparlant i desagregada per les cinc regions valencianoparlants."
+      },
+      {
+       "n": 0,
+       "t": "Perspectives de futur: valoració de l’ús actual, ús desitjat, evolució percebuda, expectativa de futur, coneixement de les iniciatives de promoció, opinió sobre l’actuació de la Generalitat i coneixement d’altres llengües."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA IDEA-FORÇA DEL TEMA La conclusió que travessa totes les dades de 2021 es pot enunciar en una frase: la competència creix i l’ús no la segueix. Hi ha més valencians que saben valencià que mai —especialment en les habilitats escrites—, i alhora l’ús social es manté en nivells baixos i, en els àmbits privats, ha retrocedit. Tot el tema és el desplegament documentat d’aquesta dissociació i l’anàlisi de les causes."
+      }
+     ]
+    },
+    {
+     "titol": "1.4. Advertiment metodològic",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-06-9a68290d604208aa.mp3",
+     "durada": 71.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "1.4. Advertiment metodològic"
+      },
+      {
+       "n": 0,
+       "t": "ADVERTIMENT METODOLÒGIC Els documents oficials es reprodueixen ací en la seua redacció original, cosa que explica que hi apareguen formes com este, vosté o aquest segons el document, i denominacions com Comunitat Valenciana, que és la que empren les fonts. Totes les xifres que es donen són percentatges de resposta declarada. Quan una xifra és una suma de diverses categories de resposta —per exemple, «bastant bé + perfectament» o «sempre + generalment + més en valencià»— s’indica expressament, perquè aquestes sumes no figuren com a tals en les taules originals i s’han calculat a partir d’elles. Les dades de coneixement i actituds es refereixen al conjunt de la Comunitat Valenciana, mentre que les dades d’ús es refereixen només a la zona valencianoparlant. Confondre els dos universos és l’error més freqüent i més greu en el maneig d’aquesta enquesta."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 2"
+      }
+     ]
+    },
+    {
+     "titol": "El marc conceptual: com es diagnostica una situació lingüística",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-07-4daf07db93f98b6e.mp3",
+     "durada": 26.6,
+     "text": [
+      {
+       "n": 1,
+       "t": "El marc conceptual: com es diagnostica una situació lingüística"
+      },
+      {
+       "n": 0,
+       "t": "Les xifres no parlen soles. Aquest apartat exposa els conceptes que permeten interpretar-les i que fan de la successió de percentatges un diagnòstic. És el contingut que distingeix una resposta d’oposició d’una simple lectura de taules."
+      }
+     ]
+    },
+    {
+     "titol": "2.1. Competència, ús i actituds: tres plans que no s’han de confondre",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-08-8ef8467977851ae0.mp3",
+     "durada": 121.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.1. Competència, ús i actituds: tres plans que no s’han de confondre"
+      },
+      {
+       "n": 0,
+       "t": "Tota descripció sociolingüística d’una comunitat bilingüe opera sobre tres plans distints, que poden evolucionar en direccions divergents i que l’enquesta de 2021 mesura per separat."
+      },
+      {
+       "n": 0,
+       "t": "Pla. Què mesura. De què depèn principalment. Bloc de l’enquesta"
+      },
+      {
+       "n": 0,
+       "t": "Competència. La capacitat declarada d’entendre, parlar, llegir i escriure la llengua.. La transmissió familiar i, sobretot, el sistema educatiu.. Coneixement"
+      },
+      {
+       "n": 0,
+       "t": "Ús. La llengua efectivament emprada en cada situació comunicativa.. Les xarxes socials del parlant, les normes d’ús vigents i l’oferta lingüística de l’entorn.. Ús"
+      },
+      {
+       "n": 0,
+       "t": "Actituds i representacions. La valoració de la llengua, la percepció del seu ús i les expectatives de futur.. La socialització, el prestigi social i el discurs públic.. Perspectives de futur"
+      },
+      {
+       "n": 0,
+       "t": "La distinció és decisiva perquè la competència és condició necessària però no suficient de l’ús. Una política lingüística pot generar competència amb relativa eficàcia —hi ha un instrument potent, el sistema educatiu, i un horitzó temporal previsible, la generació escolaritzada—, però no pot generar ús per decret: l’ús depèn de decisions individuals repetides en milers d’interaccions quotidianes, condicionades per normes socials difícils de modificar."
+      }
+     ]
+    },
+    {
+     "titol": "2.2. Llengua inicial, transmissió intergeneracional i vitalitat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-09-38d0b01723cc7e1a.mp3",
+     "durada": 88.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.2. Llengua inicial, transmissió intergeneracional i vitalitat"
+      },
+      {
+       "n": 0,
+       "t": "Els conceptes següents són els que permeten llegir els apartats 7 i 12 del tema."
+      },
+      {
+       "n": 0,
+       "t": "Llengua inicial o primera llengua: la que la persona va aprendre a casa durant la infantesa. És la variable demolingüística bàsica, perquè determina la composició de partida de la comunitat."
+      },
+      {
+       "n": 0,
+       "t": "Transmissió lingüística intergeneracional: el procés pel qual una generació transmet la llengua a la següent en l’àmbit familiar. És l’indicador de vitalitat més citat en la bibliografia sociolingüística, perquè una llengua que deixa de transmetre’s a casa depèn enterament de l’escola i de la voluntat individual per a mantenir-se."
+      },
+      {
+       "n": 0,
+       "t": "Saldo o balanç de transmissió: la diferència entre els qui van rebre la llengua i els qui la transmeten. Un saldo positiu indica capacitat d’atracció de nous parlants; un saldo negatiu, interrupció."
+      },
+      {
+       "n": 0,
+       "t": "Vitalitat lingüística: la capacitat d’una llengua de mantenir-se i reproduir-se com a instrument de comunicació habitual. Es diagnostica creuant transmissió, competència, usos i actituds."
+      }
+     ]
+    },
+    {
+     "titol": "2.3. Bilingüisme social, minorització i substitució lingüística",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-10-b45e69a7170b7677.mp3",
+     "durada": 99.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.3. Bilingüisme social, minorització i substitució lingüística"
+      },
+      {
+       "n": 0,
+       "t": "Els tres conceptes següents descriuen la dinàmica de contacte entre dues llengües en un mateix territori i són imprescindibles per a interpretar el capítol d’ús."
+      },
+      {
+       "n": 0,
+       "t": "El bilingüisme social és la situació en què una comunitat disposa de dues llengües en contacte. Per si mateix no descriu res: el que importa és com s’hi reparteixen les funcions."
+      },
+      {
+       "n": 0,
+       "t": "La distribució funcional desigual apareix quan una llengua ocupa preferentment els àmbits formals, públics i prestigiosos i l’altra queda relegada als informals i privats. Quan aquesta distribució es consolida i es percep com a natural, es parla de diglòssia."
+      },
+      {
+       "n": 0,
+       "t": "La substitució lingüística és el procés pel qual una llengua va perdent funcions i parlants fins a ser reemplaçada per l’altra. L’indicador més fiable no n’és la pèrdua de competència —que pot mantenir-se o fins i tot créixer per via escolar— sinó la interrupció de la transmissió familiar i la reducció de l’ús en els àmbits privats."
+      },
+      {
+       "n": 0,
+       "t": "L’últim punt és el que dona valor diagnòstic a la combinació de dades que l’enquesta de 2021 ofereix: una llengua pot mostrar simultàniament creixement de la competència i símptomes de retrocés funcional, i les dues coses no són contradictòries sinó característiques d’un mateix procés."
+      }
+     ]
+    },
+    {
+     "titol": "2.4. Els indicadors que fan operatiu el diagnòstic",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-11-74610027706a3718.mp3",
+     "durada": 181.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "2.4. Els indicadors que fan operatiu el diagnòstic"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta permet construir, a partir de les seues taules, els indicadors que la sociolingüística considera diagnòstics. Convé saber quin apartat del tema els subministra."
+      },
+      {
+       "n": 0,
+       "t": "Indicador. Què revela. On es troba"
+      },
+      {
+       "n": 0,
+       "t": "Competència oral activa. Percentatge que declara saber parlar bastant bé o perfectament. És la base potencial d’usuaris.. Apartat 5"
+      },
+      {
+       "n": 0,
+       "t": "Bretxa oral-escrita. Diferència entre saber parlar i saber escriure. Mesura l’efecte de l’escolarització.. Apartats 5.1 i 5.3"
+      },
+      {
+       "n": 0,
+       "t": "Bretxa generacional. Diferència de competència entre els grups d’edat extrems. Anticipa l’evolució futura.. Apartat 5.3"
+      },
+      {
+       "n": 0,
+       "t": "Entorn d’aprenentatge. Pes relatiu de la família i de l’escola en l’adquisició. Diagnostica si la llengua es reprodueix o es reconstrueix.. Apartat 6"
+      },
+      {
+       "n": 0,
+       "t": "Saldo de transmissió. Comparació entre la llengua rebuda i la transmesa. Indica atracció o interrupció.. Apartat 7"
+      },
+      {
+       "n": 0,
+       "t": "Normes d’ús. Comportament davant de l’interlocutor: iniciativa i manteniment o convergència.. Apartat 8"
+      },
+      {
+       "n": 0,
+       "t": "Gradient d’usos. Distribució de l’ús segons l’àmbit, del privat al públic i de l’oral a l’escrit.. Apartat 9"
+      },
+      {
+       "n": 0,
+       "t": "Actituds i expectatives. Suport social a l’extensió de la llengua i percepció del futur.. Apartat 10"
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA SEQÜÈNCIA D’ANÀLISI Un diagnòstic sociolingüístic solvent no comença per l’ús sinó per la base demolingüística (qui té el valencià com a llengua inicial), continua per la competència (qui el sap), després per la transmissió (qui el passa als fills), després pels usos (on s’empra) i acaba per les actituds (què en pensa la població). Presentar les dades en aquest orde és, en si mateix, una demostració de mètode."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 3"
+      }
+     ]
+    },
+    {
+     "titol": "El marc jurídic i institucional de l’enquesta",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-12-f59c744dfe41a215.mp3",
+     "durada": 5.2,
+     "text": [
+      {
+       "n": 1,
+       "t": "El marc jurídic i institucional de l’enquesta"
+      }
+     ]
+    },
+    {
+     "titol": "3.1. Els fonaments normatius",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-13-f83b9503516bca43.mp3",
+     "durada": 129.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.1. Els fonaments normatius"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta sobre coneixement i ús social del valencià no és un encàrrec acadèmic sinó un instrument de govern, i té darrere una arquitectura normativa que convé conèixer."
+      },
+      {
+       "n": 0,
+       "t": "Norma. Contingut rellevant"
+      },
+      {
+       "n": 0,
+       "t": "Estatut d’autonomia de la Comunitat Valenciana. L’article 6 declara que la llengua pròpia de la Comunitat Valenciana és el valencià, que és oficial igual que el castellà, que tots tenen dret a conèixer-lo i usar-lo i a rebre’n l’ensenyament, que ningú no podrà ser discriminat per raó de la seua llengua, i que s’atorgarà especial protecció i respecte a la recuperació del valencià. L’article 41 disposa que la normativa lingüística de l’AVL és d’aplicació obligatòria a totes les administracions públiques de la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Llei 4/1983, de 23 de novembre, d’ús i ensenyament del valencià. Desplega el mandat estatutari: regula l’ús oficial, l’ensenyament i els mitjans de comunicació, i delimita en el títol V els territoris de predomini lingüístic valencià i castellà, amb la relació de municipis de cada zona."
+      },
+      {
+       "n": 0,
+       "t": "Llei 7/1998, de 16 de setembre. Crea l’Acadèmia Valenciana de la Llengua com a institució normativa i li atribueix, a més de la determinació de la normativa, la funció de vetlar pel valencià i fomentar-ne l’ús."
+      },
+      {
+       "n": 0,
+       "t": "La conjunció d’aquests preceptes explica per què l’Administració autonòmica necessita l’enquesta: si l’Estatut ordena la recuperació del valencià i la Llei d’ús i ensenyament fixa objectius de coneixement i d’ús, cal disposar d’un instrument que permeta mesurar si aquests objectius s’acompleixen. Sense mesura no hi ha avaluació de política pública."
+      }
+     ]
+    },
+    {
+     "titol": "3.2. La zonificació de la Llei d’ús i ensenyament del valencià",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-14-e650bb122497b60c.mp3",
+     "durada": 101.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.2. La zonificació de la Llei d’ús i ensenyament del valencià"
+      },
+      {
+       "n": 0,
+       "t": "La distinció entre zona de predomini lingüístic valencià i zona de predomini lingüístic castellà, establida en el títol V de la Llei 4/1983, és l’eix vertebrador de tota l’enquesta i de tot el tema. Convé fixar-ne les conseqüències metodològiques, que són tres i molt concretes:"
+      },
+      {
+       "n": 0,
+       "t": "El capítol de coneixement dona sistemàticament les dades en tres columnes: total de la Comunitat Valenciana, zona valencianoparlant i zona castellanoparlant."
+      },
+      {
+       "n": 0,
+       "t": "El capítol d’ús es limita expressament a la zona valencianoparlant, i es desagrega en les cinc regions valencianoparlants. La síntesi de resultats no ofereix dades d’ús per a la zona castellanoparlant."
+      },
+      {
+       "n": 0,
+       "t": "El capítol de perspectives de futur torna a oferir les dos zones i, per a l’ús desitjat, també les cinc regions valencianoparlants."
+      },
+      {
+       "n": 0,
+       "t": "La raó de la segona decisió és metodològica abans que política: en un territori on el valencià no és la llengua de predomini històric, les preguntes sobre llengua d’ús habitual tenen un valor informatiu limitat i les xifres resultants serien molt baixes i poc discriminants. Ara bé, cal ser conscient de la conseqüència: quan es parla de l’ús del valencià amb dades de 2021 s’està parlant de la zona valencianoparlant, no del conjunt de la Comunitat Valenciana."
+      }
+     ]
+    },
+    {
+     "titol": "3.3. L’òrgan responsable i la sèrie històrica d’enquestes",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-15-86ef4964f067fe13.mp3",
+     "durada": 93.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.3. L’òrgan responsable i la sèrie històrica d’enquestes"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta ha estat elaborada per la Direcció General de Política Lingüística i Gestió del Multilingüisme, de la Conselleria d’Educació, Cultura i Esport de la Generalitat Valenciana, que és també l’editora del document oficial. La seu que hi consta és l’avinguda de Campanar, 32, de València."
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta de 2021 no és un estudi aïllat sinó una edició d’una sèrie històrica que l’Administració valenciana manté des de mitjan anys huitanta. El mateix document oficial hi fa referència en la nota metodològica, quan adverteix que el qüestionari «en relació als altres qüestionaris de la sèrie històrica, s’ha modernitzat». La sèrie és el que dona valor afegit a cada edició: permet observar tendències i no només fotografies."
+      },
+      {
+       "n": 0,
+       "t": "L’existència de la sèrie explica també una decisió del document que convé assenyalar: la síntesi de resultats de 2021 no incorpora les comparacions amb les edicions anteriors, precisament perquè la modernització del qüestionari les fa problemàtiques en algunes preguntes. Les comparacions difoses per la Direcció General en presentar l’enquesta s’han de manejar, doncs, amb la mateixa cautela que el document mateix recomana."
+      }
+     ]
+    },
+    {
+     "titol": "3.4. La funció de l’enquesta en la planificació lingüística",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-16-61cc8364cbfa1764.mp3",
+     "durada": 101.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "3.4. La funció de l’enquesta en la planificació lingüística"
+      },
+      {
+       "n": 0,
+       "t": "En termes de política pública, una enquesta d’aquesta naturalesa complix quatre funcions successives, i saber enunciar-les permet situar el tema en el marc de la promoció lingüística, que és l’objecte del cos al qual s’opta."
+      },
+      {
+       "n": 0,
+       "t": "Diagnòstic: establir l’estat de la qüestió amb dades i no amb impressions."
+      },
+      {
+       "n": 0,
+       "t": "Avaluació: comprovar l’efecte de les polítiques aplicades des de l’edició anterior, amb les cauteles de comparabilitat que corresponguen."
+      },
+      {
+       "n": 0,
+       "t": "Priorització: identificar els àmbits, els territoris i els grups de població on la intervenció és més necessària o més viable."
+      },
+      {
+       "n": 0,
+       "t": "Rendició de comptes: fer pública la informació perquè la societat i les institucions puguen valorar l’acció de govern en matèria lingüística. L’enquesta de 2021 inclou, de fet, una pregunta expressa sobre l’opinió de la ciutadania respecte de l’actuació de la Generalitat en el foment del valencià."
+      },
+      {
+       "n": 0,
+       "t": "El fet que la Direcció General decidira, després de conèixer els resultats de 2021, posar en marxa un baròmetre anual d’usos —examinat en l’apartat 11— és la millor prova que les quatre funcions van operar: el diagnòstic va detectar un problema en l’ús, i la resposta institucional va ser dotar-se d’un instrument de seguiment més freqüent."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 4"
+      }
+     ]
+    },
+    {
+     "titol": "La metodologia de l’enquesta de 2021",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-17-aa32a41060545ea3.mp3",
+     "durada": 18.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "La metodologia de l’enquesta de 2021"
+      },
+      {
+       "n": 0,
+       "t": "La fitxa tècnica és contingut exigible i preguntable de manera literal. A més, és el que permet saber què es pot afirmar i què no a partir de les dades."
+      }
+     ]
+    },
+    {
+     "titol": "4.1. Univers, mostra i precisió estadística",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-18-61f76c5936a99cc0.mp3",
+     "durada": 124.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.1. Univers, mostra i precisió estadística"
+      },
+      {
+       "n": 0,
+       "t": "Element. Especificació oficial"
+      },
+      {
+       "n": 0,
+       "t": "Univers. Col·lectiu de persones de 15 i més anys, residents a la Comunitat Valenciana, segons el Padró municipal d’habitants de 2020."
+      },
+      {
+       "n": 0,
+       "t": "Dimensions de la mostra. 7.171 entrevistes telefòniques. La mostra de la zona valencianoparlant és de 6.157 entrevistes."
+      },
+      {
+       "n": 0,
+       "t": "Marge d’error estadístic. ± 1,16 % per al conjunt ponderat i ± 3 % per a cada regió."
+      },
+      {
+       "n": 0,
+       "t": "Interval de confiança. 95,5 %"
+      },
+      {
+       "n": 0,
+       "t": "Realització del treball de camp. D’octubre a desembre de 2021."
+      },
+      {
+       "n": 0,
+       "t": "Empresa de camp. Invest Group, SL."
+      },
+      {
+       "n": 0,
+       "t": "Dos observacions sobre aquestes dades. La primera: l’univers de quinze anys i més exclou la població escolaritzada de menor edat, que és precisament la que ha rebut escolarització en valencià de manera més completa; això s’ha de tenir present quan s’interpreten les dades de competència juvenil. La segona: la modalitat telefònica del treball de camp és rellevant perquè el document següent de la sèrie, el Baròmetre, va optar per l’enquesta presencial mitjançant rutes aleatòries, i la mateixa Direcció General ha assenyalat que això introdueix diferències tècniques a l’hora de comparar."
+      },
+      {
+       "n": 0,
+       "t": "Convé recordar també que el treball de camp es va fer en plena pandèmia, tardor del 2021, circumstància que explica l’opció per l’entrevista telefònica."
+      }
+     ]
+    },
+    {
+     "titol": "4.2. L’estratificació de la mostra",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-19-427112afc41c5852.mp3",
+     "durada": 67.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.2. L’estratificació de la mostra"
+      },
+      {
+       "n": 0,
+       "t": "El document declara que la mostra s’ha estratificat atenent quatre criteris d’estratificació de la població, que convé conèixer amb els intervals exactes, perquè són els mateixos que després reprendrà el Baròmetre."
+      },
+      {
+       "n": 0,
+       "t": "Criteri. Categories"
+      },
+      {
+       "n": 0,
+       "t": "Sexe. Home · Dona"
+      },
+      {
+       "n": 0,
+       "t": "Edat. De 15 a 24 anys · De 25 a 34 · De 35 a 44 · De 45 a 54 · De 55 a 64 · De 65 i més anys"
+      },
+      {
+       "n": 0,
+       "t": "Grandària del municipi. 10.000 habitants o menys · De 10.001 a 25.000 · De 25.001 a 100.000 · Més de 100.000 habitants"
+      },
+      {
+       "n": 0,
+       "t": "Regions. Sis regions: cinc valencianoparlants i una castellanoparlant (v. l’apartat 4.3)"
+      }
+     ]
+    },
+    {
+     "titol": "4.3. Les sis regions i la seua composició comarcal",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-20-795a3f264e130977.mp3",
+     "durada": 175.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.3. Les sis regions i la seua composició comarcal"
+      },
+      {
+       "n": 0,
+       "t": "El document precisa que «es consideren sis regions (cinc de valencianoparlants i una de castellanoparlant), per a cada una de les quals es dissenya una mostra independent». Aquesta darrera precisió és important: no es tracta d’una desagregació a posteriori sinó de sis mostres dissenyades per separat, cosa que garantix la representativitat regional amb el marge d’error del ±3% ja indicat."
+      },
+      {
+       "n": 0,
+       "t": "Regió. Comarques que la integren. Enquestes"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alacant. El Baix Vinalopó, l’Alacantí, les Valls del Vinalopó, la Marina Baixa.. 1.296"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alcoi-Gandia. La Marina Alta, el Comtat, l’Alcoià, la Vall d’Albaida, la Safor.. 921"
+      },
+      {
+       "n": 0,
+       "t": "Regió de València i àrea metropolitana. València, l’Horta Nord, l’Horta Oest, l’Horta Sud.. 2.300"
+      },
+      {
+       "n": 0,
+       "t": "Regió de València. La Ribera Baixa, la Ribera Alta, la Costera, el Camp de Túria, el Camp de Morvedre.. 864"
+      },
+      {
+       "n": 0,
+       "t": "Regió de Castelló. La Plana Baixa, la Plana Alta, l’Alcalatén, l’Alt Maestrat, el Baix Maestrat, els Ports.. 776"
+      },
+      {
+       "n": 0,
+       "t": "Regió castellanoparlant. Subregió de Requena-Sogorb: el Alto Mijares, el Alto Palancia, el Rincón de Ademuz, los Serranos, la Hoya de Buñol, la Plana de Utiel-Requena, el Valle de Cofrentes-Ayora, la Canal de Navarrés. · Subregió d’Oriola: el Alto Vinalopó, el Vinalopó Medio, la Vega Baja.. 1.014"
+      },
+      {
+       "n": 0,
+       "t": "La suma de les cinc regions valencianoparlants dona exactament les 6.157 entrevistes que el document identifica com a mostra de la zona valencianoparlant, i el conjunt de les sis, les 7.171 de la mostra total. Convé retenir la divisió interna de la regió castellanoparlant en dos subregions, Requena-Sogorb al nord i Oriola al sud, perquè els mapes del document en donen dades diferenciades i les diferències entre les dos són molt notables."
+      }
+     ]
+    },
+    {
+     "titol": "4.4. La selecció mostral i el treball de camp",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-21-e9a42749a01f4181.mp3",
+     "durada": 95.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.4. La selecció mostral i el treball de camp"
+      },
+      {
+       "n": 0,
+       "t": "El procediment de selecció el descriu el document amb detall, i és un contingut preguntable perquè acredita la qualitat tècnica de l’estudi:"
+      },
+      {
+       "n": 0,
+       "t": "«Selecció de l’última unitat de mostreig: mostreig aleatori sistemàtic a partir de la base de dades elaborada de forma aleatòria i estratificada per edat, sexe, comarca i grandària del municipi per part de l’Institut Valencià d’Estadística (IVE), una base inicial de 8.959 registres i una base complementària de 26.799 registres per a la substitució de registres principals. Abans de fer les telefonades, s’ha enviat una carta a cadascun dels domicilis per informar que havien sigut triats aleatòriament per a participar en l’estudi i se’ls informava del dia que es faria l’entrevista telefònica.» Enquesta 2021, Metodologia"
+      },
+      {
+       "n": 0,
+       "t": "Els elements que cal retenir són quatre: el mostreig aleatori sistemàtic; l’origen de la base de dades en l’Institut Valencià d’Estadística; la base inicial de 8.959 registres i la complementària de 26.799 per a substitucions; i la carta prèvia als domicilis seleccionats, que és una tècnica de millora de la taxa de resposta i de reducció del biaix de no-resposta."
+      }
+     ]
+    },
+    {
+     "titol": "4.5. La nota metodològica i els límits de comparabilitat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-22-999f3fda454bccbc.mp3",
+     "durada": 149.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.5. La nota metodològica i els límits de comparabilitat"
+      },
+      {
+       "n": 0,
+       "t": "El document conté una advertència expressa que és, probablement, l’element metodològic més important del tema, perquè condiciona qualsevol afirmació sobre l’evolució:"
+      },
+      {
+       "n": 0,
+       "t": "«El qüestionari, en relació als altres qüestionaris de la sèrie històrica, s’ha modernitzat de cara a millorar-lo i afavorir les comparacions dels resultats amb altres enquestes sobre coneixement i ús de la llengua d’altres territoris. Entre els principals canvis destaca la incorporació de preguntes noves, l’aplicació de filtres en algunes respostes i la modificació d’algunes preguntes o opcions de resposta. Aquest fet dificulta la comparació d’algunes preguntes amb les sèries temporals anteriors.» Enquesta 2021, Nota metodològica"
+      },
+      {
+       "n": 0,
+       "t": "La lectura correcta d’aquesta nota és matisada i convé formular-la bé. No diu que l’enquesta no siga comparable: diu que la comparació d’algunes preguntes és problemàtica. Els tres canvis que enumera tenen efectes distints:"
+      },
+      {
+       "n": 0,
+       "t": "Les preguntes noves no afecten la comparabilitat de les antigues; simplement amplien l’abast de l’estudi. És el cas de tot el bloc de transmissió familiar i de comportaments lingüístics interpersonals, que en la sèrie anterior no existia."
+      },
+      {
+       "n": 0,
+       "t": "L’aplicació de filtres sí que hi afecta: si una pregunta només es formula a un subconjunt, la base de càlcul canvia i el percentatge no és directament comparable amb el d’una edició en què es preguntava a tothom."
+      },
+      {
+       "n": 0,
+       "t": "La modificació d’opcions de resposta és el canvi més delicat, perquè altera la distribució sense que hi haja hagut cap canvi real en la població."
+      },
+      {
+       "n": 0,
+       "t": "La conseqüència pràctica per a un examen és clara: es poden i s’han de citar les tendències que la mateixa Direcció General ha difós, però sempre atribuint-les a la font i acompanyant-les de la cautela que el document oficial estableix. Afirmar sense matisos una evolució exacta en punts percentuals per a qualsevol pregunta és tècnicament imprudent."
+      }
+     ]
+    },
+    {
+     "titol": "4.6. Les convencions de lectura de les taules",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-23-c1b64d3d3598872a.mp3",
+     "durada": 161.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "4.6. Les convencions de lectura de les taules"
+      },
+      {
+       "n": 0,
+       "t": "El document fixa dos convencions que cal conèixer per a manejar-lo correctament:"
+      },
+      {
+       "n": 0,
+       "t": "Omissió de la mida de la mostra: «s’ha omés la mida de la mostra quan és de 7.171 (mostra total) o 6.157 (mostra de la zona valencianoparlant), només s’expressa quan és inferior a la mostra total (o a la mostra de la zona valencianoparlant en el cas que la taula faça referència solament a aquesta zona), amb la indicació [n=x]»."
+      },
+      {
+       "n": 0,
+       "t": "Naturalesa de les xifres: «Totes les xifres que apareixen en les pàgines següents són percentatges, si no s’indica una altra cosa»."
+      },
+      {
+       "n": 0,
+       "t": "La primera convenció té una utilitat diagnòstica immediata: quan una taula porta la indicació [n=x], l’usuari sap que aquella pregunta s’ha formulat només a un subconjunt, i pot valorar-ne la precisió. En el capítol d’ús, per exemple, la pregunta sobre les relacions externes de treball es formula sobre n=2.450, la qual cosa n’explica el percentatge elevat de «Ns/Nc» i n’exigix una lectura prudent."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA FITXA TÈCNICA EN DEU DADES Univers: 15 i més anys, residents a la Comunitat Valenciana, padró de 2020 · Mostra: 7.171 entrevistes telefòniques, 6.157 de la zona valencianoparlant · Error: ±1,16% per al conjunt ponderat i ±3% per regió · Interval de confiança: 95,5% · Estratificació: sexe, edat (sis trams), grandària del municipi (quatre trams) i sis regions · Selecció: mostreig aleatori sistemàtic sobre base de l’IVE, 8.959 registres inicials i 26.799 de substitució · Carta prèvia als domicilis · Camp: octubre-desembre de 2021, Invest Group, SL · Nota metodològica: la modernització del qüestionari dificulta algunes comparacions amb la sèrie · Convenció: totes les xifres són percentatges i [n=x] indica submostra."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 5"
+      }
+     ]
+    },
+    {
+     "titol": "El coneixement del valencià",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-24-9ca7afdbb3934221.mp3",
+     "durada": 32.8,
+     "text": [
+      {
+       "n": 1,
+       "t": "El coneixement del valencià"
+      },
+      {
+       "n": 0,
+       "t": "El primer bloc de l’enquesta mesura la competència declarada en les quatre habilitats —entendre, parlar, llegir i escriure— amb una escala de quatre graus: gens, un poc, bastant bé i perfectament. La convenció analítica habitual, i la que empra el mateix document en els seus mapes, és sumar bastant bé + perfectament per a obtenir el percentatge de població amb competència consolidada."
+      }
+     ]
+    },
+    {
+     "titol": "5.1. La competència declarada per zones de predomini lingüístic",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-25-242c81c7e1b03c0b.mp3",
+     "durada": 377.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.1. La competència declarada per zones de predomini lingüístic"
+      },
+      {
+       "n": 0,
+       "t": "És la taula fonamental de l’enquesta i el punt de partida obligat de qualsevol exposició del tema. Es reprodueix íntegrament."
+      },
+      {
+       "n": 0,
+       "t": "Habilitat i grau. TOTAL. Zona valencianoparlant. Zona castellanoparlant"
+      },
+      {
+       "n": 0,
+       "t": "Entén · Gens. 7,1. 5,8. 14,9"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 17,0. 14,7. 31,0"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 27,0. 26,1. 32,8"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 48,8. 53,3. 21,2"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,1. 0,1. 0,1"
+      },
+      {
+       "n": 0,
+       "t": "Sap parlar · Gens. 31,3. 28,2. 50,6"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 17,9. 16,7. 25,2"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 22,0. 22,8. 16,6"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 28,6. 32,1. 7,6"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,2. 0,2. 0,0"
+      },
+      {
+       "n": 0,
+       "t": "Sap llegir · Gens. 34,1. 30,9. 53,2"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 8,6. 8,1. 11,8"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 23,6. 23,9. 22,0"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 33,6. 37,0. 13,0"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,1. 0,1. 0,0"
+      },
+      {
+       "n": 0,
+       "t": "Sap escriure · Gens. 42,7. 39,3. 62,9"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 16,2. 16,0. 17,5"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 24,7. 26,4. 14,8"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 16,1. 18,0. 4,7"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,3. 0,3. 0,1"
+      },
+      {
+       "n": 0,
+       "t": "Sumant les dos categories superiors s’obté el quadre de competència consolidada, que és el que convé memoritzar."
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé + perfectament (suma). TOTAL. Zona valencianoparlant. Zona castellanoparlant"
+      },
+      {
+       "n": 0,
+       "t": "L’entén. 75,8. 79,4. 54,0"
+      },
+      {
+       "n": 0,
+       "t": "El sap parlar. 50,6. 54,9. 24,2"
+      },
+      {
+       "n": 0,
+       "t": "El sap llegir. 57,2. 60,9. 35,0"
+      },
+      {
+       "n": 0,
+       "t": "El sap escriure. 40,8. 44,4. 19,5"
+      },
+      {
+       "n": 0,
+       "t": "Tres lectures d’aquesta taula tenen valor diagnòstic i s’han de saber formular."
+      },
+      {
+       "n": 0,
+       "t": "La jerarquia de les habilitats no és la natural. En una llengua de transmissió familiar normal, l’orde de competència és entendre > parlar > llegir > escriure. Ací, en canvi, llegir supera parlar en tots els àmbits: 57,2% enfront de 50,6% en el total, i 60,9% enfront de 54,9% en la zona valencianoparlant. És la petjada inequívoca d’una competència adquirida per via escolar més que per via familiar."
+      },
+      {
+       "n": 0,
+       "t": "La bretxa entre comprendre i parlar és de 25,2 punts en el total (75,8 enfront de 50,6). Hi ha, per tant, un contingent molt ampli de població que entén la llengua però no la parla: és el que la sociolingüística anomena bilingüisme passiu, i és la reserva de parlants potencials més gran de què disposa qualsevol política d’extensió de l’ús."
+      },
+      {
+       "n": 0,
+       "t": "La distància entre zones és molt considerable, però desigual segons l’habilitat. En la comprensió, la zona castellanoparlant arriba al 54,0%, més de la meitat de la població; en la capacitat de parlar, baixa al 24,2%, i en la d’escriure, al 19,5%."
+      }
+     ]
+    },
+    {
+     "titol": "5.2. La competència per regions",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-26-93eb3d5e4662dd1a.mp3",
+     "durada": 440.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.2. La competència per regions"
+      },
+      {
+       "n": 0,
+       "t": "Les dades per regions, calculades sobre la mostra de la zona valencianoparlant [n=6.157] en el cas de llegir i escriure, mostren una variació territorial molt marcada. Es reprodueixen les distribucions completes."
+      },
+      {
+       "n": 0,
+       "t": "Alacant. Alcoi-Gandia. Ciutat de València i àrea metrop.. Regió de València. Castelló"
+      },
+      {
+       "n": 0,
+       "t": "Entén · Gens. 9,2. 9,7. 4,0. 2,8. 4,6"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 22,2. 10,9. 15,1. 8,4. 12,1"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 31,0. 17,8. 29,8. 20,4. 23,0"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 37,5. 61,6. 50,9. 68,3. 60,3"
+      },
+      {
+       "n": 0,
+       "t": "Sap parlar · Gens. 42,4. 23,1. 28,0. 16,0. 24,5"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 21,1. 9,6. 20,5. 12,8. 10,5"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 18,5. 20,1. 26,9. 21,4. 22,8"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 17,9. 47,0. 24,2. 49,7. 42,1"
+      },
+      {
+       "n": 0,
+       "t": "Sap llegir · Gens. 44,8. 24,9. 30,9. 19,4. 27,6"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 8,3. 7,6. 9,3. 5,8. 7,1"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 21,1. 25,3. 24,7. 25,3. 23,2"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 25,8. 42,2. 34,9. 49,5. 42,1"
+      },
+      {
+       "n": 0,
+       "t": "Sap escriure · Gens. 51,2. 33,3. 40,7. 28,1. 35,5"
+      },
+      {
+       "n": 0,
+       "t": "Un poc. 15,8. 14,1. 18,2. 14,1. 14,2"
+      },
+      {
+       "n": 0,
+       "t": "Bastant bé. 21,2. 30,3. 24,8. 32,0. 28,7"
+      },
+      {
+       "n": 0,
+       "t": "Perfectament. 11,6. 22,2. 15,7. 25,8. 21,5"
+      },
+      {
+       "n": 0,
+       "t": "Els mapes del document sintetitzen aquestes distribucions en el valor «bastant bé + perfectament» i hi afigen les dos subregions castellanoparlants, que no apareixen en les taules numèriques. El quadre resultant és el següent."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Entén. Sap parlar. Sap llegir. Sap escriure"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alacant. 68,5. 36,4. 46,9. 32,8"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alcoi-Gandia. 79,4. 67,1. 67,5. 52,5 (suma)"
+      },
+      {
+       "n": 0,
+       "t": "Ciutat de València i àrea metropolitana. 80,7. 51,1. 59,6. 40,5"
+      },
+      {
+       "n": 0,
+       "t": "Regió de València. 88,7. 71,1. 74,9. 57,8"
+      },
+      {
+       "n": 0,
+       "t": "Regió de Castelló. 83,3. 64,9. 65,3. 50,2 (suma)"
+      },
+      {
+       "n": 0,
+       "t": "Castellanoparlant nord (Requena-Sogorb). 70,7. 29,3. 42,6. 23,9"
+      },
+      {
+       "n": 0,
+       "t": "Castellanoparlant sud (Oriola). 49,4. 22,9. 32,9. 18,3"
+      },
+      {
+       "n": 0,
+       "t": "Les xifres marcades com a suma no figuren retolades en els mapes originals i s’han obtingut sumant les categories «bastant bé» i «perfectament» de les taules reproduïdes més amunt."
+      },
+      {
+       "n": 0,
+       "t": "El rang de variació és la dada més expressiva: en la capacitat de parlar, la distància entre la regió de València (71,1%) i la regió d’Alacant (36,4%) és de gairebé trenta-cinc punts, i entre aquella i la subregió d’Oriola (22,9%), de quasi cinquanta. Convé subratllar dos fets que corregixen tòpics habituals: primer, que la ciutat de València i la seua àrea metropolitana presenten una competència oral activa (51,1%) inferior a la de les regions de València, Alcoi-Gandia i Castelló, malgrat concentrar la major part de la població; segon, que la subregió castellanoparlant nord assoleix una comprensió del 70,7%, molt per damunt de la subregió sud."
+      }
+     ]
+    },
+    {
+     "titol": "5.3. La competència per edat i sexe",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-27-4c88486e61bf339b.mp3",
+     "durada": 307.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.3. La competència per edat i sexe"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta és la taula amb més valor prospectiu de tot el capítol, perquè permet anticipar l’evolució futura de la competència. Els valors corresponen a la suma «bastant bé + perfectament»."
+      },
+      {
+       "n": 0,
+       "t": "Edat. Entén H. Entén D. Parla H. Parla D. Llig H. Llig D. Escriu H. Escriu D"
+      },
+      {
+       "n": 0,
+       "t": "15-24. 86,0. 87,8. 64,5. 64,6. 78,0. 81,4. 71,3. 68,0"
+      },
+      {
+       "n": 0,
+       "t": "25-34. 79,3. 79,8. 54,2. 58,1. 67,2. 69,6. 53,5. 55,3"
+      },
+      {
+       "n": 0,
+       "t": "35-44. 79,5. 76,8. 54,9. 51,6. 65,7. 65,2. 50,6. 52,0"
+      },
+      {
+       "n": 0,
+       "t": "45-54. 77,2. 79,1. 52,1. 47,7. 57,2. 57,8. 38,4. 40,2"
+      },
+      {
+       "n": 0,
+       "t": "55-64. 74,5. 70,1. 47,1. 42,3. 48,0. 44,4. 25,7. 24,1"
+      },
+      {
+       "n": 0,
+       "t": "65 i més. 67,1. 69,6. 45,5. 43,1. 39,3. 36,4. 20,2. 15,6"
+      },
+      {
+       "n": 0,
+       "t": "La lectura és inequívoca i concentra bona part del diagnòstic del tema:"
+      },
+      {
+       "n": 0,
+       "t": "En les habilitats escrites la progressió generacional és espectacular. La capacitat d’escriure bastant bé o perfectament passa del 20,2% dels homes de 65 i més anys al 71,3% dels de 15 a 24, i del 15,6% al 68,0% en el cas de les dones. És una multiplicació per més de tres i per més de quatre respectivament, i és l’efecte directe de l’escolarització en valencià."
+      },
+      {
+       "n": 0,
+       "t": "En la capacitat de parlar, en canvi, la progressió existix però és molt més moderada: del 45,5% al 64,5% en els homes i del 43,1% al 64,6% en les dones. Dinou i vint-i-un punts, enfront dels cinquanta de l’escriptura."
+      },
+      {
+       "n": 0,
+       "t": "En la comprensió la millora és encara menor —del 67,1% al 86,0% en els homes— senzillament perquè el punt de partida ja era alt."
+      },
+      {
+       "n": 0,
+       "t": "Les diferències per sexe són en general xicotetes i no sistemàtiques: les dones superen els homes en algunes franges i habilitats i els homes en unes altres."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA DADA QUE RESUMIX L’EFECTE ESCOLAR Entre la generació de 65 i més anys i la de 15 a 24, la capacitat d’escriure valencià bastant bé o perfectament passa del 20,2% al 71,3% en els homes i del 15,6% al 68,0% en les dones. La de parlar-lo, del 45,5% al 64,5% i del 43,1% al 64,6%. L’escola ha creat lectors i escriptors; no ha creat, en la mateixa proporció, parlants. És la formulació més compacta de tot el diagnòstic."
+      }
+     ]
+    },
+    {
+     "titol": "5.4. La competència per lloc de naixement i temps de residència",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-28-c39d59dd6c25f278.mp3",
+     "durada": 230.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.4. La competència per lloc de naixement i temps de residència"
+      },
+      {
+       "n": 0,
+       "t": "Aquestes dos taules incorporen la variable migratòria, que és determinant en un territori amb una composició demogràfica com la valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Lloc de naixement (bastant bé + perfectament, suma). Entén. Sap parlar. Sap llegir. Sap escriure"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant, Balears i Catalunya. 90,0. 68,9. 74,7. 55,9"
+      },
+      {
+       "n": 0,
+       "t": "Zona castellanoparlant. 76,3. 49,1. 58,3. 38,9"
+      },
+      {
+       "n": 0,
+       "t": "Fora de la Comunitat Valenciana. 49,3. 17,2. 25,0. 13,2"
+      },
+      {
+       "n": 0,
+       "t": "La taula original desglossa els quatre graus. Del detall convé retenir-ne dues dades: entre els nascuts a la zona valencianoparlant, les Balears o Catalunya, només un 1,9% declara no entendre gens el valencià i el 64,9% afirma entendre’l perfectament; entre els nascuts fora de la Comunitat Valenciana, el 62,5% declara no saber-lo parlar gens i el 75,6% no saber-lo escriure gens."
+      },
+      {
+       "n": 0,
+       "t": "La segona taula, per temps de residència, ofereix un patró que mereix una lectura acurada."
+      },
+      {
+       "n": 0,
+       "t": "Temps de residència (bastant bé + perfectament). Entén. Sap parlar. Sap llegir. Sap escriure"
+      },
+      {
+       "n": 0,
+       "t": "Tota la vida. 88,5. 66,6. 72,7. 54,0"
+      },
+      {
+       "n": 0,
+       "t": "30 anys o més. 29,5. 6,4. 12,2. 5,5"
+      },
+      {
+       "n": 0,
+       "t": "20 a 29 anys. 44,6. 10,5. 17,2. 7,2"
+      },
+      {
+       "n": 0,
+       "t": "10 a 19 anys. 63,8. 21,4. 31,6. 16,5"
+      },
+      {
+       "n": 0,
+       "t": "Menys de 10 anys. 84,6. 46,7. 58,7. 37,4"
+      },
+      {
+       "n": 0,
+       "t": "El patró no és lineal i s’ha d’interpretar amb prudència. Entre les persones que no han residit sempre a la Comunitat Valenciana, la competència no creix amb els anys de residència sinó que, segons aquestes dades, és més alta entre les d’arribada més recent. Una lectura responsable ha de limitar-se a constatar-ho i a assenyalar que el resultat suggerix que la variable determinant no és la durada de l’exposició sinó la composició dels fluxos migratoris de cada període i, molt probablement, el pas o no pel sistema educatiu valencià. Afirmar més enllà d’això exigiria dades que la síntesi de resultats no ofereix."
+      }
+     ]
+    },
+    {
+     "titol": "5.5. La competència per nivell d’estudis",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-29-9d9ba95f845e07a7.mp3",
+     "durada": 148.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.5. La competència per nivell d’estudis"
+      },
+      {
+       "n": 0,
+       "t": "Nivell d’estudis (bastant bé + perfectament). Entén. Sap parlar. Sap llegir. Sap escriure"
+      },
+      {
+       "n": 0,
+       "t": "Sense estudis. 59,0. 35,3. 23,1. 7,1"
+      },
+      {
+       "n": 0,
+       "t": "Primaris. 69,9. 43,7. 41,1. 22,1"
+      },
+      {
+       "n": 0,
+       "t": "Batxillerat elemental. 69,0. 44,0. 51,2. 35,9"
+      },
+      {
+       "n": 0,
+       "t": "FP i batxillerat superior. 79,5. 53,4. 63,1. 44,9"
+      },
+      {
+       "n": 0,
+       "t": "FP superior. 83,0. 57,6. 66,6. 48,9"
+      },
+      {
+       "n": 0,
+       "t": "Universitaris mitjans. 83,8. 54,6. 67,9. 51,6"
+      },
+      {
+       "n": 0,
+       "t": "Universitaris superiors. 83,8. 60,7. 71,4. 56,7"
+      },
+      {
+       "n": 0,
+       "t": "La correlació entre nivell d’estudis i competència és positiva i molt clara, especialment en les habilitats escrites: la capacitat d’escriure passa del 7,1% entre els qui no tenen estudis al 56,7% entre els universitaris superiors. Aquesta dada té una conseqüència de política lingüística que convé enunciar: el valencià no és, en la Comunitat Valenciana, una llengua associada als nivells educatius baixos, sinó al contrari; la competència hi creix amb la formació. Això desactiva empíricament un dels prejudicis més estesos sobre la llengua."
+      }
+     ]
+    },
+    {
+     "titol": "5.6. La competència per activitat principal i situació laboral",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-30-37044eace18de91e.mp3",
+     "durada": 174.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.6. La competència per activitat principal i situació laboral"
+      },
+      {
+       "n": 0,
+       "t": "El document ofereix dos taules addicionals de gran interés per a l’assessorament lingüístic en l’àmbit laboral. Se’n destaquen els extrems, en la suma «bastant bé + perfectament»."
+      },
+      {
+       "n": 0,
+       "t": "Activitat principal. Entén. Sap parlar. Sap llegir. Sap escriure"
+      },
+      {
+       "n": 0,
+       "t": "Estudiant. 85,9. 64,4. 77,9. 68,9"
+      },
+      {
+       "n": 0,
+       "t": "Indústria / taller. 79,8. 55,0. 58,8. 38,7"
+      },
+      {
+       "n": 0,
+       "t": "Serveis (comerç, administració pública, hostaleria…). 77,8. 51,3. 60,1. 42,6"
+      },
+      {
+       "n": 0,
+       "t": "Agricultura / ramaderia / pesca. 68,3. 51,4. 49,4. 29,8"
+      },
+      {
+       "n": 0,
+       "t": "Construcció. 63,1. 40,8. 40,2. 25,2"
+      },
+      {
+       "n": 0,
+       "t": "Faenes de la llar. 58,2. 29,3. 28,1. 15,3"
+      },
+      {
+       "n": 0,
+       "t": "Totes les xifres d’aquesta taula són sumes calculades a partir dels quatre graus de la taula original. La categoria estudiant encapçala totes les habilitats, cosa coherent amb la lectura generacional de l’apartat 5.3, i les faenes de la llar —categoria fortament feminitzada i envellida— tanca la sèrie."
+      },
+      {
+       "n": 0,
+       "t": "Pel que fa a la situació laboral, la taula original distingix vuit categories. Els treballadors fixos a sou presenten la competència més alta —el 58,0% declara entendre el valencià perfectament i el 42,6% saber-lo llegir perfectament—, mentre que els jubilats o pensionistes presenten la més baixa en les habilitats escrites, amb un 64,9% que declara no saber escriure’l gens. La lectura és de nou generacional: la situació laboral actua ací com a variable indirecta de l’edat."
+      }
+     ]
+    },
+    {
+     "titol": "5.7. Síntesi del capítol de coneixement",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-31-bbf83a7647403835.mp3",
+     "durada": 96.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "5.7. Síntesi del capítol de coneixement"
+      },
+      {
+       "n": 0,
+       "t": "LES SIS DADES DE CONEIXEMENT QUE CAL REtenir Competència en el conjunt de la Comunitat Valenciana (bastant bé + perfectament): entén 75,8%, sap parlar 50,6%, sap llegir 57,2%, sap escriure 40,8%. Zona valencianoparlant: 79,4% · 54,9% · 60,9% · 44,4%. Zona castellanoparlant: 54,0% · 24,2% · 35,0% · 19,5%. Llegir supera parlar en tots els àmbits: la competència és d’origen escolar. Bilingüisme passiu: 25,2 punts de diferència entre entendre i parlar en el conjunt. Bretxa generacional: escriure passa del 20,2%/15,6% (65 i més anys) al 71,3%/68,0% (15-24 anys). Rang territorial: parlar oscil·la entre el 71,1% de la regió de València i el 22,9% de la subregió d’Oriola."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 6"
+      }
+     ]
+    },
+    {
+     "titol": "L’aprenentatge del valencià",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-32-fda2523913dab6d5.mp3",
+     "durada": 21.9,
+     "text": [
+      {
+       "n": 1,
+       "t": "L’aprenentatge del valencià"
+      },
+      {
+       "n": 0,
+       "t": "Si el capítol anterior diu quanta gent sap valencià, aquest diu d’on li ve aquest coneixement. És la clau que explica la fisonomia de la competència descrita en l’apartat 5 i, per tant, un contingut de primer ordre."
+      }
+     ]
+    },
+    {
+     "titol": "6.1. On s’aprèn cada habilitat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-33-d3ea00285a771c46.mp3",
+     "durada": 178.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.1. On s’aprèn cada habilitat"
+      },
+      {
+       "n": 0,
+       "t": "La primera taula creua els entorns d’aprenentatge amb les tres habilitats actives. Els percentatges no sumen cent perquè es podia assenyalar més d’un entorn."
+      },
+      {
+       "n": 0,
+       "t": "Entorn. Ha aprés a parlar…. Ha aprés a llegir…. Ha aprés a escriure…"
+      },
+      {
+       "n": 0,
+       "t": "Amb la família. 52,7. 30,9. 31,9"
+      },
+      {
+       "n": 0,
+       "t": "A l’escola. 44,2. 48,2. 60,7"
+      },
+      {
+       "n": 0,
+       "t": "Amb el veïnat. 23,1. 8,7. 6,2"
+      },
+      {
+       "n": 0,
+       "t": "Amb els amics. 15,5. 4,3. 3,1"
+      },
+      {
+       "n": 0,
+       "t": "Pel seu compte. 9,7. 23,6. 14,3"
+      },
+      {
+       "n": 0,
+       "t": "En cursets. 7,2. 8,6. 10,1"
+      },
+      {
+       "n": 0,
+       "t": "En el treball. 3,2. 1,9. 1,5"
+      },
+      {
+       "n": 0,
+       "t": "Altres. 1,8. 1,6. 1,1"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 1,4. 1,2. 0,6"
+      },
+      {
+       "n": 0,
+       "t": "La taula conté, en dos files, tot el diagnòstic: la família ensenya a parlar (52,7%) però no a escriure (31,9%); l’escola ensenya a escriure (60,7%) i a llegir (48,2%) més que a parlar (44,2%). La divisió del treball entre els dos agents transmissors és nítida i explica exactament per què la competència lectora supera l’oral activa en el conjunt de la població."
+      },
+      {
+       "n": 0,
+       "t": "Val la pena assenyalar dos entorns sovint infravalorats. El veïnat apareix com a tercer entorn per a l’aprenentatge oral, amb un 23,1%, la qual cosa recorda que la socialització de barri ha estat històricament una via de transmissió important. I l’aprenentatge pel seu compte és el tercer entorn per a la lectura, amb un 23,6%, indici d’un contingent de població que ha accedit a la llengua escrita per iniciativa pròpia."
+      }
+     ]
+    },
+    {
+     "titol": "6.2. Entorn principal i entorn secundari",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-34-3ffa74f5fcb5a00c.mp3",
+     "durada": 162.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.2. Entorn principal i entorn secundari"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta demana també quin ha estat l’entorn principal i quin el secundari d’aprenentatge, sobre submostres de n=4.910 i n=4.889 respectivament."
+      },
+      {
+       "n": 0,
+       "t": "Entorn. Principal [n=4.910]. Secundari [n=4.889]"
+      },
+      {
+       "n": 0,
+       "t": "Amb la família. 43,0. 9,7"
+      },
+      {
+       "n": 0,
+       "t": "A l’escola o en un centre educatiu. 35,0. 18,2"
+      },
+      {
+       "n": 0,
+       "t": "Amb els amics, en la vida quotidiana. 11,7. 30,8"
+      },
+      {
+       "n": 0,
+       "t": "En el treball. 3,5. 6,0"
+      },
+      {
+       "n": 0,
+       "t": "Amb el veïnat. 3,1. 10,7"
+      },
+      {
+       "n": 0,
+       "t": "En cursets, en un curs de valencià per a adults. 2,0. 4,1"
+      },
+      {
+       "n": 0,
+       "t": "Pel seu compte (internet, llibres). 0,8. 2,9"
+      },
+      {
+       "n": 0,
+       "t": "Veient la televisió. 0,5. 1,1"
+      },
+      {
+       "n": 0,
+       "t": "D’alguna altra manera. 0,0. 0,0"
+      },
+      {
+       "n": 0,
+       "t": "De cap manera més. —. 16,5"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,4. —"
+      },
+      {
+       "n": 0,
+       "t": "El contrast entre les dos columnes és molt il·lustratiu. Com a entorn principal, la família i l’escola sumen el 78,0% i no tenen competidor. Com a entorn secundari, en canvi, el primer lloc l’ocupen els amics en la vida quotidiana (30,8%), molt per damunt de l’escola (18,2%) i del veïnat (10,7%). Dit d’una altra manera: la llengua s’adquirix en la família i en l’escola i es consolida en la interacció informal amb iguals. Aquesta constatació té una implicació directa per a la promoció lingüística, perquè assenyala on caldria actuar per a convertir competència en ús."
+      }
+     ]
+    },
+    {
+     "titol": "6.3. La diferència entre zones de predomini",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-35-9ad936a9212cfc37.mp3",
+     "durada": 118.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.3. La diferència entre zones de predomini"
+      },
+      {
+       "n": 0,
+       "t": "El document desagrega aquestes dades per zona, amb submostres de n=4.409 i n=501 per a l’entorn principal i n=4.394 i n=495 per al secundari. El resultat és un contrast net entre dos models d’adquisició."
+      },
+      {
+       "n": 0,
+       "t": "Entorn principal d’aprenentatge. Zona valencianoparlant. Zona castellanoparlant"
+      },
+      {
+       "n": 0,
+       "t": "Amb la família. 45,3. 24,0"
+      },
+      {
+       "n": 0,
+       "t": "A l’escola o en un centre educatiu. 33,1. 51,7"
+      },
+      {
+       "n": 0,
+       "t": "En la zona valencianoparlant el principal entorn d’adquisició continua sent la família (45,3%), seguida de l’escola (33,1%). En la zona castellanoparlant l’orde s’invertix: l’escola és l’entorn principal per a més de la meitat dels qui declaren haver aprés la llengua (51,7%), i la família baixa al 24,0%. La diferència descriu dos processos sociolingüístics distints: en un territori la llengua es reprodueix; en l’altre, s’adquirix."
+      },
+      {
+       "n": 0,
+       "t": "Coherentment amb això, l’opció «de cap manera més» com a entorn secundari és molt més freqüent en la zona castellanoparlant (27,3%) que en la valencianoparlant (15,3%): una proporció més alta de persones ha tingut un únic canal d’accés a la llengua, sense reforç posterior."
+      }
+     ]
+    },
+    {
+     "titol": "6.4. Lectura: el pes del sistema educatiu",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-36-4c75af5f492f31e5.mp3",
+     "durada": 74.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "6.4. Lectura: el pes del sistema educatiu"
+      },
+      {
+       "n": 0,
+       "t": "Les dades d’aquest apartat permeten formular tres conclusions que després reapareixeran en el diagnòstic final."
+      },
+      {
+       "n": 0,
+       "t": "El sistema educatiu és l’instrument més eficaç de què ha disposat la política lingüística valenciana. Ha generat competència escrita on no n’hi havia i ha estat l’entorn principal d’adquisició per a més de la meitat dels aprenents de la zona castellanoparlant."
+      },
+      {
+       "n": 0,
+       "t": "L’escola, però, no substitueix la família en la generació de parlants actius. Els seus resultats són molt superiors en llegir i escriure que en parlar, i això explica la fisonomia asimètrica de la competència descrita en l’apartat 5."
+      },
+      {
+       "n": 0,
+       "t": "La consolidació de la competència depèn de la interacció informal amb iguals, que és l’entorn secundari majoritari. Sense xarxes socials on usar la llengua, la competència adquirida a l’escola tendix a quedar en potència."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 7"
+      }
+     ]
+    },
+    {
+     "titol": "La transmissió lingüística familiar",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-37-2837370a2a3e3688.mp3",
+     "durada": 24.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "La transmissió lingüística familiar"
+      },
+      {
+       "n": 0,
+       "t": "Aquest bloc és una de les novetats de l’enquesta de 2021 respecte de la sèrie anterior, i és, des del punt de vista sociolingüístic, el més valuós, perquè permet mesurar l’indicador de vitalitat per excel·lència: si la llengua passa o no d’una generació a la següent dins de la família."
+      }
+     ]
+    },
+    {
+     "titol": "7.1. La llengua parlada a casa durant la infantesa",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-38-c3f022c09f35b69e.mp3",
+     "durada": 156.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.1. La llengua parlada a casa durant la infantesa"
+      },
+      {
+       "n": 0,
+       "t": "La primera taula estableix la base demolingüística de la població enquestada: quina llengua parlava de xicotet a casa, amb la mare i amb el pare."
+      },
+      {
+       "n": 0,
+       "t": "Llengua. A casa quan era xicotet/-a. Amb la mare. Amb el pare"
+      },
+      {
+       "n": 0,
+       "t": "Castellà. 62,2. 62,4. 61,0"
+      },
+      {
+       "n": 0,
+       "t": "Valencià. 22,3. 23,3. 23,9"
+      },
+      {
+       "n": 0,
+       "t": "Una altra llengua o combinació. 10,4. 10,1. 10,1"
+      },
+      {
+       "n": 0,
+       "t": "Valencià i castellà igual. 3,3. 2,3. 2,6"
+      },
+      {
+       "n": 0,
+       "t": "Castellà i una altra llengua. 1,0. 1,3. 1,1"
+      },
+      {
+       "n": 0,
+       "t": "Valencià i una altra llengua. 0,1. 0,1. 0,1"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,7. 0,5. 1,2"
+      },
+      {
+       "n": 0,
+       "t": "La dada de referència és que el 22,3% de la població de quinze anys i més declara haver parlat valencià a casa quan era xicotet, enfront del 62,2% que declara haver-hi parlat castellà. Si s’hi suma el 3,3% que declara haver parlat les dos llengües igual, el contingent amb presència del valencià en la llar d’origen arriba al 25,6%. Cal recordar que aquesta xifra correspon al conjunt de la Comunitat Valenciana i que reflectix una fotografia acumulada de moltes generacions, no la situació actual de les llars amb criatures."
+      },
+      {
+       "n": 0,
+       "t": "Convé assenyalar també el pes del 10,4% d’una altra llengua o combinació de llengües, que documenta la diversitat lingüística derivada de la immigració internacional i que és un element estructural de la situació sociolingüística valenciana contemporània."
+      }
+     ]
+    },
+    {
+     "titol": "7.2. La transmissió ascendent: pares i avis",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-39-0e32fb5d1422e9c4.mp3",
+     "durada": 122.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.2. La transmissió ascendent: pares i avis"
+      },
+      {
+       "n": 0,
+       "t": "La segona taula mira una generació més enrere: quina va ser la primera llengua dels pares i quina parla la persona enquestada amb els avis."
+      },
+      {
+       "n": 0,
+       "t": "Llengua. Primera llengua de la mare. Primera llengua del pare. Amb els avis materns. Amb els avis paterns"
+      },
+      {
+       "n": 0,
+       "t": "Castellà. 59,9. 58,8. 58,1. 57,8"
+      },
+      {
+       "n": 0,
+       "t": "Valencià. 25,4. 24,8. 23,9. 26,2"
+      },
+      {
+       "n": 0,
+       "t": "Una altra llengua o combinació. 11,0. 10,7. 11,0. 10,6"
+      },
+      {
+       "n": 0,
+       "t": "Valencià i castellà igual. 1,6. 2,2. 1,9. 2,2"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 1,4. 3,0. 2,1. 4,5"
+      },
+      {
+       "n": 0,
+       "t": "Les xifres de valencià se situen entre el 23,9% i el 26,2% segons el vincle, i les de castellà entre el 57,8% i el 59,9%. Comparades amb el 22,3% de llengua parlada a casa en la infantesa de la persona enquestada, mostren un lleuger descens entre la generació dels pares i la de la persona enquestada, però la diferència és de pocs punts i s’ha d’interpretar amb prudència, ja que els universos no són idèntics."
+      }
+     ]
+    },
+    {
+     "titol": "7.3. La transmissió descendent: parella, fills i nets",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-40-7a9b6259c901116c.mp3",
+     "durada": 216.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.3. La transmissió descendent: parella, fills i nets"
+      },
+      {
+       "n": 0,
+       "t": "La tercera taula és la decisiva, perquè mira cap avall: quina llengua parla la persona enquestada amb la seua parella, amb els fills i amb els nets. Les submostres són n=6.885, n=4.482 i n=1.253."
+      },
+      {
+       "n": 0,
+       "t": "Llengua. Amb la parella [n=6.885]. Amb fills/-es [n=4.482]. Amb nets/-es [n=1.253]"
+      },
+      {
+       "n": 0,
+       "t": "Castellà. 61,7. 58,5. 53,6"
+      },
+      {
+       "n": 0,
+       "t": "Valencià. 15,5. 21,8. 20,8"
+      },
+      {
+       "n": 0,
+       "t": "Valencià i castellà igual. 4,4. 8,1. 8,6"
+      },
+      {
+       "n": 0,
+       "t": "Una altra llengua o combinació. 5,6. 6,3. 11,8"
+      },
+      {
+       "n": 0,
+       "t": "Castellà i una altra llengua. 2,3. 4,8. 2,9"
+      },
+      {
+       "n": 0,
+       "t": "Valencià i una altra llengua. 0,1. —. —"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 10,5. 0,4. 2,3"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta taula exigix una lectura molt acurada, perquè és on més fàcilment es cometen errors d’interpretació."
+      },
+      {
+       "n": 0,
+       "t": "La xifra de valencià amb la parella (15,5%) és la més baixa de les tres i és sensiblement inferior al 22,3% de llengua d’origen. Convé notar, però, que aquesta pregunta té un 10,5% de Ns/Nc, molt superior al de les altres dos, cosa que aconsella prudència."
+      },
+      {
+       "n": 0,
+       "t": "La xifra de valencià amb els fills (21,8%) és superior a la de la parella i pràcticament igual a la de la llengua d’origen (22,3%). Si s’hi suma el 8,1% que declara usar les dos llengües igual, el contingent de llars amb presència del valencià en la relació amb els fills arriba al 29,9%."
+      },
+      {
+       "n": 0,
+       "t": "La xifra de valencià amb els nets (20,8%), amb un 8,6% addicional de les dos llengües igual, es manté en el mateix ordre de magnitud."
+      },
+      {
+       "n": 0,
+       "t": "El castellà, en canvi, descendix de manera consistent en els tres vincles: del 61,7% amb la parella al 58,5% amb els fills i al 53,6% amb els nets. Aquest descens no beneficia únicament el valencià: la categoria «una altra llengua o combinació» puja del 5,6% al 11,8% en la relació amb els nets."
+      }
+     ]
+    },
+    {
+     "titol": "7.4. Les raons del canvi de llengua",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-41-137c4dfe1a6b9146.mp3",
+     "durada": 168.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.4. Les raons del canvi de llengua"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta pregunta als qui han canviat de llengua entre generacions per quin motiu parlen amb els fills la llengua que hi parlen. Les submostres són reduïdes i les xifres s’han de manejar amb la cautela corresponent."
+      },
+      {
+       "n": 0,
+       "t": "Motiu. Valencià [n=180]. Castellà [n=560]. Ambdues [n=468]"
+      },
+      {
+       "n": 0,
+       "t": "Perquè és normal si vius a la Comunitat Valenciana. 28,9. 18,4. 21,3"
+      },
+      {
+       "n": 0,
+       "t": "Perquè és com parle amb la parella. 26,7. 13,1. 16,5"
+      },
+      {
+       "n": 0,
+       "t": "Perquè és una llengua molt important. 17,0. 18,3. 15,0"
+      },
+      {
+       "n": 0,
+       "t": "Perquè és important per a la formació de les filles o els fills. 7,3. 14,2. 13,7"
+      },
+      {
+       "n": 0,
+       "t": "Altres motius. 6,5. 9,7. 13,7"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 13,6. 26,3. 19,8"
+      },
+      {
+       "n": 0,
+       "t": "Els qui trien el valencià ho justifiquen sobretot per arrelament territorial (28,9%) i per coherència amb la llengua de la parella (26,7%). Els qui trien el castellà ho fan de manera més dispersa, amb el motiu més citat en la importància de la llengua (18,3%) i amb un pes notable de la utilitat formativa per als fills (14,2%), que dobla el que aquest motiu té entre els qui trien el valencià. La xifra més alta de la columna del castellà és, però, el 26,3% de Ns/Nc: una quarta part no sap o no vol explicitar el motiu, cosa que suggerix que la tria no s’experimenta com una decisió conscient sinó com una opció per defecte."
+      },
+      {
+       "n": 0,
+       "t": "El pes del motiu «perquè és com parle amb la parella» en la columna del valencià confirma una constatació coneguda de la bibliografia sociolingüística: la llengua de la parella és un factor determinant de la transmissió."
+      }
+     ]
+    },
+    {
+     "titol": "7.5. Lectura: el saldo intergeneracional",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-42-2fd89b1fe2c76297.mp3",
+     "durada": 122.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "7.5. Lectura: el saldo intergeneracional"
+      },
+      {
+       "n": 0,
+       "t": "La lectura conjunta de les tres taules permet formular un diagnòstic matisat, que convé saber exposar amb precisió i sense simplificacions en cap dels dos sentits."
+      },
+      {
+       "n": 0,
+       "t": "La transmissió del valencià no s’ha interromput: el percentatge que declara parlar valencià amb els fills (21,8%) és pràcticament idèntic al que declara haver-lo parlat a casa de xicotet (22,3%), i si s’hi afig l’ús compartit de les dos llengües, el contingent creix."
+      },
+      {
+       "n": 0,
+       "t": "Però tampoc no creix: no hi ha indicis d’una capacitat d’atracció que porte parlants nous cap al valencià en l’àmbit familiar en proporcions significatives."
+      },
+      {
+       "n": 0,
+       "t": "El castellà retrocedix en la relació amb les generacions més joves, però eixe retrocés l’absorbix majoritàriament la categoria d’altres llengües, que reflectix la diversificació lingüística de la societat valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Sobre una base demolingüística estreta —poc més d’un de cada cinc—, un manteniment sense creixement significa que el pes relatiu del valencià en el conjunt de la població tendix a l’estabilitat o a la lenta erosió, i que qualsevol expansió futura haurà de vindre de fora de la família: de l’escola, dels mitjans i de la creació d’espais d’ús."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LA FORMULACIÓ PRUDENT La formulació correcta del diagnòstic de transmissió no és «el valencià ja no es transmet» ni «la transmissió es manté sense problemes», sinó: la transmissió familiar es manté estable sobre una base demolingüística minoritària, sense signes clars d’interrupció però tampoc de creixement. Aquesta és la formulació que les dades sostenen."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 8"
+      }
+     ]
+    },
+    {
+     "titol": "Els comportaments lingüístics interpersonals",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-43-f5270eab0db9e095.mp3",
+     "durada": 30.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "Els comportaments lingüístics interpersonals"
+      },
+      {
+       "n": 0,
+       "t": "Aquest bloc, també nou respecte de la sèrie anterior, és el que millor explica per què la competència no es tradueix en ús. No pregunta quina llengua es parla en cada àmbit —això ho fa el capítol d’ús— sinó com es comporta el parlant en el moment d’iniciar i de mantenir una conversa. És a dir: mesura les normes d’ús."
+      }
+     ]
+    },
+    {
+     "titol": "8.1. La freqüència amb què s’inicien converses en valencià",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-44-aab08ac41b5a2450.mp3",
+     "durada": 94.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.1. La freqüència amb què s’inicien converses en valencià"
+      },
+      {
+       "n": 0,
+       "t": "Amb quina freqüència inicia les converses en valencià. %"
+      },
+      {
+       "n": 0,
+       "t": "Mai. 49,7"
+      },
+      {
+       "n": 0,
+       "t": "Poques vegades. 23,7"
+      },
+      {
+       "n": 0,
+       "t": "Molt freqüentment. 15,1"
+      },
+      {
+       "n": 0,
+       "t": "Sempre. 10,9"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,6"
+      },
+      {
+       "n": 0,
+       "t": "La dada és de les més contundents de tota l’enquesta: quasi la meitat de la població de quinze anys i més declara no iniciar mai una conversa en valencià, i si s’hi suma el 23,7% que ho fa poques vegades, s’arriba al 73,4% que rarament o mai pren la iniciativa lingüística en valencià. En l’extrem oposat, només el 26,0% —suma de «sempre» i «molt freqüentment»— la pren de manera habitual."
+      },
+      {
+       "n": 0,
+       "t": "La comparació amb la competència és el que dona valor diagnòstic a la xifra: el 50,6% de la població declara saber parlar valencià bastant bé o perfectament, però només el 26,0% declara iniciar converses en valencià amb freqüència. La meitat dels qui podrien fer-ho no ho fan."
+      }
+     ]
+    },
+    {
+     "titol": "8.2. El canvi de llengua davant de l’interlocutor",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-45-f1a2f24bf0685260.mp3",
+     "durada": 156.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.2. El canvi de llengua davant de l’interlocutor"
+      },
+      {
+       "n": 0,
+       "t": "La segona pregunta mesura què fa el parlant quan l’interlocutor respon en l’altra llengua. Es formula en els dos sentits, i el contrast entre les dos columnes és el resultat més revelador de tot el bloc."
+      },
+      {
+       "n": 0,
+       "t": "Comportament. Parla valencià i li contesten en castellà. Parla castellà i li contesten en valencià"
+      },
+      {
+       "n": 0,
+       "t": "Canvia de llengua. 50,2. 47,2"
+      },
+      {
+       "n": 0,
+       "t": "Continua parlant en la mateixa llengua. 5,4. 39,0"
+      },
+      {
+       "n": 0,
+       "t": "Mai s’adreça a ningú en aqueixa llengua. 42,9. 2,1"
+      },
+      {
+       "n": 0,
+       "t": "Demana si poden parlar en la llengua inicial. 0,5. 10,4"
+      },
+      {
+       "n": 0,
+       "t": "Interromp la conversa. 0,1. 0,7"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,9. 0,6"
+      },
+      {
+       "n": 0,
+       "t": "L’asimetria és el nucli de la qüestió i s’ha de saber exposar amb precisió. Els percentatges de canvi de llengua són semblants en els dos sentits: 50,2% i 47,2%. Però el que fan els qui no canvien és radicalment distint. Entre els qui parlen valencià i reben resposta en castellà, només el 5,4% manté la seua llengua. Entre els qui parlen castellà i reben resposta en valencià, en manté la seua el 39,0%, set vegades més."
+      },
+      {
+       "n": 0,
+       "t": "A això cal afegir-hi dos dades complementàries. La primera, que un 42,9% declara no adreçar-se mai a ningú en valencià, xifra pràcticament coincident amb el 49,7% que no inicia mai converses en aquesta llengua i que dona consistència interna al bloc. La segona, que el 10,4% dels qui parlen castellà demana si poden parlar en la llengua inicial, enfront d’un 0,5% en el sentit contrari."
+      }
+     ]
+    },
+    {
+     "titol": "8.3. Lectura: la norma de convergència",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-46-8dabc81e0cc75c72.mp3",
+     "durada": 153.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "8.3. Lectura: la norma de convergència"
+      },
+      {
+       "n": 0,
+       "t": "Les dades d’aquest apartat documenten empíricament el que la sociolingüística catalana ha descrit com a norma de convergència lingüística: la pauta social segons la qual, en una interacció entre un parlant de la llengua minoritzada i un de la llengua dominant, és el primer qui canvia. La norma no és una regla escrita ni una obligació legal: és una convenció social interioritzada que opera de manera automàtica."
+      },
+      {
+       "n": 0,
+       "t": "Les tres conseqüències que se’n deriven són les que expliquen la dissociació entre competència i ús:"
+      },
+      {
+       "n": 0,
+       "t": "El bilingüisme passiu no s’activa. Els qui entenen el valencià però no el parlen —el contingent de 25,2 punts identificat en l’apartat 5.1— rarament tenen ocasió de fer-lo servir, perquè el seu interlocutor valencianoparlant canvia abans que ells hagen de decidir."
+      },
+      {
+       "n": 0,
+       "t": "La competència esdevé invisible. Un parlant que no inicia mai en valencià i que canvia quan li responen en castellà pot passar tota la seua vida quotidiana sense usar una llengua que sap perfectament."
+      },
+      {
+       "n": 0,
+       "t": "L’efecte és multiplicador i sistèmic. Com que la norma opera en totes les interaccions, la reducció de l’ús no és proporcional al nombre de castellanoparlants sinó molt superior: n’hi ha prou que un dels interlocutors no parle valencià perquè tota la conversa hi renuncie."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LES TRES XIFRES DEL COMPORTAMENT LINGÜÍSTIC 49,7% no inicia mai una conversa en valencià; 73,4% (suma) mai o poques vegades. 50,2% canvia al castellà si li contesten en castellà; només el 5,4% manté el valencià. En sentit invers, el 39,0% manté el castellà si li contesten en valencià: set vegades més. Aquestes tres dades són, probablement, les més citables de tota l’enquesta en una prova de desenvolupament, perquè expliquen amb precisió el mecanisme que dissocia la competència de l’ús."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 9"
+      }
+     ]
+    },
+    {
+     "titol": "L’ús social del valencià",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-47-042bcc38feef0aa2.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "L’ús social del valencià"
+      }
+     ]
+    },
+    {
+     "titol": "9.1. L’abast del capítol i les seues limitacions",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-48-134835195c3d2b70.mp3",
+     "durada": 80.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.1. L’abast del capítol i les seues limitacions"
+      },
+      {
+       "n": 0,
+       "t": "El segon bloc de l’enquesta porta per títol «Ús del valencià per regions valencianoparlants», i el títol ja n’indica els dos límits: es referix només a la zona valencianoparlant i es desagrega en les cinc regions d’aquesta zona. La síntesi de resultats no ofereix dades d’ús per a la zona castellanoparlant ni per al conjunt de la Comunitat Valenciana."
+      },
+      {
+       "n": 0,
+       "t": "L’escala de resposta té nou opcions: sempre valencià, generalment valencià, més valencià que castellà, indistintament, més castellà que valencià, generalment castellà, sempre castellà, altres llengües i Ns/Nc. La convenció analítica que s’adopta ací —i que s’indica sempre— és sumar les tres primeres categories per a obtenir el percentatge d’ús predominant del valencià."
+      },
+      {
+       "n": 0,
+       "t": "El bloc cobrix setze situacions comunicatives, que es poden agrupar en sis àmbits: personal pròxim, personal menys pròxim, professional, comercial i financer, administratiu i sanitari, i comunitari, més dos usos escrits i digitals."
+      }
+     ]
+    },
+    {
+     "titol": "9.2. Els usos personals: la llar i les amistats",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-49-4fffc70bd0a28aa6.mp3",
+     "durada": 342.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.2. Els usos personals: la llar i les amistats"
+      },
+      {
+       "n": 0,
+       "t": "Llengua que parla a casa. Zona VP. Alacant. Alcoi-Gandia. Ciutat de València i AM. Regió de València. Castelló"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 19,5. 7,5. 37,9. 10,3. 35,2. 27,5"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 2,0. 1,2. 3,5. 0,9. 3,2. 3,3"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 1,6. 0,7. 1,9. 1,3. 2,9. 2,2"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 7,5. 5,5. 10,6. 6,4. 8,4. 9,5"
+      },
+      {
+       "n": 0,
+       "t": "Més castellà que valencià. 4,4. 3,5. 5,4. 4,7. 4,3. 4,0"
+      },
+      {
+       "n": 0,
+       "t": "Generalment castellà. 2,2. 2,6. 0,9. 2,8. 1,7. 1,8"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 56,0. 70,0. 28,2. 69,2. 40,1. 43,8"
+      },
+      {
+       "n": 0,
+       "t": "Altres llengües. 5,8. 7,7. 10,7. 3,5. 3,3. 6,9"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 1,0. 1,3. 0,9. 0,9. 0,9. 1,0"
+      },
+      {
+       "n": 0,
+       "t": "Llengua que parla amb amigues i amics. Zona VP. Alacant. Alcoi-Gandia. Ciutat de València i AM. Regió de València. Castelló"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 13,0. 4,0. 27,7. 5,8. 24,9. 18,5"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 4,5. 2,2. 8,2. 2,5. 7,4. 6,6"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 2,9. 1,5. 5,5. 1,9. 4,2. 3,7"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 14,7. 10,9. 20,1. 13,8. 16,1. 15,4"
+      },
+      {
+       "n": 0,
+       "t": "Més castellà que valencià. 6,7. 6,6. 5,2. 7,7. 5,8. 6,7"
+      },
+      {
+       "n": 0,
+       "t": "Generalment castellà. 3,4. 3,0. 2,0. 4,6. 2,8. 2,9"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 51,5. 66,8. 25,7. 61,4. 37,3. 43,0"
+      },
+      {
+       "n": 0,
+       "t": "Altres llengües. 2,8. 4,5. 5,0. 1,8. 0,9. 2,7"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,5. 0,5. 0,6. 0,5. 0,6. 0,5"
+      },
+      {
+       "n": 0,
+       "t": "En la zona valencianoparlant, la suma de les tres categories d’ús predominant del valencià dona 23,1% a casa i 20,4% amb les amistats. En sentit contrari, el 56,0% parla sempre castellà a casa i el 51,5% amb les amistats. La categoria indistintament és molt més alta amb les amistats (14,7%) que a casa (7,5%), la qual cosa indica que les xarxes d’amistat són més lingüísticament mixtes que les familiars."
+      }
+     ]
+    },
+    {
+     "titol": "9.3. Els usos interpersonals menys pròxims",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-50-ae98addafc92914f.mp3",
+     "durada": 99.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.3. Els usos interpersonals menys pròxims"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. Amb veïnes i veïns. Amb gent que no coneix"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 14,3. 10,0"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 4,0. 2,8"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 2,4. 1,2"
+      },
+      {
+       "n": 0,
+       "t": "Suma d’ús predominant en valencià. 20,7. 14,0"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 11,7. 9,1"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 56,4. 66,6"
+      },
+      {
+       "n": 0,
+       "t": "El descens de l’ús del valencià a mesura que augmenta la distància social de l’interlocutor és sistemàtic: del 23,1% a casa al 20,7% amb el veïnat i al 14,0% amb desconeguts. La contrapartida és el creixement de l’ús exclusiu del castellà, que arriba al 66,6% al carrer amb persones desconegudes. Aquesta gradació és la traducció estadística de la norma de convergència descrita en l’apartat 8: com menys es coneix l’interlocutor, més probable és que el parlant òpte per la llengua que dona per segura."
+      }
+     ]
+    },
+    {
+     "titol": "9.4. Els usos professionals",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-51-16e58c3adbf8739c.mp3",
+     "durada": 116.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.4. Els usos professionals"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. Relacions internes [n=4.721]. Relacions externes [n=2.450]"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 11,5. 14,2"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 4,2. 2,9"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 3,2. 2,3"
+      },
+      {
+       "n": 0,
+       "t": "Suma d’ús predominant en valencià. 18,9. 19,4"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 13,4. 11,1"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 54,2. 50,1"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 1,3. 10,2"
+      },
+      {
+       "n": 0,
+       "t": "L’àmbit laboral presenta xifres d’ús lleugerament inferiors a les de la llar però superiors a les de la interacció amb desconeguts. Dos observacions tècniques. La primera: la pregunta sobre relacions externes té una submostra molt més xicoteta i un 10,2% de Ns/Nc, cosa que n’aconsella una lectura prudent. La segona: la categoria indistintament és aquí de les més altes de tot el capítol (13,4% en les relacions internes), la qual cosa suggerix que el lloc de treball és un dels espais on la mixtura lingüística és més freqüent."
+      }
+     ]
+    },
+    {
+     "titol": "9.5. Els usos comercials i financers",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-52-1d400f7fc3f78dbb.mp3",
+     "durada": 117.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.5. Els usos comercials i financers"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. Botigues tradicionals. Grans superfícies. Bancs i caixes"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 15,4. 10,1. 14,1"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 4,2. 2,5. 2,9"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 2,3. 1,3. 1,2"
+      },
+      {
+       "n": 0,
+       "t": "Suma d’ús predominant en valencià. 21,9. 13,9. 18,2"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 10,8. 9,7. 7,6"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 57,5. 64,5. 65,2"
+      },
+      {
+       "n": 0,
+       "t": "El contrast entre el comerç tradicional (21,9%) i les grans superfícies (13,9%) és de vuit punts i és un dels resultats més il·lustratius de l’enquesta. La botiga de barri és un espai de relació personal, amb interlocutors coneguts i sovint del mateix entorn; la gran superfície és un espai anònim, amb personal desconegut i sovint de procedència diversa. El mateix parlant tria llengües distintes segons el tipus d’establiment, cosa que confirma que el factor decisiu no és la competència sinó la previsió sobre l’interlocutor."
+      }
+     ]
+    },
+    {
+     "titol": "9.6. Els usos davant de l’Administració i la sanitat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-53-c4f1e4fa8cc74bb3.mp3",
+     "durada": 189.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.6. Els usos davant de l’Administració i la sanitat"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. Adm. local. Adm. Generalitat. Adm. Estat. Consulta mèdica"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 18,0. 17,1. 10,6. 13,4"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 4,5. 4,4. 2,1. 2,7"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 2,0. 1,8. 0,9. 1,3"
+      },
+      {
+       "n": 0,
+       "t": "Suma d’ús predominant en valencià. 24,5. 23,3. 13,6. 17,4"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 7,6. 7,7. 6,7. 8,1"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 60,4. 59,8. 68,2. 65,3"
+      },
+      {
+       "n": 0,
+       "t": "Aquest àmbit conté dos resultats especialment rellevants per a un tècnic de promoció lingüística."
+      },
+      {
+       "n": 0,
+       "t": "L’Administració local (24,5%) i la de la Generalitat (23,3%) presenten les xifres d’ús predominant del valencià més altes de tot el capítol, per damunt fins i tot de la llar (23,1%). És un resultat notable: l’administració autonòmica i la municipal són els únics àmbits on l’ús declarat del valencià supera el de l’espai domèstic. La lectura més versemblant és que en aquests àmbits el parlant pot preveure que serà atés en valencià, cosa que redueix l’efecte de la norma de convergència."
+      },
+      {
+       "n": 0,
+       "t": "La consulta mèdica (17,4%) i, sobretot, l’Administració de l’Estat (13,6%) presenten xifres molt inferiors. En el segon cas, el 68,2% declara parlar sempre castellà: és la xifra d’ús exclusiu del castellà més alta de tot el capítol en l’àmbit institucional, i documenta una expectativa generalitzada de no ser atés en valencià."
+      },
+      {
+       "n": 0,
+       "t": "La diferència de deu punts entre l’Administració autonòmica i l’estatal, i la de set entre l’autonòmica i la sanitat, són dades directament utilitzables en una prova teoricopràctica per a argumentar sobre l’efecte de la capacitació lingüística del personal i de la política d’acollida lingüística en l’ús efectiu de la llengua."
+      }
+     ]
+    },
+    {
+     "titol": "9.7. Els usos comunitaris i associatius",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-54-b8e132167059823a.mp3",
+     "durada": 111.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.7. Els usos comunitaris i associatius"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. Associacions o casals festius i culturals. Grups o clubs esportius"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 11,4. 9,6"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 3,7. 2,8"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 1,8. 1,7"
+      },
+      {
+       "n": 0,
+       "t": "Suma d’ús predominant en valencià. 16,9. 14,1"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 6,8. 6,1"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 34,5. 36,1"
+      },
+      {
+       "n": 0,
+       "t": "No participa en cap associació. 32,6. 33,4"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 4,0. 4,5"
+      },
+      {
+       "n": 0,
+       "t": "Aquestes dos taules exigixen una precaució de lectura: al voltant d’un terç de la població declara no participar en cap associació, de manera que els percentatges d’ús es calculen sobre el conjunt i no sobre els participants. Si es recalcularen sobre els participants, les xifres d’ús del valencià serien sensiblement més altes. L’associacionisme festiu i cultural apareix, per tant, com un àmbit amb una presència relativa del valencià superior a la que la xifra bruta suggerix."
+      }
+     ]
+    },
+    {
+     "titol": "9.8. Els usos escrits i digitals",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-55-b246635b07210ece.mp3",
+     "durada": 121.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.8. Els usos escrits i digitals"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. Correu electrònic. Missatges privats (WhatsApp, Telegram)"
+      },
+      {
+       "n": 0,
+       "t": "Sempre valencià. 4,5. 7,8"
+      },
+      {
+       "n": 0,
+       "t": "Generalment valencià. 2,0. 3,5"
+      },
+      {
+       "n": 0,
+       "t": "Més valencià que castellà. 1,2. 2,2"
+      },
+      {
+       "n": 0,
+       "t": "Suma d’ús predominant en valencià. 7,7. 13,5"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 10,7. 12,6"
+      },
+      {
+       "n": 0,
+       "t": "Sempre castellà. 60,8. 59,8"
+      },
+      {
+       "n": 0,
+       "t": "Altres llengües. 3,4. 3,4"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 7,7. 2,9"
+      },
+      {
+       "n": 0,
+       "t": "El correu electrònic, amb un 7,7% d’ús predominant en valencià, és l’àmbit amb la xifra més baixa de tot el capítol. Els missatges privats gairebé el dupliquen (13,5%), diferència coherent amb la seua naturalesa més informal i pròxima. Aquestes dos dades tenen una lectura directa: l’escriptura ordinària és el terreny on el valencià té menys presència, i això contrasta de manera aguda amb el creixement de la competència escrita documentat en l’apartat 5.3. Hi ha, doncs, un contingent notable de població que sap escriure en valencià i no ho fa mai en la seua comunicació quotidiana."
+      }
+     ]
+    },
+    {
+     "titol": "9.9. El gradient d’usos: quadre de síntesi",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-56-df15f794a0661ef6.mp3",
+     "durada": 226.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.9. El gradient d’usos: quadre de síntesi"
+      },
+      {
+       "n": 0,
+       "t": "El quadre següent ordena els setze àmbits per la suma d’ús predominant del valencià en la zona valencianoparlant. Totes les xifres són sumes de «sempre valencià», «generalment valencià» i «més valencià que castellà»."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Ús predominant en valencià (suma). Sempre castellà"
+      },
+      {
+       "n": 0,
+       "t": "Administració local. 24,5. 60,4"
+      },
+      {
+       "n": 0,
+       "t": "Administració de la Generalitat Valenciana. 23,3. 59,8"
+      },
+      {
+       "n": 0,
+       "t": "A casa. 23,1. 56,0"
+      },
+      {
+       "n": 0,
+       "t": "Botigues tradicionals. 21,9. 57,5"
+      },
+      {
+       "n": 0,
+       "t": "Al carrer amb veïnes i veïns. 20,7. 56,4"
+      },
+      {
+       "n": 0,
+       "t": "Amb amigues i amics. 20,4. 51,5"
+      },
+      {
+       "n": 0,
+       "t": "Treball, relacions externes. 19,4. 50,1"
+      },
+      {
+       "n": 0,
+       "t": "Treball, relacions internes. 18,9. 54,2"
+      },
+      {
+       "n": 0,
+       "t": "Bancs i caixes d’estalvi. 18,2. 65,2"
+      },
+      {
+       "n": 0,
+       "t": "Consulta mèdica. 17,4. 65,3"
+      },
+      {
+       "n": 0,
+       "t": "Associacions o casals festius i culturals. 16,9. 34,5"
+      },
+      {
+       "n": 0,
+       "t": "Grups o clubs esportius. 14,1. 36,1"
+      },
+      {
+       "n": 0,
+       "t": "Al carrer amb gent que no coneix. 14,0. 66,6"
+      },
+      {
+       "n": 0,
+       "t": "Grans superfícies comercials. 13,9. 64,5"
+      },
+      {
+       "n": 0,
+       "t": "Administració de l’Estat. 13,6. 68,2"
+      },
+      {
+       "n": 0,
+       "t": "Missatges privats. 13,5. 59,8"
+      },
+      {
+       "n": 0,
+       "t": "Correu electrònic. 7,7. 60,8"
+      },
+      {
+       "n": 0,
+       "t": "El quadre permet formular tres regularitats:"
+      },
+      {
+       "n": 0,
+       "t": "Cap àmbit supera el 25%. L’ús predominant del valencià es mou, en tots els àmbits mesurats i en el territori on la llengua és pròpia, entre el 7,7% i el 24,5%."
+      },
+      {
+       "n": 0,
+       "t": "El gradient no és simplement de públic a privat, com sovint es diu, sinó de previsibilitat de l’interlocutor. Els àmbits on el parlant pot anticipar que serà atés en valencià —administració autonòmica i local, comerç de proximitat— encapçalen la sèrie; els àmbits d’interlocutor imprevisible —desconeguts, grans superfícies, Administració de l’Estat— la tanquen."
+      },
+      {
+       "n": 0,
+       "t": "L’escrit ordinari ocupa les darreres posicions, molt per davall del que la competència escrita permetria."
+      }
+     ]
+    },
+    {
+     "titol": "9.10. La variació territorial de l’ús",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-57-a2bd136c6717bb57.mp3",
+     "durada": 135.2,
+     "text": [
+      {
+       "n": 2,
+       "t": "9.10. La variació territorial de l’ús"
+      },
+      {
+       "n": 0,
+       "t": "La desagregació regional multiplica el contrast. Prenent l’ús a casa com a indicador de referència, la distància entre regions és molt superior a la de la competència."
+      },
+      {
+       "n": 0,
+       "t": "Regió. Sempre valencià a casa. Sempre castellà a casa"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alcoi-Gandia. 37,9. 28,2"
+      },
+      {
+       "n": 0,
+       "t": "Regió de València. 35,2. 40,1"
+      },
+      {
+       "n": 0,
+       "t": "Regió de Castelló. 27,5. 43,8"
+      },
+      {
+       "n": 0,
+       "t": "Ciutat de València i àrea metropolitana. 10,3. 69,2"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alacant. 7,5. 70,0"
+      },
+      {
+       "n": 0,
+       "t": "La conclusió territorial és molt clara i convé enunciar-la sense eufemismes: hi ha dos realitats sociolingüístiques dins de la mateixa zona valencianoparlant. En les regions d’Alcoi-Gandia, València i Castelló, el valencià conserva una presència domèstica significativa —entre el 27,5% i el 37,9% l’usa sempre a casa—; en la ciutat de València i la seua àrea metropolitana i en la regió d’Alacant, la presència és marginal —7,5% i 10,3%— i prop de set de cada deu llars usen sempre el castellà."
+      },
+      {
+       "n": 0,
+       "t": "Aquest resultat té una conseqüència de planificació de primer ordre: les dos regions amb l’ús més baix són, alhora, les de major pes demogràfic. Qualsevol política d’extensió de l’ús que aspire a modificar les xifres agregades haurà d’actuar necessàriament sobre l’àrea metropolitana de València i sobre les comarques alacantines."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 10"
+      }
+     ]
+    },
+    {
+     "titol": "Les perspectives de futur: percepcions, actituds i valoracions",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-58-544ebe9e7b8e4414.mp3",
+     "durada": 32.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Les perspectives de futur: percepcions, actituds i valoracions"
+      },
+      {
+       "n": 0,
+       "t": "El tercer bloc de l’enquesta abandona el terreny dels fets declarats i entra en el de les representacions: què pensa la població sobre l’ús del valencià, quin ús en desitja, com percep l’evolució i què n’espera. És el bloc que permet valorar el suport social a la política lingüística, i les seues dades són, en conjunt, les més favorables de tota l’enquesta."
+      }
+     ]
+    },
+    {
+     "titol": "10.1. La percepció de l’ús actual",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-59-a122722315be8802.mp3",
+     "durada": 94.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.1. La percepció de l’ús actual"
+      },
+      {
+       "n": 0,
+       "t": "«El valencià s’usa actualment…». Total. Zona valencianoparlant. Zona castellanoparlant"
+      },
+      {
+       "n": 0,
+       "t": "Gens. 6,3. 4,4. 18,1"
+      },
+      {
+       "n": 0,
+       "t": "Poc. 31,2. 30,9. 33,1"
+      },
+      {
+       "n": 0,
+       "t": "Normal. 30,2. 30,2. 30,2"
+      },
+      {
+       "n": 0,
+       "t": "Bastant. 21,9. 23,1. 14,5"
+      },
+      {
+       "n": 0,
+       "t": "Molt. 9,6. 10,7. 3,0"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 0,8. 0,7. 1,1"
+      },
+      {
+       "n": 0,
+       "t": "La suma de «gens» i «poc» dona el 37,5% en el conjunt: prop de quatre de cada deu persones consideren que el valencià s’usa poc o gens. En la zona castellanoparlant, la suma arriba al 51,2%. En sentit contrari, el 31,5% del conjunt considera que s’usa bastant o molt."
+      }
+     ]
+    },
+    {
+     "titol": "10.2. L’ús desitjat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-60-7f655a8fdd3d56d7.mp3",
+     "durada": 236.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.2. L’ús desitjat"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta és, probablement, la pregunta amb el resultat més rellevant de tot el bloc des del punt de vista de la política lingüística."
+      },
+      {
+       "n": 0,
+       "t": "«El valencià, creu que hauria d’usar-se…». Total. Zona valencianoparlant. Zona castellanoparlant"
+      },
+      {
+       "n": 0,
+       "t": "Més. 38,9. 41,7. 21,9"
+      },
+      {
+       "n": 0,
+       "t": "Igual. 43,2. 42,4. 48,3"
+      },
+      {
+       "n": 0,
+       "t": "Menys. 12,0. 10,1. 23,4"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 5,9. 5,8. 6,4"
+      },
+      {
+       "n": 0,
+       "t": "La suma d’«igual» i «més» arriba al 82,1% en el conjunt de la Comunitat Valenciana, al 84,1% en la zona valencianoparlant i, molt significativament, al 70,2% en la zona castellanoparlant. És a dir: més de vuit de cada deu valencians consideren que el valencià s’hauria d’usar igual o més que ara, i només un 12,0% desitja que se’n reduïsca l’ús."
+      },
+      {
+       "n": 0,
+       "t": "Aquest resultat s’ha de subratllar perquè corregix una percepció estesa. La combinació d’un ús baix amb un suport social ampli indica que el problema de l’ús no és fonamentalment un problema d’actituds hostils, sinó de normes d’interacció, d’oferta lingüística i de previsibilitat de l’interlocutor. Hi ha molta més gent disposada a acceptar o a desitjar més valencià que gent que l’usa."
+      },
+      {
+       "n": 0,
+       "t": "«Hauria d’usar-se…» per regions valencianoparlants. Menys. Igual. Més. Ns/Nc"
+      },
+      {
+       "n": 0,
+       "t": "Regió de València. 5,4. 39,6. 50,2. 4,8"
+      },
+      {
+       "n": 0,
+       "t": "Ciutat de València i àrea metropolitana. 8,9. 39,5. 45,8. 5,8"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alcoi-Gandia. 4,7. 47,0. 43,6. 4,7"
+      },
+      {
+       "n": 0,
+       "t": "Regió de Castelló. 11,5. 44,8. 38,7. 5,0"
+      },
+      {
+       "n": 0,
+       "t": "Regió d’Alacant. 18,4. 44,5. 29,1. 8,0"
+      },
+      {
+       "n": 0,
+       "t": "La distribució regional aporta un matís de gran interés. La ciutat de València i la seua àrea metropolitana, que és una de les dos regions amb l’ús efectiu més baix, presenta el segon percentatge més alt de partidaris d’un ús més gran (45,8%), només per darrere de la regió de València. Dit d’una altra manera: allà on menys s’usa el valencià no és on menys se’n desitja l’ús. La regió d’Alacant sí que combina l’ús més baix amb el suport més feble (29,1% partidaris de més ús i 18,4% de menys)."
+      }
+     ]
+    },
+    {
+     "titol": "10.3. L’evolució percebuda i l’expectativa de futur",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-61-3db1c7f3608844e7.mp3",
+     "durada": 160.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.3. L’evolució percebuda i l’expectativa de futur"
+      },
+      {
+       "n": 0,
+       "t": "Menys. Igual. Més. Ns/Nc"
+      },
+      {
+       "n": 0,
+       "t": "«Socialment, el valencià s’usa ara més, igual o menys que fa uns quants anys…» (total). 24,2. 46,2. 24,2. 5,4"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. 23,7. 46,1. 24,8. 5,4"
+      },
+      {
+       "n": 0,
+       "t": "Zona castellanoparlant. 27,7. 46,7. 20,3. 5,3"
+      },
+      {
+       "n": 0,
+       "t": "«Creu que el valencià s’usarà en el futur…» (total). 23,4. 44,1. 25,1. 7,4"
+      },
+      {
+       "n": 0,
+       "t": "Zona valencianoparlant. 23,0. 43,8. 25,9. 7,3"
+      },
+      {
+       "n": 0,
+       "t": "Zona castellanoparlant. 25,9. 45,7. 20,7. 7,7"
+      },
+      {
+       "n": 0,
+       "t": "Les dos preguntes donen distribucions gairebé idèntiques i molt equilibrades: al voltant del 45% percep continuïtat, i els qui perceben retrocés i els qui perceben avanç s’equilibren en la franja del 23-25%. La lectura és que la societat valenciana no percep un procés clar en cap direcció: ni una recuperació evident ni un col·lapse. Aquesta percepció d’estabilitat contrasta amb les dades objectives d’ús i pot tenir un efecte desmobilitzador, perquè el que es percep com a estable no genera sensació d’urgència."
+      },
+      {
+       "n": 0,
+       "t": "Convé posar en relació aquestes dos taules amb la de l’apartat 10.2: el 38,9% desitja més ús, però només el 25,1% n’espera més en el futur. La diferència de quasi catorze punts entre el desig i l’expectativa és un indicador de la distància entre el que la població voldria i el que creu que passarà."
+      }
+     ]
+    },
+    {
+     "titol": "10.4. El coneixement de les iniciatives de promoció",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-62-81bf198386858a8e.mp3",
+     "durada": 178.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.4. El coneixement de les iniciatives de promoció"
+      },
+      {
+       "n": 0,
+       "t": "Iniciativa. % que la coneix. Valoració mitjana sobre 10. Nre. absolut"
+      },
+      {
+       "n": 0,
+       "t": "Inici de les emissions d’À Punt. 43,7. 6,92. 3.133"
+      },
+      {
+       "n": 0,
+       "t": "Proves de la Junta Qualificadora de Coneixements de Valencià. 29,7. 6,84. 2.132"
+      },
+      {
+       "n": 0,
+       "t": "Aprovació de la llei de plurilingüisme en el sistema educatiu. 22,4. 6,03. 1.610"
+      },
+      {
+       "n": 0,
+       "t": "Campanya Sempre teua. La teua llengua. 10,4. 6,82. 745"
+      },
+      {
+       "n": 0,
+       "t": "Creació de l’Oficina de Drets Lingüístics. 4,6. 6,95. 327"
+      },
+      {
+       "n": 0,
+       "t": "No en coneix cap. 40,5. —. 2.906"
+      },
+      {
+       "n": 0,
+       "t": "Aquesta taula conté dos resultats de gran valor per a l’exercici professional de la promoció lingüística."
+      },
+      {
+       "n": 0,
+       "t": "El desconeixement és molt elevat: el 40,5% —2.906 persones de la mostra— no coneix cap de les cinc iniciatives per les quals se li pregunta. La més coneguda, À Punt, no arriba a la meitat de la població, i l’Oficina de Drets Lingüístics només la coneix el 4,6%."
+      },
+      {
+       "n": 0,
+       "t": "La valoració, en canvi, és positiva en tots els casos: totes les iniciatives obtenen una nota mitjana per damunt del 6, i tres d’elles s’acosten al 7. La més ben valorada és precisament la menys coneguda, l’Oficina de Drets Lingüístics (6,95), i la pitjor valorada és la llei de plurilingüisme (6,03), que és també l’única de naturalesa estrictament normativa i la que va generar més debat públic."
+      },
+      {
+       "n": 0,
+       "t": "La combinació dels dos resultats —poc coneixement, bona valoració— apunta a un dèficit de difusió més que de disseny: les actuacions agraden a qui les coneix, però no arriben a la major part de la població. És un diagnòstic directament aprofitable en una prova teoricopràctica sobre planificació de campanyes."
+      }
+     ]
+    },
+    {
+     "titol": "10.5. L’opinió sobre l’actuació de la Generalitat",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-63-e68a4dcffba2055f.mp3",
+     "durada": 153.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.5. L’opinió sobre l’actuació de la Generalitat"
+      },
+      {
+       "n": 0,
+       "t": "«Opinió sobre l’actuació de la Generalitat Valenciana respecte al foment del coneixement i l’ús del valencià». %"
+      },
+      {
+       "n": 0,
+       "t": "Satisfactòria. 33,6"
+      },
+      {
+       "n": 0,
+       "t": "Indiferent. 27,6"
+      },
+      {
+       "n": 0,
+       "t": "Insatisfactòria per insuficient: perquè se n’hauria de fer més. 11,5"
+      },
+      {
+       "n": 0,
+       "t": "Ns/Nc. 9,6"
+      },
+      {
+       "n": 0,
+       "t": "Insatisfactòria per excessiva: perquè està en contra de la promoció del valencià. 6,2"
+      },
+      {
+       "n": 0,
+       "t": "Molt insatisfactòria per excessiva. 5,6"
+      },
+      {
+       "n": 0,
+       "t": "Molt satisfactòria. 4,1"
+      },
+      {
+       "n": 0,
+       "t": "Molt insatisfactòria per insuficient. 1,8"
+      },
+      {
+       "n": 0,
+       "t": "El disseny d’aquesta pregunta és metodològicament molt encertat, perquè desdobla la insatisfacció en dos sentits oposats: la que considera que s’hauria de fer més i la que considera que ja se’n fa massa. Els resultats agregats són:"
+      },
+      {
+       "n": 0,
+       "t": "Satisfacció: 37,7% (suma de satisfactòria i molt satisfactòria)."
+      },
+      {
+       "n": 0,
+       "t": "Insatisfacció per insuficient: 13,3% (suma)."
+      },
+      {
+       "n": 0,
+       "t": "Insatisfacció per excessiva: 11,8% (suma)."
+      },
+      {
+       "n": 0,
+       "t": "Indiferència i no-resposta: 37,2% (suma)."
+      },
+      {
+       "n": 0,
+       "t": "Les dos insatisfaccions s’equilibren gairebé exactament, amb un lleuger avantatge de la que demana més acció. I el bloc més gran, sumat a la no-resposta, és el de la indiferència, que arriba al 27,6% per si sola. La conclusió és que la política lingüística no és, per a la major part de la població, un tema de confrontació sinó de baixa saliència: molta més gent hi és indiferent que hostil."
+      }
+     ]
+    },
+    {
+     "titol": "10.6. El coneixement d’altres llengües",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-64-e69366660f46cc36.mp3",
+     "durada": 204.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "10.6. El coneixement d’altres llengües"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta es tanca amb un bloc sobre el repertori lingüístic global de la població, que permet situar el valencià en el context plurilingüe real de la societat valenciana."
+      },
+      {
+       "n": 0,
+       "t": "Llengua. % que declara conèixer-la"
+      },
+      {
+       "n": 0,
+       "t": "Castellà*. 98,9"
+      },
+      {
+       "n": 0,
+       "t": "Anglés. 52,9"
+      },
+      {
+       "n": 0,
+       "t": "Francés. 18,7"
+      },
+      {
+       "n": 0,
+       "t": "Altres. 6,3"
+      },
+      {
+       "n": 0,
+       "t": "Italià. 5,3"
+      },
+      {
+       "n": 0,
+       "t": "Alemany. 4,6"
+      },
+      {
+       "n": 0,
+       "t": "Rus o una altra llengua eslava. 2,5"
+      },
+      {
+       "n": 0,
+       "t": "Àrab. 2,1"
+      },
+      {
+       "n": 0,
+       "t": "Romanés. 2,1"
+      },
+      {
+       "n": 0,
+       "t": "Xinés. 0,4"
+      },
+      {
+       "n": 0,
+       "t": "L’asterisc del castellà correspon a una nota del document: «només es pregunta a les persones estrangeres de llengua materna diferent del castellà». La xifra del 98,9%, per tant, no es referix al conjunt de la població sinó a aquest subconjunt."
+      },
+      {
+       "n": 0,
+       "t": "El document ofereix a més el detall de competència en cada llengua. Dos dades hi són especialment il·lustratives. En anglés [n=3.797], la suma de «bastant bé» i «perfectament» dona el 63,6% en comprensió però només el 52,1% en expressió oral i el 56,0% en escriptura: el mateix patró de comprensió superior a producció que s’observa en el valencià. I les llengües de la immigració —romanés [n=152], àrab [n=150], rus i eslaves [n=179]— presenten percentatges de competència perfecta molt alts, entre el 61,4% i el 83,9%, com correspon a llengües inicials dels enquestats."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: LES QUATRE DADES D’ACTITUDS 82,1% considera que el valencià s’hauria d’usar igual o més que ara (84,1% en la zona valencianoparlant i 70,2% en la castellanoparlant). Només el 12,0% desitja que se’n reduïsca l’ús. 38,9% desitja més ús, però només el 25,1% n’espera més en el futur: catorze punts de distància entre desig i expectativa. 40,5% no coneix cap iniciativa de promoció del valencià, però totes les que es coneixen obtenen una valoració mitjana superior a 6 sobre 10."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 11"
+      }
+     ]
+    },
+    {
+     "titol": "L’instrument complementari: el Baròmetre d’usos del valencià",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-65-aa38d705dea3327d.mp3",
+     "durada": 32.1,
+     "text": [
+      {
+       "n": 1,
+       "t": "L’instrument complementari: el Baròmetre d’usos del valencià"
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta de 2021 va tenir una conseqüència institucional immediata: la constatació que l’ús era el punt feble del diagnòstic va portar la Direcció General a dotar-se d’un instrument de seguiment més freqüent. Conèixer-lo és imprescindible per a respondre bé la part de l’enunciat que diu «en l’actualitat», perquè és la font oficial més recent sobre usos."
+      }
+     ]
+    },
+    {
+     "titol": "11.1. Naturalesa, objectiu i fitxa tècnica",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-66-1e9401cdabbc1312.mp3",
+     "durada": 176.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.1. Naturalesa, objectiu i fitxa tècnica"
+      },
+      {
+       "n": 0,
+       "t": "El document oficial explica la gènesi de l’instrument amb tota claredat:"
+      },
+      {
+       "n": 0,
+       "t": "«La Direcció General de Política Lingüística i Gestió del Multilingüisme ha decidit posar en marxa unes noves enquestes anuals per tal de monitoritzar la revitalització de la llengua en intervals temporals més breus, amb la finalitat d’obtindre informació que permeta dissenyar i implementar iniciatives a curt termini.» Baròmetre d’usos del valencià, Onada 2023, Metodologia"
+      },
+      {
+       "n": 0,
+       "t": "L’objectiu declarat és calcular tres indicadors sintètics —d’usos personals, professionals i públics— «que oferisquen unes xifres en què se sintetitze la vitalitat del valencià en aquests àmbits i amb els quals es puga avaluar de manera fàcil el seu progrés». La justificació de la fórmula és sociolingüísticament interessant: «L’indicador d’ús és una xifra senzilla que, col·locada en un gràfic, ofereix una visió simple, immediata, de l’estat de la llengua pel que fa a l’ús»."
+      },
+      {
+       "n": 0,
+       "t": "Element. Especificació oficial"
+      },
+      {
+       "n": 0,
+       "t": "Univers. Persones de 15 i més anys residents a la zona valencianoparlant de la Comunitat Valenciana (3.795.048 persones)."
+      },
+      {
+       "n": 0,
+       "t": "Mostra. 975 enquestes, aleatòria en la selecció de la llar i de la persona entrevistada mitjançant rutes aleatòries, estratificada per les cinc regions lingüístiques valencianoparlants i per hàbitat poblacional, amb control de quotes per edat i sexe. Les tres variables tenen els mateixos intervals que l’Enquesta de coneixement i ús del valencià."
+      },
+      {
+       "n": 0,
+       "t": "Interval de confiança. 95,5 %"
+      },
+      {
+       "n": 0,
+       "t": "Error a priori per a proporcions. ± 3,2 %"
+      },
+      {
+       "n": 0,
+       "t": "Treball de camp. Investratègia, SL, gener i febrer de 2023."
+      },
+      {
+       "n": 0,
+       "t": "El document precisa a més que «les preguntes d’usos que s’han formulat en l’enquesta són les mateixes que apareixen en les enquestes de coneixement i ús social del valencià de 2015 i 2021, cosa que permetrà realitzar unes primeres comparacions tot tenint en compte les diferències tècniques entre les tres mostres». Aquesta advertència és essencial i es desplega en l’apartat 11.4."
+      }
+     ]
+    },
+    {
+     "titol": "11.2. La construcció dels tres indicadors",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-67-7ca1c50482e14aa0.mp3",
+     "durada": 295.0,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.2. La construcció dels tres indicadors"
+      },
+      {
+       "n": 0,
+       "t": "El Baròmetre no es limita a donar percentatges: construeix indicadors sintètics a partir d’una ponderació explícita, que el document detalla en un annex tècnic. Conèixer-ne el mètode és un contingut de valor, perquè demostra comprensió d’un instrument de mesura i no simple lectura de resultats."
+      },
+      {
+       "n": 4,
+       "t": "a) L’escala de ponderació de les respostes"
+      },
+      {
+       "n": 0,
+       "t": "Resposta. Ponderació"
+      },
+      {
+       "n": 0,
+       "t": "Sempre en valencià. 6/6"
+      },
+      {
+       "n": 0,
+       "t": "Generalment en valencià. 5/6"
+      },
+      {
+       "n": 0,
+       "t": "Més en valencià que en una altra llengua. 4/6"
+      },
+      {
+       "n": 0,
+       "t": "Indistintament. 3/6"
+      },
+      {
+       "n": 0,
+       "t": "Més en castellà que en una altra llengua. 2/6"
+      },
+      {
+       "n": 0,
+       "t": "Generalment en castellà. 1/6"
+      },
+      {
+       "n": 0,
+       "t": "Sempre en castellà. 0/6"
+      },
+      {
+       "n": 4,
+       "t": "b) La composició dels indicadors"
+      },
+      {
+       "n": 0,
+       "t": "Indicador. Components i qüestions. Ponderació"
+      },
+      {
+       "n": 0,
+       "t": "Usos personals (IUper). Component 1, relacions més pròximes (4/5): llengua a casa (5/10), amb amigues i amics (4/10), missatges privats (1/10). Component 2, relacions menys pròximes (1/5): amb veïnes i veïns (1/2), amb persones que no coneix (1/2).. 4/5 i 1/5"
+      },
+      {
+       "n": 0,
+       "t": "Usos professionals (IUpro). Component únic: relacions internes en el treball (2/3) i relacions externes (1/3).. —"
+      },
+      {
+       "n": 0,
+       "t": "Usos públics (IUpúb). Component 1, relacions comunitàries (1/10): associacions o casals (1/2) i grups o clubs esportius (1/2). Component 2, relacions econòmiques (5/10): botigues tradicionals (5/10), grans superfícies (4/10), bancs (1/10). Component 3, relacions amb l’Administració i els serveis de l’Estat de benestar (4/10): Administració local (4/10), Generalitat (4/10), Estat (1/10) i consulta mèdica (1/10).. 1/10, 5/10 i 4/10"
+      },
+      {
+       "n": 0,
+       "t": "El component 3 exclou expressament el sistema educatiu, i el document ho justifica: «perquè els usos lingüístics hi estan regulats i no és objecte de l’Enquesta de coneixement i ús del valencià». És una precisió metodològica important: l’escola no es mesura com a àmbit d’ús perquè hi opera una normativa pròpia."
+      },
+      {
+       "n": 4,
+       "t": "c) La fórmula i la seua justificació"
+      },
+      {
+       "n": 0,
+       "t": "El resultat de cada indicador «s’obté de la suma dels seus components, a la qual s’aplica l’arrel quadrada i es multiplica per cent per obtenir-ne l’indicador respectiu». La justificació és conceptual i mereix ser citada, perquè conté una tesi sociolingüística explícita:"
+      },
+      {
+       "n": 0,
+       "t": "«S’hi aplica l’arrel quadrada perquè la revitalització del valencià en un context multilingüe no pot ser un procés lineal, sinó que més aviat ha de correspondre al model de corbes de saturació.» Baròmetre d’usos del valencià, Onada 2023, Annex tècnic"
+      },
+      {
+       "n": 0,
+       "t": "Dit d’una altra manera: la transformació matemàtica incorpora el supòsit que els primers avanços en l’ús són més costosos que els següents, i que a partir d’un cert punt el creixement es desaccelera. És una decisió tècnica discutible i discutida, però està explicitada, que és el que exigeix el rigor metodològic. La conseqüència pràctica és que els valors dels indicadors no són percentatges i no s’han de llegir com a tals."
+      }
+     ]
+    },
+    {
+     "titol": "11.3. Els resultats de l’onada 2023",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-68-04537e90f723afb2.mp3",
+     "durada": 300.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.3. Els resultats de l’onada 2023"
+      },
+      {
+       "n": 0,
+       "t": "Indicador. Valor (onada 2023)"
+      },
+      {
+       "n": 0,
+       "t": "Indicador d’usos personals (IUper). 56,7"
+      },
+      {
+       "n": 0,
+       "t": "Indicador d’usos professionals (IUpro). 56,3"
+      },
+      {
+       "n": 0,
+       "t": "Indicador d’usos públics (IUpúb). 56,7"
+      },
+      {
+       "n": 0,
+       "t": "La primera observació és que els tres indicadors són gairebé idèntics, amb una diferència màxima de quatre dècimes. La segona, i molt important, és que aquests valors no s’han d’interpretar com a percentatges d’ús: la transformació per arrel quadrada els situa en una escala pròpia. El document ho assumix quan explica que la finalitat és disposar d’una xifra comparable amb les onades futures, no d’una mesura directa d’ús."
+      },
+      {
+       "n": 0,
+       "t": "Les dades brutes de l’onada 2023, en la categoria «sempre en valencià» i en la suma d’ús predominant, són les següents."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit (zona valencianoparlant). Sempre en valencià. Suma d’ús predominant (calculada). Sempre en castellà"
+      },
+      {
+       "n": 0,
+       "t": "A casa. 29,0. 32,1. 56,6"
+      },
+      {
+       "n": 0,
+       "t": "Amb amigues i amics. 16,2. 26,7. 49,7"
+      },
+      {
+       "n": 0,
+       "t": "Missatges privats (WhatsApp, Telegram). 5,3. 14,7. 59,5"
+      },
+      {
+       "n": 0,
+       "t": "Al carrer amb veïnes i veïns. 13,4. 25,9. 52,0"
+      },
+      {
+       "n": 0,
+       "t": "Al carrer amb persones que no coneix. 8,6. 17,6. 58,7"
+      },
+      {
+       "n": 0,
+       "t": "Treball, relacions internes [n=853]. 13,1. 24,2. 48,7"
+      },
+      {
+       "n": 0,
+       "t": "Treball, relacions externes [n=853]. 9,1. 19,1. 46,7"
+      },
+      {
+       "n": 0,
+       "t": "Associacions o casals festius o culturals. 10,3. 16,5. 17,2"
+      },
+      {
+       "n": 0,
+       "t": "Grups o clubs esportius. 3,1. 6,9. 20,3"
+      },
+      {
+       "n": 0,
+       "t": "Botigues tradicionals. 13,8. 30,1. 51,2"
+      },
+      {
+       "n": 0,
+       "t": "Grans superfícies comercials. 9,0. 17,2. 58,6"
+      },
+      {
+       "n": 0,
+       "t": "Bancs o caixes d’estalvis. 12,5. 22,1. 58,4"
+      },
+      {
+       "n": 0,
+       "t": "Administració local. 23,2. 32,8. 53,0"
+      },
+      {
+       "n": 0,
+       "t": "Administració de la Generalitat Valenciana. 23,2. 32,8. 52,6"
+      },
+      {
+       "n": 0,
+       "t": "Administració de l’Estat. 16,0. 24,2. 57,8"
+      },
+      {
+       "n": 0,
+       "t": "Consulta mèdica. 14,9. 23,4. 60,9"
+      },
+      {
+       "n": 0,
+       "t": "Les sumes d’ús predominant s’han calculat afegint a «sempre en valencià» les categories «generalment en valencià» i «més en valencià que en una altra llengua». Cal notar que en les taules d’associacions i de clubs esportius les xifres de «sempre en castellà» són baixes perquè un 55,2% i un 62,6% respectivament declaren no participar en cap associació o club."
+      }
+     ]
+    },
+    {
+     "titol": "11.4. La comparació amb l’enquesta de 2021 i les seues cauteles",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-69-eabf7c121057e451.mp3",
+     "durada": 363.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "11.4. La comparació amb l’enquesta de 2021 i les seues cauteles"
+      },
+      {
+       "n": 0,
+       "t": "La temptació de comparar directament les dos fonts és forta i cal resistir-la sense la deguda prudència. El mateix document del Baròmetre adverteix que les comparacions s’han de fer «tot tenint en compte les diferències tècniques entre les tres mostres». Aquestes diferències són quatre i totes són rellevants."
+      },
+      {
+       "n": 0,
+       "t": "Enquesta 2021. Baròmetre 2023"
+      },
+      {
+       "n": 0,
+       "t": "Univers. Comunitat Valenciana (dades d’ús: zona valencianoparlant). Zona valencianoparlant (3.795.048 persones)"
+      },
+      {
+       "n": 0,
+       "t": "Mostra. 6.157 en la zona valencianoparlant. 975"
+      },
+      {
+       "n": 0,
+       "t": "Error. ± 1,16 % (conjunt) i ± 3 % per regió. ± 3,2 %"
+      },
+      {
+       "n": 0,
+       "t": "Mètode. Entrevista telefònica, base de registres de l’IVE amb carta prèvia. Entrevista presencial mitjançant rutes aleatòries"
+      },
+      {
+       "n": 0,
+       "t": "Camp. Octubre-desembre de 2021 (context de pandèmia). Gener-febrer de 2023"
+      },
+      {
+       "n": 0,
+       "t": "Opció de resposta. «Més valencià que castellà». «Més en valencià que en una altra llengua»"
+      },
+      {
+       "n": 0,
+       "t": "Amb aquestes cauteles, la comparació de la categoria «sempre en valencià» entre les dos fonts dona un resultat desigual segons l’àmbit, i això és precisament el que fa recomanable no extraure’n una conclusió global."
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. 2021 (sempre valencià). 2023 (sempre valencià). Diferència"
+      },
+      {
+       "n": 0,
+       "t": "A casa. 19,5. 29,0. +9,5"
+      },
+      {
+       "n": 0,
+       "t": "Administració de la Generalitat. 17,1. 23,2. +6,1"
+      },
+      {
+       "n": 0,
+       "t": "Administració de l’Estat. 10,6. 16,0. +5,4"
+      },
+      {
+       "n": 0,
+       "t": "Administració local. 18,0. 23,2. +5,2"
+      },
+      {
+       "n": 0,
+       "t": "Amb amigues i amics. 13,0. 16,2. +3,2"
+      },
+      {
+       "n": 0,
+       "t": "Treball, relacions internes. 11,5. 13,1. +1,6"
+      },
+      {
+       "n": 0,
+       "t": "Consulta mèdica. 13,4. 14,9. +1,5"
+      },
+      {
+       "n": 0,
+       "t": "Al carrer amb veïnes i veïns. 14,3. 13,4"
+      },
+      {
+       "n": 0,
+       "t": "Grans superfícies comercials. 10,1. 9,0"
+      },
+      {
+       "n": 0,
+       "t": "Associacions o casals. 11,4. 10,3"
+      },
+      {
+       "n": 0,
+       "t": "Al carrer amb desconeguts. 10,0. 8,6"
+      },
+      {
+       "n": 0,
+       "t": "Bancs o caixes. 14,1. 12,5"
+      },
+      {
+       "n": 0,
+       "t": "Botigues tradicionals. 15,4. 13,8"
+      },
+      {
+       "n": 0,
+       "t": "Missatges privats. 7,8. 5,3"
+      },
+      {
+       "n": 0,
+       "t": "Treball, relacions externes. 14,2. 9,1"
+      },
+      {
+       "n": 0,
+       "t": "Grups o clubs esportius. 9,6. 3,1"
+      },
+      {
+       "n": 0,
+       "t": "El quadre mostra increments en set àmbits i descensos en nou. Els increments es concentren en la llar i en les administracions; els descensos, en els àmbits comercials, associatius i escrits. En el cas dels grups esportius, la caiguda de 6,5 punts s’explica en bona part per una diferència de disseny: la proporció que declara no participar en cap grup passa del 33,4% al 62,6% entre les dos fonts, cosa que altera radicalment la base de càlcul i impedeix qualsevol comparació vàlida en aquest àmbit concret."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: COM CITAR LA COMPARACIÓ 2021-2023 La formulació prudent i defensable és aquesta: en la zona valencianoparlant, l’ús declarat del valencià a la llar i davant de les administracions és més alt en l’onada 2023 del Baròmetre que en l’enquesta de 2021, mentre que en els àmbits comercials, associatius i escrits és igual o inferior; les diferències de mètode, de mida mostral i d’opcions de resposta entre les dos fonts obliguen a interpretar aquests moviments com a indicis i no com a mesures d’evolució. Afirmar sense matisos que «l’ús del valencià ha crescut nou punts» és tècnicament incorrecte."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 12"
+      }
+     ]
+    },
+    {
+     "titol": "Diagnòstic sociolingüístic: lectura integrada de les dades",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-70-b23c797102658582.mp3",
+     "durada": 22.5,
+     "text": [
+      {
+       "n": 1,
+       "t": "Diagnòstic sociolingüístic: lectura integrada de les dades"
+      },
+      {
+       "n": 0,
+       "t": "Aquest apartat és el que respon pròpiament al primer membre de l’enunciat. Les dades exposades fins ací s’hi organitzen en un diagnòstic, amb el marc conceptual de l’apartat 2 com a instrument d’anàlisi."
+      }
+     ]
+    },
+    {
+     "titol": "12.1. La paradoxa de la competència i l’ús",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-71-19399e5309050970.mp3",
+     "durada": 121.3,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.1. La paradoxa de la competència i l’ús"
+      },
+      {
+       "n": 0,
+       "t": "El resultat central de l’enquesta de 2021 és una dissociació: la competència ha crescut i l’ús no l’ha seguida. Els dos termes de la paradoxa es documenten així."
+      },
+      {
+       "n": 0,
+       "t": "Terme de la paradoxa. Evidència en les dades"
+      },
+      {
+       "n": 0,
+       "t": "La competència creix. Escriure bastant bé o perfectament passa del 20,2% (homes de 65 i més anys) al 71,3% (homes de 15 a 24) i del 15,6% al 68,0% en les dones. La competència lectora (57,2%) supera l’oral activa (50,6%) en el conjunt de la població. La competència creix amb el nivell d’estudis en totes les habilitats."
+      },
+      {
+       "n": 0,
+       "t": "L’ús no la segueix. En la zona valencianoparlant, cap dels setze àmbits mesurats supera el 25% d’ús predominant en valencià. El 49,7% no inicia mai una conversa en valencià. El correu electrònic, on la competència escrita seria directament aplicable, registra el 7,7%."
+      },
+      {
+       "n": 0,
+       "t": "La paradoxa només és aparent, i les dades de la mateixa enquesta n’ofereixen l’explicació. L’apartat 6 mostra que la competència s’ha generat per via escolar, i l’apartat 8 mostra que existeix una norma de convergència que impedeix que aquesta competència es convertisca en ús. Una llengua pot, doncs, guanyar parlants competents i no guanyar ús si les normes d’interacció social no canvien."
+      }
+     ]
+    },
+    {
+     "titol": "12.2. Els quatre punts crítics",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-72-45de422538745207.mp3",
+     "durada": 98.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.2. Els quatre punts crítics"
+      },
+      {
+       "n": 0,
+       "t": "La base demolingüística és estreta. Només el 22,3% de la població de quinze anys i més declara haver parlat valencià a casa de xicotet, i el contingent que el parla amb els fills se situa en el 21,8%. La transmissió es manté, però sobre un fonament minoritari i sense capacitat d’atracció detectable."
+      },
+      {
+       "n": 0,
+       "t": "L’ús és baix i homogèniament baix. No hi ha cap àmbit refugi on el valencià siga majoritari: la xifra més alta de tot el capítol d’ús és el 24,5% de l’Administració local. Ni tan sols la llar, que és el reducte clàssic de les llengües minoritzades, arriba al 25%."
+      },
+      {
+       "n": 0,
+       "t": "Les normes d’ús operen en contra. El 50,2% canvia al castellà davant d’una resposta en castellà i només el 5,4% manté la seua llengua; en sentit invers, el 39,0% manté el castellà. L’asimetria és de set a un."
+      },
+      {
+       "n": 0,
+       "t": "La variació territorial és extrema i desfavorable en termes demogràfics. Les dos regions amb l’ús domèstic més baix —ciutat de València i àrea metropolitana (10,3%) i regió d’Alacant (7,5%)— són les de major pes poblacional."
+      }
+     ]
+    },
+    {
+     "titol": "12.3. Els elements de suport",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-73-bfafd5cabafc6d01.mp3",
+     "durada": 123.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.3. Els elements de suport"
+      },
+      {
+       "n": 0,
+       "t": "Un diagnòstic objectiu ha de consignar també els elements favorables, que les dades documenten amb la mateixa solidesa."
+      },
+      {
+       "n": 0,
+       "t": "Hi ha una reserva de parlants potencials molt gran. La diferència de 25,2 punts entre entendre (75,8%) i parlar (50,6%) identifica un contingent de bilingües passius que, en condicions d’interacció distintes, podria activar-se."
+      },
+      {
+       "n": 0,
+       "t": "El suport social a l’extensió de l’ús és ampli i transversal. El 82,1% considera que el valencià s’hauria d’usar igual o més que ara, i el 70,2% ho considera així també en la zona castellanoparlant. Només el 12,0% en desitja menys ús."
+      },
+      {
+       "n": 0,
+       "t": "La política lingüística no genera rebuig majoritari. Les insatisfaccions per insuficiència (13,3%) i per excés (11,8%) s’equilibren, i el bloc més gran és el de la indiferència."
+      },
+      {
+       "n": 0,
+       "t": "Les actuacions són ben valorades per qui les coneix. Les cinc iniciatives sobre les quals es pregunta obtenen valoracions mitjanes superiors a 6 sobre 10, amb el màxim en l’Oficina de Drets Lingüístics (6,95). El problema no és la valoració sinó la difusió: el 40,5% no en coneix cap."
+      },
+      {
+       "n": 0,
+       "t": "Els àmbits on l’Administració controla l’oferta lingüística funcionen millor. L’Administració local i la de la Generalitat encapçalen el rànquing d’ús. Allà on el parlant pot preveure que serà atés en valencià, l’usa més."
+      }
+     ]
+    },
+    {
+     "titol": "12.4. Implicacions per a la planificació lingüística",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-74-d25a80707bb45945.mp3",
+     "durada": 172.5,
+     "text": [
+      {
+       "n": 2,
+       "t": "12.4. Implicacions per a la planificació lingüística"
+      },
+      {
+       "n": 0,
+       "t": "El creuament dels punts crítics amb els elements de suport permet identificar les línies d’actuació que les mateixes dades suggereixen. És el tipus de raonament que una prova teoricopràctica sol demanar."
+      },
+      {
+       "n": 0,
+       "t": "Constatació. Línia d’actuació que en deriva"
+      },
+      {
+       "n": 0,
+       "t": "L’escola genera competència però no parlants actius. Reforçar els espais d’ús oral informal vinculats al sistema educatiu, on la competència adquirida puga activar-se amb iguals: l’entorn secundari d’aprenentatge majoritari són precisament els amics (30,8%)."
+      },
+      {
+       "n": 0,
+       "t": "La norma de convergència bloqueja l’ús. Actuar sobre les normes d’interacció: campanyes de manteniment lingüístic, formació en assertivitat i, sobretot, garantir la previsibilitat de la resposta en valencià en els serveis públics."
+      },
+      {
+       "n": 0,
+       "t": "L’Administració és l’àmbit amb més ús. Consolidar i estendre la capacitació lingüística del personal, especialment en els àmbits amb pitjors resultats: sanitat (17,4%) i Administració de l’Estat (13,6%)."
+      },
+      {
+       "n": 0,
+       "t": "El 40,5% no coneix cap iniciativa. Prioritzar la difusió sobre la creació de nous instruments: les actuacions existents estan ben valorades però no arriben a la població."
+      },
+      {
+       "n": 0,
+       "t": "L’ús escrit ordinari és el més baix. Actuar sobre els usos digitals i escrits quotidians, on hi ha una distància màxima entre competència disponible i ús efectiu."
+      },
+      {
+       "n": 0,
+       "t": "Concentració demogràfica en les zones de menor ús. Focalitzar l’actuació en l’àrea metropolitana de València i en les comarques alacantines, on el suport a un ús més gran és, en el primer cas, notablement alt (45,8%)."
+      },
+      {
+       "n": 0,
+       "t": "RECORDA: EL DIAGNÒSTIC EN UNA FRASE La situació lingüística valenciana que descriu l’enquesta de 2021 és la d’una llengua amb competència creixent, ús baix i estable, transmissió familiar mantinguda sobre una base minoritària i un suport social ampli que no es tradueix en pràctica. El coll d’ampolla no és el coneixement ni les actituds: són les normes d’ús i la previsibilitat de l’interlocutor."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 13"
+      }
+     ]
+    },
+    {
+     "titol": "Síntesi: dades i conceptes de memorització obligatòria",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-75-86805e469ea60fc9.mp3",
+     "durada": 6.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Síntesi: dades i conceptes de memorització obligatòria"
+      }
+     ]
+    },
+    {
+     "titol": "13.1. La fitxa tècnica de les dos fonts",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-76-3e76a9f12b45efb9.mp3",
+     "durada": 115.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.1. La fitxa tècnica de les dos fonts"
+      },
+      {
+       "n": 0,
+       "t": "Enquesta 2021. Baròmetre, onada 2023"
+      },
+      {
+       "n": 0,
+       "t": "Organisme. DG de Política Lingüística i Gestió del Multilingüisme, Conselleria d’Educació, Cultura i Esport. El mateix organisme"
+      },
+      {
+       "n": 0,
+       "t": "Univers. 15 i més anys, Comunitat Valenciana, padró de 2020. 15 i més anys, zona valencianoparlant (3.795.048 persones)"
+      },
+      {
+       "n": 0,
+       "t": "Mostra. 7.171 (6.157 en la zona valencianoparlant). 975"
+      },
+      {
+       "n": 0,
+       "t": "Mètode. Telefònic, mostreig aleatori sistemàtic sobre base de l’IVE. Presencial, rutes aleatòries"
+      },
+      {
+       "n": 0,
+       "t": "Error. ±1,16% conjunt; ±3% per regió. ±3,2%"
+      },
+      {
+       "n": 0,
+       "t": "Interval de confiança. 95,5%. 95,5%"
+      },
+      {
+       "n": 0,
+       "t": "Camp. Octubre-desembre de 2021 · Invest Group, SL. Gener-febrer de 2023 · Investratègia, SL"
+      },
+      {
+       "n": 0,
+       "t": "Blocs. Coneixement, ús i perspectives de futur. Indicadors d’usos personals, professionals i públics"
+      }
+     ]
+    },
+    {
+     "titol": "13.2. Les dades imprescindibles",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-77-f77061000fe464c5.mp3",
+     "durada": 275.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.2. Les dades imprescindibles"
+      },
+      {
+       "n": 0,
+       "t": "Àmbit. Dada"
+      },
+      {
+       "n": 0,
+       "t": "Competència, total CV. Entén 75,8% · Parla 50,6% · Llig 57,2% · Escriu 40,8% (bastant bé + perfectament)"
+      },
+      {
+       "n": 0,
+       "t": "Competència, zona valencianoparlant. 79,4% · 54,9% · 60,9% · 44,4%"
+      },
+      {
+       "n": 0,
+       "t": "Competència, zona castellanoparlant. 54,0% · 24,2% · 35,0% · 19,5%"
+      },
+      {
+       "n": 0,
+       "t": "Màxim i mínim regional (parlar). Regió de València 71,1% · Subregió d’Oriola 22,9%"
+      },
+      {
+       "n": 0,
+       "t": "Bretxa generacional (escriure). De 20,2%/15,6% (65 i més) a 71,3%/68,0% (15-24), homes/dones"
+      },
+      {
+       "n": 0,
+       "t": "Entorn d’aprenentatge principal. Família 43,0% i escola 35,0%. Per zones: família 45,3% (ZVP) i escola 51,7% (ZCP)"
+      },
+      {
+       "n": 0,
+       "t": "Llengua a casa de xicotet. Valencià 22,3% · Castellà 62,2% · Altra llengua o combinació 10,4%"
+      },
+      {
+       "n": 0,
+       "t": "Transmissió als fills. Valencià 21,8% · les dos igual 8,1% · Castellà 58,5%"
+      },
+      {
+       "n": 0,
+       "t": "Iniciativa conversacional. 49,7% no inicia mai en valencià; 26,0% ho fa sempre o molt freqüentment"
+      },
+      {
+       "n": 0,
+       "t": "Canvi de llengua. 50,2% canvia al castellà (només 5,4% manté) · 39,0% manté el castellà en sentit invers"
+      },
+      {
+       "n": 0,
+       "t": "Ús màxim i mínim (ZVP, suma). Administració local 24,5% · Correu electrònic 7,7%"
+      },
+      {
+       "n": 0,
+       "t": "Ús a casa (ZVP). 23,1% predominant en valencià · 56,0% sempre castellà"
+      },
+      {
+       "n": 0,
+       "t": "Ús domèstic per regions (sempre valencià). Alcoi-Gandia 37,9% · València 35,2% · Castelló 27,5% · Ciutat de València i AM 10,3% · Alacant 7,5%"
+      },
+      {
+       "n": 0,
+       "t": "Ús desitjat. 82,1% igual o més (84,1% ZVP · 70,2% ZCP) · 12,0% menys"
+      },
+      {
+       "n": 0,
+       "t": "Expectativa de futur. 25,1% més · 44,1% igual · 23,4% menys"
+      },
+      {
+       "n": 0,
+       "t": "Coneixement d’iniciatives. 40,5% no en coneix cap · À Punt 43,7% · JQCV 29,7% · ODL 4,6%"
+      },
+      {
+       "n": 0,
+       "t": "Altres llengües. Anglés 52,9% · Francés 18,7% · Italià 5,3% · Alemany 4,6%"
+      },
+      {
+       "n": 0,
+       "t": "Indicadors del Baròmetre 2023. Personals 56,7 · Professionals 56,3 · Públics 56,7"
+      }
+     ]
+    },
+    {
+     "titol": "13.3. Quinze idees-força",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-78-d17d422a2cf4b555.mp3",
+     "durada": 255.1,
+     "text": [
+      {
+       "n": 2,
+       "t": "13.3. Quinze idees-força"
+      },
+      {
+       "n": 0,
+       "t": "Una enquesta sociolingüística mesura competència declarada, ús declarat i actituds, no competència ni ús observats. Tota xifra s’ha de formular com a declaració."
+      },
+      {
+       "n": 0,
+       "t": "L’enquesta de 2021 la va elaborar la Direcció General de Política Lingüística i Gestió del Multilingüisme de la Conselleria d’Educació, Cultura i Esport, i s’inscriu en una sèrie històrica que l’Administració valenciana manté des de mitjan anys huitanta."
+      },
+      {
+       "n": 0,
+       "t": "La fitxa tècnica: univers de 15 i més anys segons el padró de 2020, 7.171 entrevistes telefòniques (6.157 de la zona valencianoparlant), error de ±1,16% i ±3% per regió, interval de confiança del 95,5%, camp d’octubre a desembre de 2021."
+      },
+      {
+       "n": 0,
+       "t": "La mostra s’estratifica per sexe, edat, grandària del municipi i sis regions —cinc valencianoparlants i una castellanoparlant amb dos subregions—, cadascuna amb mostra independent."
+      },
+      {
+       "n": 0,
+       "t": "La nota metodològica adverteix que la modernització del qüestionari dificulta la comparació d’algunes preguntes amb les sèries anteriors. Tota afirmació d’evolució s’ha de matisar."
+      },
+      {
+       "n": 0,
+       "t": "La competència en el conjunt de la Comunitat Valenciana és: entén 75,8%, sap parlar 50,6%, sap llegir 57,2%, sap escriure 40,8%."
+      },
+      {
+       "n": 0,
+       "t": "La competència lectora supera l’oral activa, cosa que acredita l’origen escolar del coneixement, i hi ha una bretxa de 25,2 punts entre entendre i parlar: el bilingüisme passiu."
+      },
+      {
+       "n": 0,
+       "t": "La bretxa generacional és espectacular en l’escriptura i moderada en la parla: l’escola ha creat lectors i escriptors, no parlants en la mateixa proporció."
+      },
+      {
+       "n": 0,
+       "t": "L’entorn principal d’aprenentatge és la família (43,0%) seguida de l’escola (35,0%); en la zona castellanoparlant l’orde s’inverteix (escola 51,7%, família 24,0%)."
+      },
+      {
+       "n": 0,
+       "t": "La transmissió familiar es manté —21,8% parla valencià amb els fills enfront del 22,3% que el va parlar de xicotet— però no creix, i la base de partida és minoritària."
+      },
+      {
+       "n": 0,
+       "t": "El 49,7% no inicia mai converses en valencià, i davant d’una resposta en castellà el 50,2% canvia, mentre que només el 5,4% manté la seua llengua: és la norma de convergència."
+      },
+      {
+       "n": 0,
+       "t": "En la zona valencianoparlant, cap dels setze àmbits d’ús mesurats supera el 25%; el màxim és l’Administració local (24,5%) i el mínim, el correu electrònic (7,7%)."
+      },
+      {
+       "n": 0,
+       "t": "La variació territorial de l’ús domèstic va del 37,9% d’Alcoi-Gandia al 7,5% d’Alacant, i les regions amb l’ús més baix són les de major pes demogràfic."
+      },
+      {
+       "n": 0,
+       "t": "El 82,1% de la població considera que el valencià s’hauria d’usar igual o més que ara, i només el 12,0% en desitja menys ús: el suport social és ampli i transversal."
+      },
+      {
+       "n": 0,
+       "t": "El Baròmetre d’usos (onada 2023) és l’instrument anual de seguiment creat arran d’aquest diagnòstic; els seus tres indicadors —56,7, 56,3 i 56,7— no són percentatges, perquè s’obtenen aplicant l’arrel quadrada a la suma ponderada dels components."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 14"
+      }
+     ]
+    },
+    {
+     "titol": "Per a ampliar",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-79-8bd84beca707d67d.mp3",
+     "durada": 15.3,
+     "text": [
+      {
+       "n": 1,
+       "t": "Per a ampliar"
+      },
+      {
+       "n": 0,
+       "t": "Les línies següents no formen part del contingut mínim exigible, però permeten respondre amb solvència les preguntes de matís i les de la prova teoricopràctica."
+      }
+     ]
+    },
+    {
+     "titol": "14.1. Com formular les xifres sense cometre errors",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-80-16bae828951ed6a0.mp3",
+     "durada": 116.6,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.1. Com formular les xifres sense cometre errors"
+      },
+      {
+       "n": 0,
+       "t": "Aquest tema, per la seua naturalesa estadística, penalitza especialment les imprecisions. Convé tenir presents els cinc errors més freqüents i la seua correcció."
+      },
+      {
+       "n": 0,
+       "t": "Formulació incorrecta. Formulació correcta"
+      },
+      {
+       "n": 0,
+       "t": "«El 50,6% dels valencians sap parlar valencià». «El 50,6% de la població de quinze anys i més declara saber parlar valencià bastant bé o perfectament»"
+      },
+      {
+       "n": 0,
+       "t": "«El 23,1% dels valencians parla valencià a casa». «El 23,1% de la població de la zona valencianoparlant declara parlar a casa sempre, generalment o més valencià que castellà»"
+      },
+      {
+       "n": 0,
+       "t": "«L’ús del valencià ha caigut huit punts des del 2015». «Segons les dades difoses per la Direcció General, l’ús declarat a la llar i amb les amistats és inferior al de l’edició anterior, amb les cauteles de comparabilitat que el mateix document estableix»"
+      },
+      {
+       "n": 0,
+       "t": "«L’indicador d’usos personals és del 56,7%». «L’indicador d’usos personals se situa en 56,7; no és un percentatge, perquè s’obté aplicant l’arrel quadrada a la suma ponderada dels components»"
+      },
+      {
+       "n": 0,
+       "t": "«El 40,8% escriu en valencià». «El 40,8% declara saber escriure valencià bastant bé o perfectament; l’ús escrit efectiu és molt inferior: 7,7% en el correu electrònic»"
+      }
+     ]
+    },
+    {
+     "titol": "14.2. Un exercici pràctic model",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-81-7aada31a39f0cd92.mp3",
+     "durada": 121.4,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.2. Un exercici pràctic model"
+      },
+      {
+       "n": 0,
+       "t": "Una pregunta habitual en la prova teoricopràctica és la d’argumentar una proposta d’actuació a partir de les dades. L’esquema de resposta que s’espera és el següent, il·lustrat amb un cas."
+      },
+      {
+       "n": 0,
+       "t": "Identificació del problema amb dades: en la consulta mèdica, l’ús predominant del valencià és del 17,4%, set punts per davall del de l’Administració local (24,5%), i el 65,3% declara parlar-hi sempre castellà."
+      },
+      {
+       "n": 0,
+       "t": "Contrast amb la competència disponible: el 54,9% de la població de la zona valencianoparlant declara saber parlar valencià bastant bé o perfectament. La distància entre competència i ús en aquest àmbit és, doncs, de més de trenta-set punts."
+      },
+      {
+       "n": 0,
+       "t": "Identificació del mecanisme: l’apartat 8 documenta que el 50,2% canvia de llengua davant d’una resposta en castellà. En un àmbit on el pacient no pot preveure la llengua del professional, la norma de convergència opera amb màxima intensitat."
+      },
+      {
+       "n": 0,
+       "t": "Comparació amb un àmbit que funciona millor: l’Administració autonòmica, on l’usuari sí que pot esperar ser atés en valencià, obté el 23,3%."
+      },
+      {
+       "n": 0,
+       "t": "Proposta: actuar sobre la previsibilitat —identificació visible dels professionals que atenen en valencià, oferta lingüística activa en el primer contacte— abans que sobre la sensibilització genèrica."
+      },
+      {
+       "n": 0,
+       "t": "Indicador de seguiment: la mateixa pregunta en les onades successives del Baròmetre, que la incorpora en el component d’Administració i serveis de l’Estat de benestar."
+      }
+     ]
+    },
+    {
+     "titol": "14.3. Les preguntes noves de 2021 i el seu valor",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-82-460449080dc71f94.mp3",
+     "durada": 79.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.3. Les preguntes noves de 2021 i el seu valor"
+      },
+      {
+       "n": 0,
+       "t": "La modernització del qüestionari, que és un inconvenient per a la comparació, és alhora l’aportació més valuosa d’aquesta edició. Les preguntes incorporades permeten mesurar tres coses que abans no es mesuraven:"
+      },
+      {
+       "n": 0,
+       "t": "La transmissió lingüística familiar en els dos sentits, ascendent i descendent, i les raons del canvi de llengua entre pares i fills. És el bloc que permet calcular el saldo intergeneracional."
+      },
+      {
+       "n": 0,
+       "t": "La freqüència d’iniciativa conversacional i el comportament davant del canvi de llengua. És el bloc que permet documentar empíricament la norma de convergència."
+      },
+      {
+       "n": 0,
+       "t": "El coneixement i la valoració de les iniciatives de promoció i l’opinió sobre l’actuació de la Generalitat, amb el desdoblament de la insatisfacció en els dos sentits. És el bloc que permet avaluar la política lingüística."
+      },
+      {
+       "n": 0,
+       "t": "Assenyalar-ho en un examen demostra que s’ha llegit la nota metodològica amb criteri i no simplement s’ha memoritzat."
+      }
+     ]
+    },
+    {
+     "titol": "14.4. Lectures recomanades",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-83-5a3229308dab029b.mp3",
+     "durada": 56.9,
+     "text": [
+      {
+       "n": 2,
+       "t": "14.4. Lectures recomanades"
+      },
+      {
+       "n": 0,
+       "t": "El document oficial complet de l’enquesta de 2021, amb totes les taules: les que no s’han reproduït ací —competència per situació laboral desglossada, coneixement detallat de cada llengua estrangera— completen el quadre."
+      },
+      {
+       "n": 0,
+       "t": "El Baròmetre d’usos del valencià, especialment la metodologia i l’annex tècnic, que expliquen la construcció dels indicadors, i el qüestionari, reproduït íntegrament en el document, que permet veure la formulació literal de cada pregunta."
+      },
+      {
+       "n": 0,
+       "t": "El títol V de la Llei 4/1983, amb la relació de municipis de cada zona de predomini lingüístic: és el fonament de la zonificació que estructura tota l’enquesta."
+      },
+      {
+       "n": 3,
+       "t": "APARTAT 15"
+      }
+     ]
+    },
+    {
+     "titol": "Bibliografia i fonts",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-84-4b62e909fa3f9e55.mp3",
+     "durada": 4.0,
+     "text": [
+      {
+       "n": 1,
+       "t": "Bibliografia i fonts"
+      }
+     ]
+    },
+    {
+     "titol": "15.1. Fonts estadístiques oficials",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-85-ee231a343958b434.mp3",
+     "durada": 99.8,
+     "text": [
+      {
+       "n": 2,
+       "t": "15.1. Fonts estadístiques oficials"
+      },
+      {
+       "n": 0,
+       "t": "GENERALITAT VALENCIANA. Conselleria d’Educació, Cultura i Esport. Direcció General de Política Lingüística i Gestió del Multilingüisme. Enquesta 2021. Coneixement i ús social del valencià. Síntesi de resultats. València: Generalitat Valenciana, 2022. [Font primària principal del tema.]"
+      },
+      {
+       "n": 0,
+       "t": "GENERALITAT VALENCIANA. Conselleria d’Educació, Cultura i Esport. Direcció General de Política Lingüística i Gestió del Multilingüisme. Baròmetre d’usos personals, professionals i públics del valencià. Onada 2023. València: Generalitat Valenciana, 2023. [Inclou fitxa tècnica, resultats, metodologia, annex tècnic i qüestionari complet.]"
+      },
+      {
+       "n": 0,
+       "t": "GENERALITAT VALENCIANA. Edicions anteriors de la sèrie d’enquestes sobre coneixement i ús social del valencià, elaborades pel Servici d’Investigació i Estudis Sociolingüístics i, posteriorment, per la Direcció General de Política Lingüística i Gestió del Multilingüisme."
+      }
+     ]
+    },
+    {
+     "titol": "15.2. Fonts normatives",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-86-7216a01bc2135847.mp3",
+     "durada": 55.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "15.2. Fonts normatives"
+      },
+      {
+       "n": 0,
+       "t": "Espanya. Llei orgànica 1/2006, de 10 d’abril, de reforma de la Llei orgànica 5/1982, d’1 de juliol, d’Estatut d’autonomia de la Comunitat Valenciana (arts. 6 i 41)."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 4/1983, de 23 de novembre, d’ús i ensenyament del valencià, especialment el títol V, sobre la delimitació dels territoris de predomini lingüístic valencià i castellà."
+      },
+      {
+       "n": 0,
+       "t": "Comunitat Valenciana. Llei 7/1998, de 16 de setembre, de la Generalitat Valenciana, de creació de l’Acadèmia Valenciana de la Llengua."
+      }
+     ]
+    },
+    {
+     "titol": "15.3. Instruments institucionals relacionats",
+     "audio": "audio/tema-06-la-situacio-linguistica-valenciana-enquest-87-546a99076711c39c.mp3",
+     "durada": 155.7,
+     "text": [
+      {
+       "n": 2,
+       "t": "15.3. Instruments institucionals relacionats"
+      },
+      {
+       "n": 0,
+       "t": "Junta Qualificadora de Coneixements de Valencià (JQCV): sistema oficial d’acreditació de la competència lingüística, esmentada expressament en el bloc de perspectives de futur de l’enquesta."
+      },
+      {
+       "n": 0,
+       "t": "Oficina de Drets Lingüístics (ODL): instrument de garantia dels drets lingüístics, també objecte de pregunta en l’enquesta."
+      },
+      {
+       "n": 0,
+       "t": "À Punt: servei públic valencià de radiodifusió i televisió, la iniciativa més coneguda de les cinc sobre les quals es pregunta."
+      },
+      {
+       "n": 0,
+       "t": "Acadèmia Valenciana de la Llengua: institució normativa, amb els seus instruments —Diccionari normatiu valencià, gramàtiques, Portal Terminològic Valencià i CIVAL—, objecte dels temes 1 a 5 del temari."
+      },
+      {
+       "n": 0,
+       "t": "NOTA DE VERIFICACIÓ Totes les dades quantitatives d’aquest tema procedeixen de la transcripció directa de les taules dels dos documents oficials de la Generalitat Valenciana citats en l’apartat 15.1. Les xifres que resulten de sumar categories de resposta —«bastant bé + perfectament» en el capítol de coneixement i «sempre + generalment + més en valencià» en el capítol d’ús— s’identifiquen expressament com a sumes en el text i en les taules, perquè no figuren com a tals en els documents originals. Les dades de coneixement, aprenentatge, transmissió, comportaments lingüístics i perspectives de futur es refereixen al conjunt de la Comunitat Valenciana, amb desagregació per zones de predomini lingüístic. Les dades d’ús de l’enquesta de 2021 i totes les del Baròmetre es refereixen exclusivament a la zona valencianoparlant. Confondre els dos universos invalida qualsevol conclusió. Atés que la síntesi de resultats no incorpora comparacions amb les edicions anteriors de la sèrie i que el mateix document adverteix que la modernització del qüestionari dificulta la comparació d’algunes preguntes, en aquest tema no s’han inclòs sèries temporals. Les comparacions entre l’enquesta de 2021 i el Baròmetre de 2023 es presenten en l’apartat 11.4 amb la relació explícita de les diferències tècniques que les condicionen."
       }
      ]
     }
