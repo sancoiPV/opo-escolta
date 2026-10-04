@@ -1,5 +1,5 @@
 // OpoÀudio — service worker
-const VERSIO = "c831daa880";
+const VERSIO = "85a881ec92";
 const SHELL = "shell-" + VERSIO;
 const AUDIO = "audio-v1"; // es manté entre versions: els temes descarregats no es perden
 const FITXERS = ["./", "index.html", "manifest.webmanifest", "icona-192.png", "icona-512.png"];
@@ -19,14 +19,14 @@ self.addEventListener("activate", e => {
 async function ambRang(req, resp) {
   const rang = req.headers.get("range");
   if (!rang) return resp;
-  const buf = await resp.arrayBuffer();
+  const buf = await resp.blob();
   const m = /bytes=(\d*)-(\d*)/.exec(rang) || [];
-  const mida = buf.byteLength;
+  const mida = buf.size;
   let ini = m[1] ? parseInt(m[1], 10) : 0;
   let fi = m[2] ? parseInt(m[2], 10) : mida - 1;
   if (!m[1] && m[2]) { ini = mida - parseInt(m[2], 10); fi = mida - 1; }
   fi = Math.min(fi, mida - 1);
-  return new Response(buf.slice(ini, fi + 1), {
+  return new Response(buf.slice(ini, fi + 1, "audio/mpeg"), {
     status: 206,
     headers: {
       "Content-Type": "audio/mpeg",
